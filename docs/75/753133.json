@@ -1,0 +1,33 @@
+{
+  "id": 753133,
+  "title": "Coming Out",
+  "original_title": "Coming Out",
+  "release_date": "2020-06-26",
+  "status": "Released",
+  "runtime": 2,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 361705,
+  "title": "Birdboy: The Forgotten Children",
+  "original_title": "Psiconautas, los ni\u00f1os olvidados",
+  "release_date": "2015-09-24",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

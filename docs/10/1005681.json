@@ -1,0 +1,29 @@
+{
+  "id": 1005681,
+  "title": "Love, Divided",
+  "original_title": "Pared con pared",
+  "release_date": "2024-04-11",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 66129,
+  "title": "The Tuche Family",
+  "original_title": "Les Tuche",
+  "release_date": "2011-06-30",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 217434,
+  "title": "Kisapmata",
+  "original_title": "Kisapmata",
+  "release_date": "2023-03-29",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

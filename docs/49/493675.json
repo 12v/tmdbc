@@ -1,0 +1,41 @@
+{
+  "id": 493675,
+  "title": "Profile",
+  "original_title": "Profile",
+  "release_date": "2018-03-11",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "CY",
+    "RU",
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

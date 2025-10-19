@@ -1,0 +1,37 @@
+{
+  "id": 27245,
+  "title": "Electric Dragon 80000V",
+  "original_title": "\u30a8\u30ec\u30af\u30c8\u30ea\u30c3\u30af\u00b7\u30c9\u30e9\u30b4\u30f3 80000V",
+  "release_date": "2001-02-08",
+  "status": "Released",
+  "runtime": 55,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

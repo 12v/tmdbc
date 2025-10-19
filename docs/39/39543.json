@@ -1,0 +1,33 @@
+{
+  "id": 39543,
+  "title": "My American Uncle",
+  "original_title": "Mon oncle d'Am\u00e9rique",
+  "release_date": "1980-05-21",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

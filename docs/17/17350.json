@@ -1,0 +1,25 @@
+{
+  "id": 17350,
+  "title": "The Brice Man",
+  "original_title": "Brice de Nice",
+  "release_date": "2005-03-30",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

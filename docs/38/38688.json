@@ -1,0 +1,44 @@
+{
+  "id": 38688,
+  "title": "Pandora and the Flying Dutchman",
+  "original_title": "Pandora and the Flying Dutchman",
+  "release_date": "1951-04-13",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

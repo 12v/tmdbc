@@ -1,0 +1,32 @@
+{
+  "id": 80243,
+  "title": "Unknown Pleasures",
+  "original_title": "\u4efb\u900d\u9065",
+  "release_date": "2002-06-06",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "KR",
+    "JP",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

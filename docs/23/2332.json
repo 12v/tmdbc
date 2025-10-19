@@ -1,0 +1,47 @@
+{
+  "id": 2332,
+  "title": "Taxi 2",
+  "original_title": "Taxi 2",
+  "release_date": "2000-03-25",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

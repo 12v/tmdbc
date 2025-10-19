@@ -1,0 +1,29 @@
+{
+  "id": 65296,
+  "title": "Humanit\u00e9",
+  "original_title": "L'humanit\u00e9",
+  "release_date": "1999-09-10",
+  "status": "Released",
+  "runtime": 149,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

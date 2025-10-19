@@ -1,0 +1,41 @@
+{
+  "id": 127533,
+  "title": "Rurouni Kenshin Part I: Origins",
+  "original_title": "\u308b\u308d\u3046\u306b\u5263\u5fc3",
+  "release_date": "2012-08-25",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

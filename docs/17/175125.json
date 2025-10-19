@@ -1,0 +1,29 @@
+{
+  "id": 175125,
+  "title": "Killed the Family and Went to the Movies",
+  "original_title": "Matou a Fam\u00edlia e Foi ao Cinema",
+  "release_date": "1969-03-01",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

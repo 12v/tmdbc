@@ -1,0 +1,38 @@
+{
+  "id": 886396,
+  "title": "Batman and Superman: Battle of the Super Sons",
+  "original_title": "Batman and Superman: Battle of the Super Sons",
+  "release_date": "2022-10-17",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

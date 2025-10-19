@@ -1,0 +1,41 @@
+{
+  "id": 5842,
+  "title": "Versus",
+  "original_title": "\u30f4\u30a1\u30fc\u30b5\u30b9",
+  "release_date": "2000-10-23",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

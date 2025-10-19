@@ -1,0 +1,35 @@
+{
+  "id": 103686,
+  "title": "Paradise: Love",
+  "original_title": "Paradies: Liebe",
+  "release_date": "2012-04-27",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Swahili",
+      "iso_639_1": "sw",
+      "name": "Kiswahili"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

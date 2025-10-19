@@ -1,0 +1,38 @@
+{
+  "id": 858485,
+  "title": "Kantara",
+  "original_title": "\u0c95\u0cbe\u0c82\u0ca4\u0cbe\u0cb0",
+  "release_date": "2022-09-30",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "kn",
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

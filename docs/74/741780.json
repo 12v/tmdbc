@@ -1,0 +1,25 @@
+{
+  "id": 741780,
+  "title": "Taipei Suicide Story",
+  "original_title": "\u5b89\u7720\u65c5\u820d",
+  "release_date": "2020-10-28",
+  "status": "Released",
+  "runtime": 45,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

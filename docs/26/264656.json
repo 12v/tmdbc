@@ -1,0 +1,30 @@
+{
+  "id": 264656,
+  "title": "The Homesman",
+  "original_title": "The Homesman",
+  "release_date": "2014-05-18",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

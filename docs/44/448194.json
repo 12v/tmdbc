@@ -1,0 +1,33 @@
+{
+  "id": 448194,
+  "title": "Pyewacket",
+  "original_title": "Pyewacket",
+  "release_date": "2017-12-08",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

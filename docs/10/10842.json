@@ -1,0 +1,33 @@
+{
+  "id": 10842,
+  "title": "Strange Circus",
+  "original_title": "\u5947\u5999\u306a\u30b5\u30fc\u30ab\u30b9",
+  "release_date": "2005-12-24",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
