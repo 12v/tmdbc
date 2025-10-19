@@ -1,0 +1,25 @@
+{
+  "id": 78117,
+  "title": "Eros + Massacre",
+  "original_title": "\u30a8\u30ed\u30b9\uff0b\u8650\u6bba",
+  "release_date": "1969-03-13",
+  "status": "Released",
+  "runtime": 216,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

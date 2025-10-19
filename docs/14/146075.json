@@ -1,0 +1,25 @@
+{
+  "id": 146075,
+  "title": "Rio, 100 Degrees F\u00b0",
+  "original_title": "Rio, 40 Graus",
+  "release_date": "1955-08-24",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

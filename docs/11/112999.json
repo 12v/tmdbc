@@ -1,0 +1,25 @@
+{
+  "id": 112999,
+  "title": "The Hero",
+  "original_title": "\u09a8\u09be\u09af\u09bc\u0995",
+  "release_date": "1966-05-06",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "BD"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

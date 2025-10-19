@@ -1,0 +1,26 @@
+{
+  "id": 537681,
+  "title": "Giant Little Ones",
+  "original_title": "Giant Little Ones",
+  "release_date": "2019-01-03",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

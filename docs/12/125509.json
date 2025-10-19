@@ -1,0 +1,29 @@
+{
+  "id": 125509,
+  "title": "Wrong Turn 5: Bloodlines",
+  "original_title": "Wrong Turn 5: Bloodlines",
+  "release_date": "2012-10-18",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

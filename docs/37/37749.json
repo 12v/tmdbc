@@ -1,0 +1,25 @@
+{
+  "id": 37749,
+  "title": "Looking for Mr. Goodbar",
+  "original_title": "Looking for Mr. Goodbar",
+  "release_date": "1977-10-19",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 33701,
+  "title": "French Fried Vacation 2",
+  "original_title": "Les Bronz\u00e9s font du ski",
+  "release_date": "1979-11-22",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

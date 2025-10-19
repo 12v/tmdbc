@@ -1,0 +1,35 @@
+{
+  "id": 1146410,
+  "title": "A Traveler's Needs",
+  "original_title": "\uc5ec\ud589\uc790\uc758 \ud544\uc694",
+  "release_date": "2024-04-24",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

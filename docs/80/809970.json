@@ -1,0 +1,33 @@
+{
+  "id": 809970,
+  "title": "Operation Hyacinth",
+  "original_title": "Hiacynt",
+  "release_date": "2021-08-18",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

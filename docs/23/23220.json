@@ -1,0 +1,25 @@
+{
+  "id": 23220,
+  "title": "The Brides of Dracula",
+  "original_title": "The Brides of Dracula",
+  "release_date": "1960-05-01",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

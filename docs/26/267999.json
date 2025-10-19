@@ -1,0 +1,25 @@
+{
+  "id": 267999,
+  "title": "White God",
+  "original_title": "Feh\u00e9r Isten",
+  "release_date": "2014-06-12",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

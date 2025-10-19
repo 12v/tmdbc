@@ -1,0 +1,33 @@
+{
+  "id": 17810,
+  "title": "Lone Wolf and Cub: Baby Cart at the River Styx",
+  "original_title": "\u5b50\u9023\u308c\u72fc \u4e09\u9014\u306e\u5ddd\u306e\u4e73\u6bcd\u8eca",
+  "release_date": "1972-04-22",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

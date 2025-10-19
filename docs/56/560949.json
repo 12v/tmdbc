@@ -1,0 +1,35 @@
+{
+  "id": 560949,
+  "title": "The Staggering Girl",
+  "original_title": "The Staggering Girl",
+  "release_date": "2019-05-17",
+  "status": "Released",
+  "runtime": 37,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

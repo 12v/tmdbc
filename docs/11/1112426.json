@@ -1,0 +1,29 @@
+{
+  "id": 1112426,
+  "title": "Stree 2",
+  "original_title": "\u0938\u094d\u0924\u094d\u0930\u0940 2: \u0938\u0930\u0915\u091f\u0947 \u0915\u093e \u0906\u0924\u0902\u0915",
+  "release_date": "2024-08-15",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

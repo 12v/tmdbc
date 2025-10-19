@@ -1,0 +1,29 @@
+{
+  "id": 890116,
+  "title": "Merry Christmas",
+  "original_title": "\u092e\u0947\u0930\u0940 \u0915\u094d\u0930\u093f\u0938\u092e\u0938",
+  "release_date": "2024-01-12",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 27378,
+  "title": "Heart of Glass",
+  "original_title": "Herz aus Glas",
+  "release_date": "1976-11-12",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

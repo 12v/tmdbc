@@ -1,0 +1,25 @@
+{
+  "id": 1212271,
+  "title": "Eleanor the Great",
+  "original_title": "Eleanor the Great",
+  "release_date": "2025-09-26",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

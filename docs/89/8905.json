@@ -1,0 +1,31 @@
+{
+  "id": 8905,
+  "title": "Three Monkeys",
+  "original_title": "\u00dc\u00e7 maymun",
+  "release_date": "2008-05-16",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IT",
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

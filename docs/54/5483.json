@@ -1,0 +1,25 @@
+{
+  "id": 5483,
+  "title": "Lisa and the Devil",
+  "original_title": "Lisa e il diavolo",
+  "release_date": "1973-05-08",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

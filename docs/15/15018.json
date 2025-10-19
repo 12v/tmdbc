@@ -1,0 +1,37 @@
+{
+  "id": 15018,
+  "title": "Thriller: A Cruel Picture",
+  "original_title": "Thriller - en grym film",
+  "release_date": "1973-05-01",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

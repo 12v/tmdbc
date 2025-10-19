@@ -1,0 +1,25 @@
+{
+  "id": 624932,
+  "title": "Dave Chappelle: Sticks & Stones",
+  "original_title": "Dave Chappelle: Sticks & Stones",
+  "release_date": "2019-08-26",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

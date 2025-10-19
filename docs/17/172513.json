@@ -1,0 +1,33 @@
+{
+  "id": 172513,
+  "title": "Green Vinyl",
+  "original_title": "Vinil Verde",
+  "release_date": "2004-11-25",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

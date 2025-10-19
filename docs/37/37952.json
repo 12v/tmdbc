@@ -1,0 +1,29 @@
+{
+  "id": 37952,
+  "title": "The Weeping Meadow",
+  "original_title": "\u03a4\u03bf \u039b\u03b9\u03b2\u03ac\u03b4\u03b9 \u03c0\u03bf\u03c5 \u03b4\u03b1\u03ba\u03c1\u03cd\u03b6\u03b5\u03b9",
+  "release_date": "2004-02-20",
+  "status": "Released",
+  "runtime": 169,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}
