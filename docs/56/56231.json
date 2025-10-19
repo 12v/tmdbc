@@ -1,0 +1,25 @@
+{
+  "id": 56231,
+  "title": "The Working Class Goes to Heaven",
+  "original_title": "La classe operaia va in paradiso",
+  "release_date": "1971-09-17",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

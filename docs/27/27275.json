@@ -1,0 +1,33 @@
+{
+  "id": 27275,
+  "title": "G.O.R.A.",
+  "original_title": "G.O.R.A.",
+  "release_date": "2004-11-12",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

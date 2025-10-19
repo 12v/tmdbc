@@ -1,0 +1,25 @@
+{
+  "id": 1180634,
+  "title": "The Children's Train",
+  "original_title": "Il treno dei bambini",
+  "release_date": "2024-10-21",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

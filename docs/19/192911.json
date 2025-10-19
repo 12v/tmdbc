@@ -1,0 +1,29 @@
+{
+  "id": 192911,
+  "title": "Monster High: Scaris City of Frights",
+  "original_title": "Monster High: Scaris City of Frights",
+  "release_date": "2013-03-03",
+  "status": "Released",
+  "runtime": 61,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

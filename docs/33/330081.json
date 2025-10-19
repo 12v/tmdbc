@@ -1,0 +1,37 @@
+{
+  "id": 330081,
+  "title": "Attack on Titan: Wings of Freedom",
+  "original_title": "\u5287\u5834\u7248\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u5f8c\u7de8\uff5e\u81ea\u7531\u306e\u7ffc\uff5e",
+  "release_date": "2015-06-27",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

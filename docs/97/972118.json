@@ -1,0 +1,33 @@
+{
+  "id": 972118,
+  "title": "The Goldman Case",
+  "original_title": "Le Proc\u00e8s Goldman",
+  "release_date": "2023-06-07",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

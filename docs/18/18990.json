@@ -1,0 +1,25 @@
+{
+  "id": 18990,
+  "title": "The Mummy",
+  "original_title": "The Mummy",
+  "release_date": "1959-08-01",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1033807,
+  "title": "Premonitions Following an Evil Deed",
+  "original_title": "Premonitions Following an Evil Deed",
+  "release_date": "1995-02-12",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

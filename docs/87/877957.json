@@ -1,0 +1,33 @@
+{
+  "id": 877957,
+  "title": "Drifting Home",
+  "original_title": "\u96e8\u3092\u544a\u3051\u3099\u308b\u6f02\u6d41\u56e3\u5730",
+  "release_date": "2022-09-09",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

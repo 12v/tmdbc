@@ -1,0 +1,33 @@
+{
+  "id": 3134,
+  "title": "Baise-moi",
+  "original_title": "Baise-moi",
+  "release_date": "2000-06-28",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

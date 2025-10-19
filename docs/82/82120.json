@@ -1,0 +1,25 @@
+{
+  "id": 82120,
+  "title": "The Sprinkler Sprinkled",
+  "original_title": "Arroseur et arros\u00e9",
+  "release_date": "1895-06-10",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

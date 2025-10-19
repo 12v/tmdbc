@@ -1,0 +1,29 @@
+{
+  "id": 40652,
+  "title": "The Married Woman",
+  "original_title": "Une femme mari\u00e9e: Suite de fragments d'un film tourn\u00e9 en 1964",
+  "release_date": "1964-12-04",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

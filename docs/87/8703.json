@@ -1,0 +1,33 @@
+{
+  "id": 8703,
+  "title": "Three Wishes for Cinderella",
+  "original_title": "T\u0159i o\u0159\u00ed\u0161ky pro Popelku",
+  "release_date": "1973-11-16",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

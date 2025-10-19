@@ -1,0 +1,29 @@
+{
+  "id": 943397,
+  "title": "Shooting My Life's Script",
+  "original_title": "Fazendo Meu Filme",
+  "release_date": "2024-02-14",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 42733,
+  "title": "Love Meetings",
+  "original_title": "Comizi d'amore",
+  "release_date": "1965-07-05",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 800305,
+  "title": "The Boy Who Killed My Parents",
+  "original_title": "O Menino Que Matou Meus Pais",
+  "release_date": "2021-09-24",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

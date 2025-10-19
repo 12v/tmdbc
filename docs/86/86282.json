@@ -1,0 +1,25 @@
+{
+  "id": 86282,
+  "title": "Tie Xi Qu: West of the Tracks",
+  "original_title": "\u94c1\u897f\u533a",
+  "release_date": "2003-09-07",
+  "status": "Released",
+  "runtime": 551,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

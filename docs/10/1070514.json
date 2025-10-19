@@ -1,0 +1,29 @@
+{
+  "id": 1070514,
+  "title": "Zom 100: Bucket List of the Dead",
+  "original_title": "\u30be\u30f3100\uff5e\u30be\u30f3\u30d3\u306b\u306a\u308b\u307e\u3067\u306b\u3057\u305f\u3044100\u306e\u3053\u3068\uff5e",
+  "release_date": "2023-08-03",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

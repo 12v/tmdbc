@@ -1,0 +1,33 @@
+{
+  "id": 19333,
+  "title": "Terror of Mechagodzilla",
+  "original_title": "\u30e1\u30ab\u30b4\u30b8\u30e9\u306e\u9006\u8972",
+  "release_date": "1975-03-15",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

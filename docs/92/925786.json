@@ -1,0 +1,29 @@
+{
+  "id": 925786,
+  "title": "Satan's Slaves 2: Communion",
+  "original_title": "Pengabdi Setan 2: Communion",
+  "release_date": "2022-07-30",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 785209,
+  "title": "Playground",
+  "original_title": "Un monde",
+  "release_date": "2021-10-20",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 271706,
+  "title": "Big Fish & Begonia",
+  "original_title": "\u5927\u9c7c\u6d77\u68e0",
+  "release_date": "2016-07-08",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

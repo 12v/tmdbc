@@ -1,0 +1,33 @@
+{
+  "id": 589026,
+  "title": "Chicken for Linda!",
+  "original_title": "Linda veut du poulet !",
+  "release_date": "2023-10-18",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

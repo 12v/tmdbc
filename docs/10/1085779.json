@@ -1,0 +1,30 @@
+{
+  "id": 1085779,
+  "title": "N\u01cei Nai & W\u00e0i P\u00f3",
+  "original_title": "N\u01cei Nai & W\u00e0i P\u00f3",
+  "release_date": "2024-02-16",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

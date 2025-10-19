@@ -1,0 +1,33 @@
+{
+  "id": 11936,
+  "title": "City of Women",
+  "original_title": "La citt\u00e0 delle donne",
+  "release_date": "1980-03-28",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

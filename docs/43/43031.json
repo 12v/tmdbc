@@ -1,0 +1,25 @@
+{
+  "id": 43031,
+  "title": "Devi",
+  "original_title": "\u09a6\u09c7\u09ac\u09c0",
+  "release_date": "1960-02-19",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

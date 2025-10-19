@@ -1,0 +1,25 @@
+{
+  "id": 227932,
+  "title": "My Mom Is a Character 2",
+  "original_title": "Minha M\u00e3e \u00e9 uma Pe\u00e7a 2: O Filme",
+  "release_date": "2016-12-22",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

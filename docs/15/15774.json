@@ -1,0 +1,30 @@
+{
+  "id": 15774,
+  "title": "Swades",
+  "original_title": "\u0938\u094d\u0935\u0926\u0947\u0938",
+  "release_date": "2004-12-17",
+  "status": "Released",
+  "runtime": 195,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

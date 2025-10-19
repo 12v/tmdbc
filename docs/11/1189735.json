@@ -1,0 +1,30 @@
+{
+  "id": 1189735,
+  "title": "Fr\u00e9waka",
+  "original_title": "Fr\u00e9amhacha",
+  "release_date": "2025-04-25",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ga",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Irish",
+      "iso_639_1": "ga",
+      "name": "Gaeilge"
+    }
+  ],
+  "origin_country": [
+    "IE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

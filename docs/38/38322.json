@@ -1,0 +1,33 @@
+{
+  "id": 38322,
+  "title": "Big Mommas: Like Father, Like Son",
+  "original_title": "Big Mommas: Like Father, Like Son",
+  "release_date": "2011-02-16",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}
