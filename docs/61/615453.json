@@ -1,0 +1,33 @@
+{
+  "id": 615453,
+  "title": "Ne Zha",
+  "original_title": "\u54ea\u5412\u4e4b\u9b54\u7ae5\u964d\u4e16",
+  "release_date": "2019-07-26",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

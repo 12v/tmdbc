@@ -1,0 +1,25 @@
+{
+  "id": 87428,
+  "title": "That's My Boy",
+  "original_title": "That's My Boy",
+  "release_date": "2012-06-14",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
