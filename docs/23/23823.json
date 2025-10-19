@@ -1,0 +1,29 @@
+{
+  "id": 23823,
+  "title": "Wrong Turn 3: Left for Dead",
+  "original_title": "Wrong Turn 3: Left for Dead",
+  "release_date": "2009-10-08",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

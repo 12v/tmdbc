@@ -1,0 +1,33 @@
+{
+  "id": 118663,
+  "title": "Decalogue III",
+  "original_title": "Dekalog, trzy",
+  "release_date": "1989-05-16",
+  "status": "Released",
+  "runtime": 56,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

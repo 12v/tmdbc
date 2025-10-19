@@ -1,0 +1,37 @@
+{
+  "id": 176983,
+  "title": "One Piece Film: Z",
+  "original_title": "\u30ef\u30f3\u30d4\u30fc\u30b9 \u30d5\u30a3\u30eb\u30e0 \u30bc\u30c3\u30c8",
+  "release_date": "2012-12-15",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 108634,
+  "title": "Typhoon Club",
+  "original_title": "\u53f0\u98a8\u30af\u30e9\u30d6",
+  "release_date": "1985-08-31",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 973628,
+  "title": "A Normal Family",
+  "original_title": "\ubcf4\ud1b5\uc758 \uac00\uc871",
+  "release_date": "2024-10-16",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

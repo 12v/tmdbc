@@ -1,0 +1,29 @@
+{
+  "id": 39434,
+  "title": "The Stendhal Syndrome",
+  "original_title": "La sindrome di Stendhal",
+  "release_date": "1996-01-26",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

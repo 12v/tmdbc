@@ -1,0 +1,33 @@
+{
+  "id": 795815,
+  "title": "What Do We See When We Look at the Sky?",
+  "original_title": "\u10e0\u10d0\u10e1 \u10d5\u10ee\u10d4\u10d3\u10d0\u10d5\u10d7, \u10e0\u10dd\u10d3\u10d4\u10e1\u10d0\u10ea \u10ea\u10d0\u10e1 \u10d5\u10e3\u10e7\u10e3\u10e0\u10d4\u10d1\u10d7?",
+  "release_date": "2021-11-12",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    }
+  ],
+  "origin_country": [
+    "GE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

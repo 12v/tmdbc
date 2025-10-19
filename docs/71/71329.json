@@ -1,0 +1,30 @@
+{
+  "id": 71329,
+  "title": "Yeelen",
+  "original_title": "Yeelen",
+  "release_date": "1987-07-01",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "bm",
+  "spoken_languages": [
+    {
+      "english_name": "Bambara",
+      "iso_639_1": "bm",
+      "name": "Bamanankan"
+    },
+    {
+      "english_name": "Fulah",
+      "iso_639_1": "ff",
+      "name": "Fulfulde"
+    }
+  ],
+  "origin_country": [
+    "ML"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 35552,
+  "title": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec",
+  "original_title": "Les Aventures extraordinaires d'Ad\u00e8le Blanc-Sec",
+  "release_date": "2010-04-09",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

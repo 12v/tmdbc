@@ -1,0 +1,37 @@
+{
+  "id": 927342,
+  "title": "Amaran",
+  "original_title": "\u0b85\u0bae\u0bb0\u0ba9\u0bcd",
+  "release_date": "2024-10-31",
+  "status": "Released",
+  "runtime": 169,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

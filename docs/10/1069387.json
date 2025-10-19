@@ -1,0 +1,33 @@
+{
+  "id": 1069387,
+  "title": "Pedro P\u00e1ramo",
+  "original_title": "Pedro P\u00e1ramo",
+  "release_date": "2024-09-12",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

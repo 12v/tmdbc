@@ -1,0 +1,26 @@
+{
+  "id": 29514,
+  "title": "Two Evil Eyes",
+  "original_title": "Due occhi diabolici",
+  "release_date": "1990-01-25",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

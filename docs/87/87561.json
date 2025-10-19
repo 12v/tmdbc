@@ -1,0 +1,33 @@
+{
+  "id": 87561,
+  "title": "Song of Love",
+  "original_title": "Un chant d\u2019amour",
+  "release_date": "1972-12-11",
+  "status": "Released",
+  "runtime": 26,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

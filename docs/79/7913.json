@@ -1,0 +1,47 @@
+{
+  "id": 7913,
+  "title": "Rang De Basanti",
+  "original_title": "\u0930\u0902\u0917 \u0926\u0947 \u092c\u0938\u0902\u0924\u0940",
+  "release_date": "2006-01-26",
+  "status": "Released",
+  "runtime": 157,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Punjabi",
+      "iso_639_1": "pa",
+      "name": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

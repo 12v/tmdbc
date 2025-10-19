@@ -1,0 +1,25 @@
+{
+  "id": 4972,
+  "title": "The Green Butchers",
+  "original_title": "De gr\u00f8nne slagtere",
+  "release_date": "2003-03-08",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

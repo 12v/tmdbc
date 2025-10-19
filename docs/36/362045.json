@@ -1,0 +1,38 @@
+{
+  "id": 362045,
+  "title": "Bajirao Mastani",
+  "original_title": "\u092c\u093e\u091c\u0940\u0930\u093e\u0935 \u092e\u0938\u094d\u0924\u093e\u0928\u0940",
+  "release_date": "2015-12-18",
+  "status": "Released",
+  "runtime": 158,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

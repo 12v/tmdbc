@@ -1,0 +1,29 @@
+{
+  "id": 681019,
+  "title": "Nobody Sleeps in the Woods Tonight",
+  "original_title": "W lesie dzi\u015b nie za\u015bnie nikt",
+  "release_date": "2020-03-20",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

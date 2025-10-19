@@ -1,0 +1,25 @@
+{
+  "id": 49650,
+  "title": "Daguerr\u00e9otypes",
+  "original_title": "Daguerr\u00e9otypes",
+  "release_date": "1975-07-14",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

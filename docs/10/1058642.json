@@ -1,0 +1,36 @@
+{
+  "id": 1058642,
+  "title": "Slow",
+  "original_title": "Tu man nieko neprimeni",
+  "release_date": "2023-09-22",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "lt",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvi\u0173"
+    }
+  ],
+  "origin_country": [
+    "LT",
+    "ES",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

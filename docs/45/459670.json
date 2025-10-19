@@ -1,0 +1,33 @@
+{
+  "id": 459670,
+  "title": "Monica and Friends: Bonds",
+  "original_title": "Turma da M\u00f4nica: La\u00e7os",
+  "release_date": "2019-06-27",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

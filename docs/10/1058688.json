@@ -1,0 +1,27 @@
+{
+  "id": 1058688,
+  "title": "Smoke Sauna Sisterhood",
+  "original_title": "Savvusanna s\u00f5sarad",
+  "release_date": "2023-03-21",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "et",
+  "spoken_languages": [
+    {
+      "english_name": "Estonian",
+      "iso_639_1": "et",
+      "name": "Eesti"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "EE",
+    "IS"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

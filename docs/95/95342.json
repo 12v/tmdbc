@@ -1,0 +1,28 @@
+{
+  "id": 95342,
+  "title": "Love for Sale",
+  "original_title": "O C\u00e9u de Suely",
+  "release_date": "2006-11-17",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "BR",
+    "FR",
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

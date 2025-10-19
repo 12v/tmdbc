@@ -1,0 +1,30 @@
+{
+  "id": 865559,
+  "title": "Your Christmas or Mine?",
+  "original_title": "Your Christmas or Mine?",
+  "release_date": "2022-12-02",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

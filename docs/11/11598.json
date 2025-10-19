@@ -1,0 +1,25 @@
+{
+  "id": 11598,
+  "title": "The Kentucky Fried Movie",
+  "original_title": "The Kentucky Fried Movie",
+  "release_date": "1977-08-10",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

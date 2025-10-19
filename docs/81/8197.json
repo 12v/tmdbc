@@ -1,0 +1,33 @@
+{
+  "id": 8197,
+  "title": "Midnight in the Garden of Good and Evil",
+  "original_title": "Midnight in the Garden of Good and Evil",
+  "release_date": "1997-11-21",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

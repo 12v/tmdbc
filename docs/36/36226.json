@@ -1,0 +1,31 @@
+{
+  "id": 36226,
+  "title": "Chinese Roulette",
+  "original_title": "Chinesisches Roulette",
+  "release_date": "1977-02-23",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 655187,
+  "title": "Coven",
+  "original_title": "Akelarre",
+  "release_date": "2020-10-02",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "eu",
+  "spoken_languages": [
+    {
+      "english_name": "Basque",
+      "iso_639_1": "eu",
+      "name": "euskera"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

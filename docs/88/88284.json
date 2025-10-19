@@ -1,0 +1,25 @@
+{
+  "id": 88284,
+  "title": "Barbara",
+  "original_title": "Barbara",
+  "release_date": "2012-03-08",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 18269,
+  "title": "Lady and the Tramp II: Scamp's Adventure",
+  "original_title": "Lady and the Tramp II: Scamp's Adventure",
+  "release_date": "2001-02-18",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

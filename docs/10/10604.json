@@ -1,0 +1,31 @@
+{
+  "id": 10604,
+  "title": "Zorba the Greek",
+  "original_title": "\u0391\u03bb\u03ad\u03be\u03b7\u03c2 \u0396\u03bf\u03c1\u03bc\u03c0\u03ac\u03c2",
+  "release_date": "1964-12-14",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

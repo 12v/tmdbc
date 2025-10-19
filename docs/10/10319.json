@@ -1,0 +1,25 @@
+{
+  "id": 10319,
+  "title": "Woyzeck",
+  "original_title": "Woyzeck",
+  "release_date": "1979-05-25",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

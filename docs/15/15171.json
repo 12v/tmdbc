@@ -1,0 +1,33 @@
+{
+  "id": 15171,
+  "title": "Charlotte's Web",
+  "original_title": "Charlotte's Web",
+  "release_date": "1973-03-01",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

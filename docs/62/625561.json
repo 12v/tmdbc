@@ -1,0 +1,29 @@
+{
+  "id": 625561,
+  "title": "Travis Scott: Look Mom I Can Fly",
+  "original_title": "Travis Scott: Look Mom I Can Fly",
+  "release_date": "2019-08-28",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

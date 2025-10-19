@@ -1,0 +1,25 @@
+{
+  "id": 1052873,
+  "title": "Three of Us",
+  "original_title": "Three of Us",
+  "release_date": "2023-11-03",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

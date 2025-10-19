@@ -1,0 +1,33 @@
+{
+  "id": 63195,
+  "title": "La Commune (Paris, 1871)",
+  "original_title": "La Commune (Paris, 1871)",
+  "release_date": "2003-07-03",
+  "status": "Released",
+  "runtime": 345,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

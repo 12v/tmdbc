@@ -1,0 +1,29 @@
+{
+  "id": 47251,
+  "title": "Indian Summer",
+  "original_title": "La prima notte di quiete",
+  "release_date": "1972-10-18",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 47582,
+  "title": "Castle of Purity",
+  "original_title": "El castillo de la pureza",
+  "release_date": "1973-05-10",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

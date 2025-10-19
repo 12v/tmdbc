@@ -1,0 +1,29 @@
+{
+  "id": 832544,
+  "title": "Stealing Raden Saleh",
+  "original_title": "Mencuri Raden Saleh",
+  "release_date": "2022-08-25",
+  "status": "Released",
+  "runtime": 154,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

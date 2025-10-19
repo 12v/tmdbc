@@ -1,0 +1,33 @@
+{
+  "id": 295830,
+  "title": "Attack on Titan",
+  "original_title": "\u9032\u6483\u306e\u5de8\u4eba ATTACK ON TITAN",
+  "release_date": "2015-08-01",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

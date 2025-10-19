@@ -1,0 +1,29 @@
+{
+  "id": 127471,
+  "title": "Pizza, Beer, and Cigarettes",
+  "original_title": "Pizza, birra, faso",
+  "release_date": "1998-01-15",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}
