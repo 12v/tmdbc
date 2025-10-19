@@ -1,0 +1,43 @@
+{
+  "id": 124517,
+  "title": "Emotion",
+  "original_title": "EMOTION \u4f1d\u8aac\u306e\u5348\u5f8c\uff1d\u3044\u3064\u304b\u898b\u305f\u30c9\u30e9\u30ad\u30e5\u30e9",
+  "release_date": "1966-01-01",
+  "status": "Released",
+  "runtime": 39,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

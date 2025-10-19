@@ -1,0 +1,25 @@
+{
+  "id": 252511,
+  "title": "The Kingdom of Dreams and Madness",
+  "original_title": "\u5922\u3068\u72c2\u6c17\u306e\u738b\u56fd",
+  "release_date": "2013-11-16",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

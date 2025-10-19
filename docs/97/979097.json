@@ -1,0 +1,25 @@
+{
+  "id": 979097,
+  "title": "Memory",
+  "original_title": "Memory",
+  "release_date": "2023-12-22",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

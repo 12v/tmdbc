@@ -1,0 +1,25 @@
+{
+  "id": 166666,
+  "title": "3096 Days",
+  "original_title": "3096 Tage",
+  "release_date": "2013-02-21",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

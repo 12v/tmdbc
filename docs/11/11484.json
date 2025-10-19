@@ -1,0 +1,31 @@
+{
+  "id": 11484,
+  "title": "Rollerball",
+  "original_title": "Rollerball",
+  "release_date": "1975-06-25",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

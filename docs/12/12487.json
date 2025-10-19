@@ -1,0 +1,37 @@
+{
+  "id": 12487,
+  "title": "Gozu",
+  "original_title": "\u6975\u9053\u6050\u6016\u5927\u5287\u5834 \u725b\u982d GOZU",
+  "release_date": "2003-07-11",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

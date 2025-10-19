@@ -1,0 +1,25 @@
+{
+  "id": 26973,
+  "title": "Pretty Baby",
+  "original_title": "Pretty Baby",
+  "release_date": "1978-04-05",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

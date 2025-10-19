@@ -1,0 +1,29 @@
+{
+  "id": 186738,
+  "title": "The Red Light Bandit",
+  "original_title": "O Bandido da Luz Vermelha",
+  "release_date": "1968-12-02",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

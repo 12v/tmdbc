@@ -1,0 +1,30 @@
+{
+  "id": 60567,
+  "title": "The Big City",
+  "original_title": "\u09ae\u09b9\u09be\u09a8\u0997\u09b0",
+  "release_date": "1963-09-27",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1083862,
+  "title": "Resident Evil: Death Island",
+  "original_title": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\uff1a\u30c7\u30b9\u30a2\u30a4\u30e9\u30f3\u30c9",
+  "release_date": "2023-06-22",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

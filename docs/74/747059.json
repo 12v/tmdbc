@@ -1,0 +1,33 @@
+{
+  "id": 747059,
+  "title": "Burrow",
+  "original_title": "Burrow",
+  "release_date": "2020-12-25",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

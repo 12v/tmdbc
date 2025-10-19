@@ -1,0 +1,27 @@
+{
+  "id": 603531,
+  "title": "Heartless",
+  "original_title": "Sem Cora\u00e7\u00e3o",
+  "release_date": "2024-04-18",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

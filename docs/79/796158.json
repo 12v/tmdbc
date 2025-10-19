@@ -1,0 +1,31 @@
+{
+  "id": 796158,
+  "title": "Yuni",
+  "original_title": "Yuni",
+  "release_date": "2021-12-09",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Sundanese",
+      "iso_639_1": "su",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ID",
+    "SG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

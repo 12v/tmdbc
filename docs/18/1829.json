@@ -1,0 +1,38 @@
+{
+  "id": 1829,
+  "title": "The Story of Adele H.",
+  "original_title": "L'Histoire d'Ad\u00e8le H.",
+  "release_date": "1975-10-08",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

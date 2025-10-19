@@ -1,0 +1,29 @@
+{
+  "id": 8816,
+  "title": "My Life as a Dog",
+  "original_title": "Mitt liv som hund",
+  "release_date": "1985-12-12",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

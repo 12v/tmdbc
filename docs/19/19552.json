@@ -1,0 +1,29 @@
+{
+  "id": 19552,
+  "title": "The Scent of Green Papaya",
+  "original_title": "M\u00f9i \u0111u \u0111\u1ee7 xanh",
+  "release_date": "1993-06-08",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

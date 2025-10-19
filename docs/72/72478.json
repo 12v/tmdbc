@@ -1,0 +1,34 @@
+{
+  "id": 72478,
+  "title": "Suicide Room",
+  "original_title": "Sala samob\u00f3jc\u00f3w",
+  "release_date": "2011-03-04",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

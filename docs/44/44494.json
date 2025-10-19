@@ -1,0 +1,29 @@
+{
+  "id": 44494,
+  "title": "Zero for Conduct",
+  "original_title": "Z\u00e9ro de conduite : Jeunes diables au coll\u00e8ge",
+  "release_date": "1933-04-07",
+  "status": "Released",
+  "runtime": 48,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

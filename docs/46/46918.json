@@ -1,0 +1,25 @@
+{
+  "id": 46918,
+  "title": "Floating Weeds",
+  "original_title": "\u6d6e\u8349",
+  "release_date": "1959-11-17",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 4498,
+  "title": "The Executioner",
+  "original_title": "El verdugo",
+  "release_date": "1963-08-31",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

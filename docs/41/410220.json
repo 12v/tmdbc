@@ -1,0 +1,29 @@
+{
+  "id": 410220,
+  "title": "Drowning Love",
+  "original_title": "\u6eba\u308c\u308b\u30ca\u30a4\u30d5",
+  "release_date": "2016-11-05",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

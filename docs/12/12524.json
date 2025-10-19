@@ -1,0 +1,36 @@
+{
+  "id": 12524,
+  "title": "Titus",
+  "original_title": "Titus",
+  "release_date": "1999-12-25",
+  "status": "Released",
+  "runtime": 162,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

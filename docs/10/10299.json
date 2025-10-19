@@ -1,0 +1,33 @@
+{
+  "id": 10299,
+  "title": "Hush... Hush, Sweet Charlotte",
+  "original_title": "Hush... Hush, Sweet Charlotte",
+  "release_date": "1964-12-15",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 49098,
+  "title": "Talking Heads",
+  "original_title": "Gadaj\u0105ce g\u0142owy",
+  "release_date": "1980-08-01",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

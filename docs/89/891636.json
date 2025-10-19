@@ -1,0 +1,25 @@
+{
+  "id": 891636,
+  "title": "Fireworks",
+  "original_title": "Stranizza d'amuri",
+  "release_date": "2023-03-23",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

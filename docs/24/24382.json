@@ -1,0 +1,29 @@
+{
+  "id": 24382,
+  "title": "Big Deal on Madonna Street",
+  "original_title": "I soliti ignoti",
+  "release_date": "1958-07-26",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 404378,
+  "title": "A Street Cat Named Bob",
+  "original_title": "A Street Cat Named Bob",
+  "release_date": "2016-11-04",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

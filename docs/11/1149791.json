@@ -1,0 +1,29 @@
+{
+  "id": 1149791,
+  "title": "Premalu",
+  "original_title": "\u0d2a\u0d4d\u0d30\u0d47\u0d2e\u0d32\u0d41",
+  "release_date": "2024-02-09",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

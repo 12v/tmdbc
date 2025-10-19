@@ -1,0 +1,33 @@
+{
+  "id": 42196,
+  "title": "The Bad Seed",
+  "original_title": "The Bad Seed",
+  "release_date": "1956-09-12",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

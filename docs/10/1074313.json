@@ -1,0 +1,33 @@
+{
+  "id": 1074313,
+  "title": "Falling in Love Like in Movies",
+  "original_title": "Jatuh Cinta Seperti di Film-Film",
+  "release_date": "2023-11-30",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1088,
+  "title": "Whale Rider",
+  "original_title": "Whale Rider",
+  "release_date": "2003-01-30",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Maori",
+      "iso_639_1": "mi",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "NZ"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

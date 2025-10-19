@@ -1,0 +1,36 @@
+{
+  "id": 187022,
+  "title": "A Touch of Sin",
+  "original_title": "\u5929\u6ce8\u5b9a",
+  "release_date": "2013-10-04",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "JP",
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

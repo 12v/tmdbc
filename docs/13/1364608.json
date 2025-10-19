@@ -1,0 +1,25 @@
+{
+  "id": 1364608,
+  "title": "Anemone",
+  "original_title": "Anemone",
+  "release_date": "2025-10-02",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 11502,
+  "title": "Knife in the Water",
+  "original_title": "N\u00f3\u017c w wodzie",
+  "release_date": "1962-03-09",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

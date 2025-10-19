@@ -1,0 +1,33 @@
+{
+  "id": 39387,
+  "title": "Loves of a Blonde",
+  "original_title": "L\u00e1sky jedn\u00e9 plavovl\u00e1sky",
+  "release_date": "1965-11-12",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1006724,
+  "title": "Dead Talents Society",
+  "original_title": "\u9b3c\u624d\u4e4b\u9053",
+  "release_date": "2024-08-07",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

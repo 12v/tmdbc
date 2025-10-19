@@ -1,0 +1,33 @@
+{
+  "id": 692969,
+  "title": "Cadaver",
+  "original_title": "Kadaver",
+  "release_date": "2020-10-22",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31742,
+  "title": "Il Posto",
+  "original_title": "Il posto",
+  "release_date": "1961-09-21",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

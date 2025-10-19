@@ -1,0 +1,33 @@
+{
+  "id": 484468,
+  "title": "The Wolf's Call",
+  "original_title": "Le Chant du loup",
+  "release_date": "2019-02-20",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

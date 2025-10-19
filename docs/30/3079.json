@@ -1,0 +1,29 @@
+{
+  "id": 3079,
+  "title": "The Curse of Frankenstein",
+  "original_title": "The Curse of Frankenstein",
+  "release_date": "1957-05-20",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

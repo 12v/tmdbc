@@ -1,0 +1,29 @@
+{
+  "id": 334394,
+  "title": "Baskin",
+  "original_title": "Bask\u0131n: Karabasan",
+  "release_date": "2015-12-31",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}
