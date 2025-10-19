@@ -1,0 +1,34 @@
+{
+  "id": 1275945,
+  "title": "Avicii - I'm Tim",
+  "original_title": "Avicii - I'm Tim",
+  "release_date": "2024-06-09",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

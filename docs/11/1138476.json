@@ -1,0 +1,33 @@
+{
+  "id": 1138476,
+  "title": "River",
+  "original_title": "\u30ea\u30d0\u30fc\u3001\u6d41\u308c\u306a\u3044\u3067\u3088",
+  "release_date": "2023-06-23",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 146904,
+  "title": "Rio, Northern Zone",
+  "original_title": "Rio, Zona Norte",
+  "release_date": "1957-08-26",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28049,
+  "title": "Kill, Baby... Kill!",
+  "original_title": "Operazione paura",
+  "release_date": "1966-07-08",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

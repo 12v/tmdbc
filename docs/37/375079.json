@@ -1,0 +1,29 @@
+{
+  "id": 375079,
+  "title": "Yuki's Sun",
+  "original_title": "\u30e6\u30ad\u306e\u592a\u967d",
+  "release_date": "1972-12-29",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

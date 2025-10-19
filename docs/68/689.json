@@ -1,0 +1,43 @@
+{
+  "id": 689,
+  "title": "The Travelling Players",
+  "original_title": "\u039f \u03b8\u03af\u03b1\u03c3\u03bf\u03c2",
+  "release_date": "1975-07-01",
+  "status": "Released",
+  "runtime": 223,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

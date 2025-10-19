@@ -1,0 +1,37 @@
+{
+  "id": 32318,
+  "title": "The Navigator",
+  "original_title": "The Navigator",
+  "release_date": "1924-09-28",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 31304,
+  "title": "A Swedish Love Story",
+  "original_title": "En k\u00e4rlekshistoria",
+  "release_date": "1970-04-24",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

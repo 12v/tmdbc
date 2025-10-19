@@ -1,0 +1,29 @@
+{
+  "id": 1277988,
+  "title": "Caramelo",
+  "original_title": "Caramelo",
+  "release_date": "2025-10-08",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

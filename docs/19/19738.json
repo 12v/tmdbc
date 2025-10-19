@@ -1,0 +1,37 @@
+{
+  "id": 19738,
+  "title": "Revolutionary Girl Utena: The Movie",
+  "original_title": "\u5c11\u5973\u9769\u547d\u30a6\u30c6\u30ca \u30a2\u30c9\u30a5\u30ec\u30bb\u30f3\u30b9\u9ed9\u793a\u9332",
+  "release_date": "1999-08-14",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

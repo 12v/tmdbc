@@ -1,0 +1,29 @@
+{
+  "id": 61711,
+  "title": "The Truth",
+  "original_title": "La V\u00e9rit\u00e9",
+  "release_date": "1960-11-02",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

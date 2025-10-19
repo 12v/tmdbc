@@ -1,0 +1,25 @@
+{
+  "id": 1019836,
+  "title": "Christmas Bloody Christmas",
+  "original_title": "Christmas Bloody Christmas",
+  "release_date": "2022-12-09",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

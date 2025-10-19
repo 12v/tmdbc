@@ -1,0 +1,34 @@
+{
+  "id": 8214,
+  "title": "Drifting Clouds",
+  "original_title": "Kauas pilvet karkaavat",
+  "release_date": "1996-01-26",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

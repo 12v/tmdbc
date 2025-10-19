@@ -1,0 +1,25 @@
+{
+  "id": 36872,
+  "title": "When a Woman Ascends the Stairs",
+  "original_title": "\u5973\u304c\u968e\u6bb5\u3092\u4e0a\u308b\u6642",
+  "release_date": "1960-01-15",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

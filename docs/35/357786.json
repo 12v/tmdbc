@@ -1,0 +1,41 @@
+{
+  "id": 357786,
+  "title": "Kizumonogatari Part 1: Tekketsu",
+  "original_title": "\u50b7\u7269\u8a9e\u3008\u2160\u9244\u8840\u7bc7\u3009",
+  "release_date": "2016-01-08",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

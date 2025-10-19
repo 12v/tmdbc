@@ -1,0 +1,25 @@
+{
+  "id": 15596,
+  "title": "Back to School",
+  "original_title": "Back to School",
+  "release_date": "1986-06-13",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

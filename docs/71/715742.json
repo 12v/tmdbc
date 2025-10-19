@@ -1,0 +1,33 @@
+{
+  "id": 715742,
+  "title": "Trenque Lauquen",
+  "original_title": "Trenque Lauquen",
+  "release_date": "2023-05-02",
+  "status": "Released",
+  "runtime": 260,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

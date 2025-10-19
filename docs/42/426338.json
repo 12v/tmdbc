@@ -1,0 +1,29 @@
+{
+  "id": 426338,
+  "title": "Holy Camp!",
+  "original_title": "La llamada",
+  "release_date": "2017-09-29",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

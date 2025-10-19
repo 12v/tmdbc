@@ -1,0 +1,29 @@
+{
+  "id": 44708,
+  "title": "Blue Gate Crossing",
+  "original_title": "\u85cd\u8272\u5927\u9580",
+  "release_date": "2002-09-27",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

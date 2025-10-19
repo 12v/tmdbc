@@ -1,0 +1,29 @@
+{
+  "id": 71933,
+  "title": "O-Bi, O-Ba: The End of Civilization",
+  "original_title": "O-bi, o-ba: Koniec cywilizacji",
+  "release_date": "1985-01-28",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

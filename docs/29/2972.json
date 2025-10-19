@@ -1,0 +1,29 @@
+{
+  "id": 2972,
+  "title": "The Golem: How He Came Into the World",
+  "original_title": "Der Golem, wie er in die Welt kam",
+  "release_date": "1920-10-28",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

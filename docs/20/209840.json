@@ -1,0 +1,25 @@
+{
+  "id": 209840,
+  "title": "Stray Dogs",
+  "original_title": "\u90ca\u904a",
+  "release_date": "2014-02-21",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 592230,
+  "title": "Blood Quantum",
+  "original_title": "Blood Quantum",
+  "release_date": "2019-09-05",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

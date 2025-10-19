@@ -1,0 +1,33 @@
+{
+  "id": 17991,
+  "title": "Tetsuo II: Body Hammer",
+  "original_title": "\u9244\u7537II BODY HAMMER",
+  "release_date": "1992-10-03",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

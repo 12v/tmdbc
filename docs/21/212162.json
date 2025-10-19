@@ -1,0 +1,38 @@
+{
+  "id": 212162,
+  "title": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
+  "original_title": "\u5287\u5834\u7248 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab[\u65b0\u7de8]\u53db\u9006\u306e\u7269\u8a9e",
+  "release_date": "2013-10-26",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

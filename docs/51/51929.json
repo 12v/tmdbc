@@ -1,0 +1,25 @@
+{
+  "id": 51929,
+  "title": "The Emperor's Naked Army Marches On",
+  "original_title": "\u3086\u304d\u3086\u304d\u3066\u3001\u795e\u8ecd",
+  "release_date": "1987-08-01",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

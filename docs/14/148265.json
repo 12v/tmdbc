@@ -1,0 +1,29 @@
+{
+  "id": 148265,
+  "title": "Eega",
+  "original_title": "\u0c08\u0c17",
+  "release_date": "2012-07-05",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

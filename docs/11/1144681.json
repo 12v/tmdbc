@@ -1,0 +1,29 @@
+{
+  "id": 1144681,
+  "title": "Armand",
+  "original_title": "Armand",
+  "release_date": "2024-09-27",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

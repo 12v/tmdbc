@@ -1,0 +1,33 @@
+{
+  "id": 54233,
+  "title": "A Confucian Confusion",
+  "original_title": "\u7368\u7acb\u6642\u4ee3",
+  "release_date": "1994-10-13",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

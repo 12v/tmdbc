@@ -1,0 +1,29 @@
+{
+  "id": 174838,
+  "title": "Atman",
+  "original_title": "\u30a2\u30fc\u30c8\u30de\u30f3",
+  "release_date": "1975-07-01",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

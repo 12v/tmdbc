@@ -1,0 +1,33 @@
+{
+  "id": 47324,
+  "title": "Cairo Station",
+  "original_title": "\u0628\u0627\u0628 \u0627\u0644\u062d\u062f\u064a\u062f",
+  "release_date": "1958-07-31",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

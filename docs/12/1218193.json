@@ -1,0 +1,31 @@
+{
+  "id": 1218193,
+  "title": "A House on Fire",
+  "original_title": "Casa en flames",
+  "release_date": "2024-06-28",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ca",
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

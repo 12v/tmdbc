@@ -1,0 +1,29 @@
+{
+  "id": 380623,
+  "title": "Nocturama",
+  "original_title": "Nocturama",
+  "release_date": "2016-08-31",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

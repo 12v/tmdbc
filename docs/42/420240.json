@@ -1,0 +1,25 @@
+{
+  "id": 420240,
+  "title": "Dog Star Man",
+  "original_title": "Dog Star Man",
+  "release_date": "1965-02-22",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

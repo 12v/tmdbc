@@ -1,0 +1,37 @@
+{
+  "id": 18939,
+  "title": "Little Otik",
+  "original_title": "Otes\u00e1nek",
+  "release_date": "2001-01-25",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

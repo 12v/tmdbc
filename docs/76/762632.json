@@ -1,0 +1,31 @@
+{
+  "id": 762632,
+  "title": "The Letter Room",
+  "original_title": "The Letter Room",
+  "release_date": "2020-06-16",
+  "status": "Released",
+  "runtime": 33,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

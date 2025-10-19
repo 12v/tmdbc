@@ -1,0 +1,33 @@
+{
+  "id": 475094,
+  "title": "The Captain",
+  "original_title": "Der Hauptmann",
+  "release_date": "2018-02-02",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

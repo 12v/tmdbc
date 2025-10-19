@@ -1,0 +1,27 @@
+{
+  "id": 823491,
+  "title": "Out of Darkness",
+  "original_title": "Out of Darkness",
+  "release_date": "2024-02-09",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

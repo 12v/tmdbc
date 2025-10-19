@@ -1,0 +1,40 @@
+{
+  "id": 740996,
+  "title": "BLACKPINK: Light Up the Sky",
+  "original_title": "\ube14\ub799\ud551\ud06c: \uc138\uc0c1\uc744 \ubc1d\ud600\ub77c",
+  "release_date": "2020-10-14",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}
