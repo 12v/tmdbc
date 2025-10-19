@@ -40,6 +40,6 @@ jobs:
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
         git pull
-        git add -A docs/ state.txt cache_state.txt
+        git add -A docs/ cache_state.txt
         git commit -m "Update cache" || true
         git push
