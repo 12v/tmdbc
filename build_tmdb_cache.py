@@ -11,6 +11,7 @@ STATE_FILE = Path("cache_state.txt")
 MAX_RUNTIME_SECS = 10 * 60
 RATE_LIMIT = 50  # requests per second
 RATE_LIMIT_WINDOW = 1.0  # seconds
+BATCH_SIZE = 100  # slug/ID mapping batch size
 
 # Track requests for rate limiting
 request_times = []
@@ -117,8 +118,8 @@ def save_movie_cache(movie_data: Dict[str, Any]):
     cache_file.write_text(json.dumps(filtered_data, indent=2))
 
 
-def fetch_lbc_batch(last_slug: str = "", batch_size: int = 10) -> list[tuple[str, int]]:
-    """Fetch a batch of TMDB IDs from lbc repository after last_slug."""
+def fetch_lbc_tree() -> list[str]:
+    """Fetch the lbc repository tree and extract all .txt file slugs."""
     url = "https://api.github.com/repos/12v/lbc/git/trees/main?recursive=1"
 
     try:
@@ -134,45 +135,50 @@ def fetch_lbc_batch(last_slug: str = "", batch_size: int = 10) -> list[tuple[str
                 slug = item["path"][5:-4]  # Remove "docs/" and ".txt"
                 file_paths.append(slug)
 
-        # Sort and find starting point
         file_paths.sort()
-        if last_slug:
-            try:
-                start_idx = file_paths.index(last_slug) + 1
-            except ValueError:
-                start_idx = 0
-        else:
-            start_idx = 0
-
-        batch_slugs = file_paths[start_idx : start_idx + batch_size]
-
-        if not batch_slugs:
-            return []
-
-        print(f"Fetching batch ({len(batch_slugs)} files after {last_slug or 'start'})...")
-        batch = []
-
-        for slug in batch_slugs:
-            try:
-                file_response = requests.get(
-                    f"https://raw.githubusercontent.com/12v/lbc/main/docs/{slug}.txt",
-                    timeout=10
-                )
-                if file_response.status_code == 200:
-                    try:
-                        tmdb_id = int(file_response.text.strip())
-                        batch.append((slug, tmdb_id))
-                    except ValueError:
-                        pass
-            except requests.RequestException:
-                pass
-            time.sleep(0.1)  # Small delay between requests
-
-        return batch
+        return file_paths
 
     except requests.RequestException as e:
-        print(f"Error fetching lbc batch: {e}")
+        print(f"Error fetching lbc tree: {e}")
         return []
+
+
+def fetch_lbc_batch(file_paths: list[str], last_slug: str = "", batch_size: int = 10) -> list[tuple[str, int]]:
+    """Fetch a batch of TMDB IDs from lbc repository after last_slug."""
+    # Find starting point
+    if last_slug:
+        try:
+            start_idx = file_paths.index(last_slug) + 1
+        except ValueError:
+            start_idx = 0
+    else:
+        start_idx = 0
+
+    batch_slugs = file_paths[start_idx : start_idx + batch_size]
+
+    if not batch_slugs:
+        return []
+
+    print(f"Fetching batch ({len(batch_slugs)} files after {last_slug or 'start'})...")
+    batch = []
+
+    for slug in batch_slugs:
+        try:
+            file_response = requests.get(
+                f"https://raw.githubusercontent.com/12v/lbc/main/docs/{slug}.txt",
+                timeout=10
+            )
+            if file_response.status_code == 200:
+                try:
+                    tmdb_id = int(file_response.text.strip())
+                    batch.append((slug, tmdb_id))
+                except ValueError:
+                    pass
+        except requests.RequestException:
+            pass
+        time.sleep(0.1)  # Small delay between requests
+
+    return batch
 
 
 def main():
@@ -182,10 +188,14 @@ def main():
 
     start_time = time.time()
     last_slug = load_state()
-    batch_size = 10
-    TEST_MODE = True  # TODO: Remove for production
 
-    print("Processing lbc mappings in batches of 10...")
+    print(f"Fetching lbc repository tree...")
+    file_paths = fetch_lbc_tree()
+    if not file_paths:
+        print("Failed to fetch lbc tree")
+        return
+
+    print(f"Processing lbc mappings in batches of {BATCH_SIZE}...")
 
     while True:
         if time.time() - start_time > MAX_RUNTIME_SECS:
@@ -193,14 +203,14 @@ def main():
             save_state(last_slug)
             return
 
-        # Fetch 10 (slug, tmdb_id) pairs from lbc
-        batch = fetch_lbc_batch(last_slug, batch_size)
+        # Fetch BATCH_SIZE (slug, tmdb_id) pairs from lbc
+        batch = fetch_lbc_batch(file_paths, last_slug, BATCH_SIZE)
         if not batch:
             print("All movies processed!")
             save_state("")
             return
 
-        # Fetch TMDB data for all 10 IDs
+        # Fetch TMDB data for all IDs in batch
         print(f"  Looking up {len(batch)} movies on TMDB...")
         batch_count = 0
         for slug, movie_id in batch:
@@ -211,11 +221,6 @@ def main():
             last_slug = slug
 
         print(f"  Saved {batch_count}/{len(batch)} movies.")
-
-        if TEST_MODE:
-            print("Test mode: stopping after one batch.")
-            save_state(last_slug)
-            return
 
 
 if __name__ == "__main__":
