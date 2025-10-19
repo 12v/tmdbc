@@ -1,0 +1,25 @@
+{
+  "id": 1061240,
+  "title": "Minha Irm\u00e3 e Eu",
+  "original_title": "Minha Irm\u00e3 e Eu",
+  "release_date": "2023-12-25",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

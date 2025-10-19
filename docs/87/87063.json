@@ -1,0 +1,26 @@
+{
+  "id": 87063,
+  "title": "In Vanda's Room",
+  "original_title": "No Quarto da Vanda",
+  "release_date": "2001-03-02",
+  "status": "Released",
+  "runtime": 171,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

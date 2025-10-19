@@ -1,0 +1,61 @@
+{
+  "id": 671109,
+  "title": "Neptune Frost",
+  "original_title": "Neptune Frost",
+  "release_date": "2022-06-03",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "rw",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Kinyarwanda",
+      "iso_639_1": "rw",
+      "name": "Kinyarwanda"
+    },
+    {
+      "english_name": "Rundi",
+      "iso_639_1": "rn",
+      "name": "Kirundi"
+    },
+    {
+      "english_name": "Swahili",
+      "iso_639_1": "sw",
+      "name": "Kiswahili"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "FR",
+    "RW",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

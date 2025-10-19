@@ -1,0 +1,43 @@
+{
+  "id": 1129608,
+  "title": "The Greatest of All Time",
+  "original_title": "\u0ba4 \u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd\u0b9f\u0bb8\u0bcd\u0b9f\u0bcd \u0b86\u0b83\u0baa\u0bcd \u0b86\u0bb2\u0bcd \u0b9f\u0bc8\u0bae\u0bcd",
+  "release_date": "2024-09-05",
+  "status": "Released",
+  "runtime": 183,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

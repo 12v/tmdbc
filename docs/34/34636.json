@@ -1,0 +1,37 @@
+{
+  "id": 34636,
+  "title": "The NeverEnding Story II: The Next Chapter",
+  "original_title": "Die unendliche Geschichte II - Auf der Suche nach Phant\u00e1sien",
+  "release_date": "1990-10-25",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

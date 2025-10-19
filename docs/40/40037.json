@@ -1,0 +1,29 @@
+{
+  "id": 40037,
+  "title": "Evil Dead Trap",
+  "original_title": "\u6b7b\u970a\u306e\u7f60",
+  "release_date": "1988-05-14",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

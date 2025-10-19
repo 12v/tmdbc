@@ -1,0 +1,29 @@
+{
+  "id": 1249728,
+  "title": "Magic Candies",
+  "original_title": "\u3042\u3081\u3060\u307e",
+  "release_date": "2025-02-28",
+  "status": "Released",
+  "runtime": 21,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

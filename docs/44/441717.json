@@ -1,0 +1,25 @@
+{
+  "id": 441717,
+  "title": "96",
+  "original_title": "96",
+  "release_date": "2018-10-04",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

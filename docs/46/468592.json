@@ -1,0 +1,26 @@
+{
+  "id": 468592,
+  "title": "Vitalina Varela",
+  "original_title": "Vitalina Varela",
+  "release_date": "2019-10-07",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "CV",
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

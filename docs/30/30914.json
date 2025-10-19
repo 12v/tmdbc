@@ -1,0 +1,33 @@
+{
+  "id": 30914,
+  "title": "This Night I'll Possess Your Corpse",
+  "original_title": "Esta Noite Encarnarei no Teu Cad\u00e1ver",
+  "release_date": "1967-03-13",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

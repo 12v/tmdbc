@@ -1,0 +1,33 @@
+{
+  "id": 828751,
+  "title": "Beast",
+  "original_title": "Bestia",
+  "release_date": "2022-02-25",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CL"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

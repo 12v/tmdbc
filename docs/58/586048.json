@@ -1,0 +1,25 @@
+{
+  "id": 586048,
+  "title": "Kim Ji-young, Born 1982",
+  "original_title": "82\ub144\uc0dd \uae40\uc9c0\uc601",
+  "release_date": "2019-10-23",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

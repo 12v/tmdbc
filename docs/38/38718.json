@@ -1,0 +1,26 @@
+{
+  "id": 38718,
+  "title": "Reversal of Fortune",
+  "original_title": "Reversal of Fortune",
+  "release_date": "1990-10-19",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

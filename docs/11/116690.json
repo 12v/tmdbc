@@ -1,0 +1,25 @@
+{
+  "id": 116690,
+  "title": "The Ballad of Narayama",
+  "original_title": "\u6962\u5c71\u7bc0\u8003",
+  "release_date": "1958-06-01",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

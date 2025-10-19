@@ -1,0 +1,29 @@
+{
+  "id": 1235304,
+  "title": "Colours of Time",
+  "original_title": "La Venue de l'avenir",
+  "release_date": "2025-05-22",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

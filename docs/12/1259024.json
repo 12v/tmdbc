@@ -1,0 +1,38 @@
+{
+  "id": 1259024,
+  "title": "Good Bad Ugly",
+  "original_title": "\u0b95\u0bc1\u0b9f\u0bcd \u0baa\u0bc7\u0b9f\u0bcd \u0b85\u0b95\u0bcd\u0bb2\u0bbf",
+  "release_date": "2025-04-09",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 12496,
+  "title": "The Twilight Samurai",
+  "original_title": "\u305f\u305d\u304c\u308c\u6e05\u5175\u885b",
+  "release_date": "2002-11-02",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

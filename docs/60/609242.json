@@ -1,0 +1,34 @@
+{
+  "id": 609242,
+  "title": "The Heist of the Century",
+  "original_title": "El robo del siglo",
+  "release_date": "2020-01-16",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

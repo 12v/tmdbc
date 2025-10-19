@@ -1,0 +1,37 @@
+{
+  "id": 1025125,
+  "title": "Kishkindha Kaandam",
+  "original_title": "\u0d15\u0d3f\u0d37\u0d4d\u0d15\u0d3f\u0d28\u0d4d\u0d27\u0d3e \u0d15\u0d3e\u0d23\u0d4d\u0d21\u0d02",
+  "release_date": "2024-09-12",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

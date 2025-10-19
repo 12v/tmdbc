@@ -1,0 +1,37 @@
+{
+  "id": 14572,
+  "title": "Patlabor 2: The Movie",
+  "original_title": "\u6a5f\u52d5\u8b66\u5bdf\u30d1\u30c8\u30ec\u30a4\u30d0\u30fc 2 the Movie",
+  "release_date": "1993-08-07",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

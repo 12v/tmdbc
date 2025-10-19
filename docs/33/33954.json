@@ -1,0 +1,29 @@
+{
+  "id": 33954,
+  "title": "The Hawks and the Sparrows",
+  "original_title": "Uccellacci e uccellini",
+  "release_date": "1966-05-04",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 148811,
+  "title": "Reminiscences of a Journey to Lithuania",
+  "original_title": "Reminiscences of a Journey to Lithuania",
+  "release_date": "1996-08-30",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvi\u0173"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

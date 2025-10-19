@@ -1,0 +1,29 @@
+{
+  "id": 24774,
+  "title": "The Idiot",
+  "original_title": "\u767d\u75f4",
+  "release_date": "1951-05-23",
+  "status": "Released",
+  "runtime": 166,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 4484,
+  "title": "La Cage aux Folles",
+  "original_title": "La Cage aux folles",
+  "release_date": "1978-10-20",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

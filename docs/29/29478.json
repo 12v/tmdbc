@@ -1,0 +1,29 @@
+{
+  "id": 29478,
+  "title": "A Raisin in the Sun",
+  "original_title": "A Raisin in the Sun",
+  "release_date": "1961-05-28",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 52047,
+  "title": "The Only Son",
+  "original_title": "\u4e00\u4eba\u606f\u5b50",
+  "release_date": "1936-09-15",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

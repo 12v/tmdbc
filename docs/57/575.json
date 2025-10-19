@@ -1,0 +1,29 @@
+{
+  "id": 575,
+  "title": "The Experiment",
+  "original_title": "Das Experiment",
+  "release_date": "2001-03-08",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

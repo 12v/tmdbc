@@ -1,0 +1,33 @@
+{
+  "id": 434775,
+  "title": "The Third Murder",
+  "original_title": "\u4e09\u5ea6\u76ee\u306e\u6bba\u4eba",
+  "release_date": "2017-09-09",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

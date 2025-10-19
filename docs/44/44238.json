@@ -1,0 +1,29 @@
+{
+  "id": 44238,
+  "title": "World of Glory",
+  "original_title": "H\u00e4rlig \u00e4r jorden",
+  "release_date": "1991-11-08",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

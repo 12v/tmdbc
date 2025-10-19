@@ -1,0 +1,38 @@
+{
+  "id": 12501,
+  "title": "The Big Country",
+  "original_title": "The Big Country",
+  "release_date": "1958-09-30",
+  "status": "Released",
+  "runtime": 166,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

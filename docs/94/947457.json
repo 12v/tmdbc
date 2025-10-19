@@ -1,0 +1,33 @@
+{
+  "id": 947457,
+  "title": "Our Dream",
+  "original_title": "Nosso Sonho",
+  "release_date": "2023-09-21",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

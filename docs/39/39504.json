@@ -1,0 +1,30 @@
+{
+  "id": 39504,
+  "title": "Moolaad\u00e9",
+  "original_title": "Moolaad\u00e9",
+  "release_date": "2004-08-04",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "bm",
+  "spoken_languages": [
+    {
+      "english_name": "Bambara",
+      "iso_639_1": "bm",
+      "name": "Bamanankan"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BM"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

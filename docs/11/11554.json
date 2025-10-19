@@ -1,0 +1,29 @@
+{
+  "id": 11554,
+  "title": "Three Times",
+  "original_title": "\u6700\u597d\u7684\u6642\u5149",
+  "release_date": "2005-05-20",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

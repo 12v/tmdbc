@@ -1,0 +1,25 @@
+{
+  "id": 1117698,
+  "title": "Fanfic",
+  "original_title": "Fanfik",
+  "release_date": "2023-05-17",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

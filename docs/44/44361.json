@@ -1,0 +1,26 @@
+{
+  "id": 44361,
+  "title": "Mother and Son",
+  "original_title": "\u041c\u0430\u0442\u044c \u0438 \u0441\u044b\u043d",
+  "release_date": "1997-02-20",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

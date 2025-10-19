@@ -1,0 +1,41 @@
+{
+  "id": 76535,
+  "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+  "original_title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+  "release_date": "2011-10-25",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

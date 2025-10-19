@@ -1,0 +1,50 @@
+{
+  "id": 919570,
+  "title": "R.M.N.",
+  "original_title": "R.M.N.",
+  "release_date": "2022-06-03",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    },
+    {
+      "english_name": "Sinhalese",
+      "iso_639_1": "si",
+      "name": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

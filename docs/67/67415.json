@@ -1,0 +1,29 @@
+{
+  "id": 67415,
+  "title": "Incoherence",
+  "original_title": "\uc9c0\ub9ac\uba78\ub82c",
+  "release_date": "2025-08-27",
+  "status": "Released",
+  "runtime": 31,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 864959,
+  "title": "The Curse of Bridge Hollow",
+  "original_title": "The Curse of Bridge Hollow",
+  "release_date": "2022-10-14",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

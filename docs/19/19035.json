@@ -1,0 +1,29 @@
+{
+  "id": 19035,
+  "title": "Dimensions of Dialogue",
+  "original_title": "Mo\u017enosti dialogu",
+  "release_date": "1983-01-25",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

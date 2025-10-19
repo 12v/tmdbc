@@ -1,0 +1,38 @@
+{
+  "id": 33613,
+  "title": "The Girl Who Kicked the Hornet's Nest",
+  "original_title": "Luftslottet som spr\u00e4ngdes",
+  "release_date": "2009-11-27",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

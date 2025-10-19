@@ -1,0 +1,37 @@
+{
+  "id": 34038,
+  "title": "Magical Mystery Tour",
+  "original_title": "Magical Mystery Tour",
+  "release_date": "1967-12-25",
+  "status": "Released",
+  "runtime": 52,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

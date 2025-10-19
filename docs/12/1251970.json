@@ -1,0 +1,29 @@
+{
+  "id": 1251970,
+  "title": "Padakkalam",
+  "original_title": "\u0d2a\u0d1f\u0d15\u0d4d\u0d15\u0d33\u0d02",
+  "release_date": "2025-05-08",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 950075,
+  "title": "Sookshmadarshini",
+  "original_title": "\u0d38\u0d42\u0d15\u0d4d\u0d37\u0d4d\u0d2e\u0d26\u0d30\u0d4d\u200d\u0d36\u0d3f\u0d28\u0d3f",
+  "release_date": "2024-11-22",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

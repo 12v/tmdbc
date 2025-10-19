@@ -1,0 +1,37 @@
+{
+  "id": 42234,
+  "title": "Dona Flor and Her Two Husbands",
+  "original_title": "Dona Flor e Seus Dois Maridos",
+  "release_date": "1976-11-22",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

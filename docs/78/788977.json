@@ -1,0 +1,28 @@
+{
+  "id": 788977,
+  "title": "Cairo Conspiracy",
+  "original_title": "\u0635\u0628\u064a \u0645\u0646 \u0627\u0644\u062c\u0646\u0629",
+  "release_date": "2022-10-26",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "FI",
+    "FR",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

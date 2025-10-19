@@ -1,0 +1,31 @@
+{
+  "id": 354072,
+  "title": "Our Times",
+  "original_title": "\u6211\u7684\u5c11\u5973\u6642\u4ee3",
+  "release_date": "2015-08-13",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW",
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

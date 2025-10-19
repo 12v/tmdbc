@@ -1,0 +1,29 @@
+{
+  "id": 1169900,
+  "title": "Mamonas Assassinas: The Movie",
+  "original_title": "Mamonas Assassinas: O Filme",
+  "release_date": "2023-12-28",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

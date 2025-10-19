@@ -1,0 +1,25 @@
+{
+  "id": 9267,
+  "title": "And Now for Something Completely Different",
+  "original_title": "And Now for Something Completely Different",
+  "release_date": "1971-09-28",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

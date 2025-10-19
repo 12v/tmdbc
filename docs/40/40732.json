@@ -1,0 +1,29 @@
+{
+  "id": 40732,
+  "title": "The Emigrants",
+  "original_title": "Utvandrarna",
+  "release_date": "1971-03-08",
+  "status": "Released",
+  "runtime": 191,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

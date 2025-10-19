@@ -1,0 +1,38 @@
+{
+  "id": 13189,
+  "title": "A Christmas Carol",
+  "original_title": "A Christmas Carol",
+  "release_date": "1984-10-09",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

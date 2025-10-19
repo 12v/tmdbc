@@ -1,0 +1,25 @@
+{
+  "id": 1064021,
+  "title": "April",
+  "original_title": "\u10d0\u10de\u10e0\u10d8\u10da\u10d8",
+  "release_date": "2025-01-29",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
