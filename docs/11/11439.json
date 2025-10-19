@@ -1,0 +1,31 @@
+{
+  "id": 11439,
+  "title": "The Ghost Writer",
+  "original_title": "The Ghost Writer",
+  "release_date": "2010-02-12",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "FR",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 81,
+  "title": "Nausica\u00e4 of the Valley of the Wind",
+  "original_title": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab",
+  "release_date": "1984-03-11",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

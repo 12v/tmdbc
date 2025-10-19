@@ -1,0 +1,38 @@
+{
+  "id": 923667,
+  "title": "Twilight of the Warriors: Walled In",
+  "original_title": "\u4e5d\u9f8d\u57ce\u5be8\u4e4b\u570d\u57ce",
+  "release_date": "2024-05-01",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

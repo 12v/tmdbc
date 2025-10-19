@@ -1,0 +1,29 @@
+{
+  "id": 795811,
+  "title": "Wheel of Fortune and Fantasy",
+  "original_title": "\u5076\u7136\u3068\u60f3\u50cf",
+  "release_date": "2021-04-11",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 487850,
+  "title": "Asako I & II",
+  "original_title": "\u5bdd\u3066\u3082\u899a\u3081\u3066\u3082",
+  "release_date": "2018-09-01",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

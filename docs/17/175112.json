@@ -1,0 +1,29 @@
+{
+  "id": 175112,
+  "title": "Tinker Bell and the Pirate Fairy",
+  "original_title": "Tinker Bell and the Pirate Fairy",
+  "release_date": "2014-02-13",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

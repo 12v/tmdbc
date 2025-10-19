@@ -1,0 +1,38 @@
+{
+  "id": 511819,
+  "title": "Memoria",
+  "original_title": "Memoria",
+  "release_date": "2021-09-30",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

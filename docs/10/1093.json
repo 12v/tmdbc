@@ -1,0 +1,38 @@
+{
+  "id": 1093,
+  "title": "Elevator to the Gallows",
+  "original_title": "Ascenseur pour l'\u00e9chafaud",
+  "release_date": "1958-01-29",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

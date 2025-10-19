@@ -1,0 +1,29 @@
+{
+  "id": 1422096,
+  "title": "Good Boy",
+  "original_title": "Good Boy",
+  "release_date": "2025-10-01",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

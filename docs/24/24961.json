@@ -1,0 +1,33 @@
+{
+  "id": 24961,
+  "title": "The Wiz",
+  "original_title": "The Wiz",
+  "release_date": "1978-10-24",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

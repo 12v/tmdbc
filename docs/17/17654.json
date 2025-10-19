@@ -1,0 +1,50 @@
+{
+  "id": 17654,
+  "title": "District 9",
+  "original_title": "District 9",
+  "release_date": "2009-08-05",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "english_name": "Chichewa; Nyanja",
+      "iso_639_1": "ny",
+      "name": ""
+    },
+    {
+      "english_name": "Sotho",
+      "iso_639_1": "st",
+      "name": ""
+    },
+    {
+      "english_name": "Xhosa",
+      "iso_639_1": "xh",
+      "name": ""
+    },
+    {
+      "english_name": "Zulu",
+      "iso_639_1": "zu",
+      "name": "isiZulu"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

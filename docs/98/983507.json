@@ -1,0 +1,29 @@
+{
+  "id": 983507,
+  "title": "Good Boy",
+  "original_title": "Good Boy",
+  "release_date": "2022-06-03",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

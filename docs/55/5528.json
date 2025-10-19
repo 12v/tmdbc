@@ -1,0 +1,25 @@
+{
+  "id": 5528,
+  "title": "The Chorus",
+  "original_title": "Les Choristes",
+  "release_date": "2004-03-17",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

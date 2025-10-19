@@ -1,0 +1,33 @@
+{
+  "id": 298382,
+  "title": "The Dressmaker",
+  "original_title": "The Dressmaker",
+  "release_date": "2015-10-29",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

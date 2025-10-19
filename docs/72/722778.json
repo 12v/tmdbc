@@ -1,0 +1,25 @@
+{
+  "id": 722778,
+  "title": "The Hand of God",
+  "original_title": "\u00c8 stata la mano di Dio",
+  "release_date": "2021-11-24",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 974950,
+  "title": "Emilia P\u00e9rez",
+  "original_title": "Emilia P\u00e9rez",
+  "release_date": "2024-08-21",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 251519,
+  "title": "Son of Batman",
+  "original_title": "Son of Batman",
+  "release_date": "2014-05-13",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

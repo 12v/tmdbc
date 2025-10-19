@@ -1,0 +1,30 @@
+{
+  "id": 265169,
+  "title": "Winter Sleep",
+  "original_title": "K\u0131\u015f Uykusu",
+  "release_date": "2014-06-13",
+  "status": "Released",
+  "runtime": 196,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

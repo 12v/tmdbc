@@ -1,0 +1,33 @@
+{
+  "id": 378064,
+  "title": "A Silent Voice: The Movie",
+  "original_title": "\u6620\u753b \u8072\u306e\u5f62",
+  "release_date": "2016-09-17",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

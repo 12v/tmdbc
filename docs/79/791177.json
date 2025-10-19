@@ -1,0 +1,33 @@
+{
+  "id": 791177,
+  "title": "Bones and All",
+  "original_title": "Bones and All",
+  "release_date": "2022-11-18",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

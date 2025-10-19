@@ -1,0 +1,29 @@
+{
+  "id": 9764,
+  "title": "Dersu Uzala",
+  "original_title": "\u0414\u0435\u0440\u0441\u0443 \u0423\u0437\u0430\u043b\u0430",
+  "release_date": "1975-08-02",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

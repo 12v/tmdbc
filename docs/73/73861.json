@@ -1,0 +1,33 @@
+{
+  "id": 73861,
+  "title": "A Serbian Film",
+  "original_title": "Srpski film",
+  "release_date": "2010-01-06",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "RS"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

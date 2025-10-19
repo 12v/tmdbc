@@ -1,0 +1,29 @@
+{
+  "id": 622951,
+  "title": "A Sun",
+  "original_title": "\u967d\u5149\u666e\u7167",
+  "release_date": "2019-11-01",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

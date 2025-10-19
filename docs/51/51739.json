@@ -1,0 +1,33 @@
+{
+  "id": 51739,
+  "title": "The Secret World of Arrietty",
+  "original_title": "\u501f\u308a\u3050\u3089\u3057\u306e\u30a2\u30ea\u30a8\u30c3\u30c6\u30a3",
+  "release_date": "2010-07-16",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 36877,
+  "title": "The Blood of a Poet",
+  "original_title": "Le Sang d'un po\u00e8te",
+  "release_date": "1932-01-20",
+  "status": "Released",
+  "runtime": 55,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

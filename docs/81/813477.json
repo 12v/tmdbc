@@ -1,0 +1,38 @@
+{
+  "id": 813477,
+  "title": "Shin Kamen Rider",
+  "original_title": "\u30b7\u30f3\u30fb\u4eee\u9762\u30e9\u30a4\u30c0\u30fc",
+  "release_date": "2023-03-17",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

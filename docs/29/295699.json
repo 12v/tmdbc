@@ -1,0 +1,25 @@
+{
+  "id": 295699,
+  "title": "Everybody Wants Some!!",
+  "original_title": "Everybody Wants Some!!",
+  "release_date": "2016-03-30",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

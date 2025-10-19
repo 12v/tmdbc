@@ -1,0 +1,25 @@
+{
+  "id": 25858,
+  "title": "Drunken Angel",
+  "original_title": "\u9154\u3044\u3069\u308c\u5929\u4f7f",
+  "release_date": "1948-04-27",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 10663,
+  "title": "The Waterboy",
+  "original_title": "The Waterboy",
+  "release_date": "1998-11-06",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

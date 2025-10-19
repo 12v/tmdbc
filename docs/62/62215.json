@@ -1,0 +1,29 @@
+{
+  "id": 62215,
+  "title": "Melancholia",
+  "original_title": "Melancholia",
+  "release_date": "2011-05-26",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

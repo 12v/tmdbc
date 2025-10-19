@@ -1,0 +1,37 @@
+{
+  "id": 980477,
+  "title": "Ne Zha 2",
+  "original_title": "\u54ea\u5412\u4e4b\u9b54\u7ae5\u95f9\u6d77",
+  "release_date": "2025-01-29",
+  "status": "Released",
+  "runtime": 144,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

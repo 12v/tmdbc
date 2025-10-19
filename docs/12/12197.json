@@ -1,0 +1,35 @@
+{
+  "id": 12197,
+  "title": "Reprise",
+  "original_title": "Reprise",
+  "release_date": "2006-09-08",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

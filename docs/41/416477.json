@@ -1,0 +1,38 @@
+{
+  "id": 416477,
+  "title": "The Big Sick",
+  "original_title": "The Big Sick",
+  "release_date": "2017-03-30",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Urdu",
+      "iso_639_1": "ur",
+      "name": "\u0627\u0631\u062f\u0648"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

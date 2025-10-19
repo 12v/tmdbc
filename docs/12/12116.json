@@ -1,0 +1,29 @@
+{
+  "id": 12116,
+  "title": "Love in the Afternoon",
+  "original_title": "L'Amour l'apr\u00e8s-midi",
+  "release_date": "1972-09-01",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

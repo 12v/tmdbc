@@ -1,0 +1,33 @@
+{
+  "id": 517302,
+  "title": "Hatching",
+  "original_title": "Pahanhautoja",
+  "release_date": "2022-03-04",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

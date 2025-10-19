@@ -1,0 +1,33 @@
+{
+  "id": 25623,
+  "title": "House",
+  "original_title": "\u30cf\u30a6\u30b9",
+  "release_date": "1977-08-26",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 336,
+  "title": "Duck, You Sucker",
+  "original_title": "Gi\u00f9 la testa",
+  "release_date": "1971-10-29",
+  "status": "Released",
+  "runtime": 157,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "ES",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

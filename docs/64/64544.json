@@ -1,0 +1,33 @@
+{
+  "id": 64544,
+  "title": "Boyfriends and Girlfriends",
+  "original_title": "L'Ami de mon amie",
+  "release_date": "1987-08-26",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

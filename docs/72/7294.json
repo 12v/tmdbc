@@ -1,0 +1,33 @@
+{
+  "id": 7294,
+  "title": "The Man Without a Past",
+  "original_title": "Mies vailla menneisyytt\u00e4",
+  "release_date": "2002-03-01",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

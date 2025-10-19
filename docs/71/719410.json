@@ -1,0 +1,35 @@
+{
+  "id": 719410,
+  "title": "Your Name Engraved Herein",
+  "original_title": "\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57",
+  "release_date": "2020-09-30",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

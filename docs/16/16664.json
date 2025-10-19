@@ -1,0 +1,29 @@
+{
+  "id": 16664,
+  "title": "All About Lily Chou-Chou",
+  "original_title": "\u30ea\u30ea\u30a4\u30fb\u30b7\u30e5\u30b7\u30e5\u306e\u3059\u3079\u3066",
+  "release_date": "2001-10-06",
+  "status": "Released",
+  "runtime": 146,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

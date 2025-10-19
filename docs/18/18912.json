@@ -1,0 +1,33 @@
+{
+  "id": 18912,
+  "title": "Angst",
+  "original_title": "Angst",
+  "release_date": "1983-01-01",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

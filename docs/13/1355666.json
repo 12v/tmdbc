@@ -1,0 +1,33 @@
+{
+  "id": 1355666,
+  "title": "Love Untangled",
+  "original_title": "\uace0\ubc31\uc758 \uc5ed\uc0ac",
+  "release_date": "2025-08-28",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

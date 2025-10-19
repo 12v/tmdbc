@@ -1,0 +1,29 @@
+{
+  "id": 16337,
+  "title": "The Texas Chainsaw Massacre 2",
+  "original_title": "The Texas Chainsaw Massacre 2",
+  "release_date": "1986-08-22",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

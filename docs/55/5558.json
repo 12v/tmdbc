@@ -1,0 +1,25 @@
+{
+  "id": 5558,
+  "title": "The Phantom of Liberty",
+  "original_title": "Le Fant\u00f4me de la libert\u00e9",
+  "release_date": "1974-09-10",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

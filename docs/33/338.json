@@ -1,0 +1,29 @@
+{
+  "id": 338,
+  "title": "Good Bye, Lenin!",
+  "original_title": "Good Bye, Lenin!",
+  "release_date": "2003-02-13",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

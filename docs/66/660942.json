@@ -1,0 +1,34 @@
+{
+  "id": 660942,
+  "title": "The Innocents",
+  "original_title": "De uskyldige",
+  "release_date": "2021-09-03",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

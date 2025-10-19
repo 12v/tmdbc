@@ -1,0 +1,33 @@
+{
+  "id": 374052,
+  "title": "The Love Witch",
+  "original_title": "The Love Witch",
+  "release_date": "2016-11-11",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

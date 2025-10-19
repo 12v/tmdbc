@@ -1,0 +1,33 @@
+{
+  "id": 64847,
+  "title": "Belladonna of Sadness",
+  "original_title": "\u54c0\u3057\u307f\u306e\u30d9\u30e9\u30c9\u30f3\u30ca",
+  "release_date": "1973-06-30",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 889699,
+  "title": "Holy Spider",
+  "original_title": "\u0639\u0646\u06a9\u0628\u0648\u062a \u0645\u0642\u062f\u0633",
+  "release_date": "2022-07-13",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

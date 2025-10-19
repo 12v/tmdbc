@@ -1,0 +1,37 @@
+{
+  "id": 2118,
+  "title": "L.A. Confidential",
+  "original_title": "L.A. Confidential",
+  "release_date": "1997-09-19",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

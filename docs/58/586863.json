@@ -1,0 +1,38 @@
+{
+  "id": 586863,
+  "title": "Les Mis\u00e9rables",
+  "original_title": "Les Mis\u00e9rables",
+  "release_date": "2019-11-14",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Bambara",
+      "iso_639_1": "bm",
+      "name": "Bamanankan"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

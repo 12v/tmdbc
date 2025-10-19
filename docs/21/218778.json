@@ -1,0 +1,29 @@
+{
+  "id": 218778,
+  "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+  "original_title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+  "release_date": "2014-10-08",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

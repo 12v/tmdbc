@@ -1,0 +1,33 @@
+{
+  "id": 29259,
+  "title": "Le Trou",
+  "original_title": "Le Trou",
+  "release_date": "1960-03-18",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

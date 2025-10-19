@@ -1,0 +1,33 @@
+{
+  "id": 152742,
+  "title": "The Best Offer",
+  "original_title": "La migliore offerta",
+  "release_date": "2013-01-01",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

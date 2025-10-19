@@ -1,0 +1,38 @@
+{
+  "id": 616,
+  "title": "The Last Samurai",
+  "original_title": "The Last Samurai",
+  "release_date": "2003-12-05",
+  "status": "Released",
+  "runtime": 154,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

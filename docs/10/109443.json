@@ -1,0 +1,25 @@
+{
+  "id": 109443,
+  "title": "Anchorman 2: The Legend Continues",
+  "original_title": "Anchorman 2: The Legend Continues",
+  "release_date": "2013-12-18",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

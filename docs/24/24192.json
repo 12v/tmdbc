@@ -1,0 +1,25 @@
+{
+  "id": 24192,
+  "title": "The Gospel According to St. Matthew",
+  "original_title": "Il vangelo secondo Matteo",
+  "release_date": "1965-03-03",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

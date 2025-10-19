@@ -1,0 +1,33 @@
+{
+  "id": 47931,
+  "title": "Elite Squad: The Enemy Within",
+  "original_title": "Tropa de Elite 2",
+  "release_date": "2010-10-08",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

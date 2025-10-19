@@ -1,0 +1,38 @@
+{
+  "id": 5165,
+  "title": "L'Avventura",
+  "original_title": "L'avventura",
+  "release_date": "1960-09-14",
+  "status": "Released",
+  "runtime": 144,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

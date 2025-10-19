@@ -1,0 +1,33 @@
+{
+  "id": 17111,
+  "title": "Shutter",
+  "original_title": "\u0e0a\u0e31\u0e15\u0e40\u0e15\u0e2d\u0e23\u0e4c \u0e01\u0e14\u0e15\u0e34\u0e14\u0e27\u0e34\u0e0d\u0e0d\u0e32\u0e13",
+  "release_date": "2004-09-09",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

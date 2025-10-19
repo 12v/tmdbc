@@ -1,0 +1,39 @@
+{
+  "id": 21348,
+  "title": "Kirikou and the Sorceress",
+  "original_title": "Kirikou et la sorci\u00e8re",
+  "release_date": "1998-12-09",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR",
+    "LU"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

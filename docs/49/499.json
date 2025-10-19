@@ -1,0 +1,25 @@
+{
+  "id": 499,
+  "title": "Cl\u00e9o from 5 to 7",
+  "original_title": "Cl\u00e9o de 5 \u00e0 7",
+  "release_date": "1962-04-11",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

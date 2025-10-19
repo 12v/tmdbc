@@ -1,0 +1,25 @@
+{
+  "id": 4256,
+  "title": "Scary Movie 3",
+  "original_title": "Scary Movie 3",
+  "release_date": "2003-10-24",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

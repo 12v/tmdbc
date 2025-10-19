@@ -1,0 +1,30 @@
+{
+  "id": 496743,
+  "title": "Aniara",
+  "original_title": "Aniara",
+  "release_date": "2019-02-01",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE",
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 481432,
+  "title": "Happy as Lazzaro",
+  "original_title": "Lazzaro felice",
+  "release_date": "2018-05-31",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

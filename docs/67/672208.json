@@ -1,0 +1,25 @@
+{
+  "id": 672208,
+  "title": "A Hero",
+  "original_title": "\u0642\u0647\u0631\u0645\u0627\u0646",
+  "release_date": "2021-12-15",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

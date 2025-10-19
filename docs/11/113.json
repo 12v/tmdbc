@@ -1,0 +1,25 @@
+{
+  "id": 113,
+  "title": "Spring, Summer, Fall, Winter... and Spring",
+  "original_title": "\ubd04 \uc5ec\ub984 \uac00\uc744 \uaca8\uc6b8 \uadf8\ub9ac\uace0 \ubd04",
+  "release_date": "2003-09-19",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

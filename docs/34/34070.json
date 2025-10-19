@@ -1,0 +1,35 @@
+{
+  "id": 34070,
+  "title": "Songs from the Second Floor",
+  "original_title": "S\u00e5nger fr\u00e5n andra v\u00e5ningen",
+  "release_date": "2000-10-06",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 199,
+  "title": "Star Trek: First Contact",
+  "original_title": "Star Trek: First Contact",
+  "release_date": "1996-11-22",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 43904,
+  "title": "L'Atalante",
+  "original_title": "L'Atalante",
+  "release_date": "1934-04-24",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 2487,
+  "title": "Lady Snowblood",
+  "original_title": "\u4fee\u7f85\u96ea\u59eb",
+  "release_date": "1973-12-01",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

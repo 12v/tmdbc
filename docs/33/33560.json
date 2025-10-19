@@ -1,0 +1,29 @@
+{
+  "id": 33560,
+  "title": "Totally F***ed Up",
+  "original_title": "Totally F***ed Up",
+  "release_date": "1994-08-19",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

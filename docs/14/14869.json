@@ -1,0 +1,47 @@
+{
+  "id": 14869,
+  "title": "G.I. Joe: The Rise of Cobra",
+  "original_title": "G.I. Joe: The Rise of Cobra",
+  "release_date": "2009-08-03",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Gaelic",
+      "iso_639_1": "gd",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

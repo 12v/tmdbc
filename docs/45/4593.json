@@ -1,0 +1,30 @@
+{
+  "id": 4593,
+  "title": "The Discreet Charm of the Bourgeoisie",
+  "original_title": "Le Charme discret de la bourgeoisie",
+  "release_date": "1972-09-15",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

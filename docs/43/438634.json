@@ -1,0 +1,25 @@
+{
+  "id": 438634,
+  "title": "Summer 1993",
+  "original_title": "Estiu 1993",
+  "release_date": "2017-03-24",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ca",
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

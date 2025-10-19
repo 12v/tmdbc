@@ -1,0 +1,29 @@
+{
+  "id": 1291559,
+  "title": "Drawing Closer",
+  "original_title": "\u4f59\u547d\u4e00\u5e74\u306e\u50d5\u304c\u3001\u4f59\u547d\u534a\u5e74\u306e\u541b\u3068\u51fa\u4f1a\u3063\u305f\u8a71\u3002",
+  "release_date": "2024-06-26",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

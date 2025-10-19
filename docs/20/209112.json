@@ -1,0 +1,33 @@
+{
+  "id": 209112,
+  "title": "Batman v Superman: Dawn of Justice",
+  "original_title": "Batman v Superman: Dawn of Justice",
+  "release_date": "2016-03-23",
+  "status": "Released",
+  "runtime": 152,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

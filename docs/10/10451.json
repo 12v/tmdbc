@@ -1,0 +1,33 @@
+{
+  "id": 10451,
+  "title": "Eat Drink Man Woman",
+  "original_title": "\u98f2\u98df\u7537\u5973",
+  "release_date": "1994-08-03",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

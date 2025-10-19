@@ -1,0 +1,33 @@
+{
+  "id": 50162,
+  "title": "964 Pinocchio",
+  "original_title": "\u30d4\u30ce\u30ad\u30aa\u221a964",
+  "release_date": "1991-09-14",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

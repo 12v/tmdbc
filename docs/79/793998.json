@@ -1,0 +1,25 @@
+{
+  "id": 793998,
+  "title": "Happening",
+  "original_title": "L'\u00c9v\u00e9nement",
+  "release_date": "2021-11-04",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

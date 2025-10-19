@@ -1,0 +1,29 @@
+{
+  "id": 36592,
+  "title": "Swing Girls",
+  "original_title": "\u30b9\u30a6\u30a3\u30f3\u30b0\u30ac\u30fc\u30eb\u30ba",
+  "release_date": "2004-09-11",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

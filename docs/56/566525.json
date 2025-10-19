@@ -1,0 +1,38 @@
+{
+  "id": 566525,
+  "title": "Shang-Chi and the Legend of the Ten Rings",
+  "original_title": "Shang-Chi and the Legend of the Ten Rings",
+  "release_date": "2021-09-01",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

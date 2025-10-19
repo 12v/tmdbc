@@ -1,0 +1,39 @@
+{
+  "id": 577922,
+  "title": "Tenet",
+  "original_title": "Tenet",
+  "release_date": "2020-08-22",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Estonian",
+      "iso_639_1": "et",
+      "name": "Eesti"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

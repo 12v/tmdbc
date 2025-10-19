@@ -1,0 +1,25 @@
+{
+  "id": 316023,
+  "title": "Mike and Dave Need Wedding Dates",
+  "original_title": "Mike and Dave Need Wedding Dates",
+  "release_date": "2016-07-07",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 766423,
+  "title": "Puparia",
+  "original_title": "Puparia",
+  "release_date": "2021-09-23",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

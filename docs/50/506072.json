@@ -1,0 +1,26 @@
+{
+  "id": 506072,
+  "title": "Prospect",
+  "original_title": "Prospect",
+  "release_date": "2018-10-02",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

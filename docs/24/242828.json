@@ -1,0 +1,37 @@
+{
+  "id": 242828,
+  "title": "When Marnie Was There",
+  "original_title": "\u601d\u3044\u51fa\u306e\u30de\u30fc\u30cb\u30fc",
+  "release_date": "2014-07-19",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

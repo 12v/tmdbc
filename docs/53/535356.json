@@ -1,0 +1,29 @@
+{
+  "id": 535356,
+  "title": "Elisa & Marcela",
+  "original_title": "Elisa y Marcela",
+  "release_date": "2019-05-24",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

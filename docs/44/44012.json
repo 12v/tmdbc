@@ -1,0 +1,25 @@
+{
+  "id": 44012,
+  "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+  "original_title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+  "release_date": "1976-01-21",
+  "status": "Released",
+  "runtime": 202,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

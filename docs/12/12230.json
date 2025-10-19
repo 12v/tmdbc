@@ -1,0 +1,37 @@
+{
+  "id": 12230,
+  "title": "One Hundred and One Dalmatians",
+  "original_title": "One Hundred and One Dalmatians",
+  "release_date": "1961-01-25",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 897,
+  "title": "Aparajito",
+  "original_title": "\u0985\u09aa\u09b0\u09be\u099c\u09bf\u09a4",
+  "release_date": "1956-10-11",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Sanskrit",
+      "iso_639_1": "sa",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

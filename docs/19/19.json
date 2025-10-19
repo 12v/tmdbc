@@ -1,0 +1,29 @@
+{
+  "id": 19,
+  "title": "Metropolis",
+  "original_title": "Metropolis",
+  "release_date": "1927-02-06",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 27019,
+  "title": "C\u00e9line and Julie Go Boating",
+  "original_title": "C\u00e9line et Julie vont en bateau",
+  "release_date": "1974-09-18",
+  "status": "Released",
+  "runtime": 193,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 68730,
+  "title": "Silence",
+  "original_title": "Silence",
+  "release_date": "2016-12-23",
+  "status": "Released",
+  "runtime": 161,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

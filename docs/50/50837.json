@@ -1,0 +1,29 @@
+{
+  "id": 50837,
+  "title": "Martha Marcy May Marlene",
+  "original_title": "Martha Marcy May Marlene",
+  "release_date": "2011-10-21",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

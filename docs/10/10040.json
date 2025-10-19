@@ -1,0 +1,29 @@
+{
+  "id": 10040,
+  "title": "Miss Congeniality 2: Armed and Fabulous",
+  "original_title": "Miss Congeniality 2: Armed and Fabulous",
+  "release_date": "2005-03-11",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

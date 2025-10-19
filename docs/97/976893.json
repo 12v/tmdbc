@@ -1,0 +1,30 @@
+{
+  "id": 976893,
+  "title": "Perfect Days",
+  "original_title": "PERFECT DAYS",
+  "release_date": "2023-11-10",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

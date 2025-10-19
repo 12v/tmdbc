@@ -1,0 +1,33 @@
+{
+  "id": 2469,
+  "title": "Tie Me Up! Tie Me Down!",
+  "original_title": "\u00a1\u00c1tame!",
+  "release_date": "1990-01-22",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

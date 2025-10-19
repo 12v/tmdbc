@@ -1,0 +1,25 @@
+{
+  "id": 104549,
+  "title": "Throw Away Your Books, Rally in the Streets",
+  "original_title": "\u66f8\u3092\u6368\u3066\u3088\u753a\u3078\u51fa\u3088\u3046",
+  "release_date": "1971-04-24",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

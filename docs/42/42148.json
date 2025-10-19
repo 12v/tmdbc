@@ -1,0 +1,29 @@
+{
+  "id": 42148,
+  "title": "Pixote",
+  "original_title": "Pixote: A Lei do Mais Fraco",
+  "release_date": "1980-09-26",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

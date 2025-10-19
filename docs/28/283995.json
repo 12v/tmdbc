@@ -1,0 +1,33 @@
+{
+  "id": 283995,
+  "title": "Guardians of the Galaxy Vol. 2",
+  "original_title": "Guardians of the Galaxy Vol. 2",
+  "release_date": "2017-04-19",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

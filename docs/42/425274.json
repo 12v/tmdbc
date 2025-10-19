@@ -1,0 +1,33 @@
+{
+  "id": 425274,
+  "title": "Now You See Me: Now You Don't",
+  "original_title": "Now You See Me: Now You Don't",
+  "release_date": "2025-11-12",
+  "status": "Post Production",
+  "runtime": 112,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

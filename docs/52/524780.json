@@ -1,0 +1,25 @@
+{
+  "id": 524780,
+  "title": "Dogs Don't Wear Pants",
+  "original_title": "Koirat eiv\u00e4t k\u00e4yt\u00e4 housuja",
+  "release_date": "2019-11-01",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

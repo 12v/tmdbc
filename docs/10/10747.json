@@ -1,0 +1,35 @@
+{
+  "id": 10747,
+  "title": "The Outlaw Josey Wales",
+  "original_title": "The Outlaw Josey Wales",
+  "release_date": "1976-06-30",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Navajo",
+      "iso_639_1": "nv",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

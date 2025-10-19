@@ -1,0 +1,37 @@
+{
+  "id": 13382,
+  "title": "Rudolph the Red-Nosed Reindeer",
+  "original_title": "Rudolph the Red-Nosed Reindeer",
+  "release_date": "1964-12-06",
+  "status": "Released",
+  "runtime": 52,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

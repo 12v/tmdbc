@@ -1,0 +1,29 @@
+{
+  "id": 11891,
+  "title": "Kung Pow: Enter the Fist",
+  "original_title": "Kung Pow: Enter the Fist",
+  "release_date": "2002-01-25",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

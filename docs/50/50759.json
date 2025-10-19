@@ -1,0 +1,25 @@
+{
+  "id": 50759,
+  "title": "An Autumn Afternoon",
+  "original_title": "\u79cb\u5200\u9b5a\u306e\u5473",
+  "release_date": "1962-11-18",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

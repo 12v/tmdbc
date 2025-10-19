@@ -1,0 +1,33 @@
+{
+  "id": 6878,
+  "title": "Homeward Bound: The Incredible Journey",
+  "original_title": "Homeward Bound: The Incredible Journey",
+  "release_date": "1993-02-03",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

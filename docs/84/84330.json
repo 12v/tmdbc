@@ -1,0 +1,25 @@
+{
+  "id": 84330,
+  "title": "Room 237",
+  "original_title": "Room 237",
+  "release_date": "2012-10-26",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

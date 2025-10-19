@@ -1,0 +1,29 @@
+{
+  "id": 42269,
+  "title": "We All Loved Each Other So Much",
+  "original_title": "C'eravamo tanto amati",
+  "release_date": "1974-12-21",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

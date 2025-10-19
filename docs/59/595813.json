@@ -1,0 +1,25 @@
+{
+  "id": 595813,
+  "title": "Barb & Star Go to Vista Del Mar",
+  "original_title": "Barb & Star Go to Vista Del Mar",
+  "release_date": "2021-03-29",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

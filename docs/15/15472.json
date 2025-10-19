@@ -1,0 +1,45 @@
+{
+  "id": 15472,
+  "title": "The Girl with the Dragon Tattoo",
+  "original_title": "M\u00e4n som hatar kvinnor",
+  "release_date": "2009-02-27",
+  "status": "Released",
+  "runtime": 152,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "DE",
+    "NO",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

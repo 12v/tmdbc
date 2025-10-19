@@ -1,0 +1,33 @@
+{
+  "id": 58129,
+  "title": "The Phantom Carriage",
+  "original_title": "K\u00f6rkarlen",
+  "release_date": "1921-01-01",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

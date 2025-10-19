@@ -1,0 +1,38 @@
+{
+  "id": 9313,
+  "title": "The Man in the Iron Mask",
+  "original_title": "The Man in the Iron Mask",
+  "release_date": "1998-03-12",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

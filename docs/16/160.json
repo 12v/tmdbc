@@ -1,0 +1,25 @@
+{
+  "id": 160,
+  "title": "The Arrival of a Train at La Ciotat",
+  "original_title": "L'arriv\u00e9e d'un train \u00e0 La Ciotat",
+  "release_date": "1896-06-30",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

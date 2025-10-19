@@ -1,0 +1,29 @@
+{
+  "id": 10131,
+  "title": "A Nightmare on Elm Street 4: The Dream Master",
+  "original_title": "A Nightmare on Elm Street 4: The Dream Master",
+  "release_date": "1988-08-19",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

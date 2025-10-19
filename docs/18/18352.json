@@ -1,0 +1,33 @@
+{
+  "id": 18352,
+  "title": "The Cremator",
+  "original_title": "Spalova\u010d mrtvol",
+  "release_date": "1969-03-14",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

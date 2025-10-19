@@ -1,0 +1,33 @@
+{
+  "id": 586940,
+  "title": "I Lost My Body",
+  "original_title": "J'ai perdu mon corps",
+  "release_date": "2019-11-06",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

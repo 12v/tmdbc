@@ -1,0 +1,30 @@
+{
+  "id": 144597,
+  "title": "Black Panthers",
+  "original_title": "Black Panthers",
+  "release_date": "1968-12-01",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

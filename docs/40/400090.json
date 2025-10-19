@@ -1,0 +1,39 @@
+{
+  "id": 400090,
+  "title": "The Nightingale",
+  "original_title": "The Nightingale",
+  "release_date": "2018-09-23",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Irish",
+      "iso_639_1": "ga",
+      "name": "Gaeilge"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

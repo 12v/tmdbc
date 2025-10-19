@@ -1,0 +1,30 @@
+{
+  "id": 13002,
+  "title": "Barbie in the 12 Dancing Princesses",
+  "original_title": "Barbie in the 12 Dancing Princesses",
+  "release_date": "2006-09-19",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

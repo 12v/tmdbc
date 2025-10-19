@@ -1,0 +1,34 @@
+{
+  "id": 958186,
+  "title": "T\u00f3tem",
+  "original_title": "T\u00f3tem",
+  "release_date": "2023-09-07",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

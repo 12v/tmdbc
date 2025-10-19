@@ -1,0 +1,33 @@
+{
+  "id": 1059,
+  "title": "The Hidden Fortress",
+  "original_title": "\u96a0\u3057\u7826\u306e\u4e09\u60aa\u4eba",
+  "release_date": "1958-12-28",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

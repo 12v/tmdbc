@@ -1,0 +1,33 @@
+{
+  "id": 662,
+  "title": "La Jet\u00e9e",
+  "original_title": "La Jet\u00e9e",
+  "release_date": "1962-02-16",
+  "status": "Released",
+  "runtime": 29,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

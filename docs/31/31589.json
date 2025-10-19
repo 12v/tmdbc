@@ -1,0 +1,33 @@
+{
+  "id": 31589,
+  "title": "The Bad Sleep Well",
+  "original_title": "\u60aa\u3044\u5974\u307b\u3069\u3088\u304f\u7720\u308b",
+  "release_date": "1960-09-19",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

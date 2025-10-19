@@ -1,0 +1,35 @@
+{
+  "id": 59859,
+  "title": "Kick-Ass 2",
+  "original_title": "Kick-Ass 2",
+  "release_date": "2013-07-17",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP",
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

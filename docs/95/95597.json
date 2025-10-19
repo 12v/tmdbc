@@ -1,0 +1,31 @@
+{
+  "id": 95597,
+  "title": "Black Girl",
+  "original_title": "La Noire de...",
+  "release_date": "1966-03-17",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Wolof",
+      "iso_639_1": "wo",
+      "name": "Wolof"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "SN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

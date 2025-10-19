@@ -1,0 +1,38 @@
+{
+  "id": 16198,
+  "title": "My Neighbors the Yamadas",
+  "original_title": "\u30db\u30fc\u30db\u30b1\u30ad\u30e7 \u3068\u306a\u308a\u306e\u5c71\u7530\u304f\u3093",
+  "release_date": "1999-07-17",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

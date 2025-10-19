@@ -1,0 +1,38 @@
+{
+  "id": 27337,
+  "title": "Linda Linda Linda",
+  "original_title": "\u30ea\u30f3\u30c0 \u30ea\u30f3\u30c0 \u30ea\u30f3\u30c0",
+  "release_date": "2005-07-23",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

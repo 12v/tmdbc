@@ -1,0 +1,34 @@
+{
+  "id": 2748,
+  "title": "Journey to Italy",
+  "original_title": "Viaggio in Italia",
+  "release_date": "1954-09-07",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 44967,
+  "title": "Strike",
+  "original_title": "\u0421\u0442\u0430\u0447\u043a\u0430",
+  "release_date": "1925-04-28",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

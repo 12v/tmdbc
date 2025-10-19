@@ -1,0 +1,30 @@
+{
+  "id": 23160,
+  "title": "Werckmeister Harmonies",
+  "original_title": "Werckmeister harm\u00f3ni\u00e1k",
+  "release_date": "2001-02-01",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Sloven\u010dina"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

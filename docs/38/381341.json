@@ -1,0 +1,29 @@
+{
+  "id": 381341,
+  "title": "Perfect Strangers",
+  "original_title": "Perfetti sconosciuti",
+  "release_date": "2016-02-11",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

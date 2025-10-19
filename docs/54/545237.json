@@ -1,0 +1,23 @@
+{
+  "id": 545237,
+  "title": "The Nest",
+  "original_title": "The Nest",
+  "release_date": "2020-05-08",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

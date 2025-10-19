@@ -1,0 +1,30 @@
+{
+  "id": 259316,
+  "title": "Fantastic Beasts and Where to Find Them",
+  "original_title": "Fantastic Beasts and Where to Find Them",
+  "release_date": "2016-11-16",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

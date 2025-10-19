@@ -1,0 +1,33 @@
+{
+  "id": 1278263,
+  "title": "The Seed of the Sacred Fig",
+  "original_title": "Les Graines du figuier sauvage",
+  "release_date": "2024-09-18",
+  "status": "Released",
+  "runtime": 167,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

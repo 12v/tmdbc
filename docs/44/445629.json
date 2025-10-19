@@ -1,0 +1,26 @@
+{
+  "id": 445629,
+  "title": "Fighting with My Family",
+  "original_title": "Fighting with My Family",
+  "release_date": "2019-02-14",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

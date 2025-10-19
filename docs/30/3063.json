@@ -1,0 +1,29 @@
+{
+  "id": 3063,
+  "title": "Duck Soup",
+  "original_title": "Duck Soup",
+  "release_date": "1933-11-12",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

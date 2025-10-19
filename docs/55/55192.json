@@ -1,0 +1,25 @@
+{
+  "id": 55192,
+  "title": "Tokyo Twilight",
+  "original_title": "\u6771\u4eac\u66ae\u8272",
+  "release_date": "1957-04-30",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

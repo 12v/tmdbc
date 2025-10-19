@@ -1,0 +1,30 @@
+{
+  "id": 991,
+  "title": "The Man Who Fell to Earth",
+  "original_title": "The Man Who Fell to Earth",
+  "release_date": "1976-03-18",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

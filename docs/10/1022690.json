@@ -1,0 +1,25 @@
+{
+  "id": 1022690,
+  "title": "Ricky Stanicky",
+  "original_title": "Ricky Stanicky",
+  "release_date": "2024-03-07",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

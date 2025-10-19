@@ -1,0 +1,25 @@
+{
+  "id": 157433,
+  "title": "Pet Sematary",
+  "original_title": "Pet Sematary",
+  "release_date": "2019-04-04",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

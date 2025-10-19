@@ -1,0 +1,25 @@
+{
+  "id": 662401,
+  "title": "The Woman Who Ran",
+  "original_title": "\ub3c4\ub9dd\uce5c \uc5ec\uc790",
+  "release_date": "2020-09-17",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

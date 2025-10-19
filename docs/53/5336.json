@@ -1,0 +1,39 @@
+{
+  "id": 5336,
+  "title": "Sal\u00f2, or the 120 Days of Sodom",
+  "original_title": "Sal\u00f2 o le 120 giornate di Sodoma",
+  "release_date": "1976-01-10",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

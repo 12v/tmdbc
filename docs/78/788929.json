@@ -1,0 +1,33 @@
+{
+  "id": 788929,
+  "title": "Lamb",
+  "original_title": "D\u00fdri\u00f0",
+  "release_date": "2021-08-12",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "IS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

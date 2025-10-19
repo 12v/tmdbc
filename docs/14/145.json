@@ -1,0 +1,29 @@
+{
+  "id": 145,
+  "title": "Breaking the Waves",
+  "original_title": "Breaking the Waves",
+  "release_date": "1996-07-05",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

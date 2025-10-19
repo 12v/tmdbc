@@ -1,0 +1,33 @@
+{
+  "id": 67612,
+  "title": "Black God, White Devil",
+  "original_title": "Deus e o Diabo na Terra do Sol",
+  "release_date": "1964-03-13",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

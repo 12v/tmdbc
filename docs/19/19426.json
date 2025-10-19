@@ -1,0 +1,25 @@
+{
+  "id": 19426,
+  "title": "Nights of Cabiria",
+  "original_title": "Le notti di Cabiria",
+  "release_date": "1957-10-03",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

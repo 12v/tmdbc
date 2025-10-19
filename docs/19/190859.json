@@ -1,0 +1,29 @@
+{
+  "id": 190859,
+  "title": "American Sniper",
+  "original_title": "American Sniper",
+  "release_date": "2014-12-25",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

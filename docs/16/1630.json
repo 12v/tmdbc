@@ -1,0 +1,25 @@
+{
+  "id": 1630,
+  "title": "The People vs. Larry Flynt",
+  "original_title": "The People vs. Larry Flynt",
+  "release_date": "1996-12-25",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

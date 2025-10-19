@@ -1,0 +1,41 @@
+{
+  "id": 961,
+  "title": "The General",
+  "original_title": "The General",
+  "release_date": "1926-12-25",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 110402,
+  "title": "Hard to Be a God",
+  "original_title": "\u0422\u0440\u0443\u0434\u043d\u043e \u0431\u044b\u0442\u044c \u0431\u043e\u0433\u043e\u043c",
+  "release_date": "2014-02-27",
+  "status": "Released",
+  "runtime": 177,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

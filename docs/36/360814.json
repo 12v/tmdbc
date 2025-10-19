@@ -1,0 +1,33 @@
+{
+  "id": 360814,
+  "title": "Dangal",
+  "original_title": "\u0926\u0902\u0917\u0932",
+  "release_date": "2016-12-21",
+  "status": "Released",
+  "runtime": 161,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

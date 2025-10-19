@@ -1,0 +1,47 @@
+{
+  "id": 15067,
+  "title": "The Good, the Bad, the Weird",
+  "original_title": "\uc88b\uc740 \ub188, \ub098\uc05c \ub188, \uc774\uc0c1\ud55c \ub188",
+  "release_date": "2008-07-16",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

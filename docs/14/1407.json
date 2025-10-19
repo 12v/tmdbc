@@ -1,0 +1,29 @@
+{
+  "id": 1407,
+  "title": "La Vie en Rose",
+  "original_title": "La M\u00f4me",
+  "release_date": "2007-02-14",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

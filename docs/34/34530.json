@@ -1,0 +1,43 @@
+{
+  "id": 34530,
+  "title": "The Human Condition III: A Soldier's Prayer",
+  "original_title": "\u4eba\u9593\u306e\u689d\u4ef6\u3000\u5b8c\u7d50\u7bc7",
+  "release_date": "1961-01-28",
+  "status": "Released",
+  "runtime": 190,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

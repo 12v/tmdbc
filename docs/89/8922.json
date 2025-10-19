@@ -1,0 +1,25 @@
+{
+  "id": 8922,
+  "title": "Jeepers Creepers",
+  "original_title": "Jeepers Creepers",
+  "release_date": "2001-07-01",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

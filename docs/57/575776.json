@@ -1,0 +1,38 @@
+{
+  "id": 575776,
+  "title": "Saint Maud",
+  "original_title": "Saint Maud",
+  "release_date": "2020-10-09",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Welsh",
+      "iso_639_1": "cy",
+      "name": "Cymraeg"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

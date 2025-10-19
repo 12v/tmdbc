@@ -1,0 +1,29 @@
+{
+  "id": 1012201,
+  "title": "HAIKYU!! The Dumpster Battle",
+  "original_title": "\u5287\u5834\u7248\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30b4\u30df\u6368\u3066\u5834\u306e\u6c7a\u6226",
+  "release_date": "2024-02-16",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 493529,
+  "title": "Dungeons & Dragons: Honor Among Thieves",
+  "original_title": "Dungeons & Dragons: Honor Among Thieves",
+  "release_date": "2023-03-23",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
