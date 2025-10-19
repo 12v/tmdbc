@@ -1,0 +1,29 @@
+{
+  "id": 117215,
+  "title": "Demon Pond",
+  "original_title": "\u591c\u53c9\u30f6\u6c60",
+  "release_date": "1979-10-20",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

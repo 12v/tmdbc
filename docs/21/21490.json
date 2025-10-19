@@ -1,0 +1,25 @@
+{
+  "id": 21490,
+  "title": "I Live in Fear",
+  "original_title": "\u751f\u304d\u3082\u306e\u306e\u8a18\u9332",
+  "release_date": "1955-11-22",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

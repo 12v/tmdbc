@@ -1,0 +1,33 @@
+{
+  "id": 941220,
+  "title": "Meu Nome \u00e9 Gal",
+  "original_title": "Meu Nome \u00e9 Gal",
+  "release_date": "2023-10-12",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

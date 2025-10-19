@@ -1,0 +1,37 @@
+{
+  "id": 374205,
+  "title": "One Piece Film: GOLD",
+  "original_title": "\u30ef\u30f3\u30d4\u30fc\u30b9\u3000\u30d5\u30a3\u30eb\u30e0 GOLD",
+  "release_date": "2016-07-23",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

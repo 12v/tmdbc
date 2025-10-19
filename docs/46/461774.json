@@ -1,0 +1,33 @@
+{
+  "id": 461774,
+  "title": "Friendly Beast",
+  "original_title": "O Animal Cordial",
+  "release_date": "2018-08-09",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

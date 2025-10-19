@@ -1,0 +1,25 @@
+{
+  "id": 29454,
+  "title": "Face to Face",
+  "original_title": "Ansikte mot ansikte",
+  "release_date": "1976-04-05",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 59239,
+  "title": "The Cloud-Capped Star",
+  "original_title": "\u09ae\u09c7\u0998\u09c7 \u09a2\u09be\u0995\u09be \u09a4\u09be\u09b0\u09be",
+  "release_date": "1960-04-13",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "BD"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
