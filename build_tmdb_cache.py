@@ -183,6 +183,7 @@ def main():
     start_time = time.time()
     last_slug = load_state()
     batch_size = 10
+    TEST_MODE = True  # TODO: Remove for production
 
     print("Processing lbc mappings in batches of 10...")
 
@@ -210,6 +211,11 @@ def main():
             last_slug = slug
 
         print(f"  Saved {batch_count}/{len(batch)} movies.")
+
+        if TEST_MODE:
+            print("Test mode: stopping after one batch.")
+            save_state(last_slug)
+            return
 
 
 if __name__ == "__main__":
