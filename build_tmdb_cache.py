@@ -88,15 +88,32 @@ def fetch_tmdb_data(movie_id: int) -> Optional[Dict[str, Any]]:
         return None
 
 
+def filter_movie_data(movie_data: Dict[str, Any]) -> Dict[str, Any]:
+    """Extract only the fields we want to cache."""
+    return {
+        "id": movie_data.get("id"),
+        "title": movie_data.get("title"),
+        "original_title": movie_data.get("original_title"),
+        "release_date": movie_data.get("release_date"),
+        "status": movie_data.get("status"),
+        "runtime": movie_data.get("runtime"),
+        "original_language": movie_data.get("original_language"),
+        "spoken_languages": movie_data.get("spoken_languages"),
+        "origin_country": movie_data.get("origin_country"),
+        "genres": movie_data.get("genres"),
+    }
+
+
 def save_movie_cache(movie_data: Dict[str, Any]):
     """Save movie data to cache directory structure (docs/XX/YYYY.json)."""
-    movie_id = str(movie_data["id"])
+    filtered_data = filter_movie_data(movie_data)
+    movie_id = str(filtered_data["id"])
     dir_prefix = movie_id[:2].zfill(2)
     cache_dir = Path("docs") / dir_prefix
     cache_dir.mkdir(parents=True, exist_ok=True)
 
     cache_file = cache_dir / f"{movie_id}.json"
-    cache_file.write_text(json.dumps(movie_data, indent=2))
+    cache_file.write_text(json.dumps(filtered_data, indent=2))
 
 
 def fetch_lbc_mapping_ids() -> list[int]:
