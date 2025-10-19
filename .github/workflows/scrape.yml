@@ -27,9 +27,6 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    - name: Run scraper
-      run: python scraper.py
-
     - name: Build TMDB cache
       run: python build_tmdb_cache.py
       env:
