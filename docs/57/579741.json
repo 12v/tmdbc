@@ -1,0 +1,33 @@
+{
+  "id": 579741,
+  "title": "Words Bubble Up Like Soda Pop",
+  "original_title": "\u30b5\u30a4\u30c0\u30fc\u306e\u3088\u3046\u306b\u8a00\u8449\u304c\u6e67\u304d\u4e0a\u304c\u308b",
+  "release_date": "2021-07-22",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 185,
+  "title": "A Clockwork Orange",
+  "original_title": "A Clockwork Orange",
+  "release_date": "1971-12-19",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

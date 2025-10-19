@@ -1,0 +1,34 @@
+{
+  "id": 419704,
+  "title": "Ad Astra",
+  "original_title": "Ad Astra",
+  "release_date": "2019-09-17",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

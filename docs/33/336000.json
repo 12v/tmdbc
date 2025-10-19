@@ -1,0 +1,25 @@
+{
+  "id": 336000,
+  "title": "The Glass Castle",
+  "original_title": "The Glass Castle",
+  "release_date": "2017-08-11",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

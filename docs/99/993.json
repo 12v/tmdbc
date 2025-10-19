@@ -1,0 +1,39 @@
+{
+  "id": 993,
+  "title": "Sleuth",
+  "original_title": "Sleuth",
+  "release_date": "1972-12-10",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

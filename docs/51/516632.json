@@ -1,0 +1,29 @@
+{
+  "id": 516632,
+  "title": "The Empty Man",
+  "original_title": "The Empty Man",
+  "release_date": "2020-10-22",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

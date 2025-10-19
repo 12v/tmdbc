@@ -1,0 +1,45 @@
+{
+  "id": 11906,
+  "title": "Suspiria",
+  "original_title": "Suspiria",
+  "release_date": "1977-02-01",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

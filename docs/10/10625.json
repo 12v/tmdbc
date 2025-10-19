@@ -1,0 +1,44 @@
+{
+  "id": 10625,
+  "title": "Mean Girls",
+  "original_title": "Mean Girls",
+  "release_date": "2004-04-30",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Swahili",
+      "iso_639_1": "sw",
+      "name": "Kiswahili"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

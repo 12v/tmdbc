@@ -1,0 +1,31 @@
+{
+  "id": 12627,
+  "title": "La Belle Noiseuse",
+  "original_title": "La Belle Noiseuse",
+  "release_date": "1991-09-04",
+  "status": "Released",
+  "runtime": 238,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

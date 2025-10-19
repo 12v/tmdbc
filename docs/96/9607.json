@@ -1,0 +1,40 @@
+{
+  "id": 9607,
+  "title": "Super Mario Bros.",
+  "original_title": "Super Mario Bros.",
+  "release_date": "1993-05-28",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "JP",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

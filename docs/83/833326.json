@@ -1,0 +1,39 @@
+{
+  "id": 833326,
+  "title": "Zero Fucks Given",
+  "original_title": "Rien \u00e0 foutre",
+  "release_date": "2022-03-02",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "BE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 10728,
+  "title": "Faust",
+  "original_title": "Faust - Eine deutsche Volkssage",
+  "release_date": "1926-10-13",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 894205,
+  "title": "Werewolf by Night",
+  "original_title": "Werewolf by Night",
+  "release_date": "2022-09-25",
+  "status": "Released",
+  "runtime": 55,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

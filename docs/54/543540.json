@@ -1,0 +1,34 @@
+{
+  "id": 543540,
+  "title": "The Perfect Date",
+  "original_title": "The Perfect Date",
+  "release_date": "2019-04-12",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

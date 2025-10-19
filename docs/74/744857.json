@@ -1,0 +1,30 @@
+{
+  "id": 744857,
+  "title": "When Evil Lurks",
+  "original_title": "Cuando acecha la maldad",
+  "release_date": "2023-10-05",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

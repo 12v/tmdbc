@@ -1,0 +1,29 @@
+{
+  "id": 158921,
+  "title": "Reflections of a Blender",
+  "original_title": "Reflex\u00f5es de um Liquidificador",
+  "release_date": "2010-08-19",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

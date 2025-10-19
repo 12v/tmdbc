@@ -1,0 +1,33 @@
+{
+  "id": 11297,
+  "title": "Save the Green Planet!",
+  "original_title": "\uc9c0\uad6c\ub97c \uc9c0\ucf1c\ub77c!",
+  "release_date": "2003-04-04",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

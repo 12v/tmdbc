@@ -1,0 +1,25 @@
+{
+  "id": 938,
+  "title": "For a Few Dollars More",
+  "original_title": "Per qualche dollaro in pi\u00f9",
+  "release_date": "1965-12-18",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 471498,
+  "title": "Oxygen",
+  "original_title": "Oxyg\u00e8ne",
+  "release_date": "2021-05-12",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

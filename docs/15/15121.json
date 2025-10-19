@@ -1,0 +1,42 @@
+{
+  "id": 15121,
+  "title": "The Sound of Music",
+  "original_title": "The Sound of Music",
+  "release_date": "1965-03-29",
+  "status": "Released",
+  "runtime": 174,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

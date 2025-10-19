@@ -1,0 +1,34 @@
+{
+  "id": 11979,
+  "title": "Queen of the Damned",
+  "original_title": "Queen of the Damned",
+  "release_date": "2002-02-10",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

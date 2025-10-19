@@ -1,0 +1,25 @@
+{
+  "id": 29455,
+  "title": "Winter Light",
+  "original_title": "Nattvardsg\u00e4sterna",
+  "release_date": "1963-02-11",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 660120,
+  "title": "The Worst Person in the World",
+  "original_title": "Verdens verste menneske",
+  "release_date": "2021-10-13",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

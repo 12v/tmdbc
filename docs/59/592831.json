@@ -1,0 +1,44 @@
+{
+  "id": 592831,
+  "title": "Megalopolis",
+  "original_title": "Megalopolis",
+  "release_date": "2024-09-25",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

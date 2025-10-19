@@ -1,0 +1,39 @@
+{
+  "id": 303858,
+  "title": "Money Monster",
+  "original_title": "Money Monster",
+  "release_date": "2016-05-12",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 448491,
+  "title": "Little Forest",
+  "original_title": "\ub9ac\ud2c0 \ud3ec\ub808\uc2a4\ud2b8",
+  "release_date": "2018-02-28",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

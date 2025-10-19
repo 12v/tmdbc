@@ -1,0 +1,30 @@
+{
+  "id": 59189,
+  "title": "Phase IV",
+  "original_title": "Phase IV",
+  "release_date": "1974-09-13",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

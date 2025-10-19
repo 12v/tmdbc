@@ -1,0 +1,30 @@
+{
+  "id": 674324,
+  "title": "The Banshees of Inisherin",
+  "original_title": "The Banshees of Inisherin",
+  "release_date": "2022-10-20",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

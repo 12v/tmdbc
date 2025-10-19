@@ -1,0 +1,30 @@
+{
+  "id": 600583,
+  "title": "The Power of the Dog",
+  "original_title": "The Power of the Dog",
+  "release_date": "2021-10-25",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "NZ",
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

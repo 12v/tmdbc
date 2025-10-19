@@ -1,0 +1,25 @@
+{
+  "id": 13393,
+  "title": "My Father and My Son",
+  "original_title": "Babam ve O\u011flum",
+  "release_date": "2005-11-18",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

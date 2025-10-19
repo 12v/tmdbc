@@ -1,0 +1,26 @@
+{
+  "id": 4248,
+  "title": "Scary Movie 2",
+  "original_title": "Scary Movie 2",
+  "release_date": "2001-07-04",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

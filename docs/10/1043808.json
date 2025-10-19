@@ -1,0 +1,29 @@
+{
+  "id": 1043808,
+  "title": "Vit\u00f3ria",
+  "original_title": "Vit\u00f3ria",
+  "release_date": "2025-03-13",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

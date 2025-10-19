@@ -1,0 +1,29 @@
+{
+  "id": 5335,
+  "title": "Theorem",
+  "original_title": "Teorema",
+  "release_date": "1968-09-07",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

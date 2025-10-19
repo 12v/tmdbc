@@ -1,0 +1,29 @@
+{
+  "id": 104524,
+  "title": "Helter Skelter",
+  "original_title": "\u30d8\u30eb\u30bf\u30fc\u30b9\u30b1\u30eb\u30bf\u30fc",
+  "release_date": "2012-07-14",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 94525,
+  "title": "A Page of Madness",
+  "original_title": "\u72c2\u3063\u305f\u4e00\u9801",
+  "release_date": "1926-09-24",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

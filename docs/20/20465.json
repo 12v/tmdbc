@@ -1,0 +1,25 @@
+{
+  "id": 20465,
+  "title": "Stage Fright",
+  "original_title": "Deliria",
+  "release_date": "1987-02-08",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

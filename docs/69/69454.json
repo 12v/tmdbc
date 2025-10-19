@@ -1,0 +1,25 @@
+{
+  "id": 69454,
+  "title": "One Million Yen Girl",
+  "original_title": "\u767e\u4e07\u5186\u3068\u82e6\u866b\u5973",
+  "release_date": "2008-07-19",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

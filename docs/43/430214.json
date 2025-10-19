@@ -1,0 +1,37 @@
+{
+  "id": 430214,
+  "title": "Night Is Short, Walk On Girl",
+  "original_title": "\u591c\u306f\u77ed\u3057\u6b69\u3051\u3088\u4e59\u5973",
+  "release_date": "2017-04-07",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

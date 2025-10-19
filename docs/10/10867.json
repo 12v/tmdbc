@@ -1,0 +1,25 @@
+{
+  "id": 10867,
+  "title": "Malena",
+  "original_title": "Mal\u00e8na",
+  "release_date": "2000-03-16",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 335,
+  "title": "Once Upon a Time in the West",
+  "original_title": "C'era una volta il West",
+  "release_date": "1968-12-21",
+  "status": "Released",
+  "runtime": 166,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

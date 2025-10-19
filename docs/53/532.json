@@ -1,0 +1,33 @@
+{
+  "id": 532,
+  "title": "A Close Shave",
+  "original_title": "A Close Shave",
+  "release_date": "1996-03-07",
+  "status": "Released",
+  "runtime": 30,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

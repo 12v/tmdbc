@@ -1,0 +1,25 @@
+{
+  "id": 962558,
+  "title": "Leila's Brothers",
+  "original_title": "\u0628\u0631\u0627\u062f\u0631\u0627\u0646 \u0644\u06cc\u0644\u0627",
+  "release_date": "2022-08-24",
+  "status": "Released",
+  "runtime": 170,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 37585,
+  "title": "Night on the Galactic Railroad",
+  "original_title": "\u9280\u6cb3\u9244\u9053\u306e\u591c",
+  "release_date": "1985-07-13",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

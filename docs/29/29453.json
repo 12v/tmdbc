@@ -1,0 +1,25 @@
+{
+  "id": 29453,
+  "title": "The Magician",
+  "original_title": "Ansiktet",
+  "release_date": "1958-12-26",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

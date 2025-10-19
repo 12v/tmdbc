@@ -1,0 +1,34 @@
+{
+  "id": 486898,
+  "title": "Long Day's Journey into Night",
+  "original_title": "\u5730\u7403\u6700\u540e\u7684\u591c\u665a",
+  "release_date": "2018-12-31",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

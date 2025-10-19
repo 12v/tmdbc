@@ -1,0 +1,37 @@
+{
+  "id": 426249,
+  "title": "Lords of Chaos",
+  "original_title": "Lords of Chaos",
+  "release_date": "2018-09-20",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

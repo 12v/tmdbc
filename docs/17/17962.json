@@ -1,0 +1,29 @@
+{
+  "id": 17962,
+  "title": "After Life",
+  "original_title": "\u30ef\u30f3\u30c0\u30d5\u30eb\u30e9\u30a4\u30d5",
+  "release_date": "1999-04-17",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

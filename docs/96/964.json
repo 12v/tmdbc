@@ -1,0 +1,29 @@
+{
+  "id": 964,
+  "title": "The Phantom of the Opera",
+  "original_title": "The Phantom of the Opera",
+  "release_date": "1925-06-29",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9653,
+  "title": "M\u00e4dchen in Uniform",
+  "original_title": "M\u00e4dchen in Uniform",
+  "release_date": "1931-11-27",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1391,
+  "title": "Y Tu Mam\u00e1 Tambi\u00e9n",
+  "original_title": "Y tu mam\u00e1 tambi\u00e9n",
+  "release_date": "2001-06-08",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

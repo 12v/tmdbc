@@ -1,0 +1,33 @@
+{
+  "id": 11713,
+  "title": "Fist of Fury",
+  "original_title": "\u7cbe\u6b66\u9580",
+  "release_date": "1972-03-22",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 550,
+  "title": "Fight Club",
+  "original_title": "Fight Club",
+  "release_date": "1999-10-15",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 10536,
+  "title": "The Italian Job",
+  "original_title": "The Italian Job",
+  "release_date": "1969-06-02",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 665002,
+  "title": "Meeting the Man: James Baldwin in Paris",
+  "original_title": "Meeting the Man: James Baldwin in Paris",
+  "release_date": "1971-05-05",
+  "status": "Released",
+  "runtime": 27,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

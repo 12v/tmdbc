@@ -1,0 +1,30 @@
+{
+  "id": 104237,
+  "title": "Dragon Inn",
+  "original_title": "\u9f8d\u9580\u5ba2\u68e7",
+  "release_date": "1967-10-21",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

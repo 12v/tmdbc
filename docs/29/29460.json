@@ -1,0 +1,29 @@
+{
+  "id": 29460,
+  "title": "The Juniper Tree",
+  "original_title": "The Juniper Tree",
+  "release_date": "1990-04-10",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

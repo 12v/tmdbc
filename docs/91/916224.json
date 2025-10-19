@@ -1,0 +1,37 @@
+{
+  "id": 916224,
+  "title": "Suzume",
+  "original_title": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
+  "release_date": "2022-11-11",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 43337,
+  "title": "The Inauguration of the Pleasure Dome",
+  "original_title": "The Inauguration of the Pleasure Dome",
+  "release_date": "1954-03-29",
+  "status": "Released",
+  "runtime": 38,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}
