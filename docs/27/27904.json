@@ -1,0 +1,29 @@
+{
+  "id": 27904,
+  "title": "Syndromes and a Century",
+  "original_title": "\u0e41\u0e2a\u0e07\u0e28\u0e15\u0e27\u0e23\u0e23\u0e29",
+  "release_date": "2006-08-31",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

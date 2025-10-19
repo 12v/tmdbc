@@ -1,0 +1,32 @@
+{
+  "id": 80427,
+  "title": "Platform",
+  "original_title": "\u7ad9\u53f0",
+  "release_date": "2001-08-29",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "FR",
+    "JP",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

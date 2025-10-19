@@ -1,0 +1,25 @@
+{
+  "id": 23282,
+  "title": "One Week",
+  "original_title": "One Week",
+  "release_date": "1920-08-29",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

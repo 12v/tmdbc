@@ -1,0 +1,49 @@
+{
+  "id": 974521,
+  "title": "No Bears",
+  "original_title": "Khers nist",
+  "release_date": "2022-10-06",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Azerbaijani",
+      "iso_639_1": "az",
+      "name": "Az\u0259rbaycan"
+    },
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

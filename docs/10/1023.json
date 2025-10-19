@@ -1,0 +1,33 @@
+{
+  "id": 1023,
+  "title": "Adam's Apples",
+  "original_title": "Adams \u00e6bler",
+  "release_date": "2005-04-15",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

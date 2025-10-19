@@ -1,0 +1,25 @@
+{
+  "id": 43364,
+  "title": "The Life of Oharu",
+  "original_title": "\u897f\u9db4\u4e00\u4ee3\u5973",
+  "release_date": "1952-04-17",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 11710,
+  "title": "The Enigma of Kaspar Hauser",
+  "original_title": "Jeder f\u00fcr sich und Gott gegen alle",
+  "release_date": "1974-11-01",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

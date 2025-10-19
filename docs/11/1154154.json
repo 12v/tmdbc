@@ -1,0 +1,29 @@
+{
+  "id": 1154154,
+  "title": "Love in the Big City",
+  "original_title": "\ub300\ub3c4\uc2dc\uc758 \uc0ac\ub791\ubc95",
+  "release_date": "2024-10-01",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

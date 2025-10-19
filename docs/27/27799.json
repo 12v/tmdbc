@@ -1,0 +1,33 @@
+{
+  "id": 27799,
+  "title": "Hana & Alice",
+  "original_title": "\u82b1\u3068\u30a2\u30ea\u30b9",
+  "release_date": "2004-03-13",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

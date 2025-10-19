@@ -1,0 +1,29 @@
+{
+  "id": 41823,
+  "title": "Mo' Better Blues",
+  "original_title": "Mo' Better Blues",
+  "release_date": "1990-08-03",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

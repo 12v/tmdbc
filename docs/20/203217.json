@@ -1,0 +1,25 @@
+{
+  "id": 203217,
+  "title": "My Mom Is a Character",
+  "original_title": "Minha M\u00e3e \u00e9 uma Pe\u00e7a: O Filme",
+  "release_date": "2013-06-21",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

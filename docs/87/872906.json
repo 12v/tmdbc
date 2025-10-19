@@ -1,0 +1,33 @@
+{
+  "id": 872906,
+  "title": "Jawan",
+  "original_title": "\u091c\u0935\u093e\u0928",
+  "release_date": "2023-09-07",
+  "status": "Released",
+  "runtime": 169,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

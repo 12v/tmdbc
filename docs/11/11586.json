@@ -1,0 +1,30 @@
+{
+  "id": 11586,
+  "title": "Exorcist II: The Heretic",
+  "original_title": "Exorcist II: The Heretic",
+  "release_date": "1977-06-17",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tahitian",
+      "iso_639_1": "ty",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

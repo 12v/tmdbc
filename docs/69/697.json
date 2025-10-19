@@ -1,0 +1,25 @@
+{
+  "id": 697,
+  "title": "October (Ten Days that Shook the World)",
+  "original_title": "\u041e\u043a\u0442\u044f\u0431\u0440\u044c",
+  "release_date": "1928-05-11",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

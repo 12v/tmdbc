@@ -1,0 +1,29 @@
+{
+  "id": 21705,
+  "title": "The Barbie Diaries",
+  "original_title": "The Barbie Diaries",
+  "release_date": "2006-05-17",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

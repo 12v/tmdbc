@@ -1,0 +1,33 @@
+{
+  "id": 27431,
+  "title": "The Cat o' Nine Tails",
+  "original_title": "Il gatto a nove code",
+  "release_date": "1971-02-12",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

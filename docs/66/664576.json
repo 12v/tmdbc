@@ -1,0 +1,29 @@
+{
+  "id": 664576,
+  "title": "The Metamorphosis of Birds",
+  "original_title": "A Metamorfose dos P\u00e1ssaros",
+  "release_date": "2021-07-30",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

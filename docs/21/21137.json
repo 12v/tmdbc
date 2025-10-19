@@ -1,0 +1,29 @@
+{
+  "id": 21137,
+  "title": "The Decline of Western Civilization",
+  "original_title": "The Decline of Western Civilization",
+  "release_date": "1981-07-01",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

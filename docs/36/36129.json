@@ -1,0 +1,37 @@
+{
+  "id": 36129,
+  "title": "Hedgehog in the Fog",
+  "original_title": "\u0401\u0436\u0438\u043a \u0432 \u0442\u0443\u043c\u0430\u043d\u0435",
+  "release_date": "1975-10-23",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

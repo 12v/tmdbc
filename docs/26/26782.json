@@ -1,0 +1,29 @@
+{
+  "id": 26782,
+  "title": "Shadows of Forgotten Ancestors",
+  "original_title": "\u0422\u0456\u043d\u0456 \u0437\u0430\u0431\u0443\u0442\u0438\u0445 \u043f\u0440\u0435\u0434\u043a\u0456\u0432",
+  "release_date": "1965-10-18",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "uk",
+  "spoken_languages": [
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

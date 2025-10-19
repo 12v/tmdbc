@@ -1,0 +1,38 @@
+{
+  "id": 789,
+  "title": "Closely Watched Trains",
+  "original_title": "Ost\u0159e sledovan\u00e9 vlaky",
+  "release_date": "1966-11-18",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

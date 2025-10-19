@@ -1,0 +1,30 @@
+{
+  "id": 91342,
+  "title": "Barbie in A Mermaid Tale 2",
+  "original_title": "Barbie in A Mermaid Tale 2",
+  "release_date": "2012-02-22",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

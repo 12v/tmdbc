@@ -1,0 +1,25 @@
+{
+  "id": 39266,
+  "title": "Triumph of the Will",
+  "original_title": "Triumph des Willens",
+  "release_date": "1935-03-28",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

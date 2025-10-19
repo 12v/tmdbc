@@ -1,0 +1,29 @@
+{
+  "id": 47852,
+  "title": "When the Cat Comes",
+  "original_title": "A\u017e p\u0159ijde kocour",
+  "release_date": "1963-09-20",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1156212,
+  "title": "The Park Maniac",
+  "original_title": "Man\u00edaco do Parque",
+  "release_date": "2024-10-12",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

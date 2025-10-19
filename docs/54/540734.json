@@ -1,0 +1,29 @@
+{
+  "id": 540734,
+  "title": "Eduardo and Monica",
+  "original_title": "Eduardo e M\u00f4nica",
+  "release_date": "2022-01-20",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 42164,
+  "title": "Camera Buff",
+  "original_title": "Amator",
+  "release_date": "1979-11-16",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

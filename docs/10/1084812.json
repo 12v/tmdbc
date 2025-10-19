@@ -1,0 +1,34 @@
+{
+  "id": 1084812,
+  "title": "Aavesham",
+  "original_title": "\u0d06\u0d35\u0d47\u0d36\u0d02",
+  "release_date": "2024-04-11",
+  "status": "Released",
+  "runtime": 158,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

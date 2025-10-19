@@ -1,0 +1,25 @@
+{
+  "id": 238952,
+  "title": "Along the Coast",
+  "original_title": "Du c\u00f4t\u00e9 de la c\u00f4te",
+  "release_date": "1958-11-01",
+  "status": "Released",
+  "runtime": 26,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

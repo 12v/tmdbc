@@ -1,0 +1,29 @@
+{
+  "id": 11822,
+  "title": "Nekromantik",
+  "original_title": "Nekromantik",
+  "release_date": "1988-01-29",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

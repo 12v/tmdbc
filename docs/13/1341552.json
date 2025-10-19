@@ -1,0 +1,29 @@
+{
+  "id": 1341552,
+  "title": "Kaizen",
+  "original_title": "Kaizen: 1 an pour gravir l'Everest",
+  "release_date": "2024-09-13",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

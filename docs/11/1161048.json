@@ -1,0 +1,29 @@
+{
+  "id": 1161048,
+  "title": "The Conference",
+  "original_title": "Konferensen",
+  "release_date": "2023-10-13",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

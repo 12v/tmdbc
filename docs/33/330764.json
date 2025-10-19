@@ -1,0 +1,29 @@
+{
+  "id": 330764,
+  "title": "The Brand New Testament",
+  "original_title": "Le Tout Nouveau Testament",
+  "release_date": "2015-09-02",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

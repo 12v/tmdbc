@@ -1,0 +1,25 @@
+{
+  "id": 63831,
+  "title": "The Kid with a Bike",
+  "original_title": "Le Gamin au v\u00e9lo",
+  "release_date": "2011-05-18",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

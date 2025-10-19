@@ -1,0 +1,41 @@
+{
+  "id": 397567,
+  "title": "Along with the Gods: The Two Worlds",
+  "original_title": "\uc2e0\uacfc\ud568\uaed8-\uc8c4\uc640 \ubc8c",
+  "release_date": "2017-12-20",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

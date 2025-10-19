@@ -1,0 +1,29 @@
+{
+  "id": 271397,
+  "title": "The Tribe",
+  "original_title": "\u041f\u043b\u0435\u043c'\u044f",
+  "release_date": "2014-09-11",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "uk",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "UA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

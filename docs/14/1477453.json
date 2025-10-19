@@ -1,0 +1,25 @@
+{
+  "id": 1477453,
+  "title": "Trainwreck: The Astroworld Tragedy",
+  "original_title": "Trainwreck: The Astroworld Tragedy",
+  "release_date": "2025-06-09",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

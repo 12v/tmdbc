@@ -1,0 +1,25 @@
+{
+  "id": 129112,
+  "title": "Wadjda",
+  "original_title": "Das M\u00e4dchen Wadjda",
+  "release_date": "2012-08-31",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "SA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

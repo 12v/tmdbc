@@ -1,0 +1,25 @@
+{
+  "id": 115784,
+  "title": "Moving",
+  "original_title": "\u304a\u5f15\u8d8a\u3057",
+  "release_date": "1993-03-20",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

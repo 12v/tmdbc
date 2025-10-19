@@ -1,0 +1,33 @@
+{
+  "id": 642121,
+  "title": "The Stranger by the Shore",
+  "original_title": "\u6d77\u8fba\u306e\u30a8\u30c8\u30e9\u30f3\u30bc",
+  "release_date": "2020-09-11",
+  "status": "Released",
+  "runtime": 59,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

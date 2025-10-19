@@ -1,0 +1,29 @@
+{
+  "id": 20122,
+  "title": "Damnation",
+  "original_title": "K\u00e1rhozat",
+  "release_date": "1988-10-20",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

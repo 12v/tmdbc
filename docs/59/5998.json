@@ -1,0 +1,29 @@
+{
+  "id": 5998,
+  "title": "Dr. Mabuse, the Gambler",
+  "original_title": "Dr. Mabuse, der Spieler",
+  "release_date": "1922-04-27",
+  "status": "Released",
+  "runtime": 271,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

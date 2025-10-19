@@ -1,0 +1,30 @@
+{
+  "id": 53028,
+  "title": "Jane B. by Agn\u00e8s V.",
+  "original_title": "Jane B. par Agn\u00e8s V.",
+  "release_date": "1988-03-02",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 17343,
+  "title": "Vampyros Lesbos",
+  "original_title": "Vampyros Lesbos",
+  "release_date": "1971-07-15",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

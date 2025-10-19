@@ -1,0 +1,25 @@
+{
+  "id": 45999,
+  "title": "The Time to Live and the Time to Die",
+  "original_title": "\u7ae5\u5e74\u5f80\u4e8b",
+  "release_date": "1985-08-03",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

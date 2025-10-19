@@ -1,0 +1,29 @@
+{
+  "id": 658760,
+  "title": "Isi & Ossi",
+  "original_title": "Isi & Ossi",
+  "release_date": "2020-02-14",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

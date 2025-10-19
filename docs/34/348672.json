@@ -1,0 +1,33 @@
+{
+  "id": 348672,
+  "title": "About Endlessness",
+  "original_title": "Om det o\u00e4ndliga",
+  "release_date": "2019-11-15",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

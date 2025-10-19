@@ -1,0 +1,37 @@
+{
+  "id": 19354,
+  "title": "The Adventures of Prince Achmed",
+  "original_title": "Die Abenteuer des Prinzen Achmed",
+  "release_date": "1926-09-03",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

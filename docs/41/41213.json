@@ -1,0 +1,37 @@
+{
+  "id": 41213,
+  "title": "The Fabulous Baron Munchausen",
+  "original_title": "Baron Pr\u00e1\u0161il",
+  "release_date": "1962-07-01",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

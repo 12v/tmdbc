@@ -1,0 +1,25 @@
+{
+  "id": 127,
+  "title": "Blind Chance",
+  "original_title": "Przypadek",
+  "release_date": "1987-01-10",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

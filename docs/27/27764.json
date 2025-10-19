@@ -1,0 +1,29 @@
+{
+  "id": 27764,
+  "title": "Slumber Party Massacre II",
+  "original_title": "Slumber Party Massacre II",
+  "release_date": "1987-10-16",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

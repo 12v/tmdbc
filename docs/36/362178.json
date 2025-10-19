@@ -1,0 +1,29 @@
+{
+  "id": 362178,
+  "title": "Kaili Blues",
+  "original_title": "\u8def\u8fb9\u91ce\u9910",
+  "release_date": "2016-03-23",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

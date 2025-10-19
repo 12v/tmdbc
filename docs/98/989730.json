@@ -1,0 +1,33 @@
+{
+  "id": 989730,
+  "title": "Mononoke the Movie: The Phantom in the Rain",
+  "original_title": "\u5287\u5834\u7248\u30e2\u30ce\u30ce\u602a \u5510\u5098",
+  "release_date": "2024-07-26",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

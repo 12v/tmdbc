@@ -1,0 +1,33 @@
+{
+  "id": 117691,
+  "title": "Gangs of Wasseypur - Part 1",
+  "original_title": "\u0917\u0948\u0902\u0917\u094d\u0938 \u0911\u092b\u093c \u0935\u093e\u0938\u094d\u0938\u0947\u092a\u0941\u0930 \u092a\u093e\u0930\u094d\u091f - \u0967",
+  "release_date": "2012-06-22",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

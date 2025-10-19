@@ -1,0 +1,29 @@
+{
+  "id": 2346,
+  "title": "Still Life",
+  "original_title": "\u4e09\u5ce1\u597d\u4eba",
+  "release_date": "2006-11-16",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}
