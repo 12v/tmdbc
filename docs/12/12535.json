@@ -1,0 +1,33 @@
+{
+  "id": 12535,
+  "title": "High Anxiety",
+  "original_title": "High Anxiety",
+  "release_date": "1977-12-25",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 48764,
+  "title": "The Trial of Joan of Arc",
+  "original_title": "Proc\u00e8s de Jeanne d'Arc",
+  "release_date": "1963-02-13",
+  "status": "Released",
+  "runtime": 62,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

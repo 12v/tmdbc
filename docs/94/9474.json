@@ -1,0 +1,29 @@
+{
+  "id": 9474,
+  "title": "My Name Is Nobody",
+  "original_title": "Il mio nome \u00e8 Nessuno",
+  "release_date": "1973-12-13",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

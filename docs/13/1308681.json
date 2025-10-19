@@ -1,0 +1,35 @@
+{
+  "id": 1308681,
+  "title": "DAN DA DAN: First Encounter",
+  "original_title": "DAN DA DAN: First Encounter",
+  "release_date": "2024-08-31",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

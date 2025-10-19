@@ -1,0 +1,34 @@
+{
+  "id": 10210,
+  "title": "A Midsummer Night's Dream",
+  "original_title": "A Midsummer Night's Dream",
+  "release_date": "1999-05-20",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

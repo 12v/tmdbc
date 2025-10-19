@@ -1,0 +1,34 @@
+{
+  "id": 52885,
+  "title": "The Red and the White",
+  "original_title": "Csillagosok, Katon\u00e1k",
+  "release_date": "1967-11-03",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

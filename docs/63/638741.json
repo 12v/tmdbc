@@ -1,0 +1,25 @@
+{
+  "id": 638741,
+  "title": "Some Kind of Heaven",
+  "original_title": "Some Kind of Heaven",
+  "release_date": "2021-02-19",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

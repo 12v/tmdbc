@@ -1,0 +1,25 @@
+{
+  "id": 20722,
+  "title": "La Maison en Petits Cubes",
+  "original_title": "\u3064\u307f\u304d\u306e\u3044\u3048",
+  "release_date": "2008-06-10",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

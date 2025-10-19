@@ -1,0 +1,29 @@
+{
+  "id": 822,
+  "title": "The Music Room",
+  "original_title": "\u099c\u09b2\u09b8\u09be\u0998\u09b0",
+  "release_date": "1958-10-10",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

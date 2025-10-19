@@ -1,0 +1,30 @@
+{
+  "id": 40342,
+  "title": "Demons 2",
+  "original_title": "D\u00e8moni 2\u2026 L\u2019incubo ritorna",
+  "release_date": "1986-10-09",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

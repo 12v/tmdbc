@@ -1,0 +1,25 @@
+{
+  "id": 36096,
+  "title": "Lucifer Rising",
+  "original_title": "Lucifer Rising",
+  "release_date": "1974-04-10",
+  "status": "Released",
+  "runtime": 29,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

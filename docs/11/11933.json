@@ -1,0 +1,29 @@
+{
+  "id": 11933,
+  "title": "Nothing but Trouble",
+  "original_title": "Nothing but Trouble",
+  "release_date": "1991-02-15",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

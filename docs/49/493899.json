@@ -1,0 +1,25 @@
+{
+  "id": 493899,
+  "title": "So Long, My Son",
+  "original_title": "\u5730\u4e45\u5929\u957f",
+  "release_date": "2019-03-15",
+  "status": "Released",
+  "runtime": 185,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

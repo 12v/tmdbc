@@ -1,0 +1,38 @@
+{
+  "id": 22500,
+  "title": "Gandahar",
+  "original_title": "Gandahar",
+  "release_date": "1987-12-11",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "KP",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

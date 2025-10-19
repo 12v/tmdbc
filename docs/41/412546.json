@@ -1,0 +1,36 @@
+{
+  "id": 412546,
+  "title": "Antrum",
+  "original_title": "Antrum",
+  "release_date": "2018-10-14",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

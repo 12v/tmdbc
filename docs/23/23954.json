@@ -1,0 +1,39 @@
+{
+  "id": 23954,
+  "title": "Atlantic City",
+  "original_title": "Atlantic City",
+  "release_date": "1980-09-03",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1273049,
+  "title": "Dragon",
+  "original_title": "\u0b9f\u0bbf\u0bb0\u0bbe\u0b95\u0ba9\u0bcd",
+  "release_date": "2025-02-21",
+  "status": "Released",
+  "runtime": 157,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

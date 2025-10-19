@@ -1,0 +1,52 @@
+{
+  "id": 24253,
+  "title": "The Girl Who Played with Fire",
+  "original_title": "Flickan som lekte med elden",
+  "release_date": "2009-09-18",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

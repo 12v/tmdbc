@@ -1,0 +1,30 @@
+{
+  "id": 191294,
+  "title": "We Are the Best!",
+  "original_title": "Vi \u00e4r b\u00e4st!",
+  "release_date": "2013-03-28",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

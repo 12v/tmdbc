@@ -1,0 +1,38 @@
+{
+  "id": 1222248,
+  "title": "Number 24",
+  "original_title": "Nr. 24",
+  "release_date": "2024-10-30",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

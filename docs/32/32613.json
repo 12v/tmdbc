@@ -1,0 +1,31 @@
+{
+  "id": 32613,
+  "title": "Horror Express",
+  "original_title": "P\u00e1nico en el Transiberiano",
+  "release_date": "1972-09-30",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

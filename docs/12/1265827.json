@@ -1,0 +1,37 @@
+{
+  "id": 1265827,
+  "title": "Retro",
+  "original_title": "\u0bb0\u0bc6\u0b9f\u0bcd\u0bb0\u0bcb",
+  "release_date": "2025-04-30",
+  "status": "Released",
+  "runtime": 162,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

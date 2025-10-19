@@ -1,0 +1,43 @@
+{
+  "id": 1414,
+  "title": "Lovers of the Arctic Circle",
+  "original_title": "Los amantes del C\u00edrculo Polar",
+  "release_date": "1998-09-04",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

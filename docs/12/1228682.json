@@ -1,0 +1,35 @@
+{
+  "id": 1228682,
+  "title": "Dreams",
+  "original_title": "Dr\u00f8mmer",
+  "release_date": "2024-10-04",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

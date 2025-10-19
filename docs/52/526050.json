@@ -1,0 +1,33 @@
+{
+  "id": 526050,
+  "title": "Little",
+  "original_title": "Little",
+  "release_date": "2019-04-04",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

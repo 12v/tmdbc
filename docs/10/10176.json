@@ -1,0 +1,33 @@
+{
+  "id": 10176,
+  "title": "The Quiet Earth",
+  "original_title": "The Quiet Earth",
+  "release_date": "1985-09-08",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "NZ"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

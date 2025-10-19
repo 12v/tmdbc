@@ -1,0 +1,33 @@
+{
+  "id": 65332,
+  "title": "Love and Anarchy",
+  "original_title": "Film d'amore e d'anarchia - Ovvero \"Stamattina alle 10 in via dei Fiori nella nota casa di tolleranza...\"",
+  "release_date": "1973-02-23",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

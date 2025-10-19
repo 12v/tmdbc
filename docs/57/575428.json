@@ -1,0 +1,33 @@
+{
+  "id": 575428,
+  "title": "The Wild Goose Lake",
+  "original_title": "\u5357\u65b9\u8f66\u7ad9\u7684\u805a\u4f1a",
+  "release_date": "2019-12-06",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

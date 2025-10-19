@@ -1,0 +1,25 @@
+{
+  "id": 46594,
+  "title": "Earth",
+  "original_title": "\u0417\u0435\u043c\u043b\u044f",
+  "release_date": "1930-04-08",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "uk",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

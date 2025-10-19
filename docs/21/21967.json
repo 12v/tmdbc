@@ -1,0 +1,29 @@
+{
+  "id": 21967,
+  "title": "Late Autumn",
+  "original_title": "\u79cb\u65e5\u548c",
+  "release_date": "1960-11-13",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

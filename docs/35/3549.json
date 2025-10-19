@@ -1,0 +1,40 @@
+{
+  "id": 3549,
+  "title": "After the Wedding",
+  "original_title": "Efter brylluppet",
+  "release_date": "2006-02-24",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

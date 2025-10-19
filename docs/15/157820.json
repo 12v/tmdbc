@@ -1,0 +1,34 @@
+{
+  "id": 157820,
+  "title": "Mood Indigo",
+  "original_title": "L'\u00c9cume des jours",
+  "release_date": "2013-01-10",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

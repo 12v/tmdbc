@@ -1,0 +1,28 @@
+{
+  "id": 1114816,
+  "title": "Inside the Yellow Cocoon Shell",
+  "original_title": "B\u00ean Trong V\u1ecf K\u00e9n V\u00e0ng",
+  "release_date": "2023-08-11",
+  "status": "Released",
+  "runtime": 179,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "SG",
+    "FR",
+    "ES",
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

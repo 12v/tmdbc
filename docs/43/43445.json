@@ -1,0 +1,25 @@
+{
+  "id": 43445,
+  "title": "La Terra Trema",
+  "original_title": "La terra trema",
+  "release_date": "1949-12-03",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

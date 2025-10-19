@@ -1,0 +1,29 @@
+{
+  "id": 47244,
+  "title": "The Captive",
+  "original_title": "La Captive",
+  "release_date": "2000-09-27",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

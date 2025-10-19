@@ -1,0 +1,39 @@
+{
+  "id": 634429,
+  "title": "Shin Ultraman",
+  "original_title": "\u30b7\u30f3\u30fb\u30a6\u30eb\u30c8\u30e9\u30de\u30f3",
+  "release_date": "2022-05-13",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

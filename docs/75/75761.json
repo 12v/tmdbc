@@ -1,0 +1,29 @@
+{
+  "id": 75761,
+  "title": "John Dies at the End",
+  "original_title": "John Dies at the End",
+  "release_date": "2013-01-25",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

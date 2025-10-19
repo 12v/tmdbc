@@ -1,0 +1,39 @@
+{
+  "id": 4798,
+  "title": "Je T'Aime, Je T'Aime",
+  "original_title": "Je t'aime, je t'aime",
+  "release_date": "1968-04-24",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

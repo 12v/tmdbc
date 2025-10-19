@@ -1,0 +1,25 @@
+{
+  "id": 12259,
+  "title": "Sholay",
+  "original_title": "\u0936\u094b\u0932\u0947",
+  "release_date": "1975-08-15",
+  "status": "Released",
+  "runtime": 210,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

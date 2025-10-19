@@ -1,0 +1,25 @@
+{
+  "id": 671040,
+  "title": "Young Adult Matters",
+  "original_title": "\uc5b4\ub978\ub4e4\uc740 \ubab0\ub77c\uc694",
+  "release_date": "2021-04-15",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

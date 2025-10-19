@@ -1,0 +1,34 @@
+{
+  "id": 19460,
+  "title": "Son of the Bride",
+  "original_title": "El hijo de la novia",
+  "release_date": "2001-08-16",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

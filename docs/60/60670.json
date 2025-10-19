@@ -1,0 +1,33 @@
+{
+  "id": 60670,
+  "title": "The Crimson Rivers",
+  "original_title": "Les Rivi\u00e8res pourpres",
+  "release_date": "2000-09-27",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

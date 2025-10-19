@@ -1,0 +1,25 @@
+{
+  "id": 1089123,
+  "title": "Daddy's Head",
+  "original_title": "Daddy's Head",
+  "release_date": "2024-10-10",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

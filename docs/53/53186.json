@@ -1,0 +1,33 @@
+{
+  "id": 53186,
+  "title": "Morgiana",
+  "original_title": "Morgiana",
+  "release_date": "1972-09-15",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

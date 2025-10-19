@@ -1,0 +1,42 @@
+{
+  "id": 67,
+  "title": "Paradise Now",
+  "original_title": "Paradise Now",
+  "release_date": "2005-09-07",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "PS"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

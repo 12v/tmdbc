@@ -1,0 +1,26 @@
+{
+  "id": 14517,
+  "title": "MirrorMask",
+  "original_title": "MirrorMask",
+  "release_date": "2005-01-25",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

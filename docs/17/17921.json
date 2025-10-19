@@ -1,0 +1,39 @@
+{
+  "id": 17921,
+  "title": "Planet of the Vampires",
+  "original_title": "Terrore nello spazio",
+  "release_date": "1965-09-15",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

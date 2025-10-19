@@ -1,0 +1,30 @@
+{
+  "id": 8841,
+  "title": "The Class",
+  "original_title": "Entre les murs",
+  "release_date": "2008-09-24",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Bambara",
+      "iso_639_1": "bm",
+      "name": "Bamanankan"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

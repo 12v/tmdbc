@@ -1,0 +1,29 @@
+{
+  "id": 8653,
+  "title": "The Isle",
+  "original_title": "\uc12c",
+  "release_date": "2000-04-22",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

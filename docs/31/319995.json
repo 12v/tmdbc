@@ -1,0 +1,38 @@
+{
+  "id": 319995,
+  "title": "The Club",
+  "original_title": "El club",
+  "release_date": "2015-05-28",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

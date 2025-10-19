@@ -1,0 +1,41 @@
+{
+  "id": 422708,
+  "title": "Let the Corpses Tan",
+  "original_title": "Laissez bronzer les cadavres",
+  "release_date": "2017-10-18",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

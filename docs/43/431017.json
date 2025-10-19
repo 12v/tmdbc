@@ -1,0 +1,33 @@
+{
+  "id": 431017,
+  "title": "Let the Sunshine In",
+  "original_title": "Un beau soleil int\u00e9rieur",
+  "release_date": "2017-09-27",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

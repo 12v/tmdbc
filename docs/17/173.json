@@ -1,0 +1,33 @@
+{
+  "id": 173,
+  "title": "20,000 Leagues Under the Sea",
+  "original_title": "20,000 Leagues Under the Sea",
+  "release_date": "1954-12-23",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 11447,
+  "title": "The Son's Room",
+  "original_title": "La stanza del figlio",
+  "release_date": "2001-03-09",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

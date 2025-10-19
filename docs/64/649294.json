@@ -1,0 +1,33 @@
+{
+  "id": 649294,
+  "title": "History of the Occult",
+  "original_title": "Historia de lo oculto",
+  "release_date": "2023-08-17",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

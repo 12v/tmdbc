@@ -1,0 +1,33 @@
+{
+  "id": 124485,
+  "title": "Portrait of a Young Girl at the End of the 60s in Brussels",
+  "original_title": "Portrait d\u2019une jeune fille de la fin des ann\u00e9es 60 \u00e0 Bruxelles",
+  "release_date": "1994-11-04",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

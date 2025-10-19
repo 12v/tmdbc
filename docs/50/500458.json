@@ -1,0 +1,33 @@
+{
+  "id": 500458,
+  "title": "Marighella",
+  "original_title": "Marighella",
+  "release_date": "2021-01-29",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

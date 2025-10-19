@@ -1,0 +1,39 @@
+{
+  "id": 41925,
+  "title": "The Comfort of Strangers",
+  "original_title": "The Comfort of Strangers",
+  "release_date": "1990-11-01",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

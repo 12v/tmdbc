@@ -1,0 +1,29 @@
+{
+  "id": 411009,
+  "title": "Amanda Knox",
+  "original_title": "Amanda Knox",
+  "release_date": "2016-09-10",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

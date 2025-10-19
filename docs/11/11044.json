@@ -1,0 +1,47 @@
+{
+  "id": 11044,
+  "title": "Arizona Dream",
+  "original_title": "Arizona Dream",
+  "release_date": "1993-01-06",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Inuktitut",
+      "iso_639_1": "iu",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

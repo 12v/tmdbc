@@ -1,0 +1,33 @@
+{
+  "id": 878608,
+  "title": "Resurrection",
+  "original_title": "\u72c2\u91ce\u65f6\u4ee3",
+  "release_date": "2025-11-22",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 57703,
+  "title": "Norwegian Wood",
+  "original_title": "\u30ce\u30eb\u30a6\u30a7\u30a4\u306e\u68ee",
+  "release_date": "2010-09-30",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 28268,
+  "title": "I Was Born, But...",
+  "original_title": "\u5927\u4eba\u306e\u898b\u308b\u7e6a\u672c \u751f\u308c\u3066\u306f\u307f\u305f\u3051\u308c\u3069",
+  "release_date": "1932-06-03",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

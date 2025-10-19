@@ -1,0 +1,46 @@
+{
+  "id": 36243,
+  "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+  "original_title": "\u30b4\u30b8\u30e9\u30fb\u30e2\u30b9\u30e9\u30fb\u30ad\u30f3\u30b0\u30ae\u30c9\u30e9\u5927\u602a\u7363\u7dcf\u9032\u6483",
+  "release_date": "2001-12-15",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

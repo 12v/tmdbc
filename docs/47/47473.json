@@ -1,0 +1,29 @@
+{
+  "id": 47473,
+  "title": "Summer Interlude",
+  "original_title": "Sommarlek",
+  "release_date": "1951-10-01",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

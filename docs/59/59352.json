@@ -1,0 +1,33 @@
+{
+  "id": 59352,
+  "title": "The Man Who Stole the Sun",
+  "original_title": "\u592a\u967d\u3092\u76d7\u3093\u3060\u7537",
+  "release_date": "1979-10-06",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 32562,
+  "title": "The Celluloid Closet",
+  "original_title": "The Celluloid Closet",
+  "release_date": "1996-01-30",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

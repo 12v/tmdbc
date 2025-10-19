@@ -1,0 +1,29 @@
+{
+  "id": 43950,
+  "title": "Amer",
+  "original_title": "Amer",
+  "release_date": "2009-09-23",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

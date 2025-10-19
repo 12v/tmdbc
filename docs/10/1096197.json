@@ -1,0 +1,33 @@
+{
+  "id": 1096197,
+  "title": "No Way Up",
+  "original_title": "No Way Up",
+  "release_date": "2024-01-18",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

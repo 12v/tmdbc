@@ -1,0 +1,39 @@
+{
+  "id": 208284,
+  "title": "The Strange Color of Your Body's Tears",
+  "original_title": "L'\u00c9trange Couleur des larmes de ton corps",
+  "release_date": "2013-08-12",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

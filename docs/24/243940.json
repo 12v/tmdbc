@@ -1,0 +1,33 @@
+{
+  "id": 243940,
+  "title": "The Lazarus Effect",
+  "original_title": "The Lazarus Effect",
+  "release_date": "2015-01-29",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

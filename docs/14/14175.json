@@ -1,0 +1,42 @@
+{
+  "id": 14175,
+  "title": "Valiant",
+  "original_title": "Valiant",
+  "release_date": "2005-03-25",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

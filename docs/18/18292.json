@@ -1,0 +1,25 @@
+{
+  "id": 18292,
+  "title": "George Washington",
+  "original_title": "George Washington",
+  "release_date": "2000-10-27",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

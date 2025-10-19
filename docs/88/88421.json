@@ -1,0 +1,25 @@
+{
+  "id": 88421,
+  "title": "Wavelength",
+  "original_title": "Wavelength",
+  "release_date": "1967-12-29",
+  "status": "Released",
+  "runtime": 45,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

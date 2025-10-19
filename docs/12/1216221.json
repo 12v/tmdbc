@@ -1,0 +1,37 @@
+{
+  "id": 1216221,
+  "title": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training-",
+  "original_title": "\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7d46\u306e\u5947\u8de1\u3001\u305d\u3057\u3066\u67f1\u7a3d\u53e4\u3078",
+  "release_date": "2024-02-02",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

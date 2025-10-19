@@ -1,0 +1,25 @@
+{
+  "id": 38311,
+  "title": "The Steamroller and the Violin",
+  "original_title": "\u041a\u0430\u0442\u043e\u043a \u0438 \u0441\u043a\u0440\u0438\u043f\u043a\u0430",
+  "release_date": "1961-12-30",
+  "status": "Released",
+  "runtime": 46,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

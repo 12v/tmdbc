@@ -1,0 +1,30 @@
+{
+  "id": 273153,
+  "title": "Summertime",
+  "original_title": "La Belle Saison",
+  "release_date": "2015-08-19",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

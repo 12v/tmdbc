@@ -1,0 +1,30 @@
+{
+  "id": 645788,
+  "title": "The Prot\u00e9g\u00e9",
+  "original_title": "The Prot\u00e9g\u00e9",
+  "release_date": "2021-08-19",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

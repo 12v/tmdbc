@@ -1,0 +1,33 @@
+{
+  "id": 12650,
+  "title": "Il Mare",
+  "original_title": "\uc2dc\uc6d4\uc560",
+  "release_date": "2000-09-09",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 10136,
+  "title": "The Golden Child",
+  "original_title": "The Golden Child",
+  "release_date": "1986-12-12",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tibetan",
+      "iso_639_1": "bo",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

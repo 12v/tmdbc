@@ -1,0 +1,42 @@
+{
+  "id": 531876,
+  "title": "The Outpost",
+  "original_title": "The Outpost",
+  "release_date": "2020-06-24",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Pushto",
+      "iso_639_1": "ps",
+      "name": "\u067e\u069a\u062a\u0648"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

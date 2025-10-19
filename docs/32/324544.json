@@ -1,0 +1,44 @@
+{
+  "id": 324544,
+  "title": "In the Lost Lands",
+  "original_title": "In the Lost Lands",
+  "release_date": "2025-02-27",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Ndebele",
+      "iso_639_1": "nd",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

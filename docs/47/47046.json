@@ -1,0 +1,34 @@
+{
+  "id": 47046,
+  "title": "Blissfully Yours",
+  "original_title": "\u0e2a\u0e38\u0e14\u0e40\u0e2a\u0e19\u0e48\u0e2b\u0e32",
+  "release_date": "2002-10-08",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    },
+    {
+      "english_name": "Burmese",
+      "iso_639_1": "my",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1356670,
+  "title": "Late Shift",
+  "original_title": "Heldin",
+  "release_date": "2025-02-27",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

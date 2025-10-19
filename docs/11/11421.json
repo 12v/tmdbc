@@ -1,0 +1,29 @@
+{
+  "id": 11421,
+  "title": "C.R.A.Z.Y.",
+  "original_title": "C.R.A.Z.Y.",
+  "release_date": "2005-05-27",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

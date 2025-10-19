@@ -1,0 +1,33 @@
+{
+  "id": 27452,
+  "title": "The Spiral Staircase",
+  "original_title": "The Spiral Staircase",
+  "release_date": "1946-01-26",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

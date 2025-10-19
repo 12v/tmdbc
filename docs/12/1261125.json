@@ -1,0 +1,38 @@
+{
+  "id": 1261125,
+  "title": "Thudarum",
+  "original_title": "\u0d24\u0d41\u0d1f\u0d30\u0d41\u0d02",
+  "release_date": "2025-04-23",
+  "status": "Released",
+  "runtime": 164,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

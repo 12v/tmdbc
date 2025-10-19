@@ -1,0 +1,42 @@
+{
+  "id": 448776,
+  "title": "A Prayer Before Dawn",
+  "original_title": "A Prayer Before Dawn",
+  "release_date": "2018-05-24",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "KH",
+    "FR",
+    "CN",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

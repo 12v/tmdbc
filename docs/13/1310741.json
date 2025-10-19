@@ -1,0 +1,29 @@
+{
+  "id": 1310741,
+  "title": "A Brother and 7 Siblings",
+  "original_title": "1 Kakak 7 Ponakan",
+  "release_date": "2025-01-23",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

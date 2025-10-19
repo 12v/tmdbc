@@ -1,0 +1,30 @@
+{
+  "id": 4480,
+  "title": "Jean de Florette",
+  "original_title": "Jean de Florette",
+  "release_date": "1986-08-27",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

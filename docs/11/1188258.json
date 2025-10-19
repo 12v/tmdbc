@@ -1,0 +1,35 @@
+{
+  "id": 1188258,
+  "title": "18\u00d72 Beyond Youthful Days",
+  "original_title": "\u9752\u662518x2 \u541b\u3078\u3068\u7d9a\u304f\u9053",
+  "release_date": "2024-03-14",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

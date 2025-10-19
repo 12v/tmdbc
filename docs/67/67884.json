@@ -1,0 +1,31 @@
+{
+  "id": 67884,
+  "title": "Chinese Take-Away",
+  "original_title": "Un cuento chino",
+  "release_date": "2011-03-24",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

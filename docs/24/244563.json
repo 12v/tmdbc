@@ -1,0 +1,30 @@
+{
+  "id": 244563,
+  "title": "Kumiko, the Treasure Hunter",
+  "original_title": "Kumiko, the Treasure Hunter",
+  "release_date": "2014-11-13",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

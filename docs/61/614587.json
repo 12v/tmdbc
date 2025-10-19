@@ -1,0 +1,33 @@
+{
+  "id": 614587,
+  "title": "Lupin III: The First",
+  "original_title": "\u30eb\u30d1\u30f3\u4e09\u4e16 THE FIRST",
+  "release_date": "2019-12-06",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

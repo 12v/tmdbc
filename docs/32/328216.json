@@ -1,0 +1,38 @@
+{
+  "id": 328216,
+  "title": "Be My Cat: A Film for Anne",
+  "original_title": "Be My Cat: A Film for Anne",
+  "release_date": "2015-03-01",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 916192,
+  "title": "The Tunnel to Summer, the Exit of Goodbyes",
+  "original_title": "\u590f\u3078\u306e\u30c8\u30f3\u30cd\u30eb\u3001\u3055\u3088\u306a\u3089\u306e\u51fa\u53e3",
+  "release_date": "2022-09-09",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

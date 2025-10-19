@@ -1,0 +1,29 @@
+{
+  "id": 831395,
+  "title": "Tuesday",
+  "original_title": "Tuesday",
+  "release_date": "2024-06-07",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

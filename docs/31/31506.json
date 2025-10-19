@@ -1,0 +1,33 @@
+{
+  "id": 31506,
+  "title": "Die Nibelungen: Siegfried",
+  "original_title": "Die Nibelungen: Siegfried",
+  "release_date": "1924-02-14",
+  "status": "Released",
+  "runtime": 148,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

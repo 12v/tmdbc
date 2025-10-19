@@ -1,0 +1,26 @@
+{
+  "id": 1951,
+  "title": "Manderlay",
+  "original_title": "Manderlay",
+  "release_date": "2005-06-03",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 857862,
+  "title": "Evangelion: Death (True)\u00b2",
+  "original_title": "EVANGELION:DEATH(TRUE)\u00b2",
+  "release_date": "1998-03-07",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

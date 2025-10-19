@@ -1,0 +1,48 @@
+{
+  "id": 1239511,
+  "title": "Lucky Baskhar",
+  "original_title": "\u0c32\u0c15\u0c4d\u0c15\u0c40 \u0c2d\u0c3e\u0c38\u0c4d\u0c15\u0c30\u0c4d\u200c",
+  "release_date": "2024-10-30",
+  "status": "Released",
+  "runtime": 148,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

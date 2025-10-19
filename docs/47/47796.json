@@ -1,0 +1,25 @@
+{
+  "id": 47796,
+  "title": "Mamma Roma",
+  "original_title": "Mamma Roma",
+  "release_date": "1962-09-22",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

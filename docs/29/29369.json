@@ -1,0 +1,38 @@
+{
+  "id": 29369,
+  "title": "Made in U.S.A",
+  "original_title": "Made in U.S.A",
+  "release_date": "1967-01-27",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

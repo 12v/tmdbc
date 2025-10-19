@@ -1,0 +1,44 @@
+{
+  "id": 429199,
+  "title": "The Other Side of Hope",
+  "original_title": "Toivon tuolla puolen",
+  "release_date": "2017-02-03",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

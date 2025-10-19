@@ -1,0 +1,30 @@
+{
+  "id": 144599,
+  "title": "Hello Cubans",
+  "original_title": "Salut les Cubains",
+  "release_date": "1963-11-26",
+  "status": "Released",
+  "runtime": 30,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1172265,
+  "title": "The Blue Trail",
+  "original_title": "O \u00daltimo Azul",
+  "release_date": "2025-08-28",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "CL",
+    "MX",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

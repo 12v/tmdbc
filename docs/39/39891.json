@@ -1,0 +1,25 @@
+{
+  "id": 39891,
+  "title": "The Devil Rides Out",
+  "original_title": "The Devil Rides Out",
+  "release_date": "1968-07-20",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

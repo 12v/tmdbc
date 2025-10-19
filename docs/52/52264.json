@@ -1,0 +1,30 @@
+{
+  "id": 52264,
+  "title": "A Cat in Paris",
+  "original_title": "Une vie de chat",
+  "release_date": "2010-12-15",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

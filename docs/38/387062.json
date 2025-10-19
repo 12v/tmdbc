@@ -1,0 +1,29 @@
+{
+  "id": 387062,
+  "title": "Tales of an Immoral Couple",
+  "original_title": "La vida inmoral de la pareja ideal",
+  "release_date": "2016-10-28",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

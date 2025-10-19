@@ -1,0 +1,34 @@
+{
+  "id": 36253,
+  "title": "The Wayward Cloud",
+  "original_title": "\u5929\u908a\u4e00\u6735\u96f2",
+  "release_date": "2005-05-19",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

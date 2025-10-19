@@ -1,0 +1,33 @@
+{
+  "id": 29267,
+  "title": "Destiny",
+  "original_title": "Der m\u00fcde Tod",
+  "release_date": "1921-10-06",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

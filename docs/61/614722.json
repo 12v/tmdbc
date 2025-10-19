@@ -1,0 +1,29 @@
+{
+  "id": 614722,
+  "title": "Hell House LLC III: Lake of Fire",
+  "original_title": "Hell House LLC III: Lake of Fire",
+  "release_date": "2019-09-19",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

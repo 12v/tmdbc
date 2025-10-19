@@ -1,0 +1,33 @@
+{
+  "id": 2994,
+  "title": "Danger: Diabolik",
+  "original_title": "Diabolik",
+  "release_date": "1968-01-24",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

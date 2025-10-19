@@ -1,0 +1,30 @@
+{
+  "id": 25338,
+  "title": "The Silent Partner",
+  "original_title": "The Silent Partner",
+  "release_date": "1978-09-07",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

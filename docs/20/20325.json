@@ -1,0 +1,29 @@
+{
+  "id": 20325,
+  "title": "Swing Time",
+  "original_title": "Swing Time",
+  "release_date": "1936-08-28",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

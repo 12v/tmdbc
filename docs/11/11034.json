@@ -1,0 +1,29 @@
+{
+  "id": 11034,
+  "title": "The Great Gatsby",
+  "original_title": "The Great Gatsby",
+  "release_date": "1974-03-27",
+  "status": "Released",
+  "runtime": 144,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}
