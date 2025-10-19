@@ -1,0 +1,25 @@
+{
+  "id": 28043,
+  "title": "Black Sabbath",
+  "original_title": "I tre volti della paura",
+  "release_date": "1963-08-17",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

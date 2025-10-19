@@ -1,0 +1,25 @@
+{
+  "id": 1112548,
+  "title": "Pictures of Ghosts",
+  "original_title": "Retratos Fantasmas",
+  "release_date": "2023-08-24",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

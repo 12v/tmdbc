@@ -1,0 +1,33 @@
+{
+  "id": 27031,
+  "title": "Samurai Rebellion",
+  "original_title": "\u4e0a\u610f\u8a0e\u3061 \u62dd\u9818\u59bb\u59cb\u672b",
+  "release_date": "1967-05-27",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

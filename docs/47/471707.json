@@ -1,0 +1,25 @@
+{
+  "id": 471707,
+  "title": "Corpus Christi",
+  "original_title": "Bo\u017ce Cia\u0142o",
+  "release_date": "2019-09-10",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

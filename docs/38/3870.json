@@ -1,0 +1,29 @@
+{
+  "id": 3870,
+  "title": "1900",
+  "original_title": "Novecento",
+  "release_date": "1976-08-28",
+  "status": "Released",
+  "runtime": 317,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

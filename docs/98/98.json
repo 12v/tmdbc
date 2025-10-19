@@ -1,0 +1,33 @@
+{
+  "id": 98,
+  "title": "Gladiator",
+  "original_title": "Gladiator",
+  "release_date": "2000-05-04",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

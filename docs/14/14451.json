@@ -1,0 +1,29 @@
+{
+  "id": 14451,
+  "title": "Dead Snow",
+  "original_title": "D\u00f8d sn\u00f8",
+  "release_date": "2009-01-09",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

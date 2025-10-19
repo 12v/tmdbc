@@ -1,0 +1,37 @@
+{
+  "id": 568160,
+  "title": "Weathering with You",
+  "original_title": "\u5929\u6c17\u306e\u5b50",
+  "release_date": "2019-07-19",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

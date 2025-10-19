@@ -1,0 +1,29 @@
+{
+  "id": 16306,
+  "title": "Fantastic Planet",
+  "original_title": "La Plan\u00e8te sauvage",
+  "release_date": "1973-12-01",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1040,
+  "title": "The Leopard",
+  "original_title": "Il gattopardo",
+  "release_date": "1963-03-27",
+  "status": "Released",
+  "runtime": 186,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

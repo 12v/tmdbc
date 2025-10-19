@@ -1,0 +1,30 @@
+{
+  "id": 1151244,
+  "title": "Vermiglio",
+  "original_title": "Vermiglio",
+  "release_date": "2024-09-19",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

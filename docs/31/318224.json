@@ -1,0 +1,29 @@
+{
+  "id": 318224,
+  "title": "Going Clear: Scientology and the Prison of Belief",
+  "original_title": "Going Clear: Scientology and the Prison of Belief",
+  "release_date": "2015-01-25",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

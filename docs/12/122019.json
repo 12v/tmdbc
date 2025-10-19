@@ -1,0 +1,29 @@
+{
+  "id": 122019,
+  "title": "Macario",
+  "original_title": "Macario",
+  "release_date": "1960-05-09",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

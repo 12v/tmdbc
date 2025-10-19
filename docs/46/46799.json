@@ -1,0 +1,33 @@
+{
+  "id": 46799,
+  "title": "The Third Part of the Night",
+  "original_title": "Trzecia cz\u0119\u015b\u0107 nocy",
+  "release_date": "1972-01-04",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

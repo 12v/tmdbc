@@ -1,0 +1,33 @@
+{
+  "id": 548,
+  "title": "Rashomon",
+  "original_title": "\u7f85\u751f\u9580",
+  "release_date": "1950-08-26",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

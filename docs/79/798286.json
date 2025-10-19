@@ -1,0 +1,33 @@
+{
+  "id": 798286,
+  "title": "Beau Is Afraid",
+  "original_title": "Beau Is Afraid",
+  "release_date": "2023-04-14",
+  "status": "Released",
+  "runtime": 179,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

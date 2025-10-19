@@ -1,0 +1,29 @@
+{
+  "id": 2457,
+  "title": "Children of Paradise",
+  "original_title": "Les Enfants du Paradis",
+  "release_date": "1945-03-15",
+  "status": "Released",
+  "runtime": 190,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

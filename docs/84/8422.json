@@ -1,0 +1,29 @@
+{
+  "id": 8422,
+  "title": "Rocco and His Brothers",
+  "original_title": "Rocco e i suoi fratelli",
+  "release_date": "1960-10-07",
+  "status": "Released",
+  "runtime": 178,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

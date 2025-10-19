@@ -1,0 +1,33 @@
+{
+  "id": 285,
+  "title": "Pirates of the Caribbean: At World's End",
+  "original_title": "Pirates of the Caribbean: At World's End",
+  "release_date": "2007-05-19",
+  "status": "Released",
+  "runtime": 169,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 18942,
+  "title": "Nirvana: Unplugged In New York",
+  "original_title": "Nirvana: Unplugged In New York",
+  "release_date": "1993-12-16",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

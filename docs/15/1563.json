@@ -1,0 +1,25 @@
+{
+  "id": 1563,
+  "title": "Sans Soleil",
+  "original_title": "Sans soleil",
+  "release_date": "1983-03-02",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

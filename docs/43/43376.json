@@ -1,0 +1,25 @@
+{
+  "id": 43376,
+  "title": "Diary of a Country Priest",
+  "original_title": "Journal d'un cur\u00e9 de campagne",
+  "release_date": "1951-02-07",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

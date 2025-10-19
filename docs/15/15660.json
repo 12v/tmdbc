@@ -1,0 +1,25 @@
+{
+  "id": 15660,
+  "title": "Mommie Dearest",
+  "original_title": "Mommie Dearest",
+  "release_date": "1981-09-16",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 566213,
+  "title": "Honeyland",
+  "original_title": "\u041c\u0435\u0434\u0435\u043d\u0430 \u0437\u0435\u043c\u0458\u0430",
+  "release_date": "2019-07-26",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    },
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    },
+    {
+      "english_name": "Macedonian",
+      "iso_639_1": "mk",
+      "name": ""
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "MK"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1989,
+  "title": "My Blueberry Nights",
+  "original_title": "\u85cd\u8393\u4e4b\u591c",
+  "release_date": "2007-11-28",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

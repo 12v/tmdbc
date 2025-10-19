@@ -1,0 +1,29 @@
+{
+  "id": 265180,
+  "title": "Leviathan",
+  "original_title": "\u041b\u0435\u0432\u0438\u0430\u0444\u0430\u043d",
+  "release_date": "2014-09-24",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

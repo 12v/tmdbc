@@ -1,0 +1,29 @@
+{
+  "id": 694,
+  "title": "The Shining",
+  "original_title": "The Shining",
+  "release_date": "1980-05-23",
+  "status": "Released",
+  "runtime": 144,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

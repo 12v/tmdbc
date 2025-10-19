@@ -1,0 +1,29 @@
+{
+  "id": 26451,
+  "title": "Investigation of a Citizen Above Suspicion",
+  "original_title": "Indagine su un cittadino al di sopra di ogni sospetto",
+  "release_date": "1970-10-16",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

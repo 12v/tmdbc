@@ -1,0 +1,35 @@
+{
+  "id": 765421,
+  "title": "Crossing",
+  "original_title": "\u10d2\u10d0\u10d3\u10d0\u10e1\u10d5\u10da\u10d0",
+  "release_date": "2024-03-22",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "GE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

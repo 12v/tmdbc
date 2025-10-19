@@ -1,0 +1,25 @@
+{
+  "id": 521029,
+  "title": "Annabelle Comes Home",
+  "original_title": "Annabelle Comes Home",
+  "release_date": "2019-06-26",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

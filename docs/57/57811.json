@@ -1,0 +1,33 @@
+{
+  "id": 57811,
+  "title": "Foreign Land",
+  "original_title": "Terra Estrangeira",
+  "release_date": "1996-09-04",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

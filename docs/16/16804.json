@@ -1,0 +1,25 @@
+{
+  "id": 16804,
+  "title": "Departures",
+  "original_title": "\u304a\u304f\u308a\u3073\u3068",
+  "release_date": "2008-09-13",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

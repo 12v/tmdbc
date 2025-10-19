@@ -1,0 +1,34 @@
+{
+  "id": 8424,
+  "title": "Love Me If You Dare",
+  "original_title": "Jeux d'enfants",
+  "release_date": "2003-09-17",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

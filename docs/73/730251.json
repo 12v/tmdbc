@@ -1,0 +1,25 @@
+{
+  "id": 730251,
+  "title": "Happyend",
+  "original_title": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
+  "release_date": "2025-01-23",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 2204,
+  "title": "Alice in the Cities",
+  "original_title": "Alice in den St\u00e4dten",
+  "release_date": "1974-05-17",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

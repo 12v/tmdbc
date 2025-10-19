@@ -1,0 +1,29 @@
+{
+  "id": 935,
+  "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "release_date": "1964-01-29",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

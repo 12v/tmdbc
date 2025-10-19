@@ -1,0 +1,29 @@
+{
+  "id": 46919,
+  "title": "Daisies",
+  "original_title": "Sedmikr\u00e1sky",
+  "release_date": "1966-12-30",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

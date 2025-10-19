@@ -1,0 +1,29 @@
+{
+  "id": 346,
+  "title": "Seven Samurai",
+  "original_title": "\u4e03\u4eba\u306e\u4f8d",
+  "release_date": "1954-04-26",
+  "status": "Released",
+  "runtime": 207,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

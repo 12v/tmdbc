@@ -1,0 +1,33 @@
+{
+  "id": 12493,
+  "title": "High and Low",
+  "original_title": "\u5929\u56fd\u3068\u5730\u7344",
+  "release_date": "1963-03-01",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

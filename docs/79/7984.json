@@ -1,0 +1,26 @@
+{
+  "id": 7984,
+  "title": "In the Name of the Father",
+  "original_title": "In the Name of the Father",
+  "release_date": "1993-12-12",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IE",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

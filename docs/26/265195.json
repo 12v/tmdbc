@@ -1,0 +1,33 @@
+{
+  "id": 265195,
+  "title": "Wild Tales",
+  "original_title": "Relatos salvajes",
+  "release_date": "2014-08-21",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

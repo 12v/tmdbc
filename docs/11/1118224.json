@@ -1,0 +1,33 @@
+{
+  "id": 1118224,
+  "title": "Maharaja",
+  "original_title": "\u0bae\u0b95\u0bbe\u0bb0\u0bbe\u0b9c\u0bbe",
+  "release_date": "2024-06-14",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

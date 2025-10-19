@@ -1,0 +1,25 @@
+{
+  "id": 1037113,
+  "title": "Snack Shack",
+  "original_title": "Snack Shack",
+  "release_date": "2024-03-15",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

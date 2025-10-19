@@ -1,0 +1,33 @@
+{
+  "id": 423204,
+  "title": "Angel Has Fallen",
+  "original_title": "Angel Has Fallen",
+  "release_date": "2019-08-21",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "BG",
+    "CA",
+    "PT",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

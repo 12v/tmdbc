@@ -1,0 +1,30 @@
+{
+  "id": 507505,
+  "title": "El Angel",
+  "original_title": "El \u00c1ngel",
+  "release_date": "2018-08-09",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 770,
+  "title": "Gone with the Wind",
+  "original_title": "Gone with the Wind",
+  "release_date": "1939-12-15",
+  "status": "Released",
+  "runtime": 233,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

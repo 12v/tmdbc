@@ -1,0 +1,30 @@
+{
+  "id": 108,
+  "title": "Three Colors: Blue",
+  "original_title": "Trois couleurs : Bleu",
+  "release_date": "1993-09-08",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

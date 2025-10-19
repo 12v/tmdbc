@@ -1,0 +1,29 @@
+{
+  "id": 10435,
+  "title": "Chaplin",
+  "original_title": "Chaplin",
+  "release_date": "1992-12-17",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "FR",
+    "IT",
+    "JP",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

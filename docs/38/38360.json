@@ -1,0 +1,33 @@
+{
+  "id": 38360,
+  "title": "The Cranes Are Flying",
+  "original_title": "\u041b\u0435\u0442\u044f\u0442 \u0436\u0443\u0440\u0430\u0432\u043b\u0438",
+  "release_date": "1957-10-12",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

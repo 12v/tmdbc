@@ -1,0 +1,27 @@
+{
+  "id": 641662,
+  "title": "Pieces of a Woman",
+  "original_title": "Pieces of a Woman",
+  "release_date": "2020-12-30",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "CA",
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

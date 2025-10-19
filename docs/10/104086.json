@@ -1,0 +1,25 @@
+{
+  "id": 104086,
+  "title": "The Man Who Sleeps",
+  "original_title": "Un homme qui dort",
+  "release_date": "1974-04-24",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

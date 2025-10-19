@@ -1,0 +1,25 @@
+{
+  "id": 86814,
+  "title": "News from Home",
+  "original_title": "News from Home",
+  "release_date": "1977-05-20",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 216015,
+  "title": "Fifty Shades of Grey",
+  "original_title": "Fifty Shades of Grey",
+  "release_date": "2015-02-11",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

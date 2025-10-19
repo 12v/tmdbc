@@ -1,0 +1,25 @@
+{
+  "id": 1556,
+  "title": "Funeral Parade of Roses",
+  "original_title": "\u8594\u8587\u306e\u846c\u5217",
+  "release_date": "1969-09-13",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

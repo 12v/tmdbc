@@ -1,0 +1,30 @@
+{
+  "id": 896,
+  "title": "Apur Sansar",
+  "original_title": "\u0985\u09aa\u09c1\u09b0 \u09b8\u0982\u09b8\u09be\u09b0",
+  "release_date": "1959-05-01",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

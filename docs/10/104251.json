@@ -1,0 +1,29 @@
+{
+  "id": 104251,
+  "title": "Pastoral: To Die in the Country",
+  "original_title": "\u7530\u5712\u306b\u6b7b\u3059",
+  "release_date": "1974-12-28",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

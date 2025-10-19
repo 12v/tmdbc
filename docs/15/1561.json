@@ -1,0 +1,25 @@
+{
+  "id": 1561,
+  "title": "Mouchette",
+  "original_title": "Mouchette",
+  "release_date": "1967-03-28",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

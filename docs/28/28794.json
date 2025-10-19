@@ -1,0 +1,29 @@
+{
+  "id": 28794,
+  "title": "The House by the Cemetery",
+  "original_title": "Quella villa accanto al cimitero",
+  "release_date": "1981-08-14",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

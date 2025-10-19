@@ -1,0 +1,25 @@
+{
+  "id": 336804,
+  "title": "Mustang",
+  "original_title": "Mustang",
+  "release_date": "2015-06-17",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

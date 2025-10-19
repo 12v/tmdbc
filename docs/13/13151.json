@@ -1,0 +1,37 @@
+{
+  "id": 13151,
+  "title": "Scooby-Doo on Zombie Island",
+  "original_title": "Scooby-Doo on Zombie Island",
+  "release_date": "1998-09-22",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

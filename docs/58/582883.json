@@ -1,0 +1,29 @@
+{
+  "id": 582883,
+  "title": "Deerskin",
+  "original_title": "Le Daim",
+  "release_date": "2019-06-19",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

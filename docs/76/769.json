@@ -1,0 +1,34 @@
+{
+  "id": 769,
+  "title": "GoodFellas",
+  "original_title": "GoodFellas",
+  "release_date": "1990-09-12",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

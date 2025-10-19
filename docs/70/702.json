@@ -1,0 +1,29 @@
+{
+  "id": 702,
+  "title": "A Streetcar Named Desire",
+  "original_title": "A Streetcar Named Desire",
+  "release_date": "1951-09-19",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

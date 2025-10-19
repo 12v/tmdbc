@@ -1,0 +1,38 @@
+{
+  "id": 10234,
+  "title": "Funny Games",
+  "original_title": "Funny Games",
+  "release_date": "1997-08-23",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

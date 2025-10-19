@@ -1,0 +1,37 @@
+{
+  "id": 714194,
+  "title": "Attack on Titan: Chronicle",
+  "original_title": "\u300e\u9032\u6483\u306e\u5de8\u4eba\u300f\u301c\u30af\u30ed\u30cb\u30af\u30eb\u301c",
+  "release_date": "2020-07-17",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

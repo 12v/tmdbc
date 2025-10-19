@@ -1,0 +1,25 @@
+{
+  "id": 47795,
+  "title": "Landscape in the Mist",
+  "original_title": "\u03a4\u03bf\u03c0\u03af\u03bf \u03c3\u03c4\u03b7\u03bd \u03bf\u03bc\u03af\u03c7\u03bb\u03b7",
+  "release_date": "1988-09-10",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

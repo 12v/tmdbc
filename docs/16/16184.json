@@ -1,0 +1,33 @@
+{
+  "id": 16184,
+  "title": "The Happiness of the Katakuris",
+  "original_title": "\u30ab\u30bf\u30af\u30ea\u5bb6\u306e\u5e78\u798f",
+  "release_date": "2002-02-23",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

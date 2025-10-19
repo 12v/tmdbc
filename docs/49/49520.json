@@ -1,0 +1,25 @@
+{
+  "id": 49520,
+  "title": "The Change-Up",
+  "original_title": "The Change-Up",
+  "release_date": "2011-08-05",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

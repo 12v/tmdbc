@@ -1,0 +1,33 @@
+{
+  "id": 13932,
+  "title": "Jack-Jack Attack",
+  "original_title": "Jack-Jack Attack",
+  "release_date": "2005-03-15",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

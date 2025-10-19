@@ -1,0 +1,29 @@
+{
+  "id": 11216,
+  "title": "Cinema Paradiso",
+  "original_title": "Nuovo Cinema Paradiso",
+  "release_date": "1988-11-17",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

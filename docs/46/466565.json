@@ -1,0 +1,34 @@
+{
+  "id": 466565,
+  "title": "Hagazussa",
+  "original_title": "Hagazussa",
+  "release_date": "2018-05-17",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

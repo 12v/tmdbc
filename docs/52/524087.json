@@ -1,0 +1,29 @@
+{
+  "id": 524087,
+  "title": "Dear Ex",
+  "original_title": "\u8ab0\u5148\u611b\u4e0a\u4ed6\u7684",
+  "release_date": "2018-11-02",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

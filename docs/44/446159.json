@@ -1,0 +1,38 @@
+{
+  "id": 446159,
+  "title": "Bacurau",
+  "original_title": "Bacurau",
+  "release_date": "2019-08-29",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

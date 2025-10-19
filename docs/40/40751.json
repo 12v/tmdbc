@@ -1,0 +1,29 @@
+{
+  "id": 40751,
+  "title": "Ashes of Time",
+  "original_title": "\u6771\u90aa\u897f\u6bd2",
+  "release_date": "1994-09-17",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

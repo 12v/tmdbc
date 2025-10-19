@@ -1,0 +1,25 @@
+{
+  "id": 38442,
+  "title": "The Firemen's Ball",
+  "original_title": "Ho\u0159\u00ed, m\u00e1 panenko",
+  "release_date": "1967-12-15",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

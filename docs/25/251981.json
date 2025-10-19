@@ -1,0 +1,33 @@
+{
+  "id": 251981,
+  "title": "The World of Kanako",
+  "original_title": "\u6e07\u304d\u3002",
+  "release_date": "2014-07-04",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

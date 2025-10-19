@@ -1,0 +1,25 @@
+{
+  "id": 489430,
+  "title": "Terrified",
+  "original_title": "Aterrados",
+  "release_date": "2018-05-03",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

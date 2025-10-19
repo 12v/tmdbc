@@ -1,0 +1,25 @@
+{
+  "id": 44379,
+  "title": "The Gleaners and I",
+  "original_title": "Les Glaneurs et la Glaneuse",
+  "release_date": "2000-07-07",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

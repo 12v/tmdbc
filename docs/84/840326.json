@@ -1,0 +1,34 @@
+{
+  "id": 840326,
+  "title": "Sisu",
+  "original_title": "Sisu",
+  "release_date": "2022-09-09",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 429,
+  "title": "The Good, the Bad and the Ugly",
+  "original_title": "Il buono, il brutto, il cattivo",
+  "release_date": "1966-12-22",
+  "status": "Released",
+  "runtime": 161,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

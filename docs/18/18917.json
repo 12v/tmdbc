@@ -1,0 +1,33 @@
+{
+  "id": 18917,
+  "title": "Alice",
+  "original_title": "N\u011bco z Alenky",
+  "release_date": "1988-08-03",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

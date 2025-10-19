@@ -1,0 +1,33 @@
+{
+  "id": 34048,
+  "title": "Angel Dust",
+  "original_title": "\u30a8\u30f3\u30b8\u30a7\u30eb\u30fb\u30c0\u30b9\u30c8",
+  "release_date": "1994-09-23",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 49984,
+  "title": "Silvia Prieto",
+  "original_title": "Silvia Prieto",
+  "release_date": "1999-02-24",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

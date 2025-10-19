@@ -1,0 +1,25 @@
+{
+  "id": 377273,
+  "title": "Aquarius",
+  "original_title": "Aquarius",
+  "release_date": "2016-09-01",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

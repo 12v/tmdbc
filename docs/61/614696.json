@@ -1,0 +1,33 @@
+{
+  "id": 614696,
+  "title": "#Alive",
+  "original_title": "#\uc0b4\uc544\uc788\ub2e4",
+  "release_date": "2020-06-24",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

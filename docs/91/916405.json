@@ -1,0 +1,30 @@
+{
+  "id": 916405,
+  "title": "The Quiet Girl",
+  "original_title": "An Cail\u00edn Ci\u00fain",
+  "release_date": "2022-05-12",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ga",
+  "spoken_languages": [
+    {
+      "english_name": "Irish",
+      "iso_639_1": "ga",
+      "name": "Gaeilge"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

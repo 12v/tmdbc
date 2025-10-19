@@ -1,0 +1,29 @@
+{
+  "id": 1244492,
+  "title": "Look Back",
+  "original_title": "\u30eb\u30c3\u30af\u30d0\u30c3\u30af",
+  "release_date": "2024-06-28",
+  "status": "Released",
+  "runtime": 58,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

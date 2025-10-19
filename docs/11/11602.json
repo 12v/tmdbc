@@ -1,0 +1,30 @@
+{
+  "id": 11602,
+  "title": "Through a Glass Darkly",
+  "original_title": "S\u00e5som i en spegel",
+  "release_date": "1961-10-16",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

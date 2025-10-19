@@ -1,0 +1,29 @@
+{
+  "id": 104548,
+  "title": "Demons",
+  "original_title": "\u4fee\u7f85",
+  "release_date": "1971-02-13",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

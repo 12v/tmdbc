@@ -1,0 +1,29 @@
+{
+  "id": 2654,
+  "title": "In the Mouth of Madness",
+  "original_title": "In the Mouth of Madness",
+  "release_date": "1995-02-03",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

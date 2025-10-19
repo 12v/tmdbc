@@ -1,0 +1,25 @@
+{
+  "id": 49361,
+  "title": "Don't Torture a Duckling",
+  "original_title": "Non si sevizia un paperino",
+  "release_date": "1972-09-29",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

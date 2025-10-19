@@ -1,0 +1,29 @@
+{
+  "id": 401981,
+  "title": "Red Sparrow",
+  "original_title": "Red Sparrow",
+  "release_date": "2018-02-15",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

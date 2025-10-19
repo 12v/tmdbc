@@ -1,0 +1,29 @@
+{
+  "id": 1259365,
+  "title": "The Wonderful Story of Henry Sugar and Three More",
+  "original_title": "The Wonderful Story of Henry Sugar and Three More",
+  "release_date": "2024-03-14",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

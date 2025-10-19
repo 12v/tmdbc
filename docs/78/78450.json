@@ -1,0 +1,29 @@
+{
+  "id": 78450,
+  "title": "Terrorizers",
+  "original_title": "\u6050\u6016\u4efd\u5b50",
+  "release_date": "1986-12-19",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 974586,
+  "title": "Le Pupille",
+  "original_title": "Le pupille",
+  "release_date": "2022-05-27",
+  "status": "Released",
+  "runtime": 39,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

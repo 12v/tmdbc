@@ -1,0 +1,23 @@
+{
+  "id": 359246,
+  "title": "Hell House LLC",
+  "original_title": "Hell House LLC",
+  "release_date": "2015-10-16",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

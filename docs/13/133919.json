@@ -1,0 +1,29 @@
+{
+  "id": 133919,
+  "title": "Scenes from a Marriage",
+  "original_title": "Scener ur ett \u00e4ktenskap",
+  "release_date": "1974-09-15",
+  "status": "Released",
+  "runtime": 169,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

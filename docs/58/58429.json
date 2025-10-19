@@ -1,0 +1,25 @@
+{
+  "id": 58429,
+  "title": "La Ci\u00e9naga",
+  "original_title": "La Ci\u00e9naga",
+  "release_date": "2001-04-12",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

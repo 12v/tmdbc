@@ -1,0 +1,29 @@
+{
+  "id": 27072,
+  "title": "On the Silver Globe",
+  "original_title": "Na Srebrnym Globie",
+  "release_date": "1989-02-10",
+  "status": "Released",
+  "runtime": 165,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

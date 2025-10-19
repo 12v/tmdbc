@@ -1,0 +1,40 @@
+{
+  "id": 109424,
+  "title": "Captain Phillips",
+  "original_title": "Captain Phillips",
+  "release_date": "2013-10-10",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Somali",
+      "iso_639_1": "so",
+      "name": "Somali"
+    }
+  ],
+  "origin_country": [
+    "MT",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 20992,
+  "title": "Brother",
+  "original_title": "\u0411\u0440\u0430\u0442",
+  "release_date": "1997-12-12",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

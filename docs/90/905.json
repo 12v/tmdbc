@@ -1,0 +1,33 @@
+{
+  "id": 905,
+  "title": "Pandora's Box",
+  "original_title": "Die B\u00fcchse der Pandora",
+  "release_date": "1929-01-30",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

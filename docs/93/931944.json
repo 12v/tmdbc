@@ -1,0 +1,38 @@
+{
+  "id": 931944,
+  "title": "The Devil's Bath",
+  "original_title": "Des Teufels Bad",
+  "release_date": "2024-03-08",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

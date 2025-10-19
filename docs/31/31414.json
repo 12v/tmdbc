@@ -1,0 +1,25 @@
+{
+  "id": 31414,
+  "title": "Satantango",
+  "original_title": "S\u00e1t\u00e1ntang\u00f3",
+  "release_date": "1994-02-08",
+  "status": "Released",
+  "runtime": 432,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

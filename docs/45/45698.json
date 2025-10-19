@@ -1,0 +1,33 @@
+{
+  "id": 45698,
+  "title": "The Hourglass Sanatorium",
+  "original_title": "Sanatorium pod Klepsydr\u0105",
+  "release_date": "1973-12-12",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 209274,
+  "title": "Ida",
+  "original_title": "Ida",
+  "release_date": "2013-10-25",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

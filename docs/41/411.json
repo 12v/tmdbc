@@ -1,0 +1,39 @@
+{
+  "id": 411,
+  "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+  "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+  "release_date": "2005-12-07",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

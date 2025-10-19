@@ -1,0 +1,29 @@
+{
+  "id": 11347,
+  "title": "The Lair of the White Worm",
+  "original_title": "The Lair of the White Worm",
+  "release_date": "1988-09-21",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

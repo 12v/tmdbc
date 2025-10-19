@@ -1,0 +1,29 @@
+{
+  "id": 638965,
+  "title": "Mandibles",
+  "original_title": "Mandibules",
+  "release_date": "2021-05-19",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 807070,
+  "title": "Vortex",
+  "original_title": "Vortex",
+  "release_date": "2021-10-16",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 5991,
+  "title": "The Last Laugh",
+  "original_title": "Der letzte Mann",
+  "release_date": "1924-12-23",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

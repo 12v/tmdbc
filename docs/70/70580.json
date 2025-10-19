@@ -1,0 +1,34 @@
+{
+  "id": 70580,
+  "title": "Manila in the Claws of Light",
+  "original_title": "Maynila sa mga Kuko ng Liwanag",
+  "release_date": "1975-07-16",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

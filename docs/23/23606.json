@@ -1,0 +1,33 @@
+{
+  "id": 23606,
+  "title": "A Scene at the Sea",
+  "original_title": "\u3042\u306e\u590f\u3001\u3044\u3061\u3070\u3093\u9759\u304b\u306a\u6d77\u3002",
+  "release_date": "1991-10-19",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

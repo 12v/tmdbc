@@ -1,0 +1,25 @@
+{
+  "id": 26275,
+  "title": "Kamikaze Girls",
+  "original_title": "\u4e0b\u59bb\u7269\u8a9e",
+  "release_date": "2004-05-29",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

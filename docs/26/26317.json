@@ -1,0 +1,25 @@
+{
+  "id": 26317,
+  "title": "Man with a Movie Camera",
+  "original_title": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a \u0441 \u043a\u0438\u043d\u043e\u0430\u043f\u043f\u0430\u0440\u0430\u0442\u043e\u043c",
+  "release_date": "1929-05-12",
+  "status": "Released",
+  "runtime": 68,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

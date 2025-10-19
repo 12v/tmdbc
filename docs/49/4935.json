@@ -1,0 +1,33 @@
+{
+  "id": 4935,
+  "title": "Howl's Moving Castle",
+  "original_title": "\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce",
+  "release_date": "2004-09-09",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 166428,
+  "title": "How to Train Your Dragon: The Hidden World",
+  "original_title": "How to Train Your Dragon: The Hidden World",
+  "release_date": "2019-01-03",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

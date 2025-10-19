@@ -1,0 +1,29 @@
+{
+  "id": 26372,
+  "title": "Shame",
+  "original_title": "Skammen",
+  "release_date": "1968-09-29",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

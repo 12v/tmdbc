@@ -1,0 +1,38 @@
+{
+  "id": 963765,
+  "title": "Strange Way of Life",
+  "original_title": "Extra\u00f1a forma de vida",
+  "release_date": "2023-05-26",
+  "status": "Released",
+  "runtime": 31,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

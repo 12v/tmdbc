@@ -1,0 +1,37 @@
+{
+  "id": 393559,
+  "title": "My Life as a Zucchini",
+  "original_title": "Ma vie de courgette",
+  "release_date": "2016-09-22",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

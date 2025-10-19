@@ -1,0 +1,23 @@
+{
+  "id": 785542,
+  "title": "The Outrun",
+  "original_title": "The Outrun",
+  "release_date": "2024-09-27",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

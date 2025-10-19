@@ -1,0 +1,38 @@
+{
+  "id": 1213,
+  "title": "The Talented Mr. Ripley",
+  "original_title": "The Talented Mr. Ripley",
+  "release_date": "1999-12-25",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

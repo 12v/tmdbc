@@ -1,0 +1,26 @@
+{
+  "id": 804251,
+  "title": "Alcarr\u00e0s",
+  "original_title": "Alcarr\u00e0s",
+  "release_date": "2022-04-29",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ca",
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

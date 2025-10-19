@@ -1,0 +1,30 @@
+{
+  "id": 997294,
+  "title": "Close Your Eyes",
+  "original_title": "Cerrar los ojos",
+  "release_date": "2023-08-16",
+  "status": "Released",
+  "runtime": 169,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

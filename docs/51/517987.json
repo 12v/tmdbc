@@ -1,0 +1,34 @@
+{
+  "id": 517987,
+  "title": "Rafiki",
+  "original_title": "Rafiki",
+  "release_date": "2018-09-26",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "sw",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swahili",
+      "iso_639_1": "sw",
+      "name": "Kiswahili"
+    }
+  ],
+  "origin_country": [
+    "KE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

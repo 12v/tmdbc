@@ -1,0 +1,33 @@
+{
+  "id": 12205,
+  "title": "Dark Water",
+  "original_title": "\u4ec4\u6697\u3044\u6c34\u306e\u5e95\u304b\u3089",
+  "release_date": "2002-01-19",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

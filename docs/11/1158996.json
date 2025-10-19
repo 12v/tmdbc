@@ -1,0 +1,35 @@
+{
+  "id": 1158996,
+  "title": "Souleymane's Story",
+  "original_title": "L'Histoire de Souleymane",
+  "release_date": "2024-10-09",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Fulah",
+      "iso_639_1": "ff",
+      "name": "Fulfulde"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

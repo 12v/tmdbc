@@ -1,0 +1,29 @@
+{
+  "id": 13376,
+  "title": "Eight Crazy Nights",
+  "original_title": "Eight Crazy Nights",
+  "release_date": "2002-11-27",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

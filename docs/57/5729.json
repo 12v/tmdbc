@@ -1,0 +1,33 @@
+{
+  "id": 5729,
+  "title": "L'\u00c2ge d'or",
+  "original_title": "L'\u00c2ge d'or",
+  "release_date": "1930-11-28",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 16085,
+  "title": "Funny Girl",
+  "original_title": "Funny Girl",
+  "release_date": "1968-09-19",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

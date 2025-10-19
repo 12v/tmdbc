@@ -1,0 +1,34 @@
+{
+  "id": 64,
+  "title": "Talk to Her",
+  "original_title": "Hable con ella",
+  "release_date": "2002-03-15",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 32499,
+  "title": "The Bad and the Beautiful",
+  "original_title": "The Bad and the Beautiful",
+  "release_date": "1952-12-25",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

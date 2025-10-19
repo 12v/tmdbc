@@ -1,0 +1,40 @@
+{
+  "id": 848685,
+  "title": "The Beasts",
+  "original_title": "As bestas",
+  "release_date": "2022-07-20",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Galician",
+      "iso_639_1": "gl",
+      "name": "Galego"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

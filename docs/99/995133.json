@@ -1,0 +1,37 @@
+{
+  "id": 995133,
+  "title": "The Boy, the Mole, the Fox and the Horse",
+  "original_title": "The Boy, the Mole, the Fox and the Horse",
+  "release_date": "2022-12-25",
+  "status": "Released",
+  "runtime": 35,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

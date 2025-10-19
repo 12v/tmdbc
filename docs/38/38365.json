@@ -1,0 +1,25 @@
+{
+  "id": 38365,
+  "title": "Grown Ups",
+  "original_title": "Grown Ups",
+  "release_date": "2010-06-24",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1088514,
+  "title": "The Room Next Door",
+  "original_title": "La habitaci\u00f3n de al lado",
+  "release_date": "2024-10-07",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

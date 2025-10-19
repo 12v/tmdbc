@@ -1,0 +1,25 @@
+{
+  "id": 7974,
+  "title": "The Match Factory Girl",
+  "original_title": "Tulitikkutehtaan tytt\u00f6",
+  "release_date": "1990-01-12",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

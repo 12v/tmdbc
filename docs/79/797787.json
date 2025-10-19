@@ -1,0 +1,29 @@
+{
+  "id": 797787,
+  "title": "Man in Love",
+  "original_title": "\u7576\u7537\u4eba\u6200\u611b\u6642",
+  "release_date": "2021-04-01",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

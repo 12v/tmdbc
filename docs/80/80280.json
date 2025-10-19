@@ -1,0 +1,35 @@
+{
+  "id": 80280,
+  "title": "[REC]\u00b3 Genesis",
+  "original_title": "[REC]\u00b3 G\u00e9nesis",
+  "release_date": "2012-03-30",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

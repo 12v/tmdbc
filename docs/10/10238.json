@@ -1,0 +1,25 @@
+{
+  "id": 10238,
+  "title": "Cries and Whispers",
+  "original_title": "Viskningar och rop",
+  "release_date": "1972-12-21",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

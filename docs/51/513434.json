@@ -1,0 +1,33 @@
+{
+  "id": 513434,
+  "title": "One Cut of the Dead",
+  "original_title": "\u30ab\u30e1\u30e9\u3092\u6b62\u3081\u308b\u306a\uff01",
+  "release_date": "2017-11-04",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

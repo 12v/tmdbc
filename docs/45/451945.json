@@ -1,0 +1,25 @@
+{
+  "id": 451945,
+  "title": "BPM (Beats per Minute)",
+  "original_title": "120 battements par minute",
+  "release_date": "2017-08-23",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

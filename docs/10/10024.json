@@ -1,0 +1,25 @@
+{
+  "id": 10024,
+  "title": "My Sister's Keeper",
+  "original_title": "My Sister's Keeper",
+  "release_date": "2009-06-26",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

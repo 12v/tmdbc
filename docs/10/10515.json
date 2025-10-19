@@ -1,0 +1,41 @@
+{
+  "id": 10515,
+  "title": "Castle in the Sky",
+  "original_title": "\u5929\u7a7a\u306e\u57ce\u30e9\u30d4\u30e5\u30bf",
+  "release_date": "1986-08-02",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

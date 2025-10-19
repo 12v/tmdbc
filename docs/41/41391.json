@@ -1,0 +1,29 @@
+{
+  "id": 41391,
+  "title": "Day of Wrath",
+  "original_title": "Vredens dag",
+  "release_date": "1943-11-13",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 252171,
+  "title": "A Girl Walks Home Alone at Night",
+  "original_title": "A Girl Walks Home Alone at Night",
+  "release_date": "2014-11-21",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

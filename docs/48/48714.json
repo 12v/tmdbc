@@ -1,0 +1,29 @@
+{
+  "id": 48714,
+  "title": "The Big Shave",
+  "original_title": "The Big Shave",
+  "release_date": "1967-12-29",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

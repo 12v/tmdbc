@@ -1,0 +1,42 @@
+{
+  "id": 20123,
+  "title": "Time of the Gypsies",
+  "original_title": "Dom za ve\u0161anje",
+  "release_date": "1988-12-21",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "sh",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

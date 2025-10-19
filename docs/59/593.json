@@ -1,0 +1,33 @@
+{
+  "id": 593,
+  "title": "Solaris",
+  "original_title": "\u0421\u043e\u043b\u044f\u0440\u0438\u0441",
+  "release_date": "1972-03-20",
+  "status": "Released",
+  "runtime": 167,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

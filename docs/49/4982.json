@@ -1,0 +1,29 @@
+{
+  "id": 4982,
+  "title": "American Gangster",
+  "original_title": "American Gangster",
+  "release_date": "2007-11-02",
+  "status": "Released",
+  "runtime": 157,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}
