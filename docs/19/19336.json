@@ -1,0 +1,33 @@
+{
+  "id": 19336,
+  "title": "Godzilla vs. Gigan",
+  "original_title": "\u5730\u7403\u653b\u6483\u547d\u4ee4 \u30b4\u30b8\u30e9\u5bfe\u30ac\u30a4\u30ac\u30f3",
+  "release_date": "1972-03-12",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

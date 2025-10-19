@@ -1,0 +1,26 @@
+{
+  "id": 32720,
+  "title": "Hail Mary",
+  "original_title": "Je vous salue, Marie",
+  "release_date": "1985-01-23",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

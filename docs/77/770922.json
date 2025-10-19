@@ -1,0 +1,33 @@
+{
+  "id": 770922,
+  "title": "Canvas",
+  "original_title": "Canvas",
+  "release_date": "2020-10-29",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

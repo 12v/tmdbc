@@ -1,0 +1,29 @@
+{
+  "id": 15859,
+  "title": "A Moment to Remember",
+  "original_title": "\ub0b4 \uba38\ub9ac \uc18d\uc758 \uc9c0\uc6b0\uac1c",
+  "release_date": "2004-11-05",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

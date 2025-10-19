@@ -1,0 +1,29 @@
+{
+  "id": 1288070,
+  "title": "The Luckiest Man in America",
+  "original_title": "The Luckiest Man in America",
+  "release_date": "2025-04-04",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

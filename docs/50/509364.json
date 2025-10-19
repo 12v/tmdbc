@@ -1,0 +1,25 @@
+{
+  "id": 509364,
+  "title": "By the Grace of God",
+  "original_title": "Gr\u00e2ce \u00e0 Dieu",
+  "release_date": "2019-02-20",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

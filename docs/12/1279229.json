@@ -1,0 +1,29 @@
+{
+  "id": 1279229,
+  "title": "The Man Who Could Not Remain Silent",
+  "original_title": "\u010covjek koji nije mogao \u0161utjeti",
+  "release_date": "2025-02-14",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "hr",
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    }
+  ],
+  "origin_country": [
+    "HR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

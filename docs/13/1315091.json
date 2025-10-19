@@ -1,0 +1,25 @@
+{
+  "id": 1315091,
+  "title": "Toxic",
+  "original_title": "Akipl\u0117\u0161a",
+  "release_date": "2025-03-24",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "lt",
+  "spoken_languages": [
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvi\u0173"
+    }
+  ],
+  "origin_country": [
+    "LT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

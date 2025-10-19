@@ -1,0 +1,30 @@
+{
+  "id": 25527,
+  "title": "The Ron Clark Story",
+  "original_title": "The Ron Clark Story",
+  "release_date": "2006-08-13",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

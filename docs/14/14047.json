@@ -1,0 +1,25 @@
+{
+  "id": 14047,
+  "title": "The Great Debaters",
+  "original_title": "The Great Debaters",
+  "release_date": "2007-12-25",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

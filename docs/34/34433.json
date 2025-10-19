@@ -1,0 +1,33 @@
+{
+  "id": 34433,
+  "title": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+  "original_title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\uff3a \u71c3\u3048\u5c3d\u304d\u308d!!\u71b1\u6226\u30fb\u70c8\u6226\u30fb\u8d85\u6fc0\u6226",
+  "release_date": "1993-03-06",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

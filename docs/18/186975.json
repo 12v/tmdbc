@@ -1,0 +1,34 @@
+{
+  "id": 186975,
+  "title": "Norte, The End of History",
+  "original_title": "Norte, Hangganan ng Kasaysayan",
+  "release_date": "2014-03-11",
+  "status": "Released",
+  "runtime": 250,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

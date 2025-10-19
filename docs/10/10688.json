@@ -1,0 +1,25 @@
+{
+  "id": 10688,
+  "title": "Hamlet",
+  "original_title": "Hamlet",
+  "release_date": "2000-05-12",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

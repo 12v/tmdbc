@@ -1,0 +1,29 @@
+{
+  "id": 100898,
+  "title": "North Sea Texas",
+  "original_title": "Noordzee, Texas",
+  "release_date": "2011-03-16",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 52512,
+  "title": "Caf\u00e9 Lumi\u00e8re",
+  "original_title": "\u73c8\u7432\u6642\u5149",
+  "release_date": "2004-09-01",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

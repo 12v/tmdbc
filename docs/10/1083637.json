@@ -1,0 +1,29 @@
+{
+  "id": 1083637,
+  "title": "Kantara: Chapter 1",
+  "original_title": "\u0c95\u0cbe\u0c82\u0ca4\u0cbe\u0cb0: \u0c85\u0ca7\u0ccd\u0caf\u0cbe\u0caf - \u0ce7",
+  "release_date": "2025-10-01",
+  "status": "Released",
+  "runtime": 167,
+  "original_language": "kn",
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

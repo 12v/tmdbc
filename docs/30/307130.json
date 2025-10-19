@@ -1,0 +1,29 @@
+{
+  "id": 307130,
+  "title": "Junior",
+  "original_title": "Junior",
+  "release_date": "2011-05-16",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

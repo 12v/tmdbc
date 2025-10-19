@@ -1,0 +1,35 @@
+{
+  "id": 539524,
+  "title": "To the Ends of the Earth",
+  "original_title": "\u65c5\u306e\u304a\u308f\u308a\u3001\u4e16\u754c\u306e\u306f\u3058\u307e\u308a",
+  "release_date": "2019-06-14",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Uzbek",
+      "iso_639_1": "uz",
+      "name": "ozbek"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

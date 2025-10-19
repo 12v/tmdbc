@@ -1,0 +1,31 @@
+{
+  "id": 627087,
+  "title": "Lunana: A Yak in the Classroom",
+  "original_title": "\u0f63\u0f74\u0f44\u0f0b\u0f53\u0f42\u0f0b\u0f53",
+  "release_date": "2019-11-16",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "dz",
+  "spoken_languages": [
+    {
+      "english_name": "Dzongkha",
+      "iso_639_1": "dz",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "BT",
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

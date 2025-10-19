@@ -1,0 +1,33 @@
+{
+  "id": 1245571,
+  "title": "Alappuzha Gymkhana",
+  "original_title": "\u0d06\u0d32\u0d2a\u0d4d\u0d2a\u0d41\u0d34 \u0d1c\u0d3f\u0d02\u0d16\u0d3e\u0d28",
+  "release_date": "2025-04-10",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

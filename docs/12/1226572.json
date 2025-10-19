@@ -1,0 +1,29 @@
+{
+  "id": 1226572,
+  "title": "Superboys of Malegaon",
+  "original_title": "\u0938\u0941\u092a\u0930\u092c\u0949\u092f\u094d\u095b \u0911\u092b \u092e\u093e\u0932\u0947\u0917\u093e\u0901\u0935",
+  "release_date": "2025-02-27",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

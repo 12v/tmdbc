@@ -1,0 +1,25 @@
+{
+  "id": 13751,
+  "title": "Akeelah and the Bee",
+  "original_title": "Akeelah and the Bee",
+  "release_date": "2006-04-28",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 587412,
+  "title": "K.G.F: Chapter 2",
+  "original_title": "\u0c95\u0cc6.\u0c9c\u0cbf.\u0c8e\u0cab\u0ccd: Chapter 2",
+  "release_date": "2022-04-14",
+  "status": "Released",
+  "runtime": 168,
+  "original_language": "kn",
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

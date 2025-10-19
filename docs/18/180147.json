@@ -1,0 +1,25 @@
+{
+  "id": 180147,
+  "title": "We Are the Nobles",
+  "original_title": "Nosotros los nobles",
+  "release_date": "2013-03-28",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

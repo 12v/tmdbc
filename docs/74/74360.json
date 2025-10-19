@@ -1,0 +1,25 @@
+{
+  "id": 74360,
+  "title": "S\u00e3o Paulo, Incorporated",
+  "original_title": "S\u00e3o Paulo, Sociedade An\u00f4nima",
+  "release_date": "1965-01-01",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

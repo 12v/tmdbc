@@ -1,0 +1,29 @@
+{
+  "id": 16203,
+  "title": "Space Is the Place",
+  "original_title": "Space Is the Place",
+  "release_date": "1974-11-01",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

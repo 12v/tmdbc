@@ -1,0 +1,29 @@
+{
+  "id": 564427,
+  "title": "Minha Vida em Marte",
+  "original_title": "Minha Vida em Marte",
+  "release_date": "2018-12-27",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}
