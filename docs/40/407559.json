@@ -1,0 +1,29 @@
+{
+  "id": 407559,
+  "title": "I Am the Pretty Thing That Lives in the House",
+  "original_title": "I Am the Pretty Thing That Lives in the House",
+  "release_date": "2016-09-10",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

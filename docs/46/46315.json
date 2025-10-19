@@ -1,0 +1,33 @@
+{
+  "id": 46315,
+  "title": "Valerie and Her Week of Wonders",
+  "original_title": "Valerie a t\u00fdden div\u016f",
+  "release_date": "1970-10-16",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

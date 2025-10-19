@@ -1,0 +1,25 @@
+{
+  "id": 665733,
+  "title": "About Dry Grasses",
+  "original_title": "Kuru Otlar \u00dcst\u00fcne",
+  "release_date": "2023-07-12",
+  "status": "Released",
+  "runtime": 197,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

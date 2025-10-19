@@ -1,0 +1,33 @@
+{
+  "id": 1153714,
+  "title": "Death of a Unicorn",
+  "original_title": "Death of a Unicorn",
+  "release_date": "2025-03-27",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 560044,
+  "title": "The Willoughbys",
+  "original_title": "The Willoughbys",
+  "release_date": "2020-04-22",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

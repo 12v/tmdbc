@@ -1,0 +1,33 @@
+{
+  "id": 47933,
+  "title": "Independence Day: Resurgence",
+  "original_title": "Independence Day: Resurgence",
+  "release_date": "2016-06-22",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

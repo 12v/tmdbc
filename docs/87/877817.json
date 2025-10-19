@@ -1,0 +1,38 @@
+{
+  "id": 877817,
+  "title": "Wolfs",
+  "original_title": "Wolfs",
+  "release_date": "2024-09-20",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

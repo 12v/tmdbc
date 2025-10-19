@@ -1,0 +1,33 @@
+{
+  "id": 27324,
+  "title": "Pulse",
+  "original_title": "\u56de\u8def",
+  "release_date": "2001-02-03",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

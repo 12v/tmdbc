@@ -1,0 +1,37 @@
+{
+  "id": 2742,
+  "title": "Naked Lunch",
+  "original_title": "Naked Lunch",
+  "release_date": "1991-12-27",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "JP",
+    "GB",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

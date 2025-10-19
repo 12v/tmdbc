@@ -1,0 +1,25 @@
+{
+  "id": 20139,
+  "title": "The Children's Hour",
+  "original_title": "The Children's Hour",
+  "release_date": "1961-12-19",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

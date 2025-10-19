@@ -1,0 +1,41 @@
+{
+  "id": 530,
+  "title": "A Grand Day Out",
+  "original_title": "A Grand Day Out",
+  "release_date": "1990-05-18",
+  "status": "Released",
+  "runtime": 24,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

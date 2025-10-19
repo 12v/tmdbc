@@ -1,0 +1,33 @@
+{
+  "id": 8072,
+  "title": "Alphaville",
+  "original_title": "Alphaville, une \u00e9trange aventure de Lemmy Caution",
+  "release_date": "1965-05-05",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

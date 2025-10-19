@@ -1,0 +1,33 @@
+{
+  "id": 33431,
+  "title": "A Snake of June",
+  "original_title": "\u516d\u6708\u306e\u86c7",
+  "release_date": "2003-06-13",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

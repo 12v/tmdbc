@@ -1,0 +1,29 @@
+{
+  "id": 5801,
+  "title": "Pather Panchali",
+  "original_title": "\u09aa\u09a5\u09c7\u09b0 \u09aa\u09be\u0981\u099a\u09be\u09b2\u09c0",
+  "release_date": "1955-08-26",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

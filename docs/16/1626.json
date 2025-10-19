@@ -1,0 +1,25 @@
+{
+  "id": 1626,
+  "title": "Vivre Sa Vie",
+  "original_title": "Vivre sa vie: film en douze tableaux",
+  "release_date": "1962-09-20",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

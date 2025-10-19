@@ -1,0 +1,30 @@
+{
+  "id": 45772,
+  "title": "Gnomeo & Juliet",
+  "original_title": "Gnomeo & Juliet",
+  "release_date": "2011-01-13",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

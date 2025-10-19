@@ -1,0 +1,38 @@
+{
+  "id": 639933,
+  "title": "The Northman",
+  "original_title": "The Northman",
+  "release_date": "2022-04-07",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

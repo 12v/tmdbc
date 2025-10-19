@@ -1,0 +1,41 @@
+{
+  "id": 18910,
+  "title": "The Ninth Configuration",
+  "original_title": "The Ninth Configuration",
+  "release_date": "1980-02-29",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8327,
+  "title": "The Holy Mountain",
+  "original_title": "La monta\u00f1a sagrada",
+  "release_date": "1973-11-29",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

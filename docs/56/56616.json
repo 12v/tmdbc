@@ -1,0 +1,30 @@
+{
+  "id": 56616,
+  "title": "Goodbye, Dragon Inn",
+  "original_title": "\u4e0d\u6563",
+  "release_date": "2003-12-12",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

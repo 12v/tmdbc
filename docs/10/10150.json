@@ -1,0 +1,42 @@
+{
+  "id": 10150,
+  "title": "The Last Unicorn",
+  "original_title": "The Last Unicorn",
+  "release_date": "1982-11-19",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

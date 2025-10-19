@@ -1,0 +1,29 @@
+{
+  "id": 852096,
+  "title": "We Have a Ghost",
+  "original_title": "We Have a Ghost",
+  "release_date": "2023-02-24",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

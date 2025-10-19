@@ -1,0 +1,34 @@
+{
+  "id": 18333,
+  "title": "Hour of the Wolf",
+  "original_title": "Vargtimmen",
+  "release_date": "1968-02-19",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

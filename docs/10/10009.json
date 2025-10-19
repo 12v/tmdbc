@@ -1,0 +1,43 @@
+{
+  "id": 10009,
+  "title": "Brother Bear",
+  "original_title": "Brother Bear",
+  "release_date": "2003-10-23",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Inuktitut",
+      "iso_639_1": "iu",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

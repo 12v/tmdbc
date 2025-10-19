@@ -1,0 +1,37 @@
+{
+  "id": 585077,
+  "title": "Children of the Sea",
+  "original_title": "\u6d77\u7363\u306e\u5b50\u4f9b",
+  "release_date": "2019-06-07",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

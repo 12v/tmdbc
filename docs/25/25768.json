@@ -1,0 +1,29 @@
+{
+  "id": 25768,
+  "title": "Steamboat Bill, Jr.",
+  "original_title": "Steamboat Bill, Jr.",
+  "release_date": "1928-05-09",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

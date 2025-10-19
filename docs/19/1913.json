@@ -1,0 +1,35 @@
+{
+  "id": 1913,
+  "title": "The Sea Inside",
+  "original_title": "Mar adentro",
+  "release_date": "2004-09-03",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    },
+    {
+      "english_name": "Galician",
+      "iso_639_1": "gl",
+      "name": "Galego"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

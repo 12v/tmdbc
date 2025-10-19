@@ -1,0 +1,29 @@
+{
+  "id": 1221061,
+  "title": "Sound of Falling",
+  "original_title": "In die Sonne schauen",
+  "release_date": "2025-08-28",
+  "status": "Released",
+  "runtime": 149,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

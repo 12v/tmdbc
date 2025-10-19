@@ -1,0 +1,25 @@
+{
+  "id": 44783,
+  "title": "Symbiopsychotaxiplasm: Take One",
+  "original_title": "Symbiopsychotaxiplasm: Take One",
+  "release_date": "1968-10-28",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

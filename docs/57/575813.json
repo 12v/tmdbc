@@ -1,0 +1,33 @@
+{
+  "id": 575813,
+  "title": "Better Days",
+  "original_title": "\u5c11\u5e74\u7684\u4f60",
+  "release_date": "2019-10-25",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

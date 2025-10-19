@@ -1,0 +1,25 @@
+{
+  "id": 318917,
+  "title": "Look Who's Back",
+  "original_title": "Er ist wieder da",
+  "release_date": "2015-10-08",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

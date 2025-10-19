@@ -1,0 +1,37 @@
+{
+  "id": 1333100,
+  "title": "Attack on Titan: THE LAST ATTACK",
+  "original_title": "\u5287\u5834\u7248\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u5b8c\u7d50\u7de8 THE LAST ATTACK",
+  "release_date": "2024-11-08",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

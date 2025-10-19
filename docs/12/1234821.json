@@ -1,0 +1,38 @@
+{
+  "id": 1234821,
+  "title": "Jurassic World Rebirth",
+  "original_title": "Jurassic World Rebirth",
+  "release_date": "2025-07-01",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

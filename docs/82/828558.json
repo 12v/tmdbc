@@ -1,0 +1,28 @@
+{
+  "id": 828558,
+  "title": "God's Creatures",
+  "original_title": "God's Creatures",
+  "release_date": "2022-09-30",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Irish",
+      "iso_639_1": "ga",
+      "name": "Gaeilge"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

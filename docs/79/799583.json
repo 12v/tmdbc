@@ -1,0 +1,38 @@
+{
+  "id": 799583,
+  "title": "The Ministry of Ungentlemanly Warfare",
+  "original_title": "The Ministry of Ungentlemanly Warfare",
+  "release_date": "2024-04-18",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

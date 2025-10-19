@@ -1,0 +1,29 @@
+{
+  "id": 55847,
+  "title": "Four Nights of a Dreamer",
+  "original_title": "Quatre nuits d'un r\u00eaveur",
+  "release_date": "1972-02-02",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

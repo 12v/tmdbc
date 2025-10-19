@@ -1,0 +1,29 @@
+{
+  "id": 661539,
+  "title": "A Complete Unknown",
+  "original_title": "A Complete Unknown",
+  "release_date": "2024-12-25",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

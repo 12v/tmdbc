@@ -1,0 +1,33 @@
+{
+  "id": 37933,
+  "title": "Tales from Earthsea",
+  "original_title": "\u30b2\u30c9\u6226\u8a18",
+  "release_date": "2006-07-29",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

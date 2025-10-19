@@ -1,0 +1,33 @@
+{
+  "id": 967847,
+  "title": "Ghostbusters: Frozen Empire",
+  "original_title": "Ghostbusters: Frozen Empire",
+  "release_date": "2024-03-20",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

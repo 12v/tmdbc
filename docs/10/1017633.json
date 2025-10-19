@@ -1,0 +1,29 @@
+{
+  "id": 1017633,
+  "title": "How to Date Billy Walsh",
+  "original_title": "How to Date Billy Walsh",
+  "release_date": "2024-04-04",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

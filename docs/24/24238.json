@@ -1,0 +1,38 @@
+{
+  "id": 24238,
+  "title": "Mary and Max",
+  "original_title": "Mary and Max",
+  "release_date": "2009-04-09",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

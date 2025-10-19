@@ -1,0 +1,29 @@
+{
+  "id": 315664,
+  "title": "Florence Foster Jenkins",
+  "original_title": "Florence Foster Jenkins",
+  "release_date": "2016-05-06",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

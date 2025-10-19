@@ -1,0 +1,50 @@
+{
+  "id": 5961,
+  "title": "Fanny and Alexander",
+  "original_title": "Fanny och Alexander",
+  "release_date": "1982-12-17",
+  "status": "Released",
+  "runtime": 188,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "FR",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

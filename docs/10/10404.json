@@ -1,0 +1,25 @@
+{
+  "id": 10404,
+  "title": "Raise the Red Lantern",
+  "original_title": "\u5927\u7ea2\u706f\u7b3c\u9ad8\u9ad8\u6302",
+  "release_date": "1991-12-18",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

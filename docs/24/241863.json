@@ -1,0 +1,33 @@
+{
+  "id": 241863,
+  "title": "As the Gods Will",
+  "original_title": "\u795e\u3055\u307e\u306e\u8a00\u3046\u3068\u304a\u308a",
+  "release_date": "2014-11-15",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 12761,
+  "title": "Autumn Sonata",
+  "original_title": "H\u00f6stsonaten",
+  "release_date": "1978-10-08",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

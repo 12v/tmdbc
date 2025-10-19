@@ -1,0 +1,30 @@
+{
+  "id": 254302,
+  "title": "High-Rise",
+  "original_title": "High-Rise",
+  "release_date": "2015-11-22",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

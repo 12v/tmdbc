@@ -1,0 +1,29 @@
+{
+  "id": 10726,
+  "title": "American Psycho II: All American Girl",
+  "original_title": "American Psycho II: All American Girl",
+  "release_date": "2002-06-18",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

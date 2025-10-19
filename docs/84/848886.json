@@ -1,0 +1,25 @@
+{
+  "id": 848886,
+  "title": "Hellbender",
+  "original_title": "Hellbender",
+  "release_date": "2021-09-28",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

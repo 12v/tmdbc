@@ -1,0 +1,25 @@
+{
+  "id": 845783,
+  "title": "Baghead",
+  "original_title": "Baghead",
+  "release_date": "2023-12-28",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

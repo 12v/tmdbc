@@ -1,0 +1,34 @@
+{
+  "id": 10086,
+  "title": "Man Bites Dog",
+  "original_title": "C'est arriv\u00e9 pr\u00e8s de chez vous",
+  "release_date": "1992-08-20",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

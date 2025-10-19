@@ -1,0 +1,29 @@
+{
+  "id": 13310,
+  "title": "Let the Right One In",
+  "original_title": "L\u00e5t den r\u00e4tte komma in",
+  "release_date": "2008-10-24",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

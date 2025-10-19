@@ -1,0 +1,33 @@
+{
+  "id": 110,
+  "title": "Three Colors: Red",
+  "original_title": "Trois couleurs : Rouge",
+  "release_date": "1994-05-12",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

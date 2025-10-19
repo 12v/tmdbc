@@ -1,0 +1,25 @@
+{
+  "id": 132232,
+  "title": "Mama",
+  "original_title": "Mama",
+  "release_date": "2013-01-17",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

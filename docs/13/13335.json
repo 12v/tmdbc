@@ -1,0 +1,29 @@
+{
+  "id": 13335,
+  "title": "Harold & Kumar Escape from Guantanamo Bay",
+  "original_title": "Harold & Kumar Escape from Guantanamo Bay",
+  "release_date": "2008-04-25",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

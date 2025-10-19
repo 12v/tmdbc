@@ -1,0 +1,37 @@
+{
+  "id": 529216,
+  "title": "Mirage",
+  "original_title": "Durante la tormenta",
+  "release_date": "2018-11-30",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 301337,
+  "title": "Downsizing",
+  "original_title": "Downsizing",
+  "release_date": "2017-12-22",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    },
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

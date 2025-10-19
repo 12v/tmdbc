@@ -1,0 +1,25 @@
+{
+  "id": 106380,
+  "title": "Taipei Story",
+  "original_title": "\u9752\u6885\u7af9\u99ac",
+  "release_date": "1985-05-01",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

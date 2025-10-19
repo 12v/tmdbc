@@ -1,0 +1,38 @@
+{
+  "id": 639988,
+  "title": "No Other Choice",
+  "original_title": "\uc5b4\uca54\uc218\uac00\uc5c6\ub2e4",
+  "release_date": "2025-09-24",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 422803,
+  "title": "A Shaun the Sheep Movie: Farmageddon",
+  "original_title": "A Shaun the Sheep Movie: Farmageddon",
+  "release_date": "2019-09-26",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

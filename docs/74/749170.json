@@ -1,0 +1,39 @@
+{
+  "id": 749170,
+  "title": "Heads of State",
+  "original_title": "Heads of State",
+  "release_date": "2025-06-24",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Belarusian",
+      "iso_639_1": "be",
+      "name": "\u0431\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f \u043c\u043e\u0432\u0430"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 5279,
+  "title": "Gosford Park",
+  "original_title": "Gosford Park",
+  "release_date": "2001-12-26",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 567410,
+  "title": "System Crasher",
+  "original_title": "Systemsprenger",
+  "release_date": "2019-09-19",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

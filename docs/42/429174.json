@@ -1,0 +1,25 @@
+{
+  "id": 429174,
+  "title": "Loveless",
+  "original_title": "\u041d\u0435\u043b\u044e\u0431\u043e\u0432\u044c",
+  "release_date": "2017-06-01",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

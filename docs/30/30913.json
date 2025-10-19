@@ -1,0 +1,33 @@
+{
+  "id": 30913,
+  "title": "At Midnight I'll Take Your Soul",
+  "original_title": "\u00c0 Meia Noite Levarei Sua Alma",
+  "release_date": "1964-11-09",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

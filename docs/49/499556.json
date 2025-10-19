@@ -1,0 +1,25 @@
+{
+  "id": 499556,
+  "title": "An Elephant Sitting Still",
+  "original_title": "\u5927\u8c61\u5e2d\u5730\u800c\u5750",
+  "release_date": "2018-12-14",
+  "status": "Released",
+  "runtime": 234,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

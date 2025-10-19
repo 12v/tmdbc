@@ -1,0 +1,39 @@
+{
+  "id": 1178556,
+  "title": "I'm Not a Robot",
+  "original_title": "Ik ben geen robot",
+  "release_date": "2025-03-20",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

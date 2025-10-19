@@ -1,0 +1,25 @@
+{
+  "id": 11397,
+  "title": "Not Another Teen Movie",
+  "original_title": "Not Another Teen Movie",
+  "release_date": "2001-12-07",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

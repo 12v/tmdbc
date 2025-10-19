@@ -1,0 +1,29 @@
+{
+  "id": 9606,
+  "title": "Metropolis",
+  "original_title": "\u30e1\u30c8\u30ed\u30dd\u30ea\u30b9",
+  "release_date": "2001-05-26",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

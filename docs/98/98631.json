@@ -1,0 +1,29 @@
+{
+  "id": 98631,
+  "title": "Himizu",
+  "original_title": "\u30d2\u30df\u30ba",
+  "release_date": "2011-09-05",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

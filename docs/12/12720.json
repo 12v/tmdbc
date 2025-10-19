@@ -1,0 +1,33 @@
+{
+  "id": 12720,
+  "title": "Suicide Club",
+  "original_title": "\u81ea\u6bba\u30b5\u30fc\u30af\u30eb",
+  "release_date": "2001-10-29",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

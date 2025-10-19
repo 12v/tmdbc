@@ -1,0 +1,25 @@
+{
+  "id": 3763,
+  "title": "Onibaba",
+  "original_title": "\u9b3c\u5a46",
+  "release_date": "1964-11-21",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

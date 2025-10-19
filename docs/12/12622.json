@@ -1,0 +1,33 @@
+{
+  "id": 12622,
+  "title": "Violent Cop",
+  "original_title": "\u305d\u306e\u7537\u3001\u51f6\u66b4\u306b\u3064\u304d",
+  "release_date": "1989-08-12",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

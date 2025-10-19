@@ -1,0 +1,37 @@
+{
+  "id": 801688,
+  "title": "Kalki 2898-AD",
+  "original_title": "\u0c15\u0c32\u0c4d\u0c15\u0c3f 2898-\u0c0e.\u0c21\u0c3f",
+  "release_date": "2024-06-26",
+  "status": "Released",
+  "runtime": 176,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

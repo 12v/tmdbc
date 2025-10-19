@@ -1,0 +1,29 @@
+{
+  "id": 1802,
+  "title": "La Ceremonie",
+  "original_title": "La C\u00e9r\u00e9monie",
+  "release_date": "1995-08-30",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

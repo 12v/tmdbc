@@ -1,0 +1,35 @@
+{
+  "id": 1272149,
+  "title": "Bridget Jones: Mad About the Boy",
+  "original_title": "Bridget Jones: Mad About the Boy",
+  "release_date": "2025-02-12",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

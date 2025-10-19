@@ -1,0 +1,33 @@
+{
+  "id": 16061,
+  "title": "Tokyo Gore Police",
+  "original_title": "\u6771\u4eac\u6b8b\u9177\u8b66\u5bdf",
+  "release_date": "2008-10-04",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

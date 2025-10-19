@@ -1,0 +1,48 @@
+{
+  "id": 308266,
+  "title": "War Dogs",
+  "original_title": "War Dogs",
+  "release_date": "2016-08-18",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Albanian",
+      "iso_639_1": "sq",
+      "name": "shqip"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

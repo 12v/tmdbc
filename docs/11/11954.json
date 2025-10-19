@@ -1,0 +1,38 @@
+{
+  "id": 11954,
+  "title": "Lifeforce",
+  "original_title": "Lifeforce",
+  "release_date": "1985-06-21",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

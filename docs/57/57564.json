@@ -1,0 +1,29 @@
+{
+  "id": 57564,
+  "title": "Rebels of the Neon God",
+  "original_title": "\u9752\u5c11\u5e74\u54ea\u5412",
+  "release_date": "1994-08-04",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

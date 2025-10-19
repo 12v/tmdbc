@@ -1,0 +1,33 @@
+{
+  "id": 43347,
+  "title": "Love & Other Drugs",
+  "original_title": "Love & Other Drugs",
+  "release_date": "2010-11-22",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

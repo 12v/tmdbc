@@ -1,0 +1,29 @@
+{
+  "id": 673,
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "original_title": "Harry Potter and the Prisoner of Azkaban",
+  "release_date": "2004-05-31",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 671,
+  "title": "Harry Potter and the Philosopher's Stone",
+  "original_title": "Harry Potter and the Philosopher's Stone",
+  "release_date": "2001-11-16",
+  "status": "Released",
+  "runtime": 152,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

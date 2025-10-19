@@ -1,0 +1,33 @@
+{
+  "id": 12637,
+  "title": "New York, New York",
+  "original_title": "New York, New York",
+  "release_date": "1977-06-21",
+  "status": "Released",
+  "runtime": 163,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

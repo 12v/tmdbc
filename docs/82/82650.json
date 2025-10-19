@@ -1,0 +1,29 @@
+{
+  "id": 82650,
+  "title": "Diary of a Wimpy Kid: Dog Days",
+  "original_title": "Diary of a Wimpy Kid: Dog Days",
+  "release_date": "2012-08-02",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

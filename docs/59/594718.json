@@ -1,0 +1,33 @@
+{
+  "id": 594718,
+  "title": "Sputnik",
+  "original_title": "\u0421\u043f\u0443\u0442\u043d\u0438\u043a",
+  "release_date": "2020-07-24",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

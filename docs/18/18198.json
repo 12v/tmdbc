@@ -1,0 +1,33 @@
+{
+  "id": 18198,
+  "title": "Barbie Mariposa",
+  "original_title": "Barbie Mariposa",
+  "release_date": "2008-02-26",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 110420,
+  "title": "Wolf Children",
+  "original_title": "\u304a\u304a\u304b\u307f\u3053\u3069\u3082\u306e\u96e8\u3068\u96ea",
+  "release_date": "2012-07-21",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

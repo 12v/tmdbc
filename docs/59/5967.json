@@ -1,0 +1,29 @@
+{
+  "id": 5967,
+  "title": "The Umbrellas of Cherbourg",
+  "original_title": "Les Parapluies de Cherbourg",
+  "release_date": "1964-02-19",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

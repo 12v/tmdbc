@@ -1,0 +1,42 @@
+{
+  "id": 1497,
+  "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+  "original_title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+  "release_date": "1991-03-22",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

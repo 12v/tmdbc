@@ -1,0 +1,29 @@
+{
+  "id": 20271,
+  "title": "Divorce Italian Style",
+  "original_title": "Divorzio all'italiana",
+  "release_date": "1961-12-20",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

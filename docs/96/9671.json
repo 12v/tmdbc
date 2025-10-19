@@ -1,0 +1,29 @@
+{
+  "id": 9671,
+  "title": "Crocodile Dundee",
+  "original_title": "Crocodile Dundee",
+  "release_date": "1986-09-26",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

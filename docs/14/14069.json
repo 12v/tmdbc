@@ -1,0 +1,37 @@
+{
+  "id": 14069,
+  "title": "The Girl Who Leapt Through Time",
+  "original_title": "\u6642\u3092\u304b\u3051\u308b\u5c11\u5973",
+  "release_date": "2006-07-15",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

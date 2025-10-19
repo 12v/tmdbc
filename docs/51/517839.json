@@ -1,0 +1,33 @@
+{
+  "id": 517839,
+  "title": "Border",
+  "original_title": "Gr\u00e4ns",
+  "release_date": "2018-09-27",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

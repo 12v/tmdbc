@@ -1,0 +1,38 @@
+{
+  "id": 803700,
+  "title": "The Eight Mountains",
+  "original_title": "Le otto montagne",
+  "release_date": "2022-12-21",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Nepali",
+      "iso_639_1": "ne",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR",
+    "IT",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

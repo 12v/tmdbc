@@ -1,0 +1,34 @@
+{
+  "id": 442062,
+  "title": "Goosebumps 2: Haunted Halloween",
+  "original_title": "Goosebumps 2: Haunted Halloween",
+  "release_date": "2018-10-11",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

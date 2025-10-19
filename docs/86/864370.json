@@ -1,0 +1,25 @@
+{
+  "id": 864370,
+  "title": "Incantation",
+  "original_title": "\u5492",
+  "release_date": "2022-03-18",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

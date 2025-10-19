@@ -1,0 +1,25 @@
+{
+  "id": 367181,
+  "title": "Reality+",
+  "original_title": "Reality+",
+  "release_date": "2014-12-21",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

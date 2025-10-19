@@ -1,0 +1,43 @@
+{
+  "id": 8741,
+  "title": "The Thin Red Line",
+  "original_title": "The Thin Red Line",
+  "release_date": "1998-12-23",
+  "status": "Released",
+  "runtime": 171,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

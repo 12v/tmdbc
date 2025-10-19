@@ -1,0 +1,37 @@
+{
+  "id": 335797,
+  "title": "Sing",
+  "original_title": "Sing",
+  "release_date": "2016-11-23",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

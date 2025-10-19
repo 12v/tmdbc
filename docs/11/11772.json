@@ -1,0 +1,25 @@
+{
+  "id": 11772,
+  "title": "The Haunting",
+  "original_title": "The Haunting",
+  "release_date": "1963-03-28",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

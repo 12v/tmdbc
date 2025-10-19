@@ -1,0 +1,37 @@
+{
+  "id": 21453,
+  "title": "Wicked City",
+  "original_title": "\u5996\u7363\u90fd\u5e02",
+  "release_date": "1987-04-19",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

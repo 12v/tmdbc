@@ -1,0 +1,29 @@
+{
+  "id": 10754,
+  "title": "A Short Film About Killing",
+  "original_title": "Kr\u00f3tki film o zabijaniu",
+  "release_date": "1988-03-11",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

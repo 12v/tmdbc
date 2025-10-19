@@ -1,0 +1,25 @@
+{
+  "id": 1058694,
+  "title": "Radical",
+  "original_title": "Radical",
+  "release_date": "2023-10-19",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

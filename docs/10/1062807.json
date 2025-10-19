@@ -1,0 +1,37 @@
+{
+  "id": 1062807,
+  "title": "SPY x FAMILY CODE: White",
+  "original_title": "\u5287\u5834\u7248 SPY\u00d7FAMILY CODE: White",
+  "release_date": "2023-12-22",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

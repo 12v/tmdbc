@@ -1,0 +1,33 @@
+{
+  "id": 32823,
+  "title": "Get Him to the Greek",
+  "original_title": "Get Him to the Greek",
+  "release_date": "2010-06-03",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

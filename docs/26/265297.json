@@ -1,0 +1,37 @@
+{
+  "id": 265297,
+  "title": "The Salt of the Earth",
+  "original_title": "Le sel de la terre",
+  "release_date": "2014-08-29",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

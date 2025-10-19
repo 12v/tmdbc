@@ -1,0 +1,36 @@
+{
+  "id": 1234591,
+  "title": "My Favourite Cake",
+  "original_title": "\u06a9\u06cc\u06a9 \u0645\u062d\u0628\u0648\u0628 \u0645\u0646",
+  "release_date": "2024-07-11",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "DE",
+    "IR",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

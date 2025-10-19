@@ -1,0 +1,29 @@
+{
+  "id": 508747,
+  "title": "Us and Them",
+  "original_title": "\u540e\u6765\u7684\u6211\u4eec",
+  "release_date": "2018-04-28",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

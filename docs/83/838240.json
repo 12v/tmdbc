@@ -1,0 +1,37 @@
+{
+  "id": 838240,
+  "title": "Robot Dreams",
+  "original_title": "Robot Dreams",
+  "release_date": "2023-12-06",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 475,
+  "title": "Bonnie and Clyde",
+  "original_title": "Bonnie and Clyde",
+  "release_date": "1967-08-13",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

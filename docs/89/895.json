@@ -1,0 +1,39 @@
+{
+  "id": 895,
+  "title": "Andrei Rublev",
+  "original_title": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0420\u0443\u0431\u043b\u0451\u0432",
+  "release_date": "1966-12-16",
+  "status": "Released",
+  "runtime": 183,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Tatar",
+      "iso_639_1": "tt",
+      "name": ""
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

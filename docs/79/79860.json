@@ -1,0 +1,25 @@
+{
+  "id": 79860,
+  "title": "Mirrored Mind",
+  "original_title": "\u93e1\u5fc3",
+  "release_date": "2005-03-30",
+  "status": "Released",
+  "runtime": 61,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

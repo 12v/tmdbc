@@ -1,0 +1,35 @@
+{
+  "id": 417384,
+  "title": "Scary Stories to Tell in the Dark",
+  "original_title": "Scary Stories to Tell in the Dark",
+  "release_date": "2019-08-08",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "HK",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

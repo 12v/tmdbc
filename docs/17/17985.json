@@ -1,0 +1,34 @@
+{
+  "id": 17985,
+  "title": "Bleeder",
+  "original_title": "Bleeder",
+  "release_date": "1999-08-06",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

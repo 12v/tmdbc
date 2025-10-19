@@ -1,0 +1,25 @@
+{
+  "id": 913816,
+  "title": "Mars One",
+  "original_title": "Marte Um",
+  "release_date": "2022-08-25",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

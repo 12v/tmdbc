@@ -1,0 +1,38 @@
+{
+  "id": 3090,
+  "title": "The Treasure of the Sierra Madre",
+  "original_title": "The Treasure of the Sierra Madre",
+  "release_date": "1948-01-15",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

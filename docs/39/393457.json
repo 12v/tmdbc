@@ -1,0 +1,26 @@
+{
+  "id": 393457,
+  "title": "Fences",
+  "original_title": "Fences",
+  "release_date": "2016-12-16",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

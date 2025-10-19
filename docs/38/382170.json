@@ -1,0 +1,29 @@
+{
+  "id": 382170,
+  "title": "A Bride for Rip Van Winkle",
+  "original_title": "\u30ea\u30c3\u30d7\u30f4\u30a1\u30f3\u30a6\u30a3\u30f3\u30af\u30eb\u306e\u82b1\u5ac1",
+  "release_date": "2016-03-17",
+  "status": "Released",
+  "runtime": 179,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

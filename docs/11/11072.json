@@ -1,0 +1,39 @@
+{
+  "id": 11072,
+  "title": "Blazing Saddles",
+  "original_title": "Blazing Saddles",
+  "release_date": "1974-02-07",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

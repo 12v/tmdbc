@@ -1,0 +1,39 @@
+{
+  "id": 339964,
+  "title": "Valerian and the City of a Thousand Planets",
+  "original_title": "Valerian and the City of a Thousand Planets",
+  "release_date": "2017-07-19",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

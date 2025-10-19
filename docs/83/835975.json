@@ -1,0 +1,44 @@
+{
+  "id": 835975,
+  "title": "Great Freedom",
+  "original_title": "Gro\u00dfe Freiheit",
+  "release_date": "2021-11-18",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

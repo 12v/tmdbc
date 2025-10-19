@@ -1,0 +1,29 @@
+{
+  "id": 320006,
+  "title": "Taxi",
+  "original_title": "\u062a\u0627\u06a9\u0633\u06cc",
+  "release_date": "2015-04-15",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

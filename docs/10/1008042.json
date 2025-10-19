@@ -1,0 +1,35 @@
+{
+  "id": 1008042,
+  "title": "Talk to Me",
+  "original_title": "Talk to Me",
+  "release_date": "2023-07-26",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1056360,
+  "title": "American Fiction",
+  "original_title": "American Fiction",
+  "release_date": "2023-11-10",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

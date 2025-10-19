@@ -1,0 +1,41 @@
+{
+  "id": 1243341,
+  "title": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+  "original_title": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+  "release_date": "2025-07-10",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

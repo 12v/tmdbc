@@ -1,0 +1,35 @@
+{
+  "id": 123553,
+  "title": "The Mortal Instruments: City of Bones",
+  "original_title": "The Mortal Instruments: City of Bones",
+  "release_date": "2013-08-21",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

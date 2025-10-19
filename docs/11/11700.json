@@ -1,0 +1,29 @@
+{
+  "id": 11700,
+  "title": "Smiles of a Summer Night",
+  "original_title": "Sommarnattens leende",
+  "release_date": "1955-12-26",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

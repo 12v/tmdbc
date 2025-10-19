@@ -1,0 +1,29 @@
+{
+  "id": 4203,
+  "title": "Women on the Verge of a Nervous Breakdown",
+  "original_title": "Mujeres al borde de un ataque de nervios",
+  "release_date": "1988-03-25",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

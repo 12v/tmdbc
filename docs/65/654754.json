@@ -1,0 +1,39 @@
+{
+  "id": 654754,
+  "title": "Billie Eilish: The World's a Little Blurry",
+  "original_title": "Billie Eilish: The World's a Little Blurry",
+  "release_date": "2021-02-26",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Maori",
+      "iso_639_1": "mi",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 653,
+  "title": "Nosferatu",
+  "original_title": "Nosferatu, eine Symphonie des Grauens",
+  "release_date": "1922-02-16",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 9255,
+  "title": "Hot Shots! Part Deux",
+  "original_title": "Hot Shots! Part Deux",
+  "release_date": "1993-05-21",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

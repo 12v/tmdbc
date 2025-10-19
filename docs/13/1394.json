@@ -1,0 +1,34 @@
+{
+  "id": 1394,
+  "title": "Nostalgia",
+  "original_title": "\u041d\u043e\u0441\u0442\u0430\u043b\u044c\u0433\u0438\u044f",
+  "release_date": "1983-06-02",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

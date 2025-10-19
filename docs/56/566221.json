@@ -1,0 +1,25 @@
+{
+  "id": 566221,
+  "title": "The Edge of Democracy",
+  "original_title": "Democracia em Vertigem",
+  "release_date": "2019-01-24",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

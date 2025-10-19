@@ -1,0 +1,43 @@
+{
+  "id": 413362,
+  "title": "Roman J. Israel, Esq.",
+  "original_title": "Roman J. Israel, Esq.",
+  "release_date": "2017-11-17",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Armenian",
+      "iso_639_1": "hy",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

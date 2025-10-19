@@ -1,0 +1,25 @@
+{
+  "id": 662400,
+  "title": "Days",
+  "original_title": "\u65e5\u5b50",
+  "release_date": "2021-05-21",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

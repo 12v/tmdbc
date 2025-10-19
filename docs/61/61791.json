@@ -1,0 +1,37 @@
+{
+  "id": 61791,
+  "title": "Rise of the Planet of the Apes",
+  "original_title": "Rise of the Planet of the Apes",
+  "release_date": "2011-08-03",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 16672,
+  "title": "Woman in the Dunes",
+  "original_title": "\u7802\u306e\u5973",
+  "release_date": "1964-02-15",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

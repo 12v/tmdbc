@@ -1,0 +1,29 @@
+{
+  "id": 26914,
+  "title": "Troll 2",
+  "original_title": "Troll 2",
+  "release_date": "1990-10-12",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 40096,
+  "title": "A Dog's Will",
+  "original_title": "O Auto da Compadecida",
+  "release_date": "2000-09-15",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

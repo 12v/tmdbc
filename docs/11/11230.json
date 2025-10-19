@@ -1,0 +1,29 @@
+{
+  "id": 11230,
+  "title": "Drunken Master",
+  "original_title": "\u9189\u62f3",
+  "release_date": "1978-10-05",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

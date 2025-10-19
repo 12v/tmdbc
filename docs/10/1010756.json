@@ -1,0 +1,30 @@
+{
+  "id": 1010756,
+  "title": "The Strangers: Chapter 2",
+  "original_title": "The Strangers: Chapter 2",
+  "release_date": "2025-09-25",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 9696,
+  "title": "Ichi the Killer",
+  "original_title": "\u6bba\u3057\u5c4b1",
+  "release_date": "2001-12-22",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

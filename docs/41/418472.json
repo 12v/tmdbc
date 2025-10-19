@@ -1,0 +1,25 @@
+{
+  "id": 418472,
+  "title": "The Wild Pear Tree",
+  "original_title": "Ahlat A\u011fac\u0131",
+  "release_date": "2018-06-01",
+  "status": "Released",
+  "runtime": 188,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

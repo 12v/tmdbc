@@ -1,0 +1,33 @@
+{
+  "id": 797457,
+  "title": "Nitram",
+  "original_title": "Nitram",
+  "release_date": "2021-09-30",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

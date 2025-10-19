@@ -1,0 +1,38 @@
+{
+  "id": 11948,
+  "title": "Merry Christmas, Mr. Lawrence",
+  "original_title": "\u6226\u5834\u306e\u30e1\u30ea\u30fc\u30af\u30ea\u30b9\u30de\u30b9",
+  "release_date": "1983-05-28",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

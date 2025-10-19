@@ -1,0 +1,29 @@
+{
+  "id": 152737,
+  "title": "August: Osage County",
+  "original_title": "August: Osage County",
+  "release_date": "2013-12-26",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

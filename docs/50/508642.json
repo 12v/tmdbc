@@ -1,0 +1,29 @@
+{
+  "id": 508642,
+  "title": "Gonjiam: Haunted Asylum",
+  "original_title": "\uace4\uc9c0\uc554",
+  "release_date": "2018-03-28",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

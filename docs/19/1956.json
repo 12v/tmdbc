@@ -1,0 +1,35 @@
+{
+  "id": 1956,
+  "title": "Gerry",
+  "original_title": "Gerry",
+  "release_date": "2002-09-20",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CH",
+    "US",
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

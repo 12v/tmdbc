@@ -1,0 +1,42 @@
+{
+  "id": 457335,
+  "title": "Guns Akimbo",
+  "original_title": "Guns Akimbo",
+  "release_date": "2020-02-27",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "AT",
+    "DE",
+    "NZ",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

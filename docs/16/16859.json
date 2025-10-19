@@ -1,0 +1,37 @@
+{
+  "id": 16859,
+  "title": "Kiki's Delivery Service",
+  "original_title": "\u9b54\u5973\u306e\u5b85\u6025\u4fbf",
+  "release_date": "1989-07-29",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

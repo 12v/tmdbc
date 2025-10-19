@@ -1,0 +1,37 @@
+{
+  "id": 53064,
+  "title": "Midori",
+  "original_title": "\u5730\u4e0b\u5e7b\u71c8\u5287\u753b \u5c11\u5973\u693f",
+  "release_date": "1992-05-02",
+  "status": "Released",
+  "runtime": 55,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

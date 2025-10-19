@@ -1,0 +1,40 @@
+{
+  "id": 555974,
+  "title": "Brahms: The Boy II",
+  "original_title": "Brahms: The Boy II",
+  "release_date": "2020-02-20",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "CA",
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}
