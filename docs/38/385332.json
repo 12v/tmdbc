@@ -14,11 +14,11 @@
     }
   ],
   "origin_country": [
-    "GB",
-    "HU",
-    "HK",
     "IE",
-    "US"
+    "US",
+    "HU",
+    "GB",
+    "HK"
   ],
   "genres": [
     {
