@@ -1,0 +1,33 @@
+{
+  "id": 799555,
+  "title": "Operation Varsity Blues: The College Admissions Scandal",
+  "original_title": "Operation Varsity Blues: The College Admissions Scandal",
+  "release_date": "2021-03-17",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

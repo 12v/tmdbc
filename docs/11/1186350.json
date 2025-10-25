@@ -1,0 +1,38 @@
+{
+  "id": 1186350,
+  "title": "Marco",
+  "original_title": "\u0d2e\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d4b",
+  "release_date": "2024-12-20",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}
