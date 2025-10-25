@@ -1,0 +1,30 @@
+{
+  "id": 1214484,
+  "title": "Let Go",
+  "original_title": "Sl\u00e4pp taget",
+  "release_date": "2024-11-01",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

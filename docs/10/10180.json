@@ -1,0 +1,33 @@
+{
+  "id": 10180,
+  "title": "Flickering Lights",
+  "original_title": "Blinkende lygter",
+  "release_date": "2000-11-03",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

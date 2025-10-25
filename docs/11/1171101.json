@@ -1,0 +1,33 @@
+{
+  "id": 1171101,
+  "title": "Kuberaa",
+  "original_title": "\u0c15\u0c41\u0c2c\u0c47\u0c30",
+  "release_date": "2025-06-19",
+  "status": "Released",
+  "runtime": 185,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

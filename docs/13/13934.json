@@ -1,0 +1,37 @@
+{
+  "id": 13934,
+  "title": "Mater and the Ghostlight",
+  "original_title": "Mater and the Ghostlight",
+  "release_date": "2006-07-27",
+  "status": "Released",
+  "runtime": 7,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

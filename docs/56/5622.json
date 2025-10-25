@@ -1,0 +1,29 @@
+{
+  "id": 5622,
+  "title": "And the Ship Sails On",
+  "original_title": "E la nave va",
+  "release_date": "1983-10-07",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

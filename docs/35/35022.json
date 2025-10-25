@@ -1,0 +1,25 @@
+{
+  "id": 35022,
+  "title": "Sanshiro Sugata",
+  "original_title": "\u59ff\u4e09\u56db\u90ce",
+  "release_date": "1943-03-25",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

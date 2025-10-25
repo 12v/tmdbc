@@ -1,0 +1,37 @@
+{
+  "id": 300790,
+  "title": "Don't Hug Me I'm Scared 3",
+  "original_title": "Don't Hug Me I'm Scared 3",
+  "release_date": "2014-10-31",
+  "status": "Released",
+  "runtime": 7,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

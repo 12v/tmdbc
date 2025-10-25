@@ -1,0 +1,25 @@
+{
+  "id": 20017,
+  "title": "Wrong Move",
+  "original_title": "Falsche Bewegung",
+  "release_date": "1975-03-14",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

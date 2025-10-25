@@ -1,0 +1,41 @@
+{
+  "id": 609490,
+  "title": "Petrov's Flu",
+  "original_title": "\u041f\u0435\u0442\u0440\u043e\u0432\u044b \u0432 \u0433\u0440\u0438\u043f\u043f\u0435",
+  "release_date": "2021-09-09",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "FR",
+    "RU",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
