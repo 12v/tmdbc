@@ -1,0 +1,25 @@
+{
+  "id": 589367,
+  "title": "Trixie Mattel: Moving Parts",
+  "original_title": "Trixie Mattel: Moving Parts",
+  "release_date": "2019-04-25",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

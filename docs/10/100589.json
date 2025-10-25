@@ -1,0 +1,34 @@
+{
+  "id": 100589,
+  "title": "Diamonds of the Night",
+  "original_title": "D\u00e9manty noci",
+  "release_date": "1964-09-25",
+  "status": "Released",
+  "runtime": 67,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1242372,
+  "title": "Escape from the 21st Century",
+  "original_title": "\u4ece21\u4e16\u7eaa\u5b89\u5168\u64a4\u79bb",
+  "release_date": "2024-07-18",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

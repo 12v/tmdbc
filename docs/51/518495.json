@@ -1,0 +1,33 @@
+{
+  "id": 518495,
+  "title": "Diamantino",
+  "original_title": "Diamantino",
+  "release_date": "2018-11-28",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 82283,
+  "title": "It",
+  "original_title": "It",
+  "release_date": "1927-02-05",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

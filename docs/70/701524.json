@@ -1,0 +1,33 @@
+{
+  "id": 701524,
+  "title": "A Cop Movie",
+  "original_title": "Una pel\u00edcula de polic\u00edas",
+  "release_date": "2021-10-28",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

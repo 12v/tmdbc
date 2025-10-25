@@ -1,0 +1,33 @@
+{
+  "id": 855400,
+  "title": "Jai Bhim",
+  "original_title": "\u0b9c\u0bc6\u0baf\u0bcd \u0baa\u0bc0\u0bae\u0bcd",
+  "release_date": "2021-11-02",
+  "status": "Released",
+  "runtime": 164,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 66118,
+  "title": "Case d\u00e9part",
+  "original_title": "Case d\u00e9part",
+  "release_date": "2011-07-06",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

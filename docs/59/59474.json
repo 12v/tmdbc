@@ -1,0 +1,38 @@
+{
+  "id": 59474,
+  "title": "Cazuza: Time Doesn't Stop",
+  "original_title": "Cazuza: O Tempo N\u00e3o P\u00e1ra",
+  "release_date": "2004-06-11",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

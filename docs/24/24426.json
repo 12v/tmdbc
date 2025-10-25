@@ -1,0 +1,33 @@
+{
+  "id": 24426,
+  "title": "A.R.O.G",
+  "original_title": "A.R.O.G",
+  "release_date": "2008-12-05",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

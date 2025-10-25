@@ -1,0 +1,25 @@
+{
+  "id": 223965,
+  "title": "Barber's Tales",
+  "original_title": "Mga Kuwentong Barbero",
+  "release_date": "2013-10-18",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

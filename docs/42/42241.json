@@ -1,0 +1,25 @@
+{
+  "id": 42241,
+  "title": "Sebastiane",
+  "original_title": "Sebastiane",
+  "release_date": "1976-12-17",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "la",
+  "spoken_languages": [
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

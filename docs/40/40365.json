@@ -1,0 +1,33 @@
+{
+  "id": 40365,
+  "title": "The Blood Spattered Bride",
+  "original_title": "La novia ensangrentada",
+  "release_date": "1972-09-30",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

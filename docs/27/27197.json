@@ -1,0 +1,25 @@
+{
+  "id": 27197,
+  "title": "An Actor's Revenge",
+  "original_title": "\u96ea\u4e4b\u4e1e\u5909\u5316",
+  "release_date": "1963-01-13",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

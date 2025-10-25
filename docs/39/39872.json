@@ -1,0 +1,33 @@
+{
+  "id": 39872,
+  "title": "Female Prisoner Scorpion: Jailhouse 41",
+  "original_title": "\u5973\u56da\u3055\u305d\u308a \u7b2c41\u96d1\u5c45\u623f",
+  "release_date": "1972-12-30",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 477033,
+  "title": "Errementari: The Blacksmith and the Devil",
+  "original_title": "Errementari",
+  "release_date": "2018-03-02",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "eu",
+  "spoken_languages": [
+    {
+      "english_name": "Basque",
+      "iso_639_1": "eu",
+      "name": "euskera"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}
