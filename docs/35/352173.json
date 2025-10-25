@@ -1,0 +1,33 @@
+{
+  "id": 352173,
+  "title": "Drishyam",
+  "original_title": "\u0926\u0943\u0936\u094d\u092f\u092e\u094d",
+  "release_date": "2015-07-30",
+  "status": "Released",
+  "runtime": 163,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

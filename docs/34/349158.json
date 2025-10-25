@@ -1,0 +1,39 @@
+{
+  "id": 349158,
+  "title": "My Little Pony: Equestria Girls - Friendship Games",
+  "original_title": "My Little Pony: Equestria Girls - Friendship Games",
+  "release_date": "2015-10-24",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

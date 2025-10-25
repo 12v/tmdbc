@@ -1,0 +1,25 @@
+{
+  "id": 174473,
+  "title": "Hail, Sarajevo",
+  "original_title": "Je vous salue, Sarajevo",
+  "release_date": "1993-04-13",
+  "status": "Released",
+  "runtime": 2,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 38728,
+  "title": "A Colt Is My Passport",
+  "original_title": "\u62f3\u9283\u306f\u4ffa\u306e\u30d1\u30b9\u30dd\u30fc\u30c8",
+  "release_date": "1967-02-04",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

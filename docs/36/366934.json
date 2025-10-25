@@ -1,0 +1,29 @@
+{
+  "id": 366934,
+  "title": "The Flying Luna Clipper",
+  "original_title": "\u30b6\u30fb\u30d5\u30e9\u30a4\u30f3\u30b0\u30fb\u30eb\u30ca\u30af\u30ea\u30c3\u30d1\u30fc",
+  "release_date": "1987-11-06",
+  "status": "Released",
+  "runtime": 55,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

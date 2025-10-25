@@ -1,0 +1,35 @@
+{
+  "id": 838148,
+  "title": "Murina",
+  "original_title": "Murina",
+  "release_date": "2022-04-08",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "hr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "HR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

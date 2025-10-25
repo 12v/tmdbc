@@ -1,0 +1,25 @@
+{
+  "id": 27181,
+  "title": "O Fantasma",
+  "original_title": "O Fantasma",
+  "release_date": "2000-10-20",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

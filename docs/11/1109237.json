@@ -1,0 +1,38 @@
+{
+  "id": 1109237,
+  "title": "The Monk and the Gun",
+  "original_title": "The Monk and the Gun",
+  "release_date": "2023-10-17",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "dz",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Dzongkha",
+      "iso_639_1": "dz",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "TW",
+    "US",
+    "BT",
+    "FR",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 25142,
+  "title": "The Banishment",
+  "original_title": "\u0418\u0437\u0433\u043d\u0430\u043d\u0438\u0435",
+  "release_date": "2008-03-27",
+  "status": "Released",
+  "runtime": 158,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

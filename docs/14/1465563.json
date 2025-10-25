@@ -1,0 +1,29 @@
+{
+  "id": 1465563,
+  "title": "A Poet",
+  "original_title": "Un Poeta",
+  "release_date": "2025-08-28",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CO"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

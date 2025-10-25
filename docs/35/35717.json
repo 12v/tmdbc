@@ -1,0 +1,30 @@
+{
+  "id": 35717,
+  "title": "Pola X",
+  "original_title": "Pola X",
+  "release_date": "1999-05-12",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

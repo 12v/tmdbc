@@ -1,0 +1,26 @@
+{
+  "id": 16235,
+  "title": "Amityville II: The Possession",
+  "original_title": "Amityville II: The Possession",
+  "release_date": "1982-09-24",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "MX",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

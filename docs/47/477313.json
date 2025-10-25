@@ -1,0 +1,25 @@
+{
+  "id": 477313,
+  "title": "In the Family",
+  "original_title": "Aile Aras\u0131nda",
+  "release_date": "2017-12-01",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
