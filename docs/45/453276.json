@@ -1,0 +1,33 @@
+{
+  "id": 453276,
+  "title": "Marlina the Murderer in Four Acts",
+  "original_title": "Marlina si Pembunuh dalam Empat Babak",
+  "release_date": "2017-05-15",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

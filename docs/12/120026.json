@@ -1,0 +1,25 @@
+{
+  "id": 120026,
+  "title": "The Consequences of Feminism",
+  "original_title": "Les r\u00e9sultats du f\u00e9minisme",
+  "release_date": "1906-12-21",
+  "status": "Released",
+  "runtime": 7,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 396263,
+  "title": "GANTZ:O",
+  "original_title": "GANTZ:O",
+  "release_date": "2016-10-14",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

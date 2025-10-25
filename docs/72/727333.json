@@ -1,0 +1,29 @@
+{
+  "id": 727333,
+  "title": "Come from Away",
+  "original_title": "Come from Away",
+  "release_date": "2021-09-09",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

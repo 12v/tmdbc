@@ -1,0 +1,30 @@
+{
+  "id": 1112547,
+  "title": "Anselm",
+  "original_title": "Anselm \u2013 Das Rauschen der Zeit",
+  "release_date": "2023-10-12",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

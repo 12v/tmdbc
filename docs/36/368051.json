@@ -1,0 +1,42 @@
+{
+  "id": 368051,
+  "title": "Don't Hug Me I'm Scared 5",
+  "original_title": "Don't Hug Me I'm Scared 5",
+  "release_date": "2015-10-14",
+  "status": "Released",
+  "runtime": 7,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

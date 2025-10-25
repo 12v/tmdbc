@@ -1,0 +1,25 @@
+{
+  "id": 285697,
+  "title": "Horse Money",
+  "original_title": "Cavalo Dinheiro",
+  "release_date": "2014-08-13",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

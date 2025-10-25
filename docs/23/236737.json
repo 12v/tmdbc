@@ -1,0 +1,34 @@
+{
+  "id": 236737,
+  "title": "Spanish Affair",
+  "original_title": "Ocho apellidos vascos",
+  "release_date": "2014-03-14",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Basque",
+      "iso_639_1": "eu",
+      "name": "euskera"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 193687,
+  "title": "Z for Zachariah",
+  "original_title": "Z for Zachariah",
+  "release_date": "2015-08-13",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IS",
+    "CH",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

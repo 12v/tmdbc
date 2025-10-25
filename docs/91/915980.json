@@ -1,0 +1,39 @@
+{
+  "id": 915980,
+  "title": "Sun and Concrete",
+  "original_title": "Sonne und Beton",
+  "release_date": "2023-03-02",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

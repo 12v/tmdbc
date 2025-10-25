@@ -1,0 +1,33 @@
+{
+  "id": 1301072,
+  "title": "McWalter",
+  "original_title": "McWalter",
+  "release_date": "2025-09-12",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

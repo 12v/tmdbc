@@ -1,0 +1,35 @@
+{
+  "id": 6591,
+  "title": "What Have You Done to Solange?",
+  "original_title": "Cosa avete fatto a Solange?",
+  "release_date": "1972-03-23",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "IT",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

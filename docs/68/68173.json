@@ -1,0 +1,33 @@
+{
+  "id": 68173,
+  "title": "Macunaima",
+  "original_title": "Macuna\u00edma",
+  "release_date": "1969-09-03",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

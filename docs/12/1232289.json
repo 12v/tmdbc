@@ -1,0 +1,25 @@
+{
+  "id": 1232289,
+  "title": "Society of the Snow: Who Were We on the Mountain?",
+  "original_title": "La sociedad de la nieve: \u00bfQui\u00e9nes fuimos en la monta\u00f1a?",
+  "release_date": "2024-01-23",
+  "status": "Released",
+  "runtime": 37,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

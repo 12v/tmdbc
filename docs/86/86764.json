@@ -1,0 +1,29 @@
+{
+  "id": 86764,
+  "title": "Suzanne\u2019s Career",
+  "original_title": "La Carri\u00e8re de Suzanne",
+  "release_date": "1963-02-01",
+  "status": "Released",
+  "runtime": 54,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

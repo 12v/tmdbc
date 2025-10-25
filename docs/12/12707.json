@@ -1,0 +1,29 @@
+{
+  "id": 12707,
+  "title": "Orca",
+  "original_title": "Orca",
+  "release_date": "1977-07-22",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 35124,
+  "title": "Nazarin",
+  "original_title": "Nazar\u00edn",
+  "release_date": "1959-06-04",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 449574,
+  "title": "Godzilla: Planet of the Monsters",
+  "original_title": "GODZILLA \u602a\u7363\u60d1\u661f",
+  "release_date": "2017-11-17",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

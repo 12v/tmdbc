@@ -1,0 +1,33 @@
+{
+  "id": 678458,
+  "title": "Pompo the Cinephile",
+  "original_title": "\u6620\u753b\u5927\u597d\u304d\u30dd\u30f3\u30dd\u3055\u3093",
+  "release_date": "2021-06-04",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

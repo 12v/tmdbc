@@ -1,0 +1,29 @@
+{
+  "id": 31532,
+  "title": "Love Me Tonight",
+  "original_title": "Love Me Tonight",
+  "release_date": "1932-08-18",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

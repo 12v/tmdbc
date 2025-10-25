@@ -1,0 +1,43 @@
+{
+  "id": 268660,
+  "title": "Bangalore Days",
+  "original_title": "\u0d2c\u0d3e\u0d02\u0d17\u0d4d\u0d32\u0d42\u0d7c \u0d21\u0d46\u0d2f\u0d4d\u0d38\u0d4d",
+  "release_date": "2014-05-30",
+  "status": "Released",
+  "runtime": 172,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

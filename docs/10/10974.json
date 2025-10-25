@@ -1,0 +1,33 @@
+{
+  "id": 10974,
+  "title": "Armour of God",
+  "original_title": "\u9f8d\u5144\u864e\u5f1f",
+  "release_date": "1986-08-16",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

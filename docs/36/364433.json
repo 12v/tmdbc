@@ -1,0 +1,33 @@
+{
+  "id": 364433,
+  "title": "They Call Me Jeeg",
+  "original_title": "Lo chiamavano Jeeg Robot",
+  "release_date": "2016-02-25",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

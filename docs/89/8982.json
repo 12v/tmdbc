@@ -1,0 +1,52 @@
+{
+  "id": 8982,
+  "title": "The Protector",
+  "original_title": "\u0e15\u0e49\u0e21\u0e22\u0e33\u0e01\u0e38\u0e49\u0e07",
+  "release_date": "2005-08-11",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

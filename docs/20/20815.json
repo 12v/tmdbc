@@ -1,0 +1,40 @@
+{
+  "id": 20815,
+  "title": "The Handmaid's Tale",
+  "original_title": "The Handmaid's Tale",
+  "release_date": "1990-02-15",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

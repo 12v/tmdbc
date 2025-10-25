@@ -1,0 +1,39 @@
+{
+  "id": 19742,
+  "title": "Rodan",
+  "original_title": "\u7a7a\u306e\u5927\u602a\u7378 \u30e9\u30c9\u30f3",
+  "release_date": "1956-12-26",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

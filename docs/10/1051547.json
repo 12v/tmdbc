@@ -1,0 +1,35 @@
+{
+  "id": 1051547,
+  "title": "Upon Entry",
+  "original_title": "Upon Entry (La llegada)",
+  "release_date": "2023-06-16",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

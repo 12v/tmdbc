@@ -1,0 +1,29 @@
+{
+  "id": 9918,
+  "title": "Glory Road",
+  "original_title": "Glory Road",
+  "release_date": "2006-01-13",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

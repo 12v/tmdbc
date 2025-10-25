@@ -1,0 +1,27 @@
+{
+  "id": 844417,
+  "title": "Marlowe",
+  "original_title": "Marlowe",
+  "release_date": "2023-02-15",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IE",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

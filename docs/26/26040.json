@@ -1,0 +1,29 @@
+{
+  "id": 26040,
+  "title": "Haze",
+  "original_title": "\u30d8\u30a4\u30ba",
+  "release_date": "2005-04-28",
+  "status": "Released",
+  "runtime": 49,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

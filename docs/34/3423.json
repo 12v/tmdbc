@@ -1,0 +1,30 @@
+{
+  "id": 3423,
+  "title": "The Things of Life",
+  "original_title": "Les Choses de la vie",
+  "release_date": "1970-03-13",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 87392,
+  "title": "Sambizanga",
+  "original_title": "Sambizanga",
+  "release_date": "1973-04-26",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ln",
+  "spoken_languages": [
+    {
+      "english_name": "Lingala",
+      "iso_639_1": "ln",
+      "name": ""
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "AO",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
