@@ -1,0 +1,43 @@
+{
+  "id": 241842,
+  "title": "Dead Snow 2: Red vs. Dead",
+  "original_title": "D\u00f8d Sn\u00f8 2",
+  "release_date": "2014-02-12",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

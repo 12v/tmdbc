@@ -1,0 +1,33 @@
+{
+  "id": 13279,
+  "title": "Lakeview Terrace",
+  "original_title": "Lakeview Terrace",
+  "release_date": "2008-09-19",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

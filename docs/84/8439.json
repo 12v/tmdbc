@@ -1,0 +1,34 @@
+{
+  "id": 8439,
+  "title": "Bus 174",
+  "original_title": "\u00d4nibus 174",
+  "release_date": "2002-10-22",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

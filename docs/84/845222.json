@@ -1,0 +1,33 @@
+{
+  "id": 845222,
+  "title": "Kingdom: Ashin of the North",
+  "original_title": "\ud0b9\ub364: \uc544\uc2e0\uc804",
+  "release_date": "2021-07-23",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

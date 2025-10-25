@@ -1,0 +1,38 @@
+{
+  "id": 1266798,
+  "title": "Dog 51",
+  "original_title": "Chien 51",
+  "release_date": "2025-10-15",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

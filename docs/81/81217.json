@@ -1,0 +1,29 @@
+{
+  "id": 81217,
+  "title": "Szamanka",
+  "original_title": "Szamanka",
+  "release_date": "1996-05-10",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

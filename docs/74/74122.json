@@ -1,0 +1,29 @@
+{
+  "id": 74122,
+  "title": "The Bigamist",
+  "original_title": "The Bigamist",
+  "release_date": "1953-12-03",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

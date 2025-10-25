@@ -1,0 +1,29 @@
+{
+  "id": 39986,
+  "title": "Horrors of Malformed Men",
+  "original_title": "\u6c5f\u6238\u5ddd\u4e71\u6b69\u5168\u96c6\u3000\u6050\u6016\u5947\u5f62\u4eba\u9593",
+  "release_date": "1969-10-31",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

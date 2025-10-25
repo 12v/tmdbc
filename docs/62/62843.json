@@ -1,0 +1,29 @@
+{
+  "id": 62843,
+  "title": "Witchhammer",
+  "original_title": "Kladivo na \u010darod\u011bjnice",
+  "release_date": "1970-01-23",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

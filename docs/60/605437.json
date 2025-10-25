@@ -1,0 +1,29 @@
+{
+  "id": 605437,
+  "title": "Bloody Nose, Empty Pockets",
+  "original_title": "Bloody Nose, Empty Pockets",
+  "release_date": "2020-02-16",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

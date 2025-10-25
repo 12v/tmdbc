@@ -1,0 +1,42 @@
+{
+  "id": 14194,
+  "title": "Dhoom 2",
+  "original_title": "\u0927\u0942\u092e \u0968",
+  "release_date": "2006-11-24",
+  "status": "Released",
+  "runtime": 151,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

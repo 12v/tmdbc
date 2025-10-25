@@ -1,0 +1,29 @@
+{
+  "id": 9666,
+  "title": "Ju-on: The Grudge 2",
+  "original_title": "\u546a\u60282",
+  "release_date": "2003-08-15",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

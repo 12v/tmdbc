@@ -1,0 +1,37 @@
+{
+  "id": 10354,
+  "title": "True Crime",
+  "original_title": "True Crime",
+  "release_date": "1999-03-19",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

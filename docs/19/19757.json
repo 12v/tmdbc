@@ -1,0 +1,25 @@
+{
+  "id": 19757,
+  "title": "Ikarie XB 1",
+  "original_title": "Ikarie XB 1",
+  "release_date": "1963-07-26",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}
