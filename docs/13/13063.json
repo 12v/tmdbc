@@ -1,0 +1,33 @@
+{
+  "id": 13063,
+  "title": "Cannibal! The Musical",
+  "original_title": "Cannibal! The Musical",
+  "release_date": "1996-08-30",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

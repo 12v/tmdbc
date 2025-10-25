@@ -1,0 +1,33 @@
+{
+  "id": 28963,
+  "title": "The Thief of Bagdad",
+  "original_title": "The Thief of Bagdad",
+  "release_date": "1924-03-18",
+  "status": "Released",
+  "runtime": 149,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

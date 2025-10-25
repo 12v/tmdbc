@@ -1,0 +1,33 @@
+{
+  "id": 18818,
+  "title": "Lady Snowblood 2: Love Song of Vengeance",
+  "original_title": "\u4fee\u7f85\u96ea\u59eb \u6028\u307f\u604b\u6b4c",
+  "release_date": "1974-06-15",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

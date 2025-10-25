@@ -1,0 +1,25 @@
+{
+  "id": 1002711,
+  "title": "The Girls Are Alright",
+  "original_title": "Las chicas est\u00e1n bien",
+  "release_date": "2023-08-25",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3177,
+  "title": "Battle Royale II: Requiem",
+  "original_title": "\u30d0\u30c8\u30eb\u30fb\u30ed\u30ef\u30a4\u30a2\u30ebII \u93ae\u9b42\u6b4c",
+  "release_date": "2003-07-05",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

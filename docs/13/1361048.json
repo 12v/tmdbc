@@ -1,0 +1,25 @@
+{
+  "id": 1361048,
+  "title": "Sweet Bobby: My Catfish Nightmare",
+  "original_title": "Sweet Bobby: My Catfish Nightmare",
+  "release_date": "2024-10-15",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

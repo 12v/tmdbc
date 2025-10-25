@@ -1,0 +1,29 @@
+{
+  "id": 71325,
+  "title": "With Every Heartbeat",
+  "original_title": "Kyss mig",
+  "release_date": "2011-07-29",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

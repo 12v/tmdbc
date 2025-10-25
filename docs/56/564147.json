@@ -1,0 +1,42 @@
+{
+  "id": 564147,
+  "title": "K.G.F: Chapter 1",
+  "original_title": "\u0c95\u0cc6\u0c9c\u0cbf\u0c8e\u0cab\u0ccd \u0c85\u0ca7\u0ccd\u0caf\u0cbe\u0caf \u0ce7",
+  "release_date": "2018-12-20",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "kn",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

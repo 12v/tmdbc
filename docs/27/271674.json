@@ -1,0 +1,39 @@
+{
+  "id": 271674,
+  "title": "Suite Fran\u00e7aise",
+  "original_title": "Suite Fran\u00e7aise",
+  "release_date": "2015-03-12",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 80080,
+  "title": "Fruit of Paradise",
+  "original_title": "Ovoce strom\u016f rajsk\u00fdch j\u00edme",
+  "release_date": "1970-07-31",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

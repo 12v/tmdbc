@@ -1,0 +1,41 @@
+{
+  "id": 571891,
+  "title": "Pok\u00e9mon the Movie: Mewtwo Strikes Back - Evolution",
+  "original_title": "\u30df\u30e5\u30a6\u30c4\u30fc\u306e\u9006\u8972 EVOLUTION",
+  "release_date": "2019-07-12",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

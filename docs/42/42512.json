@@ -1,0 +1,33 @@
+{
+  "id": 42512,
+  "title": "Die Nibelungen: Kriemhild's Revenge",
+  "original_title": "Die Nibelungen: Kriemhilds Rache",
+  "release_date": "1924-04-26",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

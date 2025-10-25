@@ -1,0 +1,42 @@
+{
+  "id": 92208,
+  "title": "Mom's Got a Date with a Vampire",
+  "original_title": "Mom's Got a Date with a Vampire",
+  "release_date": "2000-10-13",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

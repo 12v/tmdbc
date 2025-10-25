@@ -1,0 +1,29 @@
+{
+  "id": 5153,
+  "title": "Cabiria",
+  "original_title": "Cabiria",
+  "release_date": "1914-06-01",
+  "status": "Released",
+  "runtime": 148,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 9929,
+  "title": "Asterix and Cleopatra",
+  "original_title": "Ast\u00e9rix et Cl\u00e9op\u00e2tre",
+  "release_date": "1968-12-19",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

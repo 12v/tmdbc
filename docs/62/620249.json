@@ -1,0 +1,33 @@
+{
+  "id": 620249,
+  "title": "The Legend of Hei",
+  "original_title": "\u7f57\u5c0f\u9ed1\u6218\u8bb0",
+  "release_date": "2019-08-27",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

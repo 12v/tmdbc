@@ -1,0 +1,29 @@
+{
+  "id": 77285,
+  "title": "Floating Clouds",
+  "original_title": "\u6d6e\u96f2",
+  "release_date": "1955-01-15",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

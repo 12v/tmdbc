@@ -1,0 +1,33 @@
+{
+  "id": 496331,
+  "title": "Brahm\u0101stra Part One: Shiva",
+  "original_title": "\u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0938\u094d\u0924\u094d\u0930 \u092a\u0939\u0932\u093e \u092d\u093e\u0917: \u0936\u093f\u0935\u093e",
+  "release_date": "2022-09-08",
+  "status": "Released",
+  "runtime": 168,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

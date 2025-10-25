@@ -1,0 +1,25 @@
+{
+  "id": 1127625,
+  "title": "The Salt Path",
+  "original_title": "The Salt Path",
+  "release_date": "2025-05-01",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

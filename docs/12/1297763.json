@@ -1,0 +1,38 @@
+{
+  "id": 1297763,
+  "title": "Batman Ninja vs. Yakuza League",
+  "original_title": "\u30cb\u30f3\u30b8\u30e3\u30d0\u30c3\u30c8\u30de\u30f3\u5bfe\u30e4\u30af\u30b6\u30ea\u30fc\u30b0",
+  "release_date": "2025-03-17",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 99189,
+  "title": "Werner Herzog Eats His Shoe",
+  "original_title": "Werner Herzog Eats His Shoe",
+  "release_date": "1980-11-19",
+  "status": "Released",
+  "runtime": 21,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

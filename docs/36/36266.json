@@ -1,0 +1,31 @@
+{
+  "id": 36266,
+  "title": "Cyclo",
+  "original_title": "X\u00edch l\u00f4",
+  "release_date": "1996-03-22",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "VN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

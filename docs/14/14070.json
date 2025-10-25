@@ -1,0 +1,33 @@
+{
+  "id": 14070,
+  "title": "Ghajini",
+  "original_title": "\u0917\u091c\u0928\u0940",
+  "release_date": "2008-12-25",
+  "status": "Released",
+  "runtime": 186,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

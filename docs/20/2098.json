@@ -1,29 +1,26 @@
 {
-  "id": 716532,
-  "title": "Mr Malcolm's List",
-  "original_title": "Mr Malcolm's List",
-  "release_date": "2022-07-01",
+  "id": 2098,
+  "title": "Viva Las Vegas",
+  "original_title": "Viva Las Vegas",
+  "release_date": "1964-02-08",
   "status": "Released",
-  "runtime": 117,
+  "runtime": 85,
   "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Italian",
-      "iso_639_1": "it",
-      "name": "Italiano"
     }
   ],
   "origin_country": [
-    "IE",
-    "GB",
     "US"
   ],
   "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
     {
       "id": 10749,
       "name": "Romance"
@@ -31,10 +28,6 @@
     {
       "id": 35,
       "name": "Comedy"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
     }
   ]
 }

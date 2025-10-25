@@ -1,0 +1,35 @@
+{
+  "id": 842356,
+  "title": "The Velvet Queen",
+  "original_title": "La Panth\u00e8re des neiges",
+  "release_date": "2021-12-15",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Tibetan",
+      "iso_639_1": "bo",
+      "name": ""
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

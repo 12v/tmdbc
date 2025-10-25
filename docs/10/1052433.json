@@ -1,0 +1,29 @@
+{
+  "id": 1052433,
+  "title": "Love Reset",
+  "original_title": "30\uc77c",
+  "release_date": "2023-10-03",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

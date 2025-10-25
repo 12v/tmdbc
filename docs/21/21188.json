@@ -1,0 +1,29 @@
+{
+  "id": 21188,
+  "title": "Goat Story",
+  "original_title": "Koz\u00ed p\u0159\u00edb\u011bh \u2013 Pov\u011bsti star\u00e9 Prahy",
+  "release_date": "2008-10-16",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

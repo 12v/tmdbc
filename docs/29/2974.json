@@ -1,0 +1,33 @@
+{
+  "id": 2974,
+  "title": "The Hands of Orlac",
+  "original_title": "Orlacs H\u00e4nde",
+  "release_date": "1924-09-24",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

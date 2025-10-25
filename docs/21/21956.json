@@ -1,0 +1,37 @@
+{
+  "id": 21956,
+  "title": "Scooby-Doo! and the Monster of Mexico",
+  "original_title": "Scooby-Doo! and the Monster of Mexico",
+  "release_date": "2003-09-30",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

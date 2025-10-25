@@ -1,0 +1,29 @@
+{
+  "id": 1135408,
+  "title": "The Girl Who Killed Her Parents: The Confession",
+  "original_title": "A Menina Que Matou os Pais: A Confiss\u00e3o",
+  "release_date": "2023-10-26",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

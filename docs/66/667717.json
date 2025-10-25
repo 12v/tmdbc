@@ -1,0 +1,41 @@
+{
+  "id": 667717,
+  "title": "Deep Sea",
+  "original_title": "\u6df1\u6d77",
+  "release_date": "2023-01-22",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

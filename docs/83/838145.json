@@ -1,0 +1,35 @@
+{
+  "id": 838145,
+  "title": "A Night of Knowing Nothing",
+  "original_title": "\u0915\u0941\u091b \u092d\u0940 \u0928 \u091c\u093e\u0928\u0928\u0947 \u0915\u0940 \u090f\u0915 \u0930\u093e\u0924",
+  "release_date": "2022-04-13",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

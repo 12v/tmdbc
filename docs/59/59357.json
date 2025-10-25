@@ -1,0 +1,29 @@
+{
+  "id": 59357,
+  "title": "Street of Crocodiles",
+  "original_title": "Street of Crocodiles",
+  "release_date": "1986-07-01",
+  "status": "Released",
+  "runtime": 21,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

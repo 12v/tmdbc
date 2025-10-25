@@ -1,0 +1,33 @@
+{
+  "id": 24752,
+  "title": "Dragon Ball Z: Cooler's Revenge",
+  "original_title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebZ \u3068\u3073\u3063\u304d\u308a\u306e\u6700\u5f37\u5bfe\u6700\u5f37",
+  "release_date": "1991-07-20",
+  "status": "Released",
+  "runtime": 48,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

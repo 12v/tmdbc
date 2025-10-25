@@ -1,0 +1,33 @@
+{
+  "id": 276624,
+  "title": "I Am a Hero",
+  "original_title": "\u30a2\u30a4\u30a2\u30e0\u30a2\u30d2\u30fc\u30ed\u30fc",
+  "release_date": "2016-04-23",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

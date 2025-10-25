@@ -1,0 +1,33 @@
+{
+  "id": 858815,
+  "title": "Photocopier",
+  "original_title": "Penyalin Cahaya",
+  "release_date": "2021-10-08",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

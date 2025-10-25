@@ -1,0 +1,33 @@
+{
+  "id": 119569,
+  "title": "Marvel One-Shot: Item 47",
+  "original_title": "Marvel One-Shot: Item 47",
+  "release_date": "2012-08-29",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

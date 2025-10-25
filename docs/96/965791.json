@@ -1,0 +1,23 @@
+{
+  "id": 965791,
+  "title": "A Difficult Year",
+  "original_title": "Une ann\u00e9e difficile",
+  "release_date": "2023-10-18",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

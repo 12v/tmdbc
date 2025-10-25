@@ -1,0 +1,29 @@
+{
+  "id": 6498,
+  "title": "Nightwatch",
+  "original_title": "Nattevagten",
+  "release_date": "1994-02-25",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

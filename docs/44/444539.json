@@ -1,12 +1,17 @@
 {
-  "id": 716532,
-  "title": "Mr Malcolm's List",
-  "original_title": "Mr Malcolm's List",
-  "release_date": "2022-07-01",
+  "id": 444539,
+  "title": "The Bookshop",
+  "original_title": "La librer\u00eda",
+  "release_date": "2017-11-10",
   "status": "Released",
-  "runtime": 117,
+  "runtime": 110,
   "original_language": "en",
   "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
     {
       "english_name": "English",
       "iso_639_1": "en",
@@ -19,19 +24,12 @@
     }
   ],
   "origin_country": [
-    "IE",
+    "ES",
+    "FR",
     "GB",
-    "US"
+    "DE"
   ],
   "genres": [
-    {
-      "id": 10749,
-      "name": "Romance"
-    },
-    {
-      "id": 35,
-      "name": "Comedy"
-    },
     {
       "id": 18,
       "name": "Drama"
