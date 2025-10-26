@@ -8,19 +8,14 @@
   "original_language": "ro",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
-      "english_name": "Hungarian",
-      "iso_639_1": "hu",
-      "name": "Magyar"
-    },
-    {
       "english_name": "German",
       "iso_639_1": "de",
       "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "Italian",
@@ -31,6 +26,11 @@
       "english_name": "Romanian",
       "iso_639_1": "ro",
       "name": "Rom\u00e2n\u0103"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
     }
   ],
   "origin_country": [
