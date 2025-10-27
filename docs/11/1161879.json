@@ -14,19 +14,19 @@
     }
   ],
   "origin_country": [
-    "DE",
-    "GB",
     "BR",
-    "FR"
+    "DE",
+    "FR",
+    "GB"
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
       "id": 53,
       "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     },
     {
       "id": 10749,
