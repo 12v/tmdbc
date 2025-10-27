@@ -8,9 +8,9 @@
   "original_language": "cn",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
     },
     {
       "english_name": "Tagalog",
@@ -23,9 +23,9 @@
       "name": "\u666e\u901a\u8bdd"
     },
     {
-      "english_name": "Cantonese",
-      "iso_639_1": "cn",
-      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
