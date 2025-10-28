@@ -1,0 +1,25 @@
+{
+  "id": 42637,
+  "title": "Diary of a Lost Girl",
+  "original_title": "Tagebuch einer Verlorenen",
+  "release_date": "1929-09-27",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

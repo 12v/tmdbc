@@ -1,10 +1,10 @@
 {
-  "id": 1010756,
-  "title": "The Strangers: Chapter 2",
-  "original_title": "The Strangers: Chapter 2",
-  "release_date": "2025-09-25",
+  "id": 60599,
+  "title": "Arbitrage",
+  "original_title": "Arbitrage",
+  "release_date": "2012-09-14",
   "status": "Released",
-  "runtime": 98,
+  "runtime": 100,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,13 +14,12 @@
     }
   ],
   "origin_country": [
-    "ES",
     "US"
   ],
   "genres": [
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 18,
+      "name": "Drama"
     },
     {
       "id": 53,

@@ -1,0 +1,25 @@
+{
+  "id": 49397,
+  "title": "Death Rides a Horse",
+  "original_title": "Da uomo a uomo",
+  "release_date": "1967-08-31",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

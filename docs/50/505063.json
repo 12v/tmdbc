@@ -1,10 +1,10 @@
 {
-  "id": 1010756,
-  "title": "The Strangers: Chapter 2",
-  "original_title": "The Strangers: Chapter 2",
-  "release_date": "2025-09-25",
+  "id": 505063,
+  "title": "Await Further Instructions",
+  "original_title": "Await Further Instructions",
+  "release_date": "2018-08-26",
   "status": "Released",
-  "runtime": 98,
+  "runtime": 91,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,17 +14,13 @@
     }
   ],
   "origin_country": [
-    "ES",
-    "US"
+    "US",
+    "GB"
   ],
   "genres": [
     {
       "id": 27,
       "name": "Horror"
-    },
-    {
-      "id": 53,
-      "name": "Thriller"
     }
   ]
 }

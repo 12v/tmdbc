@@ -1,0 +1,33 @@
+{
+  "id": 21028,
+  "title": "Moscow Does Not Believe in Tears",
+  "original_title": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0441\u043b\u0435\u0437\u0430\u043c \u043d\u0435 \u0432\u0435\u0440\u0438\u0442",
+  "release_date": "1980-02-11",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}
