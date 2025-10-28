@@ -1,0 +1,29 @@
+{
+  "id": 1314750,
+  "title": "Same Old West",
+  "original_title": "Oeste Outra Vez",
+  "release_date": "2025-03-27",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}
