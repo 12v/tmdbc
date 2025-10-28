@@ -1,0 +1,25 @@
+{
+  "id": 846586,
+  "title": "Vi\u1ec7t and Nam",
+  "original_title": "Trong l\u00f2ng \u0111\u1ea5t",
+  "release_date": "2024-09-25",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

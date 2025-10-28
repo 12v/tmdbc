@@ -1,10 +1,10 @@
 {
-  "id": 404378,
-  "title": "A Street Cat Named Bob",
-  "original_title": "A Street Cat Named Bob",
-  "release_date": "2016-11-04",
+  "id": 353066,
+  "title": "The Vanishing of Sidney Hall",
+  "original_title": "The Vanishing of Sidney Hall",
+  "release_date": "2018-03-02",
   "status": "Released",
-  "runtime": 103,
+  "runtime": 117,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,17 +14,20 @@
     }
   ],
   "origin_country": [
-    "GB",
     "US"
   ],
   "genres": [
     {
-      "id": 10751,
-      "name": "Family"
-    },
-    {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
     }
   ]
 }
