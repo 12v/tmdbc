@@ -1,0 +1,25 @@
+{
+  "id": 454758,
+  "title": "And So We Put Goldfish in the Pool.",
+  "original_title": "\u305d\u3046\u3057\u3066\u79c1\u305f\u3061\u306f\u30d7\u30fc\u30eb\u306b\u91d1\u9b5a\u3092\u3001",
+  "release_date": "2017-04-08",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
