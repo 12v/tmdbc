@@ -1,10 +1,10 @@
 {
-  "id": 1218925,
-  "title": "Chainsaw Man - The Movie: Reze Arc",
-  "original_title": "\u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3 \u30ec\u30bc\u7bc7",
-  "release_date": "2025-09-19",
+  "id": 211755,
+  "title": "Hunter x Hunter: Phantom Rouge",
+  "original_title": "\u5287\u5834\u7248 HUNTER\u00d7HUNTER \u7dcb\u8272\u306e\u5e7b\u5f71",
+  "release_date": "2013-01-12",
   "status": "Released",
-  "runtime": 100,
+  "runtime": 97,
   "original_language": "ja",
   "spoken_languages": [
     {
@@ -22,16 +22,16 @@
       "name": "Animation"
     },
     {
-      "id": 28,
-      "name": "Action"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
+      "id": 12,
+      "name": "Adventure"
     },
     {
       "id": 14,
       "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
     }
   ]
 }
