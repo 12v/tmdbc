@@ -8,9 +8,14 @@
   "original_language": "de",
   "spoken_languages": [
     {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "French",
@@ -23,19 +28,9 @@
       "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
     },
     {
-      "english_name": "Croatian",
-      "iso_639_1": "hr",
-      "name": "Hrvatski"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
     },
     {
       "english_name": "Italian",
@@ -56,13 +51,15 @@
       "english_name": "Russian",
       "iso_639_1": "ru",
       "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
-    "US",
-    "DE",
-    "GB",
-    "FR"
+    "DE"
   ],
   "genres": [
     {
