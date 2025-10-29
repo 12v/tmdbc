@@ -14,9 +14,17 @@
     }
   ],
   "origin_country": [
-    "GB"
+    "DE"
   ],
   "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
     {
       "id": 80,
       "name": "Crime"
@@ -24,10 +32,6 @@
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 53,
-      "name": "Thriller"
     }
   ]
 }
