@@ -22,20 +22,20 @@
       "name": "Animation"
     },
     {
-      "id": 14,
-      "name": "Fantasy"
+      "id": 27,
+      "name": "Horror"
     },
     {
-      "id": 9648,
-      "name": "Mystery"
+      "id": 14,
+      "name": "Fantasy"
     },
     {
       "id": 18,
       "name": "Drama"
     },
     {
-      "id": 28,
-      "name": "Action"
+      "id": 9648,
+      "name": "Mystery"
     }
   ]
 }
