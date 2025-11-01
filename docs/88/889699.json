@@ -22,12 +22,16 @@
       "name": "Thriller"
     },
     {
-      "id": 80,
-      "name": "Crime"
-    },
-    {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
     }
   ]
 }
