@@ -8,14 +8,19 @@
   "original_language": "en",
   "spoken_languages": [
     {
+      "english_name": "Armenian",
+      "iso_639_1": "hy",
+      "name": ""
+    },
+    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
     },
     {
-      "english_name": "Armenian",
-      "iso_639_1": "hy",
-      "name": ""
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
     },
     {
       "english_name": "Polish",
@@ -26,11 +31,6 @@
       "english_name": "Romanian",
       "iso_639_1": "ro",
       "name": "Rom\u00e2n\u0103"
-    },
-    {
-      "english_name": "Hebrew",
-      "iso_639_1": "he",
-      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
     }
   ],
   "origin_country": [
