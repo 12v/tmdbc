@@ -1,6 +1,6 @@
 {
   "id": 1385536,
-  "title": "Sore: Wife from the Future",
+  "title": "Sore: Wife From The Future",
   "original_title": "Sore: Istri Dari Masa Depan",
   "release_date": "2025-07-10",
   "status": "Released",
@@ -13,14 +13,14 @@
       "name": "Hrvatski"
     },
     {
-      "english_name": "Indonesian",
-      "iso_639_1": "id",
-      "name": "Bahasa indonesia"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
     }
   ],
   "origin_country": [
