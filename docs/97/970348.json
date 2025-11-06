@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Arabic",
-      "iso_639_1": "ar",
-      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
-    },
-    {
       "english_name": "Dutch",
       "iso_639_1": "nl",
       "name": "Nederlands"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
     }
   ],
   "origin_country": [
