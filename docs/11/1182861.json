@@ -8,14 +8,14 @@
   "original_language": "es",
   "spoken_languages": [
     {
+      "english_name": "Galician",
+      "iso_639_1": "gl",
+      "name": "Galego"
+    },
+    {
       "english_name": "Catalan",
       "iso_639_1": "ca",
       "name": "Catal\u00e0"
-    },
-    {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
     },
     {
       "english_name": "French",
@@ -23,9 +23,9 @@
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "Galician",
-      "iso_639_1": "gl",
-      "name": "Galego"
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
