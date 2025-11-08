@@ -1,0 +1,34 @@
+{
+  "id": 1306525,
+  "title": "The Elixir",
+  "original_title": "Abadi Nan Jaya",
+  "release_date": "2025-10-22",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}
