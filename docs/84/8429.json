@@ -13,11 +13,6 @@
       "name": "Deutsch"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Italian",
       "iso_639_1": "it",
       "name": "Italiano"
@@ -26,6 +21,11 @@
       "english_name": "Latin",
       "iso_639_1": "la",
       "name": "Latin"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
