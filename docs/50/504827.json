@@ -22,10 +22,6 @@
       "name": "Animation"
     },
     {
-      "id": 12,
-      "name": "Adventure"
-    },
-    {
       "id": 10402,
       "name": "Music"
     },
@@ -36,14 +32,6 @@
     {
       "id": 80,
       "name": "Crime"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
-      "id": 9648,
-      "name": "Mystery"
     }
   ]
 }
