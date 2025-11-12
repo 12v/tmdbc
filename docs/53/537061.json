@@ -30,10 +30,6 @@
       "name": "Animation"
     },
     {
-      "id": 35,
-      "name": "Comedy"
-    },
-    {
       "id": 14,
       "name": "Fantasy"
     },
@@ -44,14 +40,6 @@
     {
       "id": 878,
       "name": "Science Fiction"
-    },
-    {
-      "id": 28,
-      "name": "Action"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
     }
   ]
 }
