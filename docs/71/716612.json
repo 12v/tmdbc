@@ -4,7 +4,7 @@
   "original_title": "Spencer",
   "release_date": "2021-11-04",
   "status": "Released",
-  "runtime": 117,
+  "runtime": 116,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,10 +14,10 @@
     }
   ],
   "origin_country": [
+    "CL",
     "DE",
-    "US",
     "GB",
-    "CL"
+    "US"
   ],
   "genres": [
     {
