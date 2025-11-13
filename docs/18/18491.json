@@ -26,12 +26,12 @@
       "name": "Science Fiction"
     },
     {
-      "id": 28,
-      "name": "Action"
-    },
-    {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
     }
   ]
 }
