@@ -4,7 +4,7 @@
   "original_title": "\u5de6\u6487\u5b50\u5973\u5b69",
   "release_date": "2025-09-17",
   "status": "Released",
-  "runtime": 108,
+  "runtime": 109,
   "original_language": "zh",
   "spoken_languages": [
     {
@@ -14,10 +14,10 @@
     }
   ],
   "origin_country": [
-    "US",
-    "GB",
     "FR",
-    "TW"
+    "TW",
+    "GB",
+    "US"
   ],
   "genres": [
     {
