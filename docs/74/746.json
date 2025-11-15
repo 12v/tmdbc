@@ -13,6 +13,11 @@
       "name": "English"
     },
     {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
       "english_name": "Mandarin",
       "iso_639_1": "zh",
       "name": "\u666e\u901a\u8bdd"
@@ -21,11 +26,6 @@
       "english_name": "Chichewa; Nyanja",
       "iso_639_1": "ny",
       "name": ""
-    },
-    {
-      "english_name": "Japanese",
-      "iso_639_1": "ja",
-      "name": "\u65e5\u672c\u8a9e"
     }
   ],
   "origin_country": [
