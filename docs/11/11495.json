@@ -22,12 +22,12 @@
       "name": "Horror"
     },
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
       "id": 878,
       "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }
