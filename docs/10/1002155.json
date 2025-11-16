@@ -8,9 +8,9 @@
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "Armenian",
-      "iso_639_1": "hy",
-      "name": ""
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "French",
@@ -18,14 +18,14 @@
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Spanish",
       "iso_639_1": "es",
       "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Armenian",
+      "iso_639_1": "hy",
+      "name": ""
     }
   ],
   "origin_country": [],
