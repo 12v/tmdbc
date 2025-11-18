@@ -8,24 +8,19 @@
   "original_language": "de",
   "spoken_languages": [
     {
-      "english_name": "Mandarin",
-      "iso_639_1": "zh",
-      "name": "\u666e\u901a\u8bdd"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
     },
     {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
-    },
-    {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
     },
     {
       "english_name": "Italian",
@@ -36,6 +31,11 @@
       "english_name": "Japanese",
       "iso_639_1": "ja",
       "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
     },
     {
       "english_name": "Portuguese",
