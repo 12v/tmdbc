@@ -8,9 +8,19 @@
   "original_language": "en",
   "spoken_languages": [
     {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Moldavian",
+      "iso_639_1": "mo",
+      "name": ""
     },
     {
       "english_name": "Greek",
@@ -18,25 +28,15 @@
       "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Portuguese",
       "iso_639_1": "pt",
       "name": "Portugu\u00eas"
-    },
-    {
-      "english_name": "Moldavian",
-      "iso_639_1": "mo",
-      "name": ""
     }
   ],
   "origin_country": [
     "AU",
-    "US",
-    "GB"
+    "GB",
+    "US"
   ],
   "genres": [
     {
