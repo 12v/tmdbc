@@ -4,7 +4,7 @@
   "original_title": "Hotel Rwanda",
   "release_date": "2004-12-22",
   "status": "Released",
-  "runtime": 121,
+  "runtime": 122,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -19,10 +19,10 @@
     }
   ],
   "origin_country": [
-    "ZA",
     "IT",
-    "US",
-    "GB"
+    "ZA",
+    "GB",
+    "US"
   ],
   "genres": [
     {
