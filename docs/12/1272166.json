@@ -28,14 +28,6 @@
   ],
   "genres": [
     {
-      "id": 9648,
-      "name": "Mystery"
-    },
-    {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
       "id": 80,
       "name": "Crime"
     },
