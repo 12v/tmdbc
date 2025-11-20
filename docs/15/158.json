@@ -4,7 +4,7 @@
   "original_title": "Knockin' on Heaven's Door",
   "release_date": "1997-02-20",
   "status": "Released",
-  "runtime": 88,
+  "runtime": 89,
   "original_language": "de",
   "spoken_languages": [
     {
@@ -24,6 +24,14 @@
     {
       "id": 80,
       "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }
