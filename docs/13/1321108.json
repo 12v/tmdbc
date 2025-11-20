@@ -1,0 +1,37 @@
+{
+  "id": 1321108,
+  "title": "Dude",
+  "original_title": "\u0b9f\u0bbf\u0baf\u0bc2\u0b9f\u0bcd",
+  "release_date": "2025-10-17",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}
