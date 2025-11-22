@@ -8,22 +8,22 @@
   "original_language": "dz",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Dzongkha",
       "iso_639_1": "dz",
       "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
-    "TW",
-    "US",
     "BT",
     "FR",
-    "HK"
+    "HK",
+    "TW",
+    "US"
   ],
   "genres": [
     {
