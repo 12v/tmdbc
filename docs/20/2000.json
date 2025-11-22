@@ -8,14 +8,14 @@
   "original_language": "de",
   "spoken_languages": [
     {
-      "english_name": "Quechua",
-      "iso_639_1": "qu",
-      "name": ""
-    },
-    {
       "english_name": "German",
       "iso_639_1": "de",
       "name": "Deutsch"
+    },
+    {
+      "english_name": "Quechua",
+      "iso_639_1": "qu",
+      "name": ""
     },
     {
       "english_name": "Spanish",
@@ -24,7 +24,6 @@
     }
   ],
   "origin_country": [
-    "MX",
     "DE"
   ],
   "genres": [
