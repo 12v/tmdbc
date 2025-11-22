@@ -1,21 +1,16 @@
 {
-  "id": 45752,
-  "title": "Scooby-Doo! Camp Scare",
-  "original_title": "Scooby-Doo! Camp Scare",
-  "release_date": "2010-09-14",
+  "id": 1248226,
+  "title": "Playdate",
+  "original_title": "Playdate",
+  "release_date": "2025-11-05",
   "status": "Released",
-  "runtime": 72,
+  "runtime": 95,
   "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
@@ -23,8 +18,8 @@
   ],
   "genres": [
     {
-      "id": 16,
-      "name": "Animation"
+      "id": 28,
+      "name": "Action"
     },
     {
       "id": 35,
@@ -33,10 +28,6 @@
     {
       "id": 10751,
       "name": "Family"
-    },
-    {
-      "id": 9648,
-      "name": "Mystery"
     }
   ]
 }
