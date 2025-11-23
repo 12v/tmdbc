@@ -8,6 +8,11 @@
   "original_language": "fi",
   "spoken_languages": [
     {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
       "english_name": "Finnish",
       "iso_639_1": "fi",
       "name": "suomi"
@@ -16,11 +21,6 @@
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Swedish",
-      "iso_639_1": "sv",
-      "name": "svenska"
     }
   ],
   "origin_country": [
