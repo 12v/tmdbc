@@ -1,0 +1,29 @@
+{
+  "id": 1425122,
+  "title": "A Very Jonas Christmas Movie",
+  "original_title": "A Very Jonas Christmas Movie",
+  "release_date": "2025-11-10",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}
