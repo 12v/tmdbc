@@ -2,20 +2,20 @@
   "id": 633515,
   "title": "The Forgotten Battle",
   "original_title": "De Slag om de Schelde",
-  "release_date": "2020-12-14",
+  "release_date": "2021-06-05",
   "status": "Released",
   "runtime": 126,
   "original_language": "nl",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Dutch",
       "iso_639_1": "nl",
       "name": "Nederlands"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "German",
