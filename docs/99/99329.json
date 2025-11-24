@@ -8,19 +8,19 @@
   "original_language": "wo",
   "spoken_languages": [
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
       "english_name": "Wolof",
       "iso_639_1": "wo",
       "name": "Wolof"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
-    "FR",
-    "SN"
+    "SN",
+    "FR"
   ],
   "genres": [
     {
