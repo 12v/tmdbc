@@ -18,16 +18,16 @@
   ],
   "genres": [
     {
-      "id": 10749,
-      "name": "Romance"
-    },
-    {
       "id": 14,
       "name": "Fantasy"
     },
     {
       "id": 12,
       "name": "Adventure"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
     }
   ]
 }
