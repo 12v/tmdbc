@@ -4,18 +4,18 @@
   "original_title": "Den of Thieves 2: Pantera",
   "release_date": "2025-01-08",
   "status": "Released",
-  "runtime": 131,
+  "runtime": 144,
   "original_language": "en",
   "spoken_languages": [
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
