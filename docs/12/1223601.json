@@ -1,0 +1,39 @@
+{
+  "id": 1223601,
+  "title": "Sisu: Road to Revenge",
+  "original_title": "Sisu 2",
+  "release_date": "2025-10-21",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}
