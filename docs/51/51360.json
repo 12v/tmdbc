@@ -1,0 +1,25 @@
+{
+  "id": 51360,
+  "title": "The Goat",
+  "original_title": "The Goat",
+  "release_date": "1921-05-15",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

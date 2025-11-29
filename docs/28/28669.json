@@ -1,0 +1,25 @@
+{
+  "id": 28669,
+  "title": "Rasputin: The Mad Monk",
+  "original_title": "Rasputin: The Mad Monk",
+  "release_date": "1966-03-06",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

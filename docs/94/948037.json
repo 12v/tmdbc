@@ -1,0 +1,29 @@
+{
+  "id": 948037,
+  "title": "The Marriage App",
+  "original_title": "Matrimillas",
+  "release_date": "2022-12-07",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

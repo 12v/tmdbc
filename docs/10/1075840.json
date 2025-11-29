@@ -1,0 +1,25 @@
+{
+  "id": 1075840,
+  "title": "The Shadowless Tower",
+  "original_title": "\u767d\u5854\u4e4b\u5149",
+  "release_date": "2023-10-27",
+  "status": "Released",
+  "runtime": 144,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

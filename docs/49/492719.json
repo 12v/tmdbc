@@ -1,0 +1,29 @@
+{
+  "id": 492719,
+  "title": "Godzilla: City on the Edge of Battle",
+  "original_title": "GODZILLA \u6c7a\u6226\u6a5f\u52d5\u5897\u6b96\u90fd\u5e02",
+  "release_date": "2018-05-18",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

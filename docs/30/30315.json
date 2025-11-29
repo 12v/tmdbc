@@ -1,0 +1,29 @@
+{
+  "id": 30315,
+  "title": "Kingdom of the Spiders",
+  "original_title": "Kingdom of the Spiders",
+  "release_date": "1977-08-24",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

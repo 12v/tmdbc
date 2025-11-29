@@ -1,0 +1,25 @@
+{
+  "id": 1091371,
+  "title": "Songs of Earth",
+  "original_title": "Fedrelandet",
+  "release_date": "2023-09-01",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

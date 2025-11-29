@@ -1,0 +1,29 @@
+{
+  "id": 287495,
+  "title": "Labyrinth of Lies",
+  "original_title": "Im Labyrinth des Schweigens",
+  "release_date": "2014-11-06",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

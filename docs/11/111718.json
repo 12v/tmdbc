@@ -1,0 +1,29 @@
+{
+  "id": 111718,
+  "title": "The Sun's Burial",
+  "original_title": "\u592a\u967d\u306e\u5893\u5834",
+  "release_date": "1960-08-09",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

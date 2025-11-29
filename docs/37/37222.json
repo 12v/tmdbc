@@ -1,0 +1,26 @@
+{
+  "id": 37222,
+  "title": "The V.I.P.s",
+  "original_title": "The V.I.P.s",
+  "release_date": "1963-09-01",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 102227,
+  "title": "Welcome Back, Mr. McDonald",
+  "original_title": "\u30e9\u30c2\u30aa\u306e\u6642\u9593",
+  "release_date": "1997-11-08",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

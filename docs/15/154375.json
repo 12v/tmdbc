@@ -1,0 +1,25 @@
+{
+  "id": 154375,
+  "title": "A Bagful of Fleas",
+  "original_title": "Pytel blech",
+  "release_date": "1963-03-15",
+  "status": "Released",
+  "runtime": 43,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

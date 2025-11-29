@@ -1,0 +1,25 @@
+{
+  "id": 262775,
+  "title": "Lovely Man",
+  "original_title": "Lovely Man",
+  "release_date": "2011-09-30",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 553512,
+  "title": "Burn the Stage: The Movie",
+  "original_title": "\ubc88 \ub354 \uc2a4\ud14c\uc774\uc9c0: \ub354 \ubb34\ube44",
+  "release_date": "2018-11-15",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

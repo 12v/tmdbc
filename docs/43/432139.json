@@ -1,0 +1,37 @@
+{
+  "id": 432139,
+  "title": "Vikram Vedha",
+  "original_title": "\u0bb5\u0bbf\u0b95\u0bcd\u0bb0\u0bae\u0bcd \u0bb5\u0bc7\u0ba4\u0bbe",
+  "release_date": "2017-07-21",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

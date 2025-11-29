@@ -1,0 +1,30 @@
+{
+  "id": 928350,
+  "title": "Love, Deutschmarks and Death",
+  "original_title": "A\u015fk, Mark ve \u00d6l\u00fcm \u2013 Liebe, D-Mark und Tod",
+  "release_date": "2022-10-06",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

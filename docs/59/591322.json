@@ -1,0 +1,25 @@
+{
+  "id": 591322,
+  "title": "My First Client",
+  "original_title": "\uc5b4\ub9b0 \uc758\ub8b0\uc778",
+  "release_date": "2019-05-22",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

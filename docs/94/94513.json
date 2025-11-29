@@ -1,0 +1,29 @@
+{
+  "id": 94513,
+  "title": "Two Solutions to One Problem",
+  "original_title": "\u062f\u0648 \u0631\u0627\u0647 \u062d\u0644 \u0628\u0631\u0627\u06cc \u064a\u06a9 \u0645\u0633\u0626\u0644\u0647",
+  "release_date": "1975-01-01",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

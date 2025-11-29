@@ -1,0 +1,30 @@
+{
+  "id": 1284874,
+  "title": "Instruments of a Beating Heart",
+  "original_title": "Instruments of a Beating Heart",
+  "release_date": "2024-06-14",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

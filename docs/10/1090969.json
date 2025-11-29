@@ -1,0 +1,29 @@
+{
+  "id": 1090969,
+  "title": "Good Night",
+  "original_title": "\u0b95\u0bc1\u0b9f\u0bcd \u0ba8\u0bc8\u0b9f\u0bcd",
+  "release_date": "2023-05-12",
+  "status": "Released",
+  "runtime": 144,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

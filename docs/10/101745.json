@@ -1,0 +1,25 @@
+{
+  "id": 101745,
+  "title": "Black Pit of Dr. M",
+  "original_title": "Misterios de ultratumba",
+  "release_date": "1959-05-13",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

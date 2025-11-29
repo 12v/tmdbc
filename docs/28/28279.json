@@ -1,0 +1,30 @@
+{
+  "id": 28279,
+  "title": "Succubus",
+  "original_title": "Necronomicon - Getr\u00e4umte S\u00fcnden",
+  "release_date": "1968-04-19",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

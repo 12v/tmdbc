@@ -1,0 +1,25 @@
+{
+  "id": 94466,
+  "title": "The Ceremony",
+  "original_title": "\u5100\u5f0f",
+  "release_date": "1971-05-18",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

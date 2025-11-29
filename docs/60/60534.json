@@ -1,0 +1,33 @@
+{
+  "id": 60534,
+  "title": "The Silence",
+  "original_title": "Das letzte Schweigen",
+  "release_date": "2010-08-13",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 846806,
+  "title": "Wet Sand",
+  "original_title": "Wet Sand",
+  "release_date": "2022-11-24",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    }
+  ],
+  "origin_country": [
+    "GE",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

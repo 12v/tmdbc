@@ -1,0 +1,25 @@
+{
+  "id": 90720,
+  "title": "The Hellbenders",
+  "original_title": "I crudeli",
+  "release_date": "1967-02-02",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

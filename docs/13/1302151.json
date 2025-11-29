@@ -1,0 +1,25 @@
+{
+  "id": 1302151,
+  "title": "Mesa de regalos",
+  "original_title": "Mesa de regalos",
+  "release_date": "2025-01-16",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

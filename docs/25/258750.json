@@ -1,0 +1,34 @@
+{
+  "id": 258750,
+  "title": "Gun Woman",
+  "original_title": "\u5973\u4f53\u9283 \u30ac\u30f3\u30fb\u30a6\u30fc\u30de\u30f3 GUN WOMAN",
+  "release_date": "2014-02-28",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

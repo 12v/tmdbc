@@ -1,0 +1,37 @@
+{
+  "id": 517062,
+  "title": "The Most Beautiful Girl in the World",
+  "original_title": "Das sch\u00f6nste M\u00e4dchen der Welt",
+  "release_date": "2018-09-06",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

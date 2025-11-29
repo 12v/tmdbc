@@ -1,0 +1,30 @@
+{
+  "id": 1005299,
+  "title": "World War III",
+  "original_title": "\u062c\u0646\u06af \u062c\u0647\u0627\u0646\u06cc \u0633\u0648\u0645",
+  "release_date": "2023-01-27",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

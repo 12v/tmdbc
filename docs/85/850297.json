@@ -1,0 +1,29 @@
+{
+  "id": 850297,
+  "title": "Pamfir",
+  "original_title": "\u041f\u0430\u043c\u0444\u0456\u0440",
+  "release_date": "2022-11-02",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "uk",
+  "spoken_languages": [
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "UA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

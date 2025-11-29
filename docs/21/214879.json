@@ -1,0 +1,29 @@
+{
+  "id": 214879,
+  "title": "A Touch of Fever",
+  "original_title": "\u4e8c\u5341\u624d\u306e\u5fae\u71b1",
+  "release_date": "1993-09-04",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

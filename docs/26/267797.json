@@ -1,0 +1,29 @@
+{
+  "id": 267797,
+  "title": "Elvira I Will Give You My Life But I'm Using It",
+  "original_title": "Elvira, te dar\u00eda mi vida pero la estoy usando",
+  "release_date": "2014-10-24",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

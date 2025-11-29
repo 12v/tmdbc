@@ -1,0 +1,51 @@
+{
+  "id": 607844,
+  "title": "Escape from Mogadishu",
+  "original_title": "\ubaa8\uac00\ub514\uc288",
+  "release_date": "2021-07-28",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Somali",
+      "iso_639_1": "so",
+      "name": "Somali"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

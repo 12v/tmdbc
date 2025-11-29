@@ -1,0 +1,33 @@
+{
+  "id": 3146,
+  "title": "The War of the Gargantuas",
+  "original_title": "\u30d5\u30e9\u30f3\u30b1\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3\u306e\u602a\u7363 \u30b5\u30f3\u30c0\u5bfe\u30ac\u30a4\u30e9",
+  "release_date": "1966-07-31",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

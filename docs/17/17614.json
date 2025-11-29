@@ -1,0 +1,33 @@
+{
+  "id": 17614,
+  "title": "Yossi & Jagger",
+  "original_title": "\u05d9\u05d5\u05e1\u05d9 \u05d5\u05d2'\u05d0\u05d2\u05e8",
+  "release_date": "2002-08-28",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "he",
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+    }
+  ],
+  "origin_country": [
+    "IL"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

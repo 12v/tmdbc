@@ -1,0 +1,25 @@
+{
+  "id": 49139,
+  "title": "Confidence",
+  "original_title": "Bizalom",
+  "release_date": "1980-01-10",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

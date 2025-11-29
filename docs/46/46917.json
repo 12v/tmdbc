@@ -1,0 +1,29 @@
+{
+  "id": 46917,
+  "title": "Sword of the Beast",
+  "original_title": "\u7363\u306e\u5263",
+  "release_date": "1965-09-18",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 347186,
+  "title": "Haikyu!! the Movie: The Winner and the Loser",
+  "original_title": "\u30cf\u30a4\u30ad\u30e5\u30fc!! \u52dd\u8005\u3068\u6557\u8005",
+  "release_date": "2015-09-18",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 55157,
+  "title": "The Eagle Shooting Heroes",
+  "original_title": "\u5c04\u9d70\u82f1\u96c4\u50b3\u4e4b\u6771\u6210\u897f\u5c31",
+  "release_date": "1993-02-05",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

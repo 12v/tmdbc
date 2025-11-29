@@ -1,0 +1,25 @@
+{
+  "id": 214138,
+  "title": "Bad Hair",
+  "original_title": "Pelo malo",
+  "release_date": "2014-04-02",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "VE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

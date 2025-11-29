@@ -1,0 +1,35 @@
+{
+  "id": 52111,
+  "title": "The Small Town",
+  "original_title": "Kasaba",
+  "release_date": "1997-11-28",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

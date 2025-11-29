@@ -1,0 +1,25 @@
+{
+  "id": 36998,
+  "title": "The Eighth Day",
+  "original_title": "Le Huiti\u00e8me Jour",
+  "release_date": "1996-05-22",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 428501,
+  "title": "City of Ghosts",
+  "original_title": "City of Ghosts",
+  "release_date": "2017-07-14",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

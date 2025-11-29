@@ -1,0 +1,25 @@
+{
+  "id": 191543,
+  "title": "Red Army/PFLP: Declaration of World War",
+  "original_title": "\u8d64\u8ecd-PFLP \u4e16\u754c\u6226\u4e89\u5ba3\u8a00",
+  "release_date": "1971-09-29",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1294947,
+  "title": "Let Me Be with You",
+  "original_title": "D\u00e9jame Estar Contigo",
+  "release_date": "2025-01-12",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

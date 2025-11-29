@@ -1,0 +1,29 @@
+{
+  "id": 1279433,
+  "title": "Inheritance",
+  "original_title": "Spadek",
+  "release_date": "2024-06-19",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

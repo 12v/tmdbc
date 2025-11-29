@@ -1,0 +1,29 @@
+{
+  "id": 104952,
+  "title": "Anatomia Extinction",
+  "original_title": "\u9650\u754c\u4eba\u53e3\u4fc2\u6570",
+  "release_date": "1995-02-17",
+  "status": "Released",
+  "runtime": 54,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

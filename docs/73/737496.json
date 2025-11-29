@@ -1,0 +1,25 @@
+{
+  "id": 737496,
+  "title": "The Dress",
+  "original_title": "Sukienka",
+  "release_date": "2020-06-02",
+  "status": "Released",
+  "runtime": 30,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

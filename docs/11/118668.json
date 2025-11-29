@@ -1,0 +1,29 @@
+{
+  "id": 118668,
+  "title": "Decalogue VII",
+  "original_title": "Dekalog, siedem",
+  "release_date": "1989-05-16",
+  "status": "Released",
+  "runtime": 55,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

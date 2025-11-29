@@ -1,0 +1,25 @@
+{
+  "id": 637254,
+  "title": "Test Pattern",
+  "original_title": "Test Pattern",
+  "release_date": "2021-02-19",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

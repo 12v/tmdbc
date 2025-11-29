@@ -1,0 +1,25 @@
+{
+  "id": 250219,
+  "title": "I Can Quit Whenever I Want",
+  "original_title": "Smetto quando voglio",
+  "release_date": "2014-02-06",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

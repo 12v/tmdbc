@@ -1,0 +1,33 @@
+{
+  "id": 221732,
+  "title": "Rurouni Kenshin Part III: The Legend Ends",
+  "original_title": "\u308b\u308d\u3046\u306b\u5263\u5fc3\u3000\u4f1d\u8aac\u306e\u6700\u671f\u7de8",
+  "release_date": "2014-09-13",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

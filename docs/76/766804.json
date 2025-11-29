@@ -1,0 +1,26 @@
+{
+  "id": 766804,
+  "title": "Wild Flowers",
+  "original_title": "Girasoles silvestres",
+  "release_date": "2022-10-21",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

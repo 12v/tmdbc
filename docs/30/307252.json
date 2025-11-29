@@ -1,0 +1,25 @@
+{
+  "id": 307252,
+  "title": "Thaniyavarthanam",
+  "original_title": "\u0d24\u0d28\u0d3f\u0d2f\u0d3e\u0d35\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d28\u0d02",
+  "release_date": "1987-08-14",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

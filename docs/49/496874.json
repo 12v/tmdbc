@@ -1,0 +1,33 @@
+{
+  "id": 496874,
+  "title": "My Dead Ones",
+  "original_title": "O Segredo de Davi",
+  "release_date": "2018-11-22",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

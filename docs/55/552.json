@@ -1,0 +1,29 @@
+{
+  "id": 552,
+  "title": "Bread and Tulips",
+  "original_title": "Pane e tulipani",
+  "release_date": "2000-03-03",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

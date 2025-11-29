@@ -1,0 +1,29 @@
+{
+  "id": 1252756,
+  "title": "A Place Without Fear",
+  "original_title": "A Place Without Fear",
+  "release_date": "2024-03-29",
+  "status": "Released",
+  "runtime": 30,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

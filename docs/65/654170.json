@@ -1,0 +1,31 @@
+{
+  "id": 654170,
+  "title": "The Painter and the Thief",
+  "original_title": "Kunstneren og tyven",
+  "release_date": "2020-09-05",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

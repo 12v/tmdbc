@@ -1,0 +1,25 @@
+{
+  "id": 254439,
+  "title": "The Honest Candidate",
+  "original_title": "O Candidato Honesto",
+  "release_date": "2014-09-05",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

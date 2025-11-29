@@ -1,0 +1,45 @@
+{
+  "id": 36728,
+  "title": "Naruto Shippuden the Movie: The Will of Fire",
+  "original_title": "\u5287\u5834\u7248 NARUTO -\u30ca\u30eb\u30c8- \u75be\u98a8\u4f1d \u706b\u306e\u610f\u5fd7\u3092\u7d99\u3050\u8005",
+  "release_date": "2009-08-01",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

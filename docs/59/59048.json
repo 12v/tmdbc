@@ -1,0 +1,25 @@
+{
+  "id": 59048,
+  "title": "Our Lady of the Turks",
+  "original_title": "Nostra signora dei turchi",
+  "release_date": "1968-09-03",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

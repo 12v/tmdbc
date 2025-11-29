@@ -1,0 +1,41 @@
+{
+  "id": 824738,
+  "title": "Are You Lonesome Tonight?",
+  "original_title": "\u70ed\u5e26\u5f80\u4e8b",
+  "release_date": "2021-06-12",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

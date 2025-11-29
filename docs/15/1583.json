@@ -1,0 +1,25 @@
+{
+  "id": 1583,
+  "title": "Lammbock",
+  "original_title": "Lammbock",
+  "release_date": "2001-08-23",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

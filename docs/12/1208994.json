@@ -1,0 +1,35 @@
+{
+  "id": 1208994,
+  "title": "A New Kind of Wilderness",
+  "original_title": "Ukjent landskap",
+  "release_date": "2024-04-15",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

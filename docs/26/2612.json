@@ -1,0 +1,37 @@
+{
+  "id": 2612,
+  "title": "Mr. Destiny",
+  "original_title": "Mr. Destiny",
+  "release_date": "1990-10-12",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

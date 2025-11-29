@@ -1,0 +1,25 @@
+{
+  "id": 74581,
+  "title": "Sisters of the Gion",
+  "original_title": "\u7947\u5712\u306e\u59c9\u59b9",
+  "release_date": "1936-10-15",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

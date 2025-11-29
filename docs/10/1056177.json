@@ -1,0 +1,29 @@
+{
+  "id": 1056177,
+  "title": "The Nightingale of Bursa",
+  "original_title": "Bursa B\u00fclb\u00fcl\u00fc",
+  "release_date": "2023-01-13",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

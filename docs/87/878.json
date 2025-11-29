@@ -1,0 +1,29 @@
+{
+  "id": 878,
+  "title": "The Punch Bowl",
+  "original_title": "Die Feuerzangenbowle",
+  "release_date": "1944-01-28",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

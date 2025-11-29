@@ -1,0 +1,35 @@
+{
+  "id": 63026,
+  "title": "The Killer Must Kill Again",
+  "original_title": "L'assassino \u00e8 costretto ad uccidere ancora",
+  "release_date": "1975-03-07",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

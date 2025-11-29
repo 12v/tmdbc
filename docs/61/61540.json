@@ -1,0 +1,37 @@
+{
+  "id": 61540,
+  "title": "The Pyjama Girl Case",
+  "original_title": "La ragazza dal pigiama giallo",
+  "release_date": "1977-12-31",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

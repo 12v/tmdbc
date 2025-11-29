@@ -1,0 +1,32 @@
+{
+  "id": 928004,
+  "title": "Rewind & Play",
+  "original_title": "Rewind & Play",
+  "release_date": "2023-01-11",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

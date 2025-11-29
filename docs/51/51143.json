@@ -1,0 +1,30 @@
+{
+  "id": 51143,
+  "title": "Thirst",
+  "original_title": "T\u00f6rst",
+  "release_date": "1949-10-17",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

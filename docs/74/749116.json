@@ -1,0 +1,35 @@
+{
+  "id": 749116,
+  "title": "Cidade; Campo",
+  "original_title": "Cidade; Campo",
+  "release_date": "2024-08-29",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "BR",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

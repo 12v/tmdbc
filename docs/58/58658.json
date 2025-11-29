@@ -1,0 +1,29 @@
+{
+  "id": 58658,
+  "title": "The Day of the Owl",
+  "original_title": "Il giorno della civetta",
+  "release_date": "1968-02-17",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

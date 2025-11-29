@@ -1,0 +1,26 @@
+{
+  "id": 721232,
+  "title": "De Humani Corporis Fabrica",
+  "original_title": "De humani corporis fabrica",
+  "release_date": "2023-01-11",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

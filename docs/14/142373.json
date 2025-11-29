@@ -1,0 +1,43 @@
+{
+  "id": 142373,
+  "title": "Joan the Maid I: The Battles",
+  "original_title": "Jeanne la Pucelle I: Les Batailles",
+  "release_date": "1994-02-09",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

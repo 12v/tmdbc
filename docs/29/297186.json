@@ -1,0 +1,25 @@
+{
+  "id": 297186,
+  "title": "Fatal Frame",
+  "original_title": "\u5287\u5834\u7248 \u96f6\u301c\u30bc\u30ed\u301c",
+  "release_date": "2014-09-26",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

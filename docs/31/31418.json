@@ -1,0 +1,25 @@
+{
+  "id": 31418,
+  "title": "Everybody Dies But Me",
+  "original_title": "\u0412\u0441\u0435 \u0443\u043c\u0440\u0443\u0442, \u0430 \u044f \u043e\u0441\u0442\u0430\u043d\u0443\u0441\u044c",
+  "release_date": "2008-10-23",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

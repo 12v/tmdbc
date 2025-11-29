@@ -1,0 +1,25 @@
+{
+  "id": 1006012,
+  "title": "Old Fox",
+  "original_title": "\u8001\u72d0\u72f8",
+  "release_date": "2023-11-24",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

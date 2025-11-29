@@ -1,0 +1,44 @@
+{
+  "id": 117319,
+  "title": "Vishwaroopam",
+  "original_title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0bb0\u0bc2\u0baa\u0bae\u0bcd",
+  "release_date": "2013-01-25",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

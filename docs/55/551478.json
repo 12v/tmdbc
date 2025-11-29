@@ -1,0 +1,34 @@
+{
+  "id": 551478,
+  "title": "Jakarta vs Everybody",
+  "original_title": "Jakarta vs Everybody",
+  "release_date": "2020-11-26",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 264323,
+  "title": "Chidambaram",
+  "original_title": "\u0d1a\u0d3f\u0d26\u0d02\u0d2c\u0d30\u0d02",
+  "release_date": "1985-03-08",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 86517,
+  "title": "It's Such a Beautiful Day",
+  "original_title": "It's Such a Beautiful Day",
+  "release_date": "2011-11-17",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

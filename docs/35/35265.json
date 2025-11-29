@@ -1,0 +1,29 @@
+{
+  "id": 35265,
+  "title": "The Embalmer",
+  "original_title": "L'imbalsamatore",
+  "release_date": "2002-09-06",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

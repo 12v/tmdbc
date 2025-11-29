@@ -1,0 +1,37 @@
+{
+  "id": 52728,
+  "title": "Gamera vs. Gyaos",
+  "original_title": "\u5927\u602a\u7363\u7a7a\u4e2d\u6226 \u30ac\u30e1\u30e9\u5bfe\u30ae\u30e3\u30aa\u30b9",
+  "release_date": "1967-03-15",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

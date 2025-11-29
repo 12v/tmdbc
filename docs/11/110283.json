@@ -1,0 +1,29 @@
+{
+  "id": 110283,
+  "title": "Minbo, or the Gentle Art of Japanese Extortion",
+  "original_title": "\u30df\u30f3\u30dc\u30fc\u306e\u5973",
+  "release_date": "1992-05-16",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

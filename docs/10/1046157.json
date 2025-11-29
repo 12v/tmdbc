@@ -1,0 +1,29 @@
+{
+  "id": 1046157,
+  "title": "Sattar",
+  "original_title": "\u0633\u0637\u0627\u0631",
+  "release_date": "2022-12-03",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "SA"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

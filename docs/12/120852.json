@@ -1,0 +1,29 @@
+{
+  "id": 120852,
+  "title": "Lesson of the Evil",
+  "original_title": "\u60aa\u306e\u6559\u5178",
+  "release_date": "2012-11-10",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

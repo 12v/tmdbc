@@ -1,0 +1,25 @@
+{
+  "id": 62947,
+  "title": "The Witch",
+  "original_title": "La strega in amore",
+  "release_date": "1966-09-16",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 72188,
+  "title": "Noiseman Sound Insect",
+  "original_title": "\u97f3\u97ff\u751f\u547d\u4f53\u30ce\u30a4\u30ba\u30de\u30f3",
+  "release_date": "1997-11-22",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

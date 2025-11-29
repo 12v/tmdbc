@@ -1,0 +1,37 @@
+{
+  "id": 44179,
+  "title": "Demon City Shinjuku",
+  "original_title": "\u9b54\u754c\u90fd\u5e02\uff1c\u65b0\u5bbf\uff1e",
+  "release_date": "1988-10-26",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

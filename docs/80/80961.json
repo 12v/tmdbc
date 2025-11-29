@@ -1,0 +1,33 @@
+{
+  "id": 80961,
+  "title": "The King of the Street Cleaners",
+  "original_title": "\u00c7\u00f6p\u00e7\u00fcler Kral\u0131",
+  "release_date": "1977-08-09",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

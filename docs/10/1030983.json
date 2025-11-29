@@ -1,0 +1,25 @@
+{
+  "id": 1030983,
+  "title": "Spin the Bottle",
+  "original_title": "Spin the Bottle",
+  "release_date": "2024-10-03",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

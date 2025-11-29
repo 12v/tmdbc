@@ -1,0 +1,35 @@
+{
+  "id": 730087,
+  "title": "Eureka",
+  "original_title": "Eureka",
+  "release_date": "2024-02-16",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

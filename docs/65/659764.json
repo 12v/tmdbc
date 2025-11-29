@@ -1,0 +1,34 @@
+{
+  "id": 659764,
+  "title": "Love Likes Coincidences 2",
+  "original_title": "A\u015fk Tesad\u00fcfleri Sever 2",
+  "release_date": "2020-01-31",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 137757,
+  "title": "The Merry Frolics of Satan",
+  "original_title": "Les quatre cents farces du diable",
+  "release_date": "1906-09-07",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

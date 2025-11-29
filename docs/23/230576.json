@@ -1,0 +1,29 @@
+{
+  "id": 230576,
+  "title": "Guzoo: The Thing Forsaken by God",
+  "original_title": "\uff27\uff35\uff3a\uff2f\uff2f\u3000\u795e\u306b\u898b\u6368\u3066\u3089\u308c\u3057\u3082\u306e",
+  "release_date": "1986-11-09",
+  "status": "Released",
+  "runtime": 40,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 406385,
+  "title": "I Can Quit Whenever I Want 2: Masterclass",
+  "original_title": "Smetto quando voglio - Masterclass",
+  "release_date": "2017-02-02",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

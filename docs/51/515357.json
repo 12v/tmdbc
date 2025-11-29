@@ -1,0 +1,27 @@
+{
+  "id": 515357,
+  "title": "Tremors",
+  "original_title": "Temblores",
+  "release_date": "2019-02-08",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "GT",
+    "FR",
+    "LU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

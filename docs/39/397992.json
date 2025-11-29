@@ -1,0 +1,25 @@
+{
+  "id": 397992,
+  "title": "Fair Haven",
+  "original_title": "Fair Haven",
+  "release_date": "2017-03-03",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

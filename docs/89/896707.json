@@ -1,0 +1,29 @@
+{
+  "id": 896707,
+  "title": "The Entertainment System Is Down",
+  "original_title": "The Entertainment System Is Down",
+  "release_date": "",
+  "status": "Post Production",
+  "runtime": 0,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

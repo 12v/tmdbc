@@ -1,0 +1,26 @@
+{
+  "id": 408417,
+  "title": "The Last of Us",
+  "original_title": "\u0622\u062e\u0631 \u0648\u0627\u062d\u062f \u0641\u064a\u0646\u0627",
+  "release_date": "2018-08-22",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SA",
+    "AE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

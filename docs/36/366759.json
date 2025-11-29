@@ -1,0 +1,33 @@
+{
+  "id": 366759,
+  "title": "Ali Baba and the 7 Dwarfs",
+  "original_title": "Ali Baba ve 7 C\u00fcceler",
+  "release_date": "2015-11-12",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

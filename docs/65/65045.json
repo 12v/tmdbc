@@ -1,0 +1,25 @@
+{
+  "id": 65045,
+  "title": "My Mother's Smile",
+  "original_title": "L\u2019ora di religione - Il sorriso di mia madre",
+  "release_date": "2002-04-19",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

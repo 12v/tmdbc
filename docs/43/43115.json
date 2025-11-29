@@ -1,0 +1,29 @@
+{
+  "id": 43115,
+  "title": "Earth vs. the Spider",
+  "original_title": "Earth vs. the Spider",
+  "release_date": "1958-09-01",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

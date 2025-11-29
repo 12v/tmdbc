@@ -1,0 +1,34 @@
+{
+  "id": 105254,
+  "title": "The Touch",
+  "original_title": "Ber\u00f6ringen",
+  "release_date": "1971-07-14",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

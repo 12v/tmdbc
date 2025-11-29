@@ -1,0 +1,29 @@
+{
+  "id": 64536,
+  "title": "Bumpkin Soup",
+  "original_title": "\u30c9\u30ec\u30df\u30d5\u30a1\u5a18\u306e\u8840\u306f\u9a12\u3050",
+  "release_date": "1985-11-03",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 50236,
+  "title": "Almost Human",
+  "original_title": "Milano odia: la polizia non pu\u00f2 sparare",
+  "release_date": "1974-08-08",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

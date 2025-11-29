@@ -1,0 +1,25 @@
+{
+  "id": 89552,
+  "title": "Bohachi Bushido: Code of the Forgotten Eight",
+  "original_title": "\u30dd\u30eb\u30ce\u6642\u4ee3\u5287 \u5fd8\u516b\u6b66\u58eb\u9053",
+  "release_date": "1973-02-03",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

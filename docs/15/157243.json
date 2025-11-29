@@ -1,0 +1,25 @@
+{
+  "id": 157243,
+  "title": "The Arch",
+  "original_title": "\u8463\u592b\u4eba",
+  "release_date": "1969-12-18",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

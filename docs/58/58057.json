@@ -1,0 +1,25 @@
+{
+  "id": 58057,
+  "title": "Dear Friends",
+  "original_title": "Dear Friends \u30c7\u30a3\u30a2 \u30d5\u30ec\u30f3\u30ba",
+  "release_date": "2007-02-03",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

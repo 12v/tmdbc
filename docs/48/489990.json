@@ -1,0 +1,25 @@
+{
+  "id": 489990,
+  "title": "Pity",
+  "original_title": "\u039f\u03af\u03ba\u03c4\u03bf\u03c2",
+  "release_date": "2018-09-12",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

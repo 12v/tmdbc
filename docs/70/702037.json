@@ -1,0 +1,25 @@
+{
+  "id": 702037,
+  "title": "Finley",
+  "original_title": "Finley",
+  "release_date": "2019-09-13",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

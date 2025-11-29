@@ -1,0 +1,33 @@
+{
+  "id": 54288,
+  "title": "Carnival of Sinners",
+  "original_title": "La Main du Diable",
+  "release_date": "1943-03-21",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

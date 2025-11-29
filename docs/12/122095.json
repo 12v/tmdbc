@@ -1,0 +1,25 @@
+{
+  "id": 122095,
+  "title": "The Girl",
+  "original_title": "Elt\u00e1vozott nap",
+  "release_date": "1968-05-16",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

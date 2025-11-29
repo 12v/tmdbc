@@ -1,0 +1,25 @@
+{
+  "id": 84999,
+  "title": "Blood Beat",
+  "original_title": "Blood Beat",
+  "release_date": "1983-03-18",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

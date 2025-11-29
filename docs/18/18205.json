@@ -1,0 +1,25 @@
+{
+  "id": 18205,
+  "title": "Midaq Alley",
+  "original_title": "El Callej\u00f3n de los Milagros",
+  "release_date": "1995-05-05",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

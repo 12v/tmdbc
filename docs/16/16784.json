@@ -1,0 +1,25 @@
+{
+  "id": 16784,
+  "title": "Welcome to Mooseport",
+  "original_title": "Welcome to Mooseport",
+  "release_date": "2004-02-24",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

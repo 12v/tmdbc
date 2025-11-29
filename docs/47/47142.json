@@ -1,0 +1,25 @@
+{
+  "id": 47142,
+  "title": "Chronicle of a Boy Alone",
+  "original_title": "Cr\u00f3nica de un ni\u00f1o solo",
+  "release_date": "1965-05-05",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

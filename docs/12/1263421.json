@@ -1,0 +1,33 @@
+{
+  "id": 1263421,
+  "title": "Baki Hanma VS Kengan Ashura",
+  "original_title": "\u7bc4\u99ac\u5203\u7259VS\u30b1\u30f3\u30ac\u30f3\u30a2\u30b7\u30e5\u30e9",
+  "release_date": "2024-06-05",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

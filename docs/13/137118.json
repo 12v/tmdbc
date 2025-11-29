@@ -1,0 +1,25 @@
+{
+  "id": 137118,
+  "title": "I Graduated, But...",
+  "original_title": "\u5927\u5b66\u306f\u51fa\u305f\u3051\u308c\u3069",
+  "release_date": "1929-09-06",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

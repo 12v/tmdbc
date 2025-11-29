@@ -1,0 +1,33 @@
+{
+  "id": 221234,
+  "title": "Tyll the Giant",
+  "original_title": "Suur T\u00f5ll",
+  "release_date": "1980-09-15",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "et",
+  "spoken_languages": [
+    {
+      "english_name": "Estonian",
+      "iso_639_1": "et",
+      "name": "Eesti"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

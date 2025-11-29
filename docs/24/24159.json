@@ -1,0 +1,29 @@
+{
+  "id": 24159,
+  "title": "12:08 East of Bucharest",
+  "original_title": "A fost sau n-a fost?",
+  "release_date": "2006-09-29",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

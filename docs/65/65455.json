@@ -1,0 +1,27 @@
+{
+  "id": 65455,
+  "title": "Sins of the Fleshapoids",
+  "original_title": "Sins of the Fleshapoids",
+  "release_date": "1965-01-04",
+  "status": "Released",
+  "runtime": 43,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 529106,
+  "title": "Major Grom: Plague Doctor",
+  "original_title": "\u041c\u0430\u0439\u043e\u0440 \u0413\u0440\u043e\u043c: \u0427\u0443\u043c\u043d\u043e\u0439 \u0414\u043e\u043a\u0442\u043e\u0440",
+  "release_date": "2021-04-01",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

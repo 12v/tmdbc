@@ -1,0 +1,29 @@
+{
+  "id": 222661,
+  "title": "The Day I Bought a Star",
+  "original_title": "\u661f\u3092\u304b\u3063\u305f\u65e5",
+  "release_date": "2006-01-03",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

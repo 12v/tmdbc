@@ -1,0 +1,29 @@
+{
+  "id": 43372,
+  "title": "Bellissima",
+  "original_title": "Bellissima",
+  "release_date": "1952-01-04",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

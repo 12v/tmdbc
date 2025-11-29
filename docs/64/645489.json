@@ -1,0 +1,34 @@
+{
+  "id": 645489,
+  "title": "Gunjan Saxena: The Kargil Girl",
+  "original_title": "\u0917\u0941\u0902\u091c\u0928 \u0938\u0915\u094d\u0938\u0947\u0928\u093e: \u0926 \u0915\u093e\u0930\u0917\u093f\u0932 \u0917\u0930\u094d\u0932",
+  "release_date": "2020-07-23",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

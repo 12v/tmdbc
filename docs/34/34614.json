@@ -1,0 +1,26 @@
+{
+  "id": 34614,
+  "title": "A Hole in My Heart",
+  "original_title": "Ett h\u00e5l i mitt hj\u00e4rta",
+  "release_date": "2005-04-08",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

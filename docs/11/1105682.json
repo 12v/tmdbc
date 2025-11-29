@@ -1,0 +1,29 @@
+{
+  "id": 1105682,
+  "title": "Level Cross",
+  "original_title": "\u0d32\u0d46\u0d35\u0d46\u0d7d \u0d15\u0d4d\u0d30\u0d4b\u0d38\u0d4d",
+  "release_date": "2024-07-26",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 67654,
+  "title": "The Mascot",
+  "original_title": "F\u00e9tiche",
+  "release_date": "1933-01-01",
+  "status": "Released",
+  "runtime": 35,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

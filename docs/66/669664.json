@@ -1,0 +1,33 @@
+{
+  "id": 669664,
+  "title": "My Donkey, My Lover & I",
+  "original_title": "Antoinette dans les C\u00e9vennes",
+  "release_date": "2020-09-16",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

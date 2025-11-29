@@ -1,0 +1,25 @@
+{
+  "id": 55537,
+  "title": "Night of the Scarecrow",
+  "original_title": "Night of the Scarecrow",
+  "release_date": "1995-08-08",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

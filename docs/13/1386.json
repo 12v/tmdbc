@@ -1,0 +1,29 @@
+{
+  "id": 1386,
+  "title": "Rendezvous",
+  "original_title": "C'\u00e9tait un rendez-vous",
+  "release_date": "1976-01-01",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

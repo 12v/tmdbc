@@ -1,0 +1,25 @@
+{
+  "id": 54326,
+  "title": "Help Me, Eros",
+  "original_title": "\u5e2e\u5e2e\u6211,\u7231\u795e",
+  "release_date": "2007-09-04",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

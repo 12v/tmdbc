@@ -1,0 +1,30 @@
+{
+  "id": 12826,
+  "title": "Just a Gigolo",
+  "original_title": "Sch\u00f6ner Gigolo, armer Gigolo",
+  "release_date": "1978-11-16",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 986594,
+  "title": "Mrs. Chatterjee Vs Norway",
+  "original_title": "\u092e\u093f\u0938\u093f\u095b \u091a\u0948\u091f\u0930\u094d\u091c\u0940 \u0935\u0930\u094d\u0938\u0947\u095b \u0928\u0949\u0930\u094d\u0935\u0947",
+  "release_date": "2023-03-16",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

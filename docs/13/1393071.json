@@ -1,0 +1,34 @@
+{
+  "id": 1393071,
+  "title": "Better Off Dead",
+  "original_title": "Tinggal Meninggal",
+  "release_date": "2025-08-14",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

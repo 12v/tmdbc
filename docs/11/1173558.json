@@ -1,0 +1,33 @@
+{
+  "id": 1173558,
+  "title": "Burning Betrayal",
+  "original_title": "O Lado Bom de Ser Tra\u00edda",
+  "release_date": "2023-10-25",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

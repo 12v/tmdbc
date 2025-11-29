@@ -1,0 +1,33 @@
+{
+  "id": 24827,
+  "title": "Ajab Prem Ki Ghazab Kahani",
+  "original_title": "\u0905\u091c\u092c \u092a\u094d\u0930\u0947\u092e \u0915\u093f \u0917\u093c\u091c\u093c\u092c \u0915\u0939\u093e\u0928\u0940",
+  "release_date": "2009-11-06",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

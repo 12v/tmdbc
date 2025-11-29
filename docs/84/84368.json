@@ -1,0 +1,38 @@
+{
+  "id": 84368,
+  "title": "Manichitrathazhu",
+  "original_title": "\u0d2e\u0d23\u0d3f\u0d1a\u0d4d\u0d1a\u0d3f\u0d24\u0d4d\u0d30\u0d24\u0d4d\u0d24\u0d3e\u0d34\u0d4d",
+  "release_date": "1993-12-25",
+  "status": "Released",
+  "runtime": 169,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

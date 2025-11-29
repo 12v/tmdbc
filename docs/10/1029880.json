@@ -1,0 +1,33 @@
+{
+  "id": 1029880,
+  "title": "Nightwatch: Demons Are Forever",
+  "original_title": "Nattevagten - D\u00e6moner g\u00e5r i arv",
+  "release_date": "2023-12-14",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 872508,
+  "title": "Paradise Is Burning",
+  "original_title": "Paradiset brinner",
+  "release_date": "2023-10-27",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

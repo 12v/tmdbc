@@ -1,0 +1,38 @@
+{
+  "id": 217923,
+  "title": "Young Detective Dee: Rise of the Sea Dragon",
+  "original_title": "\u72c4\u4ec1\u6770\u4e4b\u795e\u90fd\u9f99\u738b",
+  "release_date": "2013-09-27",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

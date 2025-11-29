@@ -1,0 +1,29 @@
+{
+  "id": 505175,
+  "title": "Love per Square Foot",
+  "original_title": "Love per Square Foot",
+  "release_date": "2018-02-14",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

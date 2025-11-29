@@ -1,0 +1,33 @@
+{
+  "id": 242546,
+  "title": "Bayonetta: Bloody Fate",
+  "original_title": "\u30d9\u30e8\u30cd\u30c3\u30bf \u30d6\u30e9\u30c3\u30c7\u30a3\u30d5\u30a7\u30a4\u30c8",
+  "release_date": "2013-11-23",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

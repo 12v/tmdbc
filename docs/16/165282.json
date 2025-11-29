@@ -1,0 +1,33 @@
+{
+  "id": 165282,
+  "title": "Wolf Guy",
+  "original_title": "\u30a6\u30eb\u30d5\u30ac\u30a4 \u71c3\u3048\u308d\u72fc\u7537",
+  "release_date": "1975-04-04",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

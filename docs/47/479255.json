@@ -1,0 +1,29 @@
+{
+  "id": 479255,
+  "title": "Tremble All You Want",
+  "original_title": "\u52dd\u624b\u306b\u3075\u308b\u3048\u3066\u308d",
+  "release_date": "2017-12-23",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

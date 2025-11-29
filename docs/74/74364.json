@@ -1,0 +1,25 @@
+{
+  "id": 74364,
+  "title": "Di Cavalcanti Di Glauber",
+  "original_title": "Di Cavalcanti Di Glauber",
+  "release_date": "1977-03-11",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

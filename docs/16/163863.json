@@ -1,0 +1,25 @@
+{
+  "id": 163863,
+  "title": "Walkover",
+  "original_title": "Walkower",
+  "release_date": "1965-06-04",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

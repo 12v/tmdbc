@@ -1,0 +1,25 @@
+{
+  "id": 59053,
+  "title": "The Raffle",
+  "original_title": "La Riffa",
+  "release_date": "1991-11-15",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

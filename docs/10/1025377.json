@@ -1,0 +1,25 @@
+{
+  "id": 1025377,
+  "title": "Hesitation Wound",
+  "original_title": "Teredd\u00fct \u00c7izgisi",
+  "release_date": "2024-05-03",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 44725,
+  "title": "One Piece: Chopper's Kingdom on the Island of Strange Animals",
+  "original_title": "\u30ef\u30f3\u30d4\u30fc\u30b9 \u73cd\u7363\u5cf6\u306e\u30c1\u30e7\u30c3\u30d1\u30fc\u738b\u56fd",
+  "release_date": "2002-03-02",
+  "status": "Released",
+  "runtime": 56,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

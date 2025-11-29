@@ -1,0 +1,30 @@
+{
+  "id": 499152,
+  "title": "The Heiresses",
+  "original_title": "Las herederas",
+  "release_date": "2018-03-15",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Guarani",
+      "iso_639_1": "gn",
+      "name": ""
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "PY"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

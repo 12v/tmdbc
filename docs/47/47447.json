@@ -1,0 +1,33 @@
+{
+  "id": 47447,
+  "title": "Electra",
+  "original_title": "\u0397\u03bb\u03ad\u03ba\u03c4\u03c1\u03b1",
+  "release_date": "1962-05-25",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 311539,
+  "title": "A Christmas Horror Story",
+  "original_title": "A Christmas Horror Story",
+  "release_date": "2015-07-20",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

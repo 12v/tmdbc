@@ -1,0 +1,33 @@
+{
+  "id": 28061,
+  "title": "Lust of the Vampire",
+  "original_title": "I vampiri",
+  "release_date": "1957-04-05",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

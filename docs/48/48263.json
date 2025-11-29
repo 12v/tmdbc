@@ -1,0 +1,29 @@
+{
+  "id": 48263,
+  "title": "I Don't Want to Be a Man",
+  "original_title": "Ich m\u00f6chte kein Mann sein",
+  "release_date": "1918-10-01",
+  "status": "Released",
+  "runtime": 45,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 47103,
+  "title": "A Run for Money",
+  "original_title": "Ka\u00e7 Para Ka\u00e7",
+  "release_date": "1999-12-17",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

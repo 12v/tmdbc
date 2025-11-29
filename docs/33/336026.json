@@ -1,0 +1,25 @@
+{
+  "id": 336026,
+  "title": "Little Forest: Winter/Spring",
+  "original_title": "\u30ea\u30c8\u30eb\u30fb\u30d5\u30a9\u30ec\u30b9\u30c8 \u51ac\u30fb\u6625",
+  "release_date": "2015-01-28",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

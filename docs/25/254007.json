@@ -1,0 +1,33 @@
+{
+  "id": 254007,
+  "title": "The Samurai",
+  "original_title": "Der Samurai",
+  "release_date": "2014-02-08",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

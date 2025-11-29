@@ -1,0 +1,29 @@
+{
+  "id": 380464,
+  "title": "Iftar Soda",
+  "original_title": "\u0130ftarl\u0131k Gazoz",
+  "release_date": "2016-01-29",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1008568,
+  "title": "Power Alley",
+  "original_title": "Levante",
+  "release_date": "2023-10-13",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "UY",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

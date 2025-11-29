@@ -1,0 +1,25 @@
+{
+  "id": 2172,
+  "title": "Pathfinder",
+  "original_title": "Ofelas",
+  "release_date": "1987-09-03",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "se",
+  "spoken_languages": [
+    {
+      "english_name": "Northern Sami",
+      "iso_639_1": "se",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

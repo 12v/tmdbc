@@ -1,0 +1,33 @@
+{
+  "id": 647121,
+  "title": "Black Night",
+  "original_title": "Karanl\u0131k Gece",
+  "release_date": "2023-04-28",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

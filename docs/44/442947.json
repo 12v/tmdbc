@@ -1,0 +1,32 @@
+{
+  "id": 442947,
+  "title": "A Gentle Creature",
+  "original_title": "\u041a\u0440\u043e\u0442\u043a\u0430\u044f",
+  "release_date": "2017-08-16",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "FR",
+    "LT",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

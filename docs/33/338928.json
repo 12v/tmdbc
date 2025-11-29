@@ -1,0 +1,26 @@
+{
+  "id": 338928,
+  "title": "He Named Me Malala",
+  "original_title": "He Named Me Malala",
+  "release_date": "2015-09-12",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AE",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

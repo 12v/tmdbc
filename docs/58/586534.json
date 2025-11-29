@@ -1,0 +1,30 @@
+{
+  "id": 586534,
+  "title": "Mystify: Michael Hutchence",
+  "original_title": "Mystify: Michael Hutchence",
+  "release_date": "2019-04-28",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

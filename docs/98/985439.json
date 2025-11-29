@@ -1,0 +1,25 @@
+{
+  "id": 985439,
+  "title": "Ullozhukku",
+  "original_title": "\u0d09\u0d33\u0d4d\u0d33\u0d4a\u0d34\u0d41\u0d15\u0d4d\u0d15\u0d4d",
+  "release_date": "2024-06-21",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

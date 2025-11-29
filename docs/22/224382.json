@@ -1,0 +1,26 @@
+{
+  "id": 224382,
+  "title": "The Metamorphosis of Mr. Samsa",
+  "original_title": "The Metamorphosis of Mr. Samsa",
+  "release_date": "1978-06-01",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

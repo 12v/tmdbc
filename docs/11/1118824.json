@@ -1,0 +1,33 @@
+{
+  "id": 1118824,
+  "title": "Mallari",
+  "original_title": "Mallari",
+  "release_date": "2023-12-25",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

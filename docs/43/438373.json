@@ -1,0 +1,33 @@
+{
+  "id": 438373,
+  "title": "Qui\u00e9n te cantar\u00e1",
+  "original_title": "Qui\u00e9n te cantar\u00e1",
+  "release_date": "2018-10-24",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

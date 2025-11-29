@@ -1,0 +1,26 @@
+{
+  "id": 306208,
+  "title": "The Hedge Theater",
+  "original_title": "The Hedge Theater",
+  "release_date": "2002-11-17",
+  "status": "Released",
+  "runtime": 19,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CH",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

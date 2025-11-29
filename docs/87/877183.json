@@ -1,0 +1,38 @@
+{
+  "id": 877183,
+  "title": "The Simpsons in Plusaversary",
+  "original_title": "The Simpsons in Plusaversary",
+  "release_date": "2021-11-12",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Esperanto",
+      "iso_639_1": "eo",
+      "name": "Esperanto"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

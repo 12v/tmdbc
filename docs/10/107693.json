@@ -1,0 +1,26 @@
+{
+  "id": 107693,
+  "title": "Abraham's Valley",
+  "original_title": "Vale Abra\u00e3o",
+  "release_date": "1993-09-01",
+  "status": "Released",
+  "runtime": 204,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

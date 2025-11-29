@@ -1,0 +1,29 @@
+{
+  "id": 877244,
+  "title": "Jo & Jo",
+  "original_title": "\u0d1c\u0d4b & \u0d1c\u0d4b",
+  "release_date": "2022-05-13",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

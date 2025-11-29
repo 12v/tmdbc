@@ -1,0 +1,34 @@
+{
+  "id": 42096,
+  "title": "A Year of the Quiet Sun",
+  "original_title": "Rok spokojnego s\u0142o\u0144ca",
+  "release_date": "1984-09-09",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

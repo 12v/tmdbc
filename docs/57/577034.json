@@ -1,0 +1,28 @@
+{
+  "id": 577034,
+  "title": "Mother, I Am Suffocating. This Is My Last Film About You.",
+  "original_title": "Mother, I Am Suffocating. This Is My Last Film About You.",
+  "release_date": "2019-02-10",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "st",
+  "spoken_languages": [
+    {
+      "english_name": "Sotho",
+      "iso_639_1": "st",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ZA",
+    "DE",
+    "QA",
+    "LS"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

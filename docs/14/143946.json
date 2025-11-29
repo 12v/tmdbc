@@ -1,0 +1,25 @@
+{
+  "id": 143946,
+  "title": "I Will Buy You",
+  "original_title": "\u3042\u306a\u305f\u8cb7\u3044\u307e\u3059",
+  "release_date": "1956-11-21",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

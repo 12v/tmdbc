@@ -1,0 +1,31 @@
+{
+  "id": 317,
+  "title": "Grbavica: The Land of My Dreams",
+  "original_title": "Grbavica",
+  "release_date": "2006-03-01",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "bs",
+  "spoken_languages": [
+    {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "BA",
+    "HR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

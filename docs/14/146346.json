@@ -1,0 +1,30 @@
+{
+  "id": 146346,
+  "title": "79 Springs",
+  "original_title": "79 primaveras",
+  "release_date": "1969-12-31",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 20391,
+  "title": "Paint Your Wagon",
+  "original_title": "Paint Your Wagon",
+  "release_date": "1969-10-15",
+  "status": "Released",
+  "runtime": 164,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

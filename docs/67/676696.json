@@ -1,0 +1,38 @@
+{
+  "id": 676696,
+  "title": "Sirocco and the Kingdom of Winds",
+  "original_title": "Sirocco et le Royaume des courants d'air",
+  "release_date": "2023-12-13",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

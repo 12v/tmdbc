@@ -1,0 +1,34 @@
+{
+  "id": 859933,
+  "title": "Before, Now & Then",
+  "original_title": "Nana",
+  "release_date": "2022-07-08",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "su",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Sundanese",
+      "iso_639_1": "su",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

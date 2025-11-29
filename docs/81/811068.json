@@ -1,0 +1,25 @@
+{
+  "id": 811068,
+  "title": "The Found Footage Phenomenon",
+  "original_title": "The Found Footage Phenomenon",
+  "release_date": "2021-08-30",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

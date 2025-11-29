@@ -1,0 +1,26 @@
+{
+  "id": 1433339,
+  "title": "Three Goodbyes",
+  "original_title": "Tre ciotole",
+  "release_date": "2025-10-09",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

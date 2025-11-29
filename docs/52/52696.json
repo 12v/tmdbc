@@ -1,0 +1,33 @@
+{
+  "id": 52696,
+  "title": "Band Baaja Baaraat",
+  "original_title": "Band Baaja Baaraat",
+  "release_date": "2010-12-10",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

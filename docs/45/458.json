@@ -1,0 +1,33 @@
+{
+  "id": 458,
+  "title": "Sissi: The Young Empress",
+  "original_title": "Sissi - Die junge Kaiserin",
+  "release_date": "1956-12-01",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

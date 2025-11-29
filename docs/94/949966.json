@@ -1,0 +1,29 @@
+{
+  "id": 949966,
+  "title": "Untitled Star Wars \"New Jedi Order\" Film",
+  "original_title": "Untitled Star Wars \"New Jedi Order\" Film",
+  "release_date": "",
+  "status": "Planned",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

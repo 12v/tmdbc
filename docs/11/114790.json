@@ -1,0 +1,33 @@
+{
+  "id": 114790,
+  "title": "Under the Bridges",
+  "original_title": "Unter den Br\u00fccken",
+  "release_date": "1946-08-31",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

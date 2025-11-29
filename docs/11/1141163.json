@@ -1,0 +1,29 @@
+{
+  "id": 1141163,
+  "title": "Diva Futura",
+  "original_title": "Diva Futura",
+  "release_date": "2025-02-06",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

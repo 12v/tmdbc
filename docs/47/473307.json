@@ -1,0 +1,37 @@
+{
+  "id": 473307,
+  "title": "Love You to the Stars and Back",
+  "original_title": "Love You to the Stars and Back",
+  "release_date": "2017-08-30",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

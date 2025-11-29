@@ -1,0 +1,25 @@
+{
+  "id": 27605,
+  "title": "The 13 Roses",
+  "original_title": "Las 13 rosas",
+  "release_date": "2007-10-19",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

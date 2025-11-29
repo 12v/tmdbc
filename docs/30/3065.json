@@ -1,0 +1,29 @@
+{
+  "id": 3065,
+  "title": "Mystery Science Theater 3000: The Movie",
+  "original_title": "Mystery Science Theater 3000: The Movie",
+  "release_date": "1996-04-19",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

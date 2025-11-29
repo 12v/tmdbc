@@ -1,0 +1,29 @@
+{
+  "id": 43119,
+  "title": "Machine-Gun Kelly",
+  "original_title": "Machine-Gun Kelly",
+  "release_date": "1958-05-01",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

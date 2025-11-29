@@ -1,0 +1,33 @@
+{
+  "id": 592508,
+  "title": "Sooryavanshi",
+  "original_title": "\u0938\u0942\u0930\u094d\u092f\u0935\u0902\u0936\u0940",
+  "release_date": "2021-11-05",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

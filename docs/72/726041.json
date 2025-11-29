@@ -1,0 +1,25 @@
+{
+  "id": 726041,
+  "title": "City Hall",
+  "original_title": "City Hall",
+  "release_date": "2020-10-21",
+  "status": "Released",
+  "runtime": 272,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

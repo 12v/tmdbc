@@ -1,0 +1,26 @@
+{
+  "id": 106774,
+  "title": "Cathy's Curse",
+  "original_title": "Cathy's Curse",
+  "release_date": "1977-07-29",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 856289,
+  "title": "Creation of the Gods I: Kingdom of Storms",
+  "original_title": "\u5c01\u795e\u7b2c\u4e00\u90e8\uff1a\u671d\u6b4c\u98ce\u4e91",
+  "release_date": "2023-07-15",
+  "status": "Released",
+  "runtime": 148,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

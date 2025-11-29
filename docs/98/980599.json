@@ -1,0 +1,29 @@
+{
+  "id": 980599,
+  "title": "Bhool Bhulaiyaa 3",
+  "original_title": "\u092d\u0942\u0932 \u092d\u0941\u0932\u0948\u092f\u093e 3",
+  "release_date": "2024-11-01",
+  "status": "Released",
+  "runtime": 158,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

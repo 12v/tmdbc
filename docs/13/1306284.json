@@ -1,0 +1,33 @@
+{
+  "id": 1306284,
+  "title": "Wolfgang",
+  "original_title": "Wolfgang (Extraordinari)",
+  "release_date": "2025-03-14",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ca",
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

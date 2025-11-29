@@ -1,0 +1,29 @@
+{
+  "id": 49112,
+  "title": "Tramway",
+  "original_title": "Tramwaj",
+  "release_date": "1966-01-01",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

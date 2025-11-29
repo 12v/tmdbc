@@ -1,0 +1,29 @@
+{
+  "id": 206324,
+  "title": "Bhaag Milkha Bhaag",
+  "original_title": "\u092d\u093e\u0917 \u092e\u093f\u0932\u094d\u0916\u093e \u092d\u093e\u0917",
+  "release_date": "2013-07-12",
+  "status": "Released",
+  "runtime": 186,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

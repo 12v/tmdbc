@@ -1,0 +1,29 @@
+{
+  "id": 511138,
+  "title": "Animal Behaviour",
+  "original_title": "Animal Behaviour",
+  "release_date": "2018-06-04",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

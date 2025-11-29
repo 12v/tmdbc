@@ -1,0 +1,33 @@
+{
+  "id": 78163,
+  "title": "School in the Crosshairs",
+  "original_title": "\u306d\u3089\u308f\u308c\u305f\u5b66\u5712",
+  "release_date": "1981-07-11",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

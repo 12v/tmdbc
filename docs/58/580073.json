@@ -1,0 +1,26 @@
+{
+  "id": 580073,
+  "title": "Delphine and Carole",
+  "original_title": "Delphine et Carole, insoumuses",
+  "release_date": "2020-01-14",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

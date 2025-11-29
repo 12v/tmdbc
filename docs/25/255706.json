@@ -1,0 +1,25 @@
+{
+  "id": 255706,
+  "title": "Artemide\u2019s Knee",
+  "original_title": "Le Genou d'Art\u00e9mide",
+  "release_date": "2008-06-07",
+  "status": "Released",
+  "runtime": 26,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

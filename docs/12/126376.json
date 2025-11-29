@@ -1,0 +1,25 @@
+{
+  "id": 126376,
+  "title": "Casa de Lava",
+  "original_title": "Casa de Lava",
+  "release_date": "1995-02-10",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

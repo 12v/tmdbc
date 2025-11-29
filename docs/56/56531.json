@@ -1,0 +1,45 @@
+{
+  "id": 56531,
+  "title": "The Life and Death of a Porno Gang",
+  "original_title": "\u017divot i smrt porno bande",
+  "release_date": "2009-09-16",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "RS"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

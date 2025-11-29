@@ -1,0 +1,29 @@
+{
+  "id": 65642,
+  "title": "The Story of a Cheat",
+  "original_title": "Le Roman d'un tricheur",
+  "release_date": "1936-10-02",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

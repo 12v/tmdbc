@@ -1,0 +1,29 @@
+{
+  "id": 47239,
+  "title": "Fear of Fear",
+  "original_title": "Angst vor der Angst",
+  "release_date": "1975-07-08",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

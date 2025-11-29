@@ -1,0 +1,26 @@
+{
+  "id": 38635,
+  "title": "The Danish Poet",
+  "original_title": "Den danske dikteren",
+  "release_date": "2006-02-15",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

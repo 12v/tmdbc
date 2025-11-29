@@ -1,0 +1,26 @@
+{
+  "id": 1096751,
+  "title": "In the Company of Women",
+  "original_title": "Las buenas compa\u00f1\u00edas",
+  "release_date": "2023-10-18",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31060,
+  "title": "Recep Ivedik",
+  "original_title": "Recep \u0130vedik",
+  "release_date": "2008-02-22",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

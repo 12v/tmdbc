@@ -1,0 +1,29 @@
+{
+  "id": 14258,
+  "title": "Wonderful Days",
+  "original_title": "\uc6d0\ub354\ud480 \ub370\uc774\uc988",
+  "release_date": "2003-07-17",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

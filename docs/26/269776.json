@@ -1,0 +1,38 @@
+{
+  "id": 269776,
+  "title": "Alleluia",
+  "original_title": "All\u00e9luia",
+  "release_date": "2014-11-26",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

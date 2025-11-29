@@ -1,0 +1,33 @@
+{
+  "id": 1182088,
+  "title": "The Best Friend",
+  "original_title": "O Melhor Amigo",
+  "release_date": "2025-03-13",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

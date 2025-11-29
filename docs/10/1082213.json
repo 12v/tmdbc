@@ -1,0 +1,33 @@
+{
+  "id": 1082213,
+  "title": "Sleep Call",
+  "original_title": "Sleep Call",
+  "release_date": "2023-09-07",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 248390,
+  "title": "Le Crocodile du Botswanga",
+  "original_title": "Le Crocodile du Botswanga",
+  "release_date": "2014-02-19",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

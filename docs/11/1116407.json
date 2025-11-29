@@ -1,0 +1,39 @@
+{
+  "id": 1116407,
+  "title": "\u00d3 Pa\u00ed, \u00d3 2",
+  "original_title": "\u00d3 Pa\u00ed, \u00d3 2",
+  "release_date": "2023-11-23",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

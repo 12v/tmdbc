@@ -1,0 +1,25 @@
+{
+  "id": 124668,
+  "title": "The Chill Factor",
+  "original_title": "The Chill Factor",
+  "release_date": "1993-07-28",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

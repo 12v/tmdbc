@@ -1,0 +1,29 @@
+{
+  "id": 842033,
+  "title": "Ghost Mansion",
+  "original_title": "\uad34\uae30\ub9e8\uc200",
+  "release_date": "2021-06-30",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

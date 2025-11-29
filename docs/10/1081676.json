@@ -1,0 +1,33 @@
+{
+  "id": 1081676,
+  "title": "Forgotten Love",
+  "original_title": "Znachor",
+  "release_date": "2023-09-26",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

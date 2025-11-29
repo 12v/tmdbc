@@ -1,0 +1,25 @@
+{
+  "id": 552345,
+  "title": "Cry Me a Sad River",
+  "original_title": "\u60b2\u4f24\u9006\u6d41\u6210\u6cb3",
+  "release_date": "2018-09-21",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

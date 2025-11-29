@@ -1,0 +1,25 @@
+{
+  "id": 1120628,
+  "title": "Hard Feelings",
+  "original_title": "Hammerharte Jungs",
+  "release_date": "2023-05-24",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

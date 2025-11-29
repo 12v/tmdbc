@@ -1,0 +1,33 @@
+{
+  "id": 194646,
+  "title": "Love in the Time of Twilight",
+  "original_title": "\u82b1\u6708\u4f73\u671f",
+  "release_date": "1995-04-13",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

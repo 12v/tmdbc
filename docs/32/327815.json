@@ -1,0 +1,33 @@
+{
+  "id": 327815,
+  "title": "Fangs",
+  "original_title": "\u0623\u0646\u064a\u0627\u0628",
+  "release_date": "1981-08-01",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 33475,
+  "title": "Bud Abbott and Lou Costello Meet the Invisible Man",
+  "original_title": "Bud Abbott and Lou Costello Meet the Invisible Man",
+  "release_date": "1951-04-03",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

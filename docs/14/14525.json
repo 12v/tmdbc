@@ -1,0 +1,25 @@
+{
+  "id": 14525,
+  "title": "Adrift in Tokyo",
+  "original_title": "\u8ee2\u3005",
+  "release_date": "2007-11-10",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

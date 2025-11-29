@@ -1,0 +1,29 @@
+{
+  "id": 1396558,
+  "title": "Bloody Axe Wound",
+  "original_title": "Bloody Axe Wound",
+  "release_date": "2024-12-27",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

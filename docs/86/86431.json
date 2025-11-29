@@ -1,0 +1,25 @@
+{
+  "id": 86431,
+  "title": "Sinbad",
+  "original_title": "Szindb\u00e1d",
+  "release_date": "1971-11-25",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

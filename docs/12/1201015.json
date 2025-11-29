@@ -1,0 +1,34 @@
+{
+  "id": 1201015,
+  "title": "Madgaon Express",
+  "original_title": "\u092e\u0921\u0917\u093e\u0902\u0935 \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938",
+  "release_date": "2024-03-22",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 139,
+  "title": "Mifune",
+  "original_title": "Mifunes sidste sang",
+  "release_date": "1999-03-12",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

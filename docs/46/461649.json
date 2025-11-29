@@ -1,0 +1,33 @@
+{
+  "id": 461649,
+  "title": "Pari",
+  "original_title": "\u092a\u0930\u0940",
+  "release_date": "2018-03-02",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

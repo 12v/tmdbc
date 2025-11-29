@@ -1,0 +1,29 @@
+{
+  "id": 77683,
+  "title": "Live Like a Cop, Die Like a Man",
+  "original_title": "Uomini si nasce poliziotti si muore",
+  "release_date": "1976-03-11",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

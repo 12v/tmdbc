@@ -1,0 +1,25 @@
+{
+  "id": 23333,
+  "title": "Mrs. Parker and the Vicious Circle",
+  "original_title": "Mrs. Parker and the Vicious Circle",
+  "release_date": "1994-09-07",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

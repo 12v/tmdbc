@@ -1,0 +1,30 @@
+{
+  "id": 23790,
+  "title": "Magadheera",
+  "original_title": "\u0c2e\u0c17\u0c27\u0c40\u0c30",
+  "release_date": "2009-07-31",
+  "status": "Released",
+  "runtime": 164,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Sanskrit",
+      "iso_639_1": "sa",
+      "name": ""
+    },
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

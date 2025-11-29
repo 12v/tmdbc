@@ -1,0 +1,29 @@
+{
+  "id": 86664,
+  "title": "Crazed Fruit",
+  "original_title": "\u72c2\u3063\u305f\u679c\u5b9f",
+  "release_date": "1956-07-12",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

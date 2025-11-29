@@ -1,0 +1,29 @@
+{
+  "id": 736146,
+  "title": "A Family",
+  "original_title": "\u30e4\u30af\u30b6\u3068\u5bb6\u65cf The Family",
+  "release_date": "2021-01-29",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

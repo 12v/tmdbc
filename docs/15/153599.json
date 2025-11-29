@@ -1,0 +1,29 @@
+{
+  "id": 153599,
+  "title": "Wisdom Teeth",
+  "original_title": "Wisdom Teeth",
+  "release_date": "2010-01-21",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

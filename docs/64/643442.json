@@ -1,0 +1,25 @@
+{
+  "id": 643442,
+  "title": "Some Nights I Feel Like Walking",
+  "original_title": "Some Nights I Feel Like Walking",
+  "release_date": "2025-08-27",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

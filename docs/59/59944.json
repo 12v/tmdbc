@@ -1,0 +1,29 @@
+{
+  "id": 59944,
+  "title": "From Me to You",
+  "original_title": "\u541b\u306b\u5c4a\u3051",
+  "release_date": "2010-09-25",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

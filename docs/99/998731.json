@@ -1,0 +1,29 @@
+{
+  "id": 998731,
+  "title": "Sasaki and Miyano: Graduation",
+  "original_title": "\u6620\u753b \u4f50\u3005\u6728\u3068\u5bae\u91ce\u30fc\u5352\u696d\u7de8\u30fc",
+  "release_date": "2023-02-17",
+  "status": "Released",
+  "runtime": 50,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

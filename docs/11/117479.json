@@ -1,0 +1,25 @@
+{
+  "id": 117479,
+  "title": "Class Relations",
+  "original_title": "Klassenverh\u00e4ltnisse",
+  "release_date": "1984-02-21",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

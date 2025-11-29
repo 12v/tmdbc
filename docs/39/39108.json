@@ -1,0 +1,33 @@
+{
+  "id": 39108,
+  "title": "Dragon Ball Z: Wrath of the Dragon",
+  "original_title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebZ \u9f8d\u62f3\u7206\u767a!!\u609f\u7a7a\u304c\u3084\u3089\u306d\u3070\u8ab0\u304c\u3084\u308b",
+  "release_date": "1995-07-15",
+  "status": "Released",
+  "runtime": 51,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

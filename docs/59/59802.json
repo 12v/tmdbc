@@ -1,0 +1,25 @@
+{
+  "id": 59802,
+  "title": "Incubus",
+  "original_title": "Incubus",
+  "release_date": "1966-10-26",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "eo",
+  "spoken_languages": [
+    {
+      "english_name": "Esperanto",
+      "iso_639_1": "eo",
+      "name": "Esperanto"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

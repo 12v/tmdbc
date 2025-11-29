@@ -1,0 +1,37 @@
+{
+  "id": 422565,
+  "title": "Psychic Vision: Jaganrei",
+  "original_title": "\u30b5\u30a4\u30ad\u30c3\u30af\u30d3\u30b8\u30e7\u30f3\u3000\u90aa\u9858\u970a",
+  "release_date": "1988-01-21",
+  "status": "Released",
+  "runtime": 49,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 110689,
+  "title": "Chafed Elbows",
+  "original_title": "Chafed Elbows",
+  "release_date": "1966-01-01",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

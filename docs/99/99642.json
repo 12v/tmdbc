@@ -1,0 +1,30 @@
+{
+  "id": 99642,
+  "title": "A New Life",
+  "original_title": "La Vie nouvelle",
+  "release_date": "2002-11-27",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
