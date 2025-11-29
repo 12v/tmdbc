@@ -1,0 +1,37 @@
+{
+  "id": 528594,
+  "title": "Dawn Breaks Behind the Eyes",
+  "original_title": "Dawn Breaks Behind the Eyes",
+  "release_date": "2022-06-24",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

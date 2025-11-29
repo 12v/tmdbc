@@ -1,0 +1,29 @@
+{
+  "id": 21600,
+  "title": "I Wake Up Screaming",
+  "original_title": "I Wake Up Screaming",
+  "release_date": "1941-10-31",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

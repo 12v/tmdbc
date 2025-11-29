@@ -1,0 +1,33 @@
+{
+  "id": 62560,
+  "title": "Dogora",
+  "original_title": "\u5b87\u5b99\u5927\u602a\u7363\u30c9\u30b4\u30e9",
+  "release_date": "1964-08-11",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

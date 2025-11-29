@@ -1,0 +1,33 @@
+{
+  "id": 70555,
+  "title": "The Indian Tomb",
+  "original_title": "Das indische Grabmal",
+  "release_date": "1959-03-05",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

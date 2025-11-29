@@ -1,0 +1,33 @@
+{
+  "id": 32302,
+  "title": "3 Ninjas: High Noon at Mega Mountain",
+  "original_title": "3 Ninjas: High Noon at Mega Mountain",
+  "release_date": "1998-03-26",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

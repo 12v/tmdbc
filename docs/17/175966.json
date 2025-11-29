@@ -1,0 +1,29 @@
+{
+  "id": 175966,
+  "title": "When the Tenth Month Comes",
+  "original_title": "Bao gi\u1edd cho \u0111\u1ebfn th\u00e1ng M\u01b0\u1eddi",
+  "release_date": "1984-04-04",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

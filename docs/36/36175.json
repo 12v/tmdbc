@@ -1,0 +1,25 @@
+{
+  "id": 36175,
+  "title": "Turtles Are Surprisingly Fast Swimmers",
+  "original_title": "\u4e80\u306f\u610f\u5916\u3068\u901f\u304f\u6cf3\u3050",
+  "release_date": "2005-07-02",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

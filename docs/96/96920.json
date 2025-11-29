@@ -1,0 +1,39 @@
+{
+  "id": 96920,
+  "title": "Repentance",
+  "original_title": "\u10db\u10dd\u10dc\u10d0\u10dc\u10d8\u10d4\u10d1\u10d0",
+  "release_date": "1987-05-01",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

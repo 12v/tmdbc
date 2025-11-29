@@ -1,0 +1,26 @@
+{
+  "id": 11313,
+  "title": "Hearts in Atlantis",
+  "original_title": "Hearts in Atlantis",
+  "release_date": "2001-09-28",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

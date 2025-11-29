@@ -1,0 +1,30 @@
+{
+  "id": 567837,
+  "title": "My True Brilliant Friend",
+  "original_title": "My True Brilliant Friend",
+  "release_date": "2018-12-06",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

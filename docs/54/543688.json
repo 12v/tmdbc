@@ -1,0 +1,29 @@
+{
+  "id": 543688,
+  "title": "The Hows of Us",
+  "original_title": "The Hows of Us",
+  "release_date": "2018-08-29",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

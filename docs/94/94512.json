@@ -1,0 +1,25 @@
+{
+  "id": 94512,
+  "title": "All My Life",
+  "original_title": "All My Life",
+  "release_date": "1966-01-01",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

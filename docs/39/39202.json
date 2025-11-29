@@ -1,0 +1,33 @@
+{
+  "id": 39202,
+  "title": "Detective Conan: Crossroad in the Ancient Capital",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u8ff7\u5bae\u306e\u5341\u5b57\u8def",
+  "release_date": "2003-04-19",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

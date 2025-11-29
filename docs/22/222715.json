@@ -1,0 +1,33 @@
+{
+  "id": 222715,
+  "title": "Someone's Gaze",
+  "original_title": "\u3060\u308c\u304b\u306e\u307e\u306a\u3056\u3057",
+  "release_date": "2013-02-08",
+  "status": "Released",
+  "runtime": 7,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

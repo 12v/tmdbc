@@ -1,0 +1,29 @@
+{
+  "id": 456218,
+  "title": "Theeran Adhigaaram Ondru",
+  "original_title": "\u0ba4\u0bc0\u0bb0\u0ba9\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb0\u0bae\u0bcd \u0b92\u0ba9\u0bcd\u0bb1\u0bc1",
+  "release_date": "2017-11-17",
+  "status": "Released",
+  "runtime": 157,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

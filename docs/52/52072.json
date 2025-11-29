@@ -1,0 +1,25 @@
+{
+  "id": 52072,
+  "title": "Clouds of May",
+  "original_title": "May\u0131s S\u0131k\u0131nt\u0131s\u0131",
+  "release_date": "1999-12-10",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

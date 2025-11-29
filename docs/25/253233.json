@@ -1,0 +1,25 @@
+{
+  "id": 253233,
+  "title": "Utopia",
+  "original_title": "Utopia",
+  "release_date": "1983-05-20",
+  "status": "Released",
+  "runtime": 187,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

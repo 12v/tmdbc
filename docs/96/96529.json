@@ -1,0 +1,29 @@
+{
+  "id": 96529,
+  "title": "A Question of Silence",
+  "original_title": "De stilte rond Christine M.",
+  "release_date": "1982-02-18",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

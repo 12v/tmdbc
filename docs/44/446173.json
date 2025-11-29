@@ -1,0 +1,31 @@
+{
+  "id": 446173,
+  "title": "Ex Libris: The New York Public Library",
+  "original_title": "Ex Libris: The New York Public Library",
+  "release_date": "2017-09-13",
+  "status": "Released",
+  "runtime": 205,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "SZ",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

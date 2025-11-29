@@ -1,0 +1,25 @@
+{
+  "id": 572400,
+  "title": "Don't Tell a Soul",
+  "original_title": "Don't Tell a Soul",
+  "release_date": "2020-09-08",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

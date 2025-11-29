@@ -1,0 +1,29 @@
+{
+  "id": 95600,
+  "title": "Chronicle of Anna Magdalena Bach",
+  "original_title": "Chronik der Anna Magdalena Bach",
+  "release_date": "1968-02-03",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

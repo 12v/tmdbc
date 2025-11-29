@@ -1,0 +1,30 @@
+{
+  "id": 12527,
+  "title": "Strawberry and Chocolate",
+  "original_title": "Fresa y chocolate",
+  "release_date": "1993-12-01",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CU",
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

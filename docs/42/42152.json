@@ -1,0 +1,25 @@
+{
+  "id": 42152,
+  "title": "From the Life of the Marionettes",
+  "original_title": "Aus dem Leben der Marionetten",
+  "release_date": "1980-10-08",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

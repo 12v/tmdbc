@@ -1,0 +1,41 @@
+{
+  "id": 24745,
+  "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+  "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+  "release_date": "1982-09-12",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

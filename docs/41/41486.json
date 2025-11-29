@@ -1,0 +1,37 @@
+{
+  "id": 41486,
+  "title": "Lone Wolf and Cub: White Heaven in Hell",
+  "original_title": "\u5b50\u9023\u308c\u72fc \u5730\u7344\u3078\u884c\u304f\u305e!\u5927\u4e94\u90ce",
+  "release_date": "1974-04-24",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

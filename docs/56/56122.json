@@ -1,0 +1,29 @@
+{
+  "id": 56122,
+  "title": "The Gold of Naples",
+  "original_title": "L'oro di Napoli",
+  "release_date": "1954-12-03",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

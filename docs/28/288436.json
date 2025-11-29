@@ -1,0 +1,37 @@
+{
+  "id": 288436,
+  "title": "Necropolis Symphony",
+  "original_title": "Sinfonia da Necr\u00f3pole",
+  "release_date": "2014-11-28",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

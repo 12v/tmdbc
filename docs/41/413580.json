@@ -1,0 +1,25 @@
+{
+  "id": 413580,
+  "title": "Dawson City: Frozen Time",
+  "original_title": "Dawson City: Frozen Time",
+  "release_date": "2017-06-09",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

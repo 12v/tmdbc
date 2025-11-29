@@ -1,0 +1,25 @@
+{
+  "id": 108419,
+  "title": "Empire",
+  "original_title": "Empire",
+  "release_date": "1965-03-06",
+  "status": "Released",
+  "runtime": 479,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 799177,
+  "title": "Bhediya",
+  "original_title": "\u092d\u0947\u0921\u093c\u093f\u092f\u093e",
+  "release_date": "2022-11-25",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

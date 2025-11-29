@@ -1,0 +1,26 @@
+{
+  "id": 853760,
+  "title": "Take and Run",
+  "original_title": "Ala kachuu",
+  "release_date": "2020-08-04",
+  "status": "Released",
+  "runtime": 38,
+  "original_language": "ky",
+  "spoken_languages": [
+    {
+      "english_name": "Kirghiz",
+      "iso_639_1": "ky",
+      "name": "??????"
+    }
+  ],
+  "origin_country": [
+    "KG",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

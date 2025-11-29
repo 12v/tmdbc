@@ -1,0 +1,29 @@
+{
+  "id": 1046183,
+  "title": "I Am Kathalan",
+  "original_title": "I Am \u0d15\u0d3e\u0d24\u0d32\u0d7b",
+  "release_date": "2024-11-07",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

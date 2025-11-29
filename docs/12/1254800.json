@@ -1,0 +1,30 @@
+{
+  "id": 1254800,
+  "title": "The Fence",
+  "original_title": "Le Cri des gardes",
+  "release_date": "2026-04-08",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Yoruba",
+      "iso_639_1": "yo",
+      "name": "\u00c8d\u00e8 Yor\u00f9b\u00e1"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 820696,
+  "title": "Along Came Love",
+  "original_title": "Le temps d\u2019aimer",
+  "release_date": "2023-11-29",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

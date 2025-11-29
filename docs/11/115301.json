@@ -1,0 +1,33 @@
+{
+  "id": 115301,
+  "title": "Enamorada",
+  "original_title": "Enamorada",
+  "release_date": "1946-12-25",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 573699,
+  "title": "White Snake",
+  "original_title": "\u767d\u86c7\uff1a\u7f18\u8d77",
+  "release_date": "2019-01-11",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

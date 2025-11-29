@@ -1,0 +1,29 @@
+{
+  "id": 727414,
+  "title": "Light Light Light",
+  "original_title": "Valoa valoa valoa",
+  "release_date": "2023-10-13",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

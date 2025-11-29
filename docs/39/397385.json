@@ -1,0 +1,25 @@
+{
+  "id": 397385,
+  "title": "Cunk on Shakespeare",
+  "original_title": "Cunk on Shakespeare",
+  "release_date": "2016-05-11",
+  "status": "Released",
+  "runtime": 29,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

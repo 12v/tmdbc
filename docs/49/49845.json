@@ -1,0 +1,29 @@
+{
+  "id": 49845,
+  "title": "Les Dames du bois de Boulogne",
+  "original_title": "Les Dames du bois de Boulogne",
+  "release_date": "1945-09-21",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

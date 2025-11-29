@@ -1,0 +1,29 @@
+{
+  "id": 49032,
+  "title": "Iruvar",
+  "original_title": "\u0b87\u0bb0\u0bc1\u0bb5\u0bb0\u0bcd",
+  "release_date": "1997-01-14",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

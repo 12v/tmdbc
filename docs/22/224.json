@@ -1,0 +1,25 @@
+{
+  "id": 224,
+  "title": "Man of Marble",
+  "original_title": "Cz\u0142owiek z marmuru",
+  "release_date": "1977-02-25",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

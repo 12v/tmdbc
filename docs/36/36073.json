@@ -1,0 +1,25 @@
+{
+  "id": 36073,
+  "title": "Guinea Pig Part 2: Flower of Flesh and Blood",
+  "original_title": "\u30ae\u30cb\u30fc\u30d4\u30c3\u30b02 \u8840\u8089\u306e\u83ef",
+  "release_date": "1985-10-07",
+  "status": "Released",
+  "runtime": 42,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

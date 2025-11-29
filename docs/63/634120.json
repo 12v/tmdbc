@@ -1,0 +1,33 @@
+{
+  "id": 634120,
+  "title": "777 Charlie",
+  "original_title": "777 \u0c9a\u0cbe\u0cb0\u0ccd\u0cb2\u0cbf",
+  "release_date": "2022-06-10",
+  "status": "Released",
+  "runtime": 166,
+  "original_language": "kn",
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

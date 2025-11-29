@@ -1,0 +1,29 @@
+{
+  "id": 49695,
+  "title": "Grass Labyrinth",
+  "original_title": "\u8349\u8ff7\u5bae",
+  "release_date": "1979-11-03",
+  "status": "Released",
+  "runtime": 42,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

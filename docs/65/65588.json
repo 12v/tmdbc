@@ -1,0 +1,25 @@
+{
+  "id": 65588,
+  "title": "Killing Birds",
+  "original_title": "Killing Birds",
+  "release_date": "1988-08-19",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

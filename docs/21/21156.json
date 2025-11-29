@@ -1,0 +1,29 @@
+{
+  "id": 21156,
+  "title": "Lunacy",
+  "original_title": "\u0160\u00edlen\u00ed",
+  "release_date": "2005-11-17",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

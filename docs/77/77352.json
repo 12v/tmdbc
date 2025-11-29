@@ -1,0 +1,42 @@
+{
+  "id": 77352,
+  "title": "Notebook on Cities and Clothes",
+  "original_title": "Aufzeichnungen zu Kleidern und St\u00e4dten",
+  "release_date": "1989-12-20",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "FR",
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

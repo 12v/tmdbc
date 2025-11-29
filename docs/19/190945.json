@@ -1,0 +1,38 @@
+{
+  "id": 190945,
+  "title": "Mumbai Police",
+  "original_title": "\u0d2e\u0d41\u0d02\u0d2c\u0d48 \u0d2a\u0d4b\u0d32\u0d40\u0d38\u0d4d",
+  "release_date": "2013-05-02",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

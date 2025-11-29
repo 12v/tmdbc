@@ -1,0 +1,38 @@
+{
+  "id": 796011,
+  "title": "Sarpatta Parambarai",
+  "original_title": "\u0b9a\u0bbe\u0bb0\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bbe \u0baa\u0bb0\u0bae\u0bcd\u0baa\u0bb0\u0bc8",
+  "release_date": "2021-07-22",
+  "status": "Released",
+  "runtime": 174,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

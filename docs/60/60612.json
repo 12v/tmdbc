@@ -1,0 +1,35 @@
+{
+  "id": 60612,
+  "title": "Le Bal",
+  "original_title": "Le Bal",
+  "release_date": "1983-12-21",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DZ",
+    "IT",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

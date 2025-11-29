@@ -1,0 +1,34 @@
+{
+  "id": 51424,
+  "title": "Tomorrow I'll Wake Up and Scald Myself with Tea",
+  "original_title": "Z\u00edtra vstanu a opa\u0159\u00edm se \u010dajem",
+  "release_date": "1977-08-12",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

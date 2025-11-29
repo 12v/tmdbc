@@ -1,0 +1,34 @@
+{
+  "id": 225,
+  "title": "Man of Iron",
+  "original_title": "Cz\u0142owiek z \u017celaza",
+  "release_date": "1981-07-27",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

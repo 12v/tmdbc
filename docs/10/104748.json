@@ -1,0 +1,33 @@
+{
+  "id": 104748,
+  "title": "The Dybbuk",
+  "original_title": "\u05d3\u05e2\u05e8 \u05d3\u05d9\u05d1\u05d5\u05e7",
+  "release_date": "1937-09-29",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "yi",
+  "spoken_languages": [
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

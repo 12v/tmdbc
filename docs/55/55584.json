@@ -1,0 +1,25 @@
+{
+  "id": 55584,
+  "title": "Asphalt",
+  "original_title": "Asphalt",
+  "release_date": "1929-03-12",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

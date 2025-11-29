@@ -1,0 +1,35 @@
+{
+  "id": 261362,
+  "title": "Flaming Ears",
+  "original_title": "Rote Ohren fetzen durch Asche",
+  "release_date": "1992-06-19",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

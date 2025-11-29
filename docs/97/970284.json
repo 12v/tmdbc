@@ -1,0 +1,25 @@
+{
+  "id": 970284,
+  "title": "Shooting Stars",
+  "original_title": "Shooting Stars",
+  "release_date": "2023-06-02",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

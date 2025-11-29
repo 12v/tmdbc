@@ -1,0 +1,25 @@
+{
+  "id": 592303,
+  "title": "In the Absence",
+  "original_title": "\ubd80\uc7ac\uc758 \uae30\uc5b5",
+  "release_date": "2018-11-09",
+  "status": "Released",
+  "runtime": 29,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

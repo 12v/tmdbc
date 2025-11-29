@@ -1,0 +1,30 @@
+{
+  "id": 42018,
+  "title": "The Horse Thief",
+  "original_title": "\u76d7\u9a6c\u8d3c",
+  "release_date": "1986-01-01",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Tibetan",
+      "iso_639_1": "bo",
+      "name": "\u0f56\u0f7c\u0f51\u0f0b\u0f66\u0f90\u0f51\u0f0b\u0f0d"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

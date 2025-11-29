@@ -1,0 +1,29 @@
+{
+  "id": 42251,
+  "title": "Forbidden World",
+  "original_title": "Forbidden World",
+  "release_date": "1982-05-07",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

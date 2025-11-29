@@ -1,0 +1,25 @@
+{
+  "id": 148822,
+  "title": "The Long Farewell",
+  "original_title": "\u0414\u043e\u043b\u0433\u0438\u0435 \u043f\u0440\u043e\u0432\u043e\u0434\u044b",
+  "release_date": "1987-06-01",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

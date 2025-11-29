@@ -1,0 +1,34 @@
+{
+  "id": 58416,
+  "title": "Take Care of Your Scarf, Tatjana",
+  "original_title": "Pid\u00e4 huivista kiinni, Tatjana",
+  "release_date": "1994-01-14",
+  "status": "Released",
+  "runtime": 62,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

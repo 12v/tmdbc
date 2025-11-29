@@ -1,0 +1,29 @@
+{
+  "id": 116776,
+  "title": "Dragon Ball: Mystical Adventure",
+  "original_title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u9b54\u8a36\u4e0d\u601d\u8b70\u5927\u5192\u967a",
+  "release_date": "1988-07-09",
+  "status": "Released",
+  "runtime": 48,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

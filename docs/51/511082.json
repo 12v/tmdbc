@@ -1,0 +1,37 @@
+{
+  "id": 511082,
+  "title": "Black Butler: Book of Murder",
+  "original_title": "\u9ed2\u57f7\u4e8b Book of Murder",
+  "release_date": "2014-10-25",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

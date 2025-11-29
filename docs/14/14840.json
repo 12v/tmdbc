@@ -1,0 +1,29 @@
+{
+  "id": 14840,
+  "title": "The Shadow Play",
+  "original_title": "G\u00f6lge Oyunu",
+  "release_date": "1992-09-02",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

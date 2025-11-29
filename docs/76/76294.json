@@ -1,0 +1,34 @@
+{
+  "id": 76294,
+  "title": "Raining in the Mountain",
+  "original_title": "\u7a7a\u5c71\u9748\u96e8",
+  "release_date": "1979-07-11",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

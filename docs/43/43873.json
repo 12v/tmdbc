@@ -1,0 +1,29 @@
+{
+  "id": 43873,
+  "title": "C\u00e9sar",
+  "original_title": "C\u00e9sar",
+  "release_date": "1936-01-01",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

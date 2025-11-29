@@ -1,0 +1,25 @@
+{
+  "id": 720026,
+  "title": "Butchers",
+  "original_title": "Butchers",
+  "release_date": "2020-10-15",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

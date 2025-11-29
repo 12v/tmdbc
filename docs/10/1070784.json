@@ -1,0 +1,25 @@
+{
+  "id": 1070784,
+  "title": "Mia",
+  "original_title": "Mia",
+  "release_date": "2023-04-06",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

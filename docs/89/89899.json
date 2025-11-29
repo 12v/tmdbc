@@ -1,0 +1,25 @@
+{
+  "id": 89899,
+  "title": "The Players",
+  "original_title": "Les infid\u00e8les",
+  "release_date": "2012-02-29",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

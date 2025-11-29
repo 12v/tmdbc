@@ -1,0 +1,26 @@
+{
+  "id": 29030,
+  "title": "The Tomb of Ligeia",
+  "original_title": "The Tomb of Ligeia",
+  "release_date": "1964-11-29",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

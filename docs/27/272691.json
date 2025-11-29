@@ -1,0 +1,29 @@
+{
+  "id": 272691,
+  "title": "Sea Fog",
+  "original_title": "\ud574\ubb34",
+  "release_date": "2014-08-13",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

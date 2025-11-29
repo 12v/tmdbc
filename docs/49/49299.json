@@ -1,0 +1,26 @@
+{
+  "id": 49299,
+  "title": "Dangerous Game",
+  "original_title": "Dangerous Game",
+  "release_date": "1993-10-13",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1266321,
+  "title": "Inside the Mind of a Dog",
+  "original_title": "Inside the Mind of a Dog",
+  "release_date": "2024-08-09",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

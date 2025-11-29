@@ -1,0 +1,37 @@
+{
+  "id": 113428,
+  "title": "The Damned House of Hajn",
+  "original_title": "Proklet\u00ed domu Hajn\u016f",
+  "release_date": "1989-09-01",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 171295,
+  "title": "Something Different",
+  "original_title": "O n\u011b\u010dem jin\u00e9m",
+  "release_date": "1963-12-20",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

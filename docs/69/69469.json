@@ -1,0 +1,33 @@
+{
+  "id": 69469,
+  "title": "The Adventure of Denchu-Kozo",
+  "original_title": "\u96fb\u67f1\u5c0f\u50e7\u306e\u5192\u967a",
+  "release_date": "1987-01-01",
+  "status": "Released",
+  "runtime": 47,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

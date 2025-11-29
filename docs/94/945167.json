@@ -1,0 +1,29 @@
+{
+  "id": 945167,
+  "title": "Iratta",
+  "original_title": "\u0d07\u0d30\u0d1f\u0d4d\u0d1f",
+  "release_date": "2023-02-03",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

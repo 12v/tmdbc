@@ -1,0 +1,33 @@
+{
+  "id": 280951,
+  "title": "Madha Gaja Raja",
+  "original_title": "\u0bae\u0ba4 \u0b95\u0b9c \u0bb0\u0bbe\u0b9c\u0bbe",
+  "release_date": "2025-01-12",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

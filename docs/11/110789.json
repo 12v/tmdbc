@@ -1,0 +1,29 @@
+{
+  "id": 110789,
+  "title": "Francisca",
+  "original_title": "Francisca",
+  "release_date": "1981-12-03",
+  "status": "Released",
+  "runtime": 166,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

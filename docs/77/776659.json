@@ -1,0 +1,30 @@
+{
+  "id": 776659,
+  "title": "Brother's Keeper",
+  "original_title": "Okul T\u0131ra\u015f\u0131",
+  "release_date": "2021-08-20",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

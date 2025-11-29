@@ -1,0 +1,29 @@
+{
+  "id": 6007,
+  "title": "Elling",
+  "original_title": "Elling",
+  "release_date": "2001-03-16",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

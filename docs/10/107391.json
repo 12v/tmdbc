@@ -1,0 +1,29 @@
+{
+  "id": 107391,
+  "title": "The Angel",
+  "original_title": "L'Ange",
+  "release_date": "1982-05-25",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

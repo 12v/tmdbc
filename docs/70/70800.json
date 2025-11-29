@@ -1,0 +1,25 @@
+{
+  "id": 70800,
+  "title": "The Outlaw and His Wife",
+  "original_title": "Berg-Ejvind och hans hustru",
+  "release_date": "1918-01-01",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

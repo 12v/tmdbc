@@ -1,0 +1,33 @@
+{
+  "id": 28058,
+  "title": "Hercules in the Haunted World",
+  "original_title": "Ercole al centro della terra",
+  "release_date": "1961-11-16",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

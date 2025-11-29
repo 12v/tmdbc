@@ -1,0 +1,29 @@
+{
+  "id": 95508,
+  "title": "The Warped Ones",
+  "original_title": "\u72c2\u71b1\u306e\u5b63\u7bc0",
+  "release_date": "1960-09-03",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

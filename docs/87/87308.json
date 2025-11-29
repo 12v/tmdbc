@@ -1,0 +1,25 @@
+{
+  "id": 87308,
+  "title": "Shirin",
+  "original_title": "\u0634\u06cc\u0631\u06cc\u0646",
+  "release_date": "2009-04-18",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 298977,
+  "title": "A Visit from the Incubus",
+  "original_title": "A Visit from the Incubus",
+  "release_date": "2001-10-27",
+  "status": "Released",
+  "runtime": 27,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

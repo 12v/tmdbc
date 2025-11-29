@@ -1,0 +1,25 @@
+{
+  "id": 15377,
+  "title": "All the World's Memory",
+  "original_title": "Toute la m\u00e9moire du monde",
+  "release_date": "1956-11-01",
+  "status": "Released",
+  "runtime": 21,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

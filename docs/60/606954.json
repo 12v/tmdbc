@@ -1,0 +1,25 @@
+{
+  "id": 606954,
+  "title": "I Hate Summer",
+  "original_title": "Odio l'estate",
+  "release_date": "2020-01-30",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

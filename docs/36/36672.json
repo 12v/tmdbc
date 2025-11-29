@@ -1,0 +1,29 @@
+{
+  "id": 36672,
+  "title": "Coming Out",
+  "original_title": "Coming Out",
+  "release_date": "1989-11-09",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "XG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

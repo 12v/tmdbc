@@ -1,0 +1,44 @@
+{
+  "id": 21335,
+  "title": "Oh! What a Lovely War",
+  "original_title": "Oh! What a Lovely War",
+  "release_date": "1969-03-10",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

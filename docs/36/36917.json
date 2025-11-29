@@ -1,0 +1,29 @@
+{
+  "id": 36917,
+  "title": "Ju-On: Black Ghost",
+  "original_title": "\u546a\u6028 \u9ed2\u3044\u5c11\u5973",
+  "release_date": "2009-06-27",
+  "status": "Released",
+  "runtime": 61,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

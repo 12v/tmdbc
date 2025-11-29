@@ -1,0 +1,37 @@
+{
+  "id": 52686,
+  "title": "Horus: Prince of the Sun",
+  "original_title": "\u592a\u967d\u306e\u738b\u5b50\u30db\u30eb\u30b9\u306e\u5927\u5192\u967a",
+  "release_date": "1968-07-24",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

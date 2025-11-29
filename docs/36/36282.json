@@ -1,0 +1,37 @@
+{
+  "id": 36282,
+  "title": "Fudoh: The New Generation",
+  "original_title": "\u6975\u9053\u6226\u56fd\u5fd7 \u4e0d\u52d5",
+  "release_date": "1996-10-12",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

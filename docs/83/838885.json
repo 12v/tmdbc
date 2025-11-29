@@ -1,0 +1,25 @@
+{
+  "id": 838885,
+  "title": "My Brothers and I",
+  "original_title": "Mes fr\u00e8res et moi",
+  "release_date": "2022-01-05",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 583315,
+  "title": "Hunter \u00d7 Hunter Pilot",
+  "original_title": "\u30cf\u30f3\u30bf\u30fcx\u30cf\u30f3\u30bf\u30fc",
+  "release_date": "1998-07-26",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

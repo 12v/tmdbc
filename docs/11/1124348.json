@@ -1,0 +1,25 @@
+{
+  "id": 1124348,
+  "title": "Our Secret Diary",
+  "original_title": "\u4ea4\u63db\u30a6\u30bd\u65e5\u8a18",
+  "release_date": "2023-07-07",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1230393,
+  "title": "Monsters 103 Mercies Dragon Damnation",
+  "original_title": "MONSTERS \u4e00\u767e\u4e09\u60c5\u98db\u9f8d\u4f8d\u6975",
+  "release_date": "2024-01-21",
+  "status": "Released",
+  "runtime": 26,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

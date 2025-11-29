@@ -1,0 +1,35 @@
+{
+  "id": 117046,
+  "title": "The White Dove",
+  "original_title": "Holubice",
+  "release_date": "1960-11-04",
+  "status": "Released",
+  "runtime": 67,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

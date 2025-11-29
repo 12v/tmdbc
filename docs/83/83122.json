@@ -1,0 +1,27 @@
+{
+  "id": 83122,
+  "title": "If You Meet Sartana Pray for Your Death",
+  "original_title": "Se incontri Sartana prega per la tua morte",
+  "release_date": "1968-08-14",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "IT",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

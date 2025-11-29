@@ -1,0 +1,25 @@
+{
+  "id": 244517,
+  "title": "God's Pocket",
+  "original_title": "God's Pocket",
+  "release_date": "2014-05-09",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

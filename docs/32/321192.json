@@ -1,0 +1,25 @@
+{
+  "id": 321192,
+  "title": "Seven Weeks",
+  "original_title": "\u91ce\u306e\u306a\u306a\u306a\u306e\u304b",
+  "release_date": "2014-05-17",
+  "status": "Released",
+  "runtime": 171,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 91756,
+  "title": "Yokai Monsters: 100 Monsters",
+  "original_title": "\u5996\u602a\u767e\u7269\u8a9e",
+  "release_date": "1968-03-20",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

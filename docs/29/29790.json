@@ -1,0 +1,25 @@
+{
+  "id": 29790,
+  "title": "The Rape of the Vampire",
+  "original_title": "Le Viol du vampire",
+  "release_date": "1968-05-27",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

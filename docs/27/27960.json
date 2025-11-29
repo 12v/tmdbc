@@ -1,0 +1,35 @@
+{
+  "id": 27960,
+  "title": "I Saw the Sun",
+  "original_title": "G\u00fcne\u015fi G\u00f6rd\u00fcm",
+  "release_date": "2009-03-13",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

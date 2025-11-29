@@ -1,0 +1,25 @@
+{
+  "id": 800728,
+  "title": "Ginny & Georgia - The Afterparty",
+  "original_title": "Ginny & Georgia - The Afterparty",
+  "release_date": "2021-02-26",
+  "status": "Released",
+  "runtime": 35,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}
