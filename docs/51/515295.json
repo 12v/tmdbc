@@ -1,0 +1,29 @@
+{
+  "id": 515295,
+  "title": "Kase-san and Morning Glories",
+  "original_title": "\u3042\u3055\u304c\u304a\u3068\u52a0\u702c\u3055\u3093\u3002",
+  "release_date": "2018-06-09",
+  "status": "Released",
+  "runtime": 58,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

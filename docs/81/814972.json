@@ -1,0 +1,29 @@
+{
+  "id": 814972,
+  "title": "Perfect Strangers",
+  "original_title": "Perfect Strangers",
+  "release_date": "2022-10-20",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

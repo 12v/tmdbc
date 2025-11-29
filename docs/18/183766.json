@@ -1,0 +1,29 @@
+{
+  "id": 183766,
+  "title": "Tarantino's Mind",
+  "original_title": "O C\u00f3digo Tarantino",
+  "release_date": "2006-01-04",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

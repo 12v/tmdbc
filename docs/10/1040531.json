@@ -1,0 +1,25 @@
+{
+  "id": 1040531,
+  "title": "The Tangalanga Method",
+  "original_title": "El m\u00e9todo Tangalanga",
+  "release_date": "2023-01-19",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

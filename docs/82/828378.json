@@ -1,0 +1,33 @@
+{
+  "id": 828378,
+  "title": "Pada",
+  "original_title": "\u0d2a\u0d1f",
+  "release_date": "2022-03-11",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 46733,
+  "title": "\u00c7ok Filim Hareketler Bunlar",
+  "original_title": "\u00c7ok Filim Hareketler Bunlar",
+  "release_date": "2010-03-26",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

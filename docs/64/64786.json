@@ -1,0 +1,34 @@
+{
+  "id": 64786,
+  "title": "Yes or No",
+  "original_title": "Yes or No \u0e2d\u0e22\u0e32\u0e01\u0e23\u0e31\u0e01 \u0e01\u0e47\u0e23\u0e31\u0e01\u0e40\u0e25\u0e22",
+  "release_date": "2010-12-16",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 44909,
+  "title": "Ghoulies III: Ghoulies Go to College",
+  "original_title": "Ghoulies III: Ghoulies Go to College",
+  "release_date": "1990-08-15",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

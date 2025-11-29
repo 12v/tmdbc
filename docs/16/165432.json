@@ -1,0 +1,37 @@
+{
+  "id": 165432,
+  "title": "The Elephant God",
+  "original_title": "\u099c\u09af\u09bc \u09ac\u09be\u09ac\u09be \u09ab\u09c7\u09b2\u09c1\u09a8\u09be\u09a5",
+  "release_date": "1979-01-04",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

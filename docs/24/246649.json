@@ -1,0 +1,25 @@
+{
+  "id": 246649,
+  "title": "Simone Barb\u00e8s or Virtue",
+  "original_title": "Simone Barb\u00e8s ou La Vertu",
+  "release_date": "1980-02-27",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

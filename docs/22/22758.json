@@ -1,0 +1,25 @@
+{
+  "id": 22758,
+  "title": "Bloody Pit of Horror",
+  "original_title": "Il boia scarlatto",
+  "release_date": "1965-11-28",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1288748,
+  "title": "Cactus Pears",
+  "original_title": "\u0938\u093e\u092c\u0930 \u092c\u094b\u0902\u0921\u0902",
+  "release_date": "2025-09-19",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "mr",
+  "spoken_languages": [
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

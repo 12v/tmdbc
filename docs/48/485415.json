@@ -1,0 +1,29 @@
+{
+  "id": 485415,
+  "title": "Day of the Dead: Bloodline",
+  "original_title": "Day of the Dead: Bloodline",
+  "release_date": "2017-12-29",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

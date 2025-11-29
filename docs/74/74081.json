@@ -1,0 +1,29 @@
+{
+  "id": 74081,
+  "title": "Devil Story",
+  "original_title": "Il \u00e9tait une fois le Diable",
+  "release_date": "1986-11-26",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

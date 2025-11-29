@@ -1,0 +1,30 @@
+{
+  "id": 1051933,
+  "title": "The Exiles",
+  "original_title": "Eksil",
+  "release_date": "2024-02-01",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

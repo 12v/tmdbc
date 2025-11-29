@@ -1,0 +1,34 @@
+{
+  "id": 533237,
+  "title": "Karwaan",
+  "original_title": "\u0915\u093e\u0930\u0935\u093e\u0901",
+  "release_date": "2018-08-03",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

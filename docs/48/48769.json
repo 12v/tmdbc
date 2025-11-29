@@ -1,0 +1,29 @@
+{
+  "id": 48769,
+  "title": "Gramps Is in the Resistance",
+  "original_title": "Papy fait de la r\u00e9sistance",
+  "release_date": "1983-10-26",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

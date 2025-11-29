@@ -1,0 +1,29 @@
+{
+  "id": 54690,
+  "title": "Virgin Stripped Bare by Her Bachelors",
+  "original_title": "\uc624! \uc218\uc815",
+  "release_date": "2000-05-27",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

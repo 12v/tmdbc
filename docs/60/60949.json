@@ -1,0 +1,37 @@
+{
+  "id": 60949,
+  "title": "Toys in the Attic",
+  "original_title": "Na p\u016fd\u011b aneb Kdo m\u00e1 dneska narozeniny?",
+  "release_date": "2009-03-05",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

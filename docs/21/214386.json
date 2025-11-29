@@ -1,0 +1,25 @@
+{
+  "id": 214386,
+  "title": "In Search of Famine",
+  "original_title": "\u0986\u0995\u09be\u09b2\u09c7\u09b0 \u09b8\u09a8\u09cd\u09a7\u09be\u09a8\u09c7",
+  "release_date": "1981-01-04",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

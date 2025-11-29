@@ -1,0 +1,29 @@
+{
+  "id": 1513656,
+  "title": "Su from So",
+  "original_title": "\u0cb8\u0cc1 \u0cab\u0ccd\u0cb0\u0cae\u0ccd \u0cb8\u0cca",
+  "release_date": "2025-07-25",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "kn",
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

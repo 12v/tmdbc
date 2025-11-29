@@ -1,0 +1,33 @@
+{
+  "id": 42499,
+  "title": "The Night Evelyn Came Out of the Grave",
+  "original_title": "La notte che Evelyn usc\u00ec dalla tomba",
+  "release_date": "1971-08-18",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

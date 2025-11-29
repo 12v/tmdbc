@@ -1,0 +1,27 @@
+{
+  "id": 837745,
+  "title": "Small Body",
+  "original_title": "Piccolo corpo",
+  "release_date": "2022-02-16",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IT",
+    "SI"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

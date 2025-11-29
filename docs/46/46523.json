@@ -1,0 +1,29 @@
+{
+  "id": 46523,
+  "title": "New Kids Turbo",
+  "original_title": "New Kids Turbo",
+  "release_date": "2010-12-09",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

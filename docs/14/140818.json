@@ -1,0 +1,29 @@
+{
+  "id": 140818,
+  "title": "Ragnarok",
+  "original_title": "G\u00e5ten Ragnarok",
+  "release_date": "2013-10-04",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

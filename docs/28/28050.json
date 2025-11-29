@@ -1,0 +1,29 @@
+{
+  "id": 28050,
+  "title": "Hatchet for the Honeymoon",
+  "original_title": "Il rosso segno della follia",
+  "release_date": "1970-06-02",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

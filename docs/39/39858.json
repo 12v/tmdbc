@@ -1,0 +1,29 @@
+{
+  "id": 39858,
+  "title": "Entrails of a Beautiful Woman",
+  "original_title": "\u7f8e\u5973\u306e\u306f\u3089\u308f\u305f",
+  "release_date": "1986-09-23",
+  "status": "Released",
+  "runtime": 68,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

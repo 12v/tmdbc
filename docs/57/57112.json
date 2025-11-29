@@ -1,0 +1,25 @@
+{
+  "id": 57112,
+  "title": "Have You Met Claudia?",
+  "original_title": "Tu la conosci Claudia?",
+  "release_date": "2004-12-15",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 85844,
+  "title": "Women of the Night",
+  "original_title": "\u591c\u306e\u5973\u305f\u3061",
+  "release_date": "1948-05-26",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

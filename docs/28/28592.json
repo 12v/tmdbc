@@ -1,0 +1,26 @@
+{
+  "id": 28592,
+  "title": "The Castle of the Living Dead",
+  "original_title": "Il castello dei morti vivi",
+  "release_date": "1964-08-05",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

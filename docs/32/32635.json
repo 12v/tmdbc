@@ -1,0 +1,27 @@
+{
+  "id": 32635,
+  "title": "A Place in the World",
+  "original_title": "Un lugar en el mundo",
+  "release_date": "1992-04-09",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "UY",
+    "ES",
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

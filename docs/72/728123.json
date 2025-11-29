@@ -1,0 +1,30 @@
+{
+  "id": 728123,
+  "title": "I Am Greta",
+  "original_title": "Greta",
+  "release_date": "2020-10-16",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

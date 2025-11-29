@@ -1,0 +1,25 @@
+{
+  "id": 52188,
+  "title": "The Waiting Room",
+  "original_title": "Bekleme Odas\u0131",
+  "release_date": "2004-02-27",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

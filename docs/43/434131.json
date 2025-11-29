@@ -1,0 +1,29 @@
+{
+  "id": 434131,
+  "title": "Lover for a Day",
+  "original_title": "L'Amant d'un jour",
+  "release_date": "2017-05-31",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

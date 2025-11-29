@@ -1,0 +1,31 @@
+{
+  "id": 653594,
+  "title": "I Carry You with Me",
+  "original_title": "Te llevo conmigo",
+  "release_date": "2021-06-25",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

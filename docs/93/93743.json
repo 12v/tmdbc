@@ -1,0 +1,29 @@
+{
+  "id": 93743,
+  "title": "Happiness",
+  "original_title": "\u0421\u0447\u0430\u0441\u0442\u044c\u0435",
+  "release_date": "1935-03-15",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 702621,
+  "title": "Lullaby",
+  "original_title": "Lullaby",
+  "release_date": "2022-12-16",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

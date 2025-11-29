@@ -1,0 +1,30 @@
+{
+  "id": 489982,
+  "title": "And Breathe Normally",
+  "original_title": "Andi\u00f0 e\u00f0lilega",
+  "release_date": "2018-08-17",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "IS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

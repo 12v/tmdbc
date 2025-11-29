@@ -1,0 +1,29 @@
+{
+  "id": 195807,
+  "title": "Coming Out",
+  "original_title": "\ucee4\ubc0d \uc544\uc6c3",
+  "release_date": "2001-07-29",
+  "status": "Released",
+  "runtime": 45,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

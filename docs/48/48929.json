@@ -1,0 +1,33 @@
+{
+  "id": 48929,
+  "title": "Shree 420",
+  "original_title": "\u0936\u094d\u0930\u0940 \u096a\u0968\u0966",
+  "release_date": "1955-09-06",
+  "status": "Released",
+  "runtime": 168,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

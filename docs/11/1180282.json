@@ -1,0 +1,25 @@
+{
+  "id": 1180282,
+  "title": "Shake, Rattle & Roll Extreme",
+  "original_title": "Shake, Rattle & Roll Extreme",
+  "release_date": "2023-11-29",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

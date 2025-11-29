@@ -1,0 +1,36 @@
+{
+  "id": 584242,
+  "title": "Wet Season",
+  "original_title": "\u70ed\u5e26\u96e8",
+  "release_date": "2019-11-22",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "SG",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

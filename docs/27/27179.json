@@ -1,0 +1,29 @@
+{
+  "id": 27179,
+  "title": "It! The Terror from Beyond Space",
+  "original_title": "It! The Terror from Beyond Space",
+  "release_date": "1958-07-31",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 550293,
+  "title": "To Kill a Child",
+  "original_title": "Att d\u00f6da ett barn",
+  "release_date": "1953-08-27",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

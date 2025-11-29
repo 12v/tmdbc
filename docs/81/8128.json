@@ -1,0 +1,29 @@
+{
+  "id": 8128,
+  "title": "The Sorcerer's Apprentice",
+  "original_title": "\u010carod\u011bj\u016fv u\u010de\u0148",
+  "release_date": "1978-03-01",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

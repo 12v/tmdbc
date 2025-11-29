@@ -1,0 +1,33 @@
+{
+  "id": 410481,
+  "title": "Thupparivaalan",
+  "original_title": "\u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bb1\u0bbf\u0bb5\u0bbe\u0bb3\u0ba9\u0bcd",
+  "release_date": "2017-09-14",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

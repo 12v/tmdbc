@@ -1,0 +1,25 @@
+{
+  "id": 284526,
+  "title": "Interview",
+  "original_title": "\u0987\u09a8\u09cd\u099f\u09be\u09b0\u09ad\u09bf\u0989",
+  "release_date": "1971-11-13",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

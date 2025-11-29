@@ -1,0 +1,29 @@
+{
+  "id": 9025,
+  "title": "Dog Days",
+  "original_title": "Hundstage",
+  "release_date": "2001-09-03",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 629500,
+  "title": "You've Got Murder",
+  "original_title": "Cinayet S\u00fcs\u00fc",
+  "release_date": "2019-10-25",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

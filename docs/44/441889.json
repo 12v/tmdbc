@@ -1,0 +1,29 @@
+{
+  "id": 441889,
+  "title": "Secret Superstar",
+  "original_title": "\u0938\u0940\u0915\u094d\u0930\u0947\u091f \u0938\u0941\u092a\u0930\u0938\u094d\u091f\u093e\u0930",
+  "release_date": "2017-10-19",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

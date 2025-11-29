@@ -1,0 +1,29 @@
+{
+  "id": 8690,
+  "title": "Eaten Alive!",
+  "original_title": "Mangiati vivi!",
+  "release_date": "1980-03-19",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

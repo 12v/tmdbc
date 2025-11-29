@@ -1,0 +1,29 @@
+{
+  "id": 54464,
+  "title": "Fianc\u00e9s on the Bridge",
+  "original_title": "Les fianc\u00e9s du pont Mac Donald ou (M\u00e9fiez-vous des lunettes noires)",
+  "release_date": "1962-04-11",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

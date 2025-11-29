@@ -1,0 +1,25 @@
+{
+  "id": 48000,
+  "title": "M\u00e9nilmontant",
+  "original_title": "M\u00e9nilmontant",
+  "release_date": "1926-01-02",
+  "status": "Released",
+  "runtime": 38,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

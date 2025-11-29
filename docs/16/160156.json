@@ -1,0 +1,27 @@
+{
+  "id": 160156,
+  "title": "Harmony Lessons",
+  "original_title": "\u0423\u0440\u043e\u043a\u0438 \u0433\u0430\u0440\u043c\u043e\u043d\u0438\u0438",
+  "release_date": "2013-02-06",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "kk",
+  "spoken_languages": [
+    {
+      "english_name": "Kazakh",
+      "iso_639_1": "kk",
+      "name": "\u049b\u0430\u0437\u0430\u049b"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "DE",
+    "KZ"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

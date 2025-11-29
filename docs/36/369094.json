@@ -1,0 +1,37 @@
+{
+  "id": 369094,
+  "title": "Iraivi",
+  "original_title": "\u0b87\u0bb1\u0bc8\u0bb5\u0bbf",
+  "release_date": "2016-06-03",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

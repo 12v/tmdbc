@@ -1,0 +1,25 @@
+{
+  "id": 119332,
+  "title": "I Am Keiko",
+  "original_title": "\u6842\u5b50\u3067\u3059\u3051\u3069",
+  "release_date": "1997-11-12",
+  "status": "Released",
+  "runtime": 61,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

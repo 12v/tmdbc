@@ -1,0 +1,37 @@
+{
+  "id": 47292,
+  "title": "Pok\u00e9mon: Giratina and the Sky Warrior",
+  "original_title": "\u5287\u5834\u7248\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9&\u30d1\u30fc\u30eb \u30ae\u30e9\u30c6\u30a3\u30ca\u3068\u6c37\u7a7a\uff08\u305d\u3089\uff09\u306e\u82b1\u675f \u30b7\u30a7\u30a4\u30df",
+  "release_date": "2008-07-19",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

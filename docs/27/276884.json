@@ -1,0 +1,34 @@
+{
+  "id": 276884,
+  "title": "In the Absence of the Sun",
+  "original_title": "Selamat Pagi, Malam",
+  "release_date": "2014-06-19",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

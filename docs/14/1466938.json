@@ -1,0 +1,29 @@
+{
+  "id": 1466938,
+  "title": "A Deadly American Marriage",
+  "original_title": "A Deadly American Marriage",
+  "release_date": "2025-05-09",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

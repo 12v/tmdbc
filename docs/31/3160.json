@@ -1,0 +1,39 @@
+{
+  "id": 3160,
+  "title": "Frankenstein Conquers the World",
+  "original_title": "\u30d5\u30e9\u30f3\u30b1\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3\u5bfe\u5730\u5e95\u602a\u7363",
+  "release_date": "1965-08-08",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

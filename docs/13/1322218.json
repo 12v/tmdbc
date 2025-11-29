@@ -1,0 +1,33 @@
+{
+  "id": 1322218,
+  "title": "Mononoke the Movie: Chapter II - The Ashes of Rage",
+  "original_title": "\u5287\u5834\u7248\u30e2\u30ce\u30ce\u602a \u7b2c\u4e8c\u7ae0 \u706b\u9f20",
+  "release_date": "2025-03-14",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

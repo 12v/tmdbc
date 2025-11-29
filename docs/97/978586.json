@@ -1,0 +1,30 @@
+{
+  "id": 978586,
+  "title": "Shayda",
+  "original_title": "Shayda",
+  "release_date": "2023-09-28",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

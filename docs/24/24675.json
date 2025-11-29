@@ -1,0 +1,23 @@
+{
+  "id": 24675,
+  "title": "Beyond",
+  "original_title": "Beyond",
+  "release_date": "2003-06-03",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 64992,
+  "title": "Human Lanterns",
+  "original_title": "\u4eba\u76ae\u71c8\u7c60",
+  "release_date": "1982-07-14",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

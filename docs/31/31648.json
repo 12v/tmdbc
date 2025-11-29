@@ -1,0 +1,29 @@
+{
+  "id": 31648,
+  "title": "12 Chairs",
+  "original_title": "12 \u0441\u0442\u0443\u043b\u044c\u0435\u0432",
+  "release_date": "1971-06-21",
+  "status": "Released",
+  "runtime": 161,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1294083,
+  "title": "Doctor Who: The Legend of Ruby Sunday & Empire of Death",
+  "original_title": "Doctor Who: The Legend of Ruby Sunday & Empire of Death",
+  "release_date": "2024-06-21",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

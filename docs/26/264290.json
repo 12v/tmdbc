@@ -1,0 +1,25 @@
+{
+  "id": 264290,
+  "title": "You've Got Beautiful Stairs, You Know...",
+  "original_title": "T'as de beaux escaliers, tu sais...",
+  "release_date": "1986-08-27",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

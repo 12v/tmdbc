@@ -1,0 +1,29 @@
+{
+  "id": 127449,
+  "title": "The Truce",
+  "original_title": "La tregua",
+  "release_date": "1974-08-01",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

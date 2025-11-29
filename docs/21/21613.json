@@ -1,0 +1,33 @@
+{
+  "id": 21613,
+  "title": "Street Mobster",
+  "original_title": "\u73fe\u4ee3\u3084\u304f\u3056 \u4eba\u65ac\u308a\u4e0e\u592a",
+  "release_date": "1972-05-06",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

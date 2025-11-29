@@ -1,0 +1,38 @@
+{
+  "id": 663558,
+  "title": "New Gods: Nezha Reborn",
+  "original_title": "\u65b0\u795e\u699c\uff1a\u54ea\u5412\u91cd\u751f",
+  "release_date": "2021-02-06",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

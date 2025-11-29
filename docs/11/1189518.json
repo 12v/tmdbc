@@ -1,0 +1,29 @@
+{
+  "id": 1189518,
+  "title": "Vaazha",
+  "original_title": "\u0d35\u0d3e\u0d34",
+  "release_date": "2024-08-15",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

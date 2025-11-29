@@ -1,0 +1,29 @@
+{
+  "id": 1081004,
+  "title": "The Brave and the Bold",
+  "original_title": "The Brave and the Bold",
+  "release_date": "",
+  "status": "Rumored",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

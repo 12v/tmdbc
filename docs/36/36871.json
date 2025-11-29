@@ -1,0 +1,25 @@
+{
+  "id": 36871,
+  "title": "Late Chrysanthemums",
+  "original_title": "\u6669\u83ca",
+  "release_date": "1954-06-15",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

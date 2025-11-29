@@ -1,0 +1,29 @@
+{
+  "id": 643058,
+  "title": "Aggretsuko: We Wish You a Metal Christmas",
+  "original_title": "\u30a2\u30b0\u30ec\u30c3\u30b7\u30d6\u70c8\u5b50: We Wish You a Metal Christmas",
+  "release_date": "2018-12-20",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

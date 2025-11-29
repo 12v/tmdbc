@@ -1,0 +1,33 @@
+{
+  "id": 94803,
+  "title": "Variety",
+  "original_title": "Variet\u00e9",
+  "release_date": "1925-11-16",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

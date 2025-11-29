@@ -1,0 +1,31 @@
+{
+  "id": 18888,
+  "title": "Meat Love",
+  "original_title": "Zamilovan\u00e9 maso",
+  "release_date": "1989-01-01",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

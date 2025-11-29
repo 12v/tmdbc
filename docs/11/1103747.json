@@ -1,0 +1,28 @@
+{
+  "id": 1103747,
+  "title": "Our Wildest Days",
+  "original_title": "\u039f\u03b9 \u03ac\u03b3\u03c1\u03b9\u03b5\u03c2 \u03bc\u03ad\u03c1\u03b5\u03c2 \u03bc\u03b1\u03c2",
+  "release_date": "2025-06-12",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR",
+    "GR",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

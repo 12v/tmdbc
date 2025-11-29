@@ -1,0 +1,29 @@
+{
+  "id": 43615,
+  "title": "Lula, the Son of Brazil",
+  "original_title": "Lula, o Filho do Brasil",
+  "release_date": "2010-01-01",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

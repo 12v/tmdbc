@@ -1,0 +1,33 @@
+{
+  "id": 356296,
+  "title": "Suburra",
+  "original_title": "Suburra",
+  "release_date": "2015-10-14",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

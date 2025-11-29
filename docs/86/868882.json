@@ -1,0 +1,29 @@
+{
+  "id": 868882,
+  "title": "Jan-e-Man",
+  "original_title": "\u0d1c\u0d3e\u0d7b-\u0d0e-\u0d2e\u0d7b",
+  "release_date": "2021-11-19",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

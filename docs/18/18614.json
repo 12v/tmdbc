@@ -1,0 +1,29 @@
+{
+  "id": 18614,
+  "title": "Interrogation",
+  "original_title": "Przes\u0142uchanie",
+  "release_date": "1989-12-13",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

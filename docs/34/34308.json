@@ -1,0 +1,26 @@
+{
+  "id": 34308,
+  "title": "Modigliani",
+  "original_title": "Modigliani",
+  "release_date": "2004-05-18",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 10411,
+  "title": "The Distinguished Gentleman",
+  "original_title": "The Distinguished Gentleman",
+  "release_date": "1992-12-04",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

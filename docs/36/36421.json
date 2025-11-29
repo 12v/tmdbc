@@ -1,0 +1,26 @@
+{
+  "id": 36421,
+  "title": "Howling VI: The Freaks",
+  "original_title": "Howling VI: The Freaks",
+  "release_date": "1991-04-18",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

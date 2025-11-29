@@ -1,0 +1,25 @@
+{
+  "id": 774600,
+  "title": "Za\u00ef Za\u00ef Za\u00ef Za\u00ef",
+  "original_title": "Za\u00ef Za\u00ef Za\u00ef Za\u00ef",
+  "release_date": "2022-02-23",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

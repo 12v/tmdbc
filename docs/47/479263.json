@@ -1,0 +1,29 @@
+{
+  "id": 479263,
+  "title": "Patton Oswalt: Annihilation",
+  "original_title": "Patton Oswalt: Annihilation",
+  "release_date": "2017-10-17",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

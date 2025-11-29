@@ -1,0 +1,33 @@
+{
+  "id": 439399,
+  "title": "The Tree and the Cat",
+  "original_title": "\u0414\u0435\u0440\u0435\u0432\u043e \u0456 \u043a\u0456\u0448\u043a\u0430",
+  "release_date": "1983-02-04",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "uk",
+  "spoken_languages": [
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

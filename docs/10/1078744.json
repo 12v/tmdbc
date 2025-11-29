@@ -1,0 +1,31 @@
+{
+  "id": 1078744,
+  "title": "Escape",
+  "original_title": "Escape",
+  "release_date": "2024-10-31",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "ES",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

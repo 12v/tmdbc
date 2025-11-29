@@ -1,0 +1,29 @@
+{
+  "id": 569912,
+  "title": "Aamis",
+  "original_title": "Aamis",
+  "release_date": "2019-10-20",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "as",
+  "spoken_languages": [
+    {
+      "english_name": "Assamese",
+      "iso_639_1": "as",
+      "name": "\u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

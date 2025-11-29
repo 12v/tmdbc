@@ -1,0 +1,25 @@
+{
+  "id": 937161,
+  "title": "The New Boy",
+  "original_title": "The New Boy",
+  "release_date": "2023-07-06",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 330756,
+  "title": "My Dreams, My Love, and You",
+  "original_title": "Hayallerim, A\u015fk\u0131m ve Sen",
+  "release_date": "1987-11-01",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

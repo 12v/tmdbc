@@ -1,0 +1,25 @@
+{
+  "id": 1037603,
+  "title": "DIVE",
+  "original_title": "La ca\u00edda",
+  "release_date": "2022-10-24",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

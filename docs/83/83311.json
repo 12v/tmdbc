@@ -1,0 +1,29 @@
+{
+  "id": 83311,
+  "title": "The Burning Hell",
+  "original_title": "The Burning Hell",
+  "release_date": "1974-01-01",
+  "status": "Released",
+  "runtime": 58,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

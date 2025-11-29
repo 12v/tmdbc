@@ -1,0 +1,47 @@
+{
+  "id": 643534,
+  "title": "Good Newwz",
+  "original_title": "\u0917\u0941\u0921 \u0928\u094d\u092f\u0942\u095b",
+  "release_date": "2019-12-27",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Punjabi",
+      "iso_639_1": "pa",
+      "name": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 566235,
+  "title": "Toni Morrison: The Pieces I Am",
+  "original_title": "Toni Morrison: The Pieces I Am",
+  "release_date": "2019-06-21",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

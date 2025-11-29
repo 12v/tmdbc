@@ -1,0 +1,29 @@
+{
+  "id": 27103,
+  "title": "My Life in Pink",
+  "original_title": "Ma vie en rose",
+  "release_date": "1997-05-28",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

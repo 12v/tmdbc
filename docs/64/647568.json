@@ -1,0 +1,30 @@
+{
+  "id": 647568,
+  "title": "Playback",
+  "original_title": "Playback: Ensayo de una despedida",
+  "release_date": "2019-10-11",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

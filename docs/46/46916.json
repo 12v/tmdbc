@@ -1,0 +1,29 @@
+{
+  "id": 46916,
+  "title": "Samurai Spy",
+  "original_title": "\u7570\u805e\u733f\u98db\u4f50\u52a9",
+  "release_date": "1965-07-10",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

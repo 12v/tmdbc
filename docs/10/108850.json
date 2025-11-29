@@ -1,0 +1,30 @@
+{
+  "id": 108850,
+  "title": "The Little Girl Who Sold the Sun",
+  "original_title": "La petite vendeuse de soleil",
+  "release_date": "1999-10-06",
+  "status": "Released",
+  "runtime": 45,
+  "original_language": "wo",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Wolof",
+      "iso_639_1": "wo",
+      "name": "Wolof"
+    }
+  ],
+  "origin_country": [
+    "SN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

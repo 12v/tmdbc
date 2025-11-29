@@ -1,0 +1,25 @@
+{
+  "id": 1012992,
+  "title": "The Cook",
+  "original_title": "The Cook",
+  "release_date": "2022-12-28",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

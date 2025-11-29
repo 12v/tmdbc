@@ -1,0 +1,29 @@
+{
+  "id": 46990,
+  "title": "Gerald McBoing-Boing",
+  "original_title": "Gerald McBoing-Boing",
+  "release_date": "1950-11-02",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

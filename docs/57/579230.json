@@ -1,0 +1,29 @@
+{
+  "id": 579230,
+  "title": "Bala",
+  "original_title": "\u092c\u093e\u0932\u093e",
+  "release_date": "2019-11-07",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

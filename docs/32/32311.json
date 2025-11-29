@@ -1,0 +1,25 @@
+{
+  "id": 32311,
+  "title": "The Class of Chaos 3,5",
+  "original_title": "Hababam S\u0131n\u0131f\u0131 3,5",
+  "release_date": "2006-01-06",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

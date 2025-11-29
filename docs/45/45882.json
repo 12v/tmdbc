@@ -1,0 +1,32 @@
+{
+  "id": 45882,
+  "title": "Bab'Aziz",
+  "original_title": "\u0628\u0627\u0628\u0627 \u0639\u0632\u06cc\u0632",
+  "release_date": "2006-11-15",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "IR",
+    "GB",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

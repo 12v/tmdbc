@@ -1,0 +1,25 @@
+{
+  "id": 31646,
+  "title": "Piranha II: The Spawning",
+  "original_title": "Piranha II: The Spawning",
+  "release_date": "1982-07-13",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

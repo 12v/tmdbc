@@ -1,0 +1,38 @@
+{
+  "id": 680314,
+  "title": "Four Souls of Coyote",
+  "original_title": "Kojot n\u00e9gy lelke",
+  "release_date": "2023-03-16",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

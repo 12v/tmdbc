@@ -1,0 +1,25 @@
+{
+  "id": 475756,
+  "title": "The Seamstress",
+  "original_title": "Entre Irm\u00e3s",
+  "release_date": "2017-10-12",
+  "status": "Released",
+  "runtime": 166,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

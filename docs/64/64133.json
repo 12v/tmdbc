@@ -1,0 +1,29 @@
+{
+  "id": 64133,
+  "title": "The Lorry",
+  "original_title": "Le Camion",
+  "release_date": "1977-05-27",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

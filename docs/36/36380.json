@@ -1,0 +1,29 @@
+{
+  "id": 36380,
+  "title": "Boys Don't Cry",
+  "original_title": "Ch\u0142opaki nie p\u0142acz\u0105",
+  "release_date": "2000-02-25",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

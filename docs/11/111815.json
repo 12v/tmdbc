@@ -1,0 +1,25 @@
+{
+  "id": 111815,
+  "title": "Mr. & Mrs. Bridge",
+  "original_title": "Mr. & Mrs. Bridge",
+  "release_date": "1990-11-23",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

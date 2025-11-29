@@ -1,0 +1,47 @@
+{
+  "id": 51300,
+  "title": "The Barber of Siberia",
+  "original_title": "\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0446\u0438\u0440\u044e\u043b\u044c\u043d\u0438\u043a",
+  "release_date": "1998-11-11",
+  "status": "Released",
+  "runtime": 180,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

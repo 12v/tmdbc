@@ -1,0 +1,34 @@
+{
+  "id": 779029,
+  "title": "The Battle at Lake Changjin",
+  "original_title": "\u957f\u6d25\u6e56",
+  "release_date": "2021-09-30",
+  "status": "Released",
+  "runtime": 178,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

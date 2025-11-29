@@ -1,0 +1,25 @@
+{
+  "id": 456616,
+  "title": "How to Be Really Bad",
+  "original_title": "Meine teuflisch gute Freundin",
+  "release_date": "2018-06-28",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

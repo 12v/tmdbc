@@ -1,0 +1,26 @@
+{
+  "id": 42237,
+  "title": "Jonah Who Will Be 25 in the Year 2000",
+  "original_title": "Jonas qui aura 25 ans en l'an 2000",
+  "release_date": "1976-12-01",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

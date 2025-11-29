@@ -1,0 +1,29 @@
+{
+  "id": 1199974,
+  "title": "P\u00e1rvulos: Children of the Apocalypse",
+  "original_title": "P\u00e1rvulos: Hijos del Apocalipsis",
+  "release_date": "2024-10-18",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

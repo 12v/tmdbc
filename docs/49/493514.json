@@ -1,0 +1,26 @@
+{
+  "id": 493514,
+  "title": "Youth (Spring)",
+  "original_title": "\u9752\u6625\uff08\u6625\uff09",
+  "release_date": "2023-11-10",
+  "status": "Released",
+  "runtime": 212,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

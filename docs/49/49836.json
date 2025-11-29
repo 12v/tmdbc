@@ -1,0 +1,25 @@
+{
+  "id": 49836,
+  "title": "Taris",
+  "original_title": "Taris, roi de l'eau",
+  "release_date": "1931-01-01",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

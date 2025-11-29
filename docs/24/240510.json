@@ -1,0 +1,25 @@
+{
+  "id": 240510,
+  "title": "Stromberg \u2013 The Movie",
+  "original_title": "Stromberg - Der Film",
+  "release_date": "2014-02-20",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 19006,
+  "title": "The Flat",
+  "original_title": "Byt",
+  "release_date": "1968-01-01",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 28051,
+  "title": "Five Dolls for an August Moon",
+  "original_title": "5 bambole per la luna d'agosto",
+  "release_date": "1970-03-14",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

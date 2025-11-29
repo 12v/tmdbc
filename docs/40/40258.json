@@ -1,0 +1,25 @@
+{
+  "id": 40258,
+  "title": "Baby Blood",
+  "original_title": "Baby Blood",
+  "release_date": "1990-01-24",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

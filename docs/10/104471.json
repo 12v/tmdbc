@@ -1,0 +1,25 @@
+{
+  "id": 104471,
+  "title": "Le ch\u00e2teau hant\u00e9",
+  "original_title": "Le ch\u00e2teau hant\u00e9",
+  "release_date": "1897-01-01",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

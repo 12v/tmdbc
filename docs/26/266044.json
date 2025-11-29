@@ -1,0 +1,35 @@
+{
+  "id": 266044,
+  "title": "Amour Fou",
+  "original_title": "Amour fou",
+  "release_date": "2014-05-16",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "LU",
+    "DE",
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

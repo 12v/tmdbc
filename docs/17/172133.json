@@ -1,0 +1,29 @@
+{
+  "id": 172133,
+  "title": "The Curse of Kazuo Umezu",
+  "original_title": "\u6973\u56f3\u304b\u305a\u304a\u306e\u546a\u3044",
+  "release_date": "1990-03-01",
+  "status": "Released",
+  "runtime": 43,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

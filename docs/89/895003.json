@@ -1,0 +1,37 @@
+{
+  "id": 895003,
+  "title": "Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
+  "original_title": "\u9b3c\u6ec5\u306e\u5203 \u6d45\u8349\u7de8",
+  "release_date": "2022-08-25",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 380225,
+  "title": "Like Crazy",
+  "original_title": "La pazza gioia",
+  "release_date": "2016-05-17",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

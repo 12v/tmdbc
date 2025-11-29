@@ -1,0 +1,25 @@
+{
+  "id": 29262,
+  "title": "The House of Sand",
+  "original_title": "Casa de Areia",
+  "release_date": "2005-05-13",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

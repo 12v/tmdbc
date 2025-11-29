@@ -1,0 +1,37 @@
+{
+  "id": 795778,
+  "title": "Night Raiders",
+  "original_title": "Night Raiders",
+  "release_date": "2021-10-08",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Maori",
+      "iso_639_1": "mi",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Cree",
+      "iso_639_1": "cr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "NZ",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 234862,
+  "title": "Mr Hublot",
+  "original_title": "Mr Hublot",
+  "release_date": "2013-10-14",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "LU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

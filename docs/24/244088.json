@@ -1,0 +1,25 @@
+{
+  "id": 244088,
+  "title": "Human Capital",
+  "original_title": "Il capitale umano",
+  "release_date": "2013-12-03",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

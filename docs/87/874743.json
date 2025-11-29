@@ -1,0 +1,33 @@
+{
+  "id": 874743,
+  "title": "To Every You I've Loved Before",
+  "original_title": "\u50d5\u304c\u611b\u3057\u305f\u3059\u3079\u3066\u306e\u541b\u3078",
+  "release_date": "2022-10-07",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

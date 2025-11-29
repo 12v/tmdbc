@@ -1,0 +1,33 @@
+{
+  "id": 537170,
+  "title": "My Little Pony: Equestria Girls - Rollercoaster of Friendship",
+  "original_title": "My Little Pony: Equestria Girls - Rollercoaster of Friendship",
+  "release_date": "2018-07-06",
+  "status": "Released",
+  "runtime": 44,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

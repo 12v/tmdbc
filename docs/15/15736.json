@@ -1,0 +1,29 @@
+{
+  "id": 15736,
+  "title": "The Death King",
+  "original_title": "Der Todesking",
+  "release_date": "1990-01-25",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "XG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

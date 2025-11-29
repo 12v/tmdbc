@@ -1,0 +1,33 @@
+{
+  "id": 342917,
+  "title": "Batman Unlimited: Monster Mayhem",
+  "original_title": "Batman Unlimited: Monster Mayhem",
+  "release_date": "2015-08-18",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

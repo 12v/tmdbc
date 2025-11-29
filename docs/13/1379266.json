@@ -1,0 +1,25 @@
+{
+  "id": 1379266,
+  "title": "Kokuho",
+  "original_title": "\u56fd\u5b9d",
+  "release_date": "2025-06-06",
+  "status": "Released",
+  "runtime": 174,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

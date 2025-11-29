@@ -1,0 +1,31 @@
+{
+  "id": 926993,
+  "title": "Haulout",
+  "original_title": "\u0412\u044b\u0445\u043e\u0434",
+  "release_date": "2024-10-03",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "RU",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

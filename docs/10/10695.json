@@ -1,0 +1,29 @@
+{
+  "id": 10695,
+  "title": "The Golem",
+  "original_title": "Der Golem",
+  "release_date": "1915-01-15",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 362136,
+  "title": "Prem Ratan Dhan Payo",
+  "original_title": "\u092a\u094d\u0930\u0947\u092e \u0930\u0924\u0928 \u0927\u0928 \u092a\u093e\u092f\u094b",
+  "release_date": "2015-11-11",
+  "status": "Released",
+  "runtime": 164,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

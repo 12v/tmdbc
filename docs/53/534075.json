@@ -1,0 +1,25 @@
+{
+  "id": 534075,
+  "title": "Super 30",
+  "original_title": "\u0938\u0941\u092a\u0930 30",
+  "release_date": "2019-07-12",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

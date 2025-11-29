@@ -1,0 +1,29 @@
+{
+  "id": 400114,
+  "title": "I Am Not Madame Bovary",
+  "original_title": "\u6211\u4e0d\u662f\u6f58\u91d1\u83b2",
+  "release_date": "2016-09-29",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

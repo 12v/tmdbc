@@ -1,0 +1,29 @@
+{
+  "id": 1063540,
+  "title": "Ten Little Mistresses",
+  "original_title": "Sampung Mga Kerida",
+  "release_date": "2023-02-15",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

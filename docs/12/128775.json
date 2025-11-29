@@ -1,0 +1,25 @@
+{
+  "id": 128775,
+  "title": "The Sting of Death",
+  "original_title": "\u6b7b\u306e\u68d8",
+  "release_date": "1990-04-28",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

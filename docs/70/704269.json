@@ -1,0 +1,34 @@
+{
+  "id": 704269,
+  "title": "Skull: The Mask",
+  "original_title": "Skull: A M\u00e1scara de Anhang\u00e1",
+  "release_date": "2020-05-22",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

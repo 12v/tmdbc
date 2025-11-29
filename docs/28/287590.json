@@ -1,0 +1,33 @@
+{
+  "id": 287590,
+  "title": "Saint Seiya: Legend of Sanctuary",
+  "original_title": "\u8056\u95d8\u58eb\u661f\u77e2 LEGEND of SANCTUARY",
+  "release_date": "2014-06-21",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

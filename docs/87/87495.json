@@ -1,0 +1,30 @@
+{
+  "id": 87495,
+  "title": "A Candle for the Devil",
+  "original_title": "Una vela para el diablo",
+  "release_date": "1973-02-01",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

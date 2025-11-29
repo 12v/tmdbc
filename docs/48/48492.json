@@ -1,0 +1,43 @@
+{
+  "id": 48492,
+  "title": "Detective Dee and the Mystery of the Phantom Flame",
+  "original_title": "\u72c4\u4ec1\u5091\u4e4b\u901a\u5929\u5e1d\u570b",
+  "release_date": "2010-09-18",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 61943,
+  "title": "Django Kill... If You Live, Shoot!",
+  "original_title": "Se sei vivo spara",
+  "release_date": "1967-05-03",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

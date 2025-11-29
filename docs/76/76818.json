@@ -1,0 +1,29 @@
+{
+  "id": 76818,
+  "title": "Yokai Monsters: Along with Ghosts",
+  "original_title": "\u6771\u6d77\u9053\u304a\u5316\u3051\u9053\u4e2d",
+  "release_date": "1969-03-12",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

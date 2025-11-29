@@ -1,0 +1,41 @@
+{
+  "id": 64576,
+  "title": "Stray Cat Rock: Delinquent Girl Boss",
+  "original_title": "\u5973\u756a\u9577\u3000\u91ce\u826f\u732b\u30ed\u30c3\u30af",
+  "release_date": "1970-05-02",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

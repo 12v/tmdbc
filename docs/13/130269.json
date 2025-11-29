@@ -1,0 +1,25 @@
+{
+  "id": 130269,
+  "title": "One Hundred Children Waiting for a Train",
+  "original_title": "Cien ni\u00f1os esperando un tren",
+  "release_date": "1990-06-01",
+  "status": "Released",
+  "runtime": 57,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CL"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

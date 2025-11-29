@@ -1,0 +1,38 @@
+{
+  "id": 105347,
+  "title": "How Tasty Was My Little Frenchman",
+  "original_title": "Como Era Gostoso o Meu Franc\u00eas",
+  "release_date": "1971-06-01",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

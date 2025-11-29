@@ -1,0 +1,29 @@
+{
+  "id": 349498,
+  "title": "Flying Colors",
+  "original_title": "\u30d3\u30ea\u30ae\u30e3\u30eb",
+  "release_date": "2015-05-01",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

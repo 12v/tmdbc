@@ -1,0 +1,29 @@
+{
+  "id": 27522,
+  "title": "Waxworks",
+  "original_title": "Das Wachsfigurenkabinett",
+  "release_date": "1924-11-13",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

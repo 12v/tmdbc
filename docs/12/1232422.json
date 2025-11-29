@@ -1,0 +1,29 @@
+{
+  "id": 1232422,
+  "title": "Scorched Earth",
+  "original_title": "Verbrannte Erde",
+  "release_date": "2024-07-18",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

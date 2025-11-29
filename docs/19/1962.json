@@ -1,0 +1,25 @@
+{
+  "id": 1962,
+  "title": "Love in Thoughts",
+  "original_title": "Was n\u00fctzt die Liebe in Gedanken",
+  "release_date": "2004-02-12",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

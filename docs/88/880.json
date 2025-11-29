@@ -1,0 +1,29 @@
+{
+  "id": 880,
+  "title": "Antonia's Line",
+  "original_title": "Antonia",
+  "release_date": "1995-09-21",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

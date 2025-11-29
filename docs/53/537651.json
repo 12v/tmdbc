@@ -1,0 +1,28 @@
+{
+  "id": 537651,
+  "title": "Sibel",
+  "original_title": "Sibel",
+  "release_date": "2019-01-04",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR",
+    "DE",
+    "FR",
+    "LU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 412200,
+  "title": "Clair Obscur",
+  "original_title": "Teredd\u00fct",
+  "release_date": "2017-12-07",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

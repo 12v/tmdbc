@@ -1,0 +1,33 @@
+{
+  "id": 256959,
+  "title": "White Out, Black In",
+  "original_title": "Branco Sai, Preto Fica",
+  "release_date": "2014-09-20",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

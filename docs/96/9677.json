@@ -1,0 +1,29 @@
+{
+  "id": 9677,
+  "title": "Forklift Driver Klaus: The First Day on the Job",
+  "original_title": "Staplerfahrer Klaus - Der erste Arbeitstag",
+  "release_date": "2001-08-08",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

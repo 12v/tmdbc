@@ -1,0 +1,25 @@
+{
+  "id": 642203,
+  "title": "Seth Meyers: Lobby Baby",
+  "original_title": "Seth Meyers: Lobby Baby",
+  "release_date": "2019-11-05",
+  "status": "Released",
+  "runtime": 61,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

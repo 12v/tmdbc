@@ -1,0 +1,33 @@
+{
+  "id": 59892,
+  "title": "Conspirators of Pleasure",
+  "original_title": "Spiklenci slasti",
+  "release_date": "1996-10-17",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

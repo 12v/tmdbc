@@ -1,0 +1,34 @@
+{
+  "id": 518896,
+  "title": "Warriors of Future",
+  "original_title": "\u660e\u65e5\u6230\u8a18",
+  "release_date": "2022-08-05",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

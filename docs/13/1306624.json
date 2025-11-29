@@ -1,0 +1,29 @@
+{
+  "id": 1306624,
+  "title": "The Pop Out: Ken & Friends",
+  "original_title": "The Pop Out: Ken & Friends",
+  "release_date": "2024-06-19",
+  "status": "Released",
+  "runtime": 257,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

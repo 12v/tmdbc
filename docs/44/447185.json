@@ -1,0 +1,25 @@
+{
+  "id": 447185,
+  "title": "Psychic Kusuo",
+  "original_title": "\u6589\u6728\u6960\u96c4\u306e\u03a8\u96e3",
+  "release_date": "2017-10-21",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

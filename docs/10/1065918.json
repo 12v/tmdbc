@@ -1,0 +1,29 @@
+{
+  "id": 1065918,
+  "title": "Kannur Squad",
+  "original_title": "\u0d15\u0d23\u0d4d\u0d23\u0d42\u0d7c \u0d38\u0d4d\u200c\u0d15\u0d4d\u0d35\u0d3e\u0d21\u0d4d",
+  "release_date": "2023-09-28",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

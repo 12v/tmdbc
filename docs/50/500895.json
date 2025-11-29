@@ -1,0 +1,25 @@
+{
+  "id": 500895,
+  "title": "I Was at Home, But...",
+  "original_title": "Ich war zuhause, aber",
+  "release_date": "2019-03-28",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

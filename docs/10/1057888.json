@@ -1,0 +1,34 @@
+{
+  "id": 1057888,
+  "title": "Dry Leaf",
+  "original_title": "\u10ee\u10db\u10d4\u10da\u10d8 \u10e4\u10dd\u10d7\u10dd\u10da\u10d8",
+  "release_date": "2025-08-13",
+  "status": "Released",
+  "runtime": 186,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

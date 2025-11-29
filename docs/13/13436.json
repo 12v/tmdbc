@@ -1,0 +1,33 @@
+{
+  "id": 13436,
+  "title": "13: Game of Death",
+  "original_title": "13 \u0e40\u0e01\u0e21\u0e2a\u0e22\u0e2d\u0e07",
+  "release_date": "2006-10-05",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

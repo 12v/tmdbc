@@ -1,0 +1,37 @@
+{
+  "id": 798544,
+  "title": "Summer Ghost",
+  "original_title": "\u30b5\u30de\u30fc\u30b4\u30fc\u30b9\u30c8",
+  "release_date": "2021-11-12",
+  "status": "Released",
+  "runtime": 40,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

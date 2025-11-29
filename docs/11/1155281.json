@@ -1,0 +1,33 @@
+{
+  "id": 1155281,
+  "title": "Creation of the Gods II: Demon Force",
+  "original_title": "\u5c01\u795e\u7b2c\u4e8c\u90e8\uff1a\u6218\u706b\u897f\u5c90",
+  "release_date": "2025-01-29",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

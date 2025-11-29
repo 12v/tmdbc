@@ -1,0 +1,30 @@
+{
+  "id": 1064312,
+  "title": "The Wailing of the Maghrib",
+  "original_title": "Waktu Maghrib",
+  "release_date": "2023-02-09",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

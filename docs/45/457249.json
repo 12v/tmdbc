@@ -1,0 +1,29 @@
+{
+  "id": 457249,
+  "title": "Vixen: The Movie",
+  "original_title": "Vixen: The Movie",
+  "release_date": "2017-05-08",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

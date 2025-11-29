@@ -1,0 +1,29 @@
+{
+  "id": 650129,
+  "title": "Ali & Ratu Ratu Queens",
+  "original_title": "Ali & Ratu Ratu Queens",
+  "release_date": "2021-06-17",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

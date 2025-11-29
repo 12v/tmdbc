@@ -1,0 +1,29 @@
+{
+  "id": 345715,
+  "title": "Delta Space Mission",
+  "original_title": "Misiunea spa\u021bial\u0103 Delta",
+  "release_date": "1985-12-01",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

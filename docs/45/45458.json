@@ -1,0 +1,33 @@
+{
+  "id": 45458,
+  "title": "The Romance of Astrea and Celadon",
+  "original_title": "Les Amours d'Astr\u00e9e et de C\u00e9ladon",
+  "release_date": "2007-09-02",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

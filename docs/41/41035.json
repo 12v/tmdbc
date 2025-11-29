@@ -1,0 +1,26 @@
+{
+  "id": 41035,
+  "title": "Torture Garden",
+  "original_title": "Torture Garden",
+  "release_date": "1967-11-01",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

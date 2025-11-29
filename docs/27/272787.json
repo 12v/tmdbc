@@ -1,0 +1,26 @@
+{
+  "id": 272787,
+  "title": "How to Build a Time Machine",
+  "original_title": "How to Build a Time Machine",
+  "release_date": "2016-05-02",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

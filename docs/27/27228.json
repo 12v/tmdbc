@@ -1,0 +1,25 @@
+{
+  "id": 27228,
+  "title": "Bounce Ko Gals",
+  "original_title": "\u30d0\u30a6\u30f3\u30b9 ko GALS",
+  "release_date": "1997-10-18",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

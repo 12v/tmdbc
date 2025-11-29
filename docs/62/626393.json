@@ -1,0 +1,29 @@
+{
+  "id": 626393,
+  "title": "The Sleepover",
+  "original_title": "The Sleepover",
+  "release_date": "2020-08-21",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

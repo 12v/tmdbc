@@ -1,0 +1,33 @@
+{
+  "id": 12495,
+  "title": "The Singing Ringing Tree",
+  "original_title": "Das singende, klingende B\u00e4umchen",
+  "release_date": "1957-12-13",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "XG"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

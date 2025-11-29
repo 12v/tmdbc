@@ -1,0 +1,30 @@
+{
+  "id": 59088,
+  "title": "I Even Met Happy Gypsies",
+  "original_title": "Skupljaci perja",
+  "release_date": "1967-03-27",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
