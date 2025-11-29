@@ -1,0 +1,44 @@
+{
+  "id": 117751,
+  "title": "Ustad Hotel",
+  "original_title": "\u0d09\u0d38\u0d4d\u200c\u0d24\u0d3e\u0d26\u0d4d\u200c Hotel",
+  "release_date": "2012-06-29",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

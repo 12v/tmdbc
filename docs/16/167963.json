@@ -1,0 +1,30 @@
+{
+  "id": 167963,
+  "title": "Thesis on a Homicide",
+  "original_title": "Tesis sobre un homicidio",
+  "release_date": "2013-01-17",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

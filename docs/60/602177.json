@@ -1,0 +1,25 @@
+{
+  "id": 602177,
+  "title": "Glorious Days",
+  "original_title": "Bebas",
+  "release_date": "2019-10-03",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

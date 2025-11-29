@@ -1,0 +1,25 @@
+{
+  "id": 424510,
+  "title": "Mr. Roosevelt",
+  "original_title": "Mr. Roosevelt",
+  "release_date": "2017-07-29",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

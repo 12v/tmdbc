@@ -1,0 +1,35 @@
+{
+  "id": 76235,
+  "title": "Hunger",
+  "original_title": "Sult",
+  "release_date": "1966-08-19",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

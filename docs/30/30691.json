@@ -1,0 +1,43 @@
+{
+  "id": 30691,
+  "title": "Yah\u015fi Bat\u0131",
+  "original_title": "Yah\u015fi Bat\u0131",
+  "release_date": "2009-12-31",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

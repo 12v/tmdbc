@@ -1,0 +1,33 @@
+{
+  "id": 811945,
+  "title": "HIT: The 2nd Case",
+  "original_title": "\u0c39\u0c3f\u0c1f\u0c4d: \u0c26\u0c3f \u0c38\u0c46\u0c15\u0c02\u0c21\u0c4d \u0c15\u0c47\u0c38\u0c4d",
+  "release_date": "2022-12-01",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

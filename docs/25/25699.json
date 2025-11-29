@@ -1,0 +1,33 @@
+{
+  "id": 25699,
+  "title": "Man on the Roof",
+  "original_title": "Mannen p\u00e5 taket",
+  "release_date": "1976-10-01",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 206277,
+  "title": "Shirley: Visions of Reality",
+  "original_title": "Shirley: Visions of Reality",
+  "release_date": "2013-12-26",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

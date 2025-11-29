@@ -1,0 +1,38 @@
+{
+  "id": 1176166,
+  "title": "Dancing Village: The Curse Begins",
+  "original_title": "Badarawuhi di Desa Penari",
+  "release_date": "2024-04-11",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

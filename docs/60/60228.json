@@ -1,0 +1,29 @@
+{
+  "id": 60228,
+  "title": "Losers' Club",
+  "original_title": "Kaybedenler Kul\u00fcb\u00fc",
+  "release_date": "2011-03-25",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

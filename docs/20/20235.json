@@ -1,0 +1,29 @@
+{
+  "id": 20235,
+  "title": "Belle's Magical World",
+  "original_title": "Belle's Magical World",
+  "release_date": "1998-02-16",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

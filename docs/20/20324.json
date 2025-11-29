@@ -1,0 +1,25 @@
+{
+  "id": 20324,
+  "title": "The Importance of Being Earnest",
+  "original_title": "The Importance of Being Earnest",
+  "release_date": "1952-06-02",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

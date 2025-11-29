@@ -1,0 +1,25 @@
+{
+  "id": 535550,
+  "title": "Hotel by the River",
+  "original_title": "\uac15\ubcc0\ud638\ud154",
+  "release_date": "2019-03-24",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

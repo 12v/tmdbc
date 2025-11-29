@@ -1,0 +1,33 @@
+{
+  "id": 42676,
+  "title": "The Fifth Cord",
+  "original_title": "Giornata nera per l'ariete",
+  "release_date": "1971-08-17",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

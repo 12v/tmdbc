@@ -1,0 +1,29 @@
+{
+  "id": 622082,
+  "title": "In from the Side",
+  "original_title": "In from the Side",
+  "release_date": "2022-09-16",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

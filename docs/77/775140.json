@@ -1,0 +1,29 @@
+{
+  "id": 775140,
+  "title": "The Criminals",
+  "original_title": "Su\u00e7lular",
+  "release_date": "2022-04-08",
+  "status": "Released",
+  "runtime": 24,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

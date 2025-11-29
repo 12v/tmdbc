@@ -1,0 +1,30 @@
+{
+  "id": 2587,
+  "title": "Brother Sun, Sister Moon",
+  "original_title": "Fratello sole, sorella luna",
+  "release_date": "1972-03-03",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

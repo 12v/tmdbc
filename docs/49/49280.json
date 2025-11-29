@@ -1,0 +1,33 @@
+{
+  "id": 49280,
+  "title": "The One-Man Band",
+  "original_title": "L'homme orchestre",
+  "release_date": "1900-01-01",
+  "status": "Released",
+  "runtime": 2,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

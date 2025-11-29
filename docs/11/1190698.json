@@ -1,0 +1,25 @@
+{
+  "id": 1190698,
+  "title": "To Live, To Die, To Live Again",
+  "original_title": "Vivre, mourir, rena\u00eetre",
+  "release_date": "2024-09-25",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10755,
+  "title": "The Wild Soccer Bunch",
+  "original_title": "Die Wilden Kerle",
+  "release_date": "2003-10-02",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

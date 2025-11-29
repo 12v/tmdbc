@@ -1,0 +1,27 @@
+{
+  "id": 118957,
+  "title": "Bait",
+  "original_title": "Bait",
+  "release_date": "2012-09-05",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "SG",
+    "AU",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

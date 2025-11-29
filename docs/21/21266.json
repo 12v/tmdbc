@@ -1,0 +1,34 @@
+{
+  "id": 21266,
+  "title": "Reptilicus",
+  "original_title": "Reptilicus",
+  "release_date": "1961-02-20",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

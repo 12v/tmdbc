@@ -1,0 +1,25 @@
+{
+  "id": 97030,
+  "title": "Last Chants for a Slow Dance",
+  "original_title": "Last Chants for a Slow Dance",
+  "release_date": "1977-08-31",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

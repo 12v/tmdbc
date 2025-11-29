@@ -1,0 +1,25 @@
+{
+  "id": 662029,
+  "title": "Ahed's Knee",
+  "original_title": "\u05d4\u05d1\u05e8\u05da\u200e",
+  "release_date": "2021-08-05",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "he",
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+    }
+  ],
+  "origin_country": [
+    "IL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

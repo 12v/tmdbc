@@ -1,0 +1,33 @@
+{
+  "id": 1250508,
+  "title": "Kaantha",
+  "original_title": "\u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bbe",
+  "release_date": "2025-11-13",
+  "status": "Released",
+  "runtime": 163,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 12246,
+  "title": "Mongol: The Rise of Genghis Khan",
+  "original_title": "\u041c\u043e\u043d\u0433\u043e\u043b",
+  "release_date": "2007-09-20",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Mongolian",
+      "iso_639_1": "mn",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "MN"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

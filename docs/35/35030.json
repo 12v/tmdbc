@@ -1,0 +1,25 @@
+{
+  "id": 35030,
+  "title": "The Young One",
+  "original_title": "The Young One",
+  "release_date": "1960-09-05",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

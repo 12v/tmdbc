@@ -1,0 +1,33 @@
+{
+  "id": 31132,
+  "title": "Killer",
+  "original_title": "Kiler",
+  "release_date": "1997-11-17",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 144651,
+  "title": "Ghosts Before Breakfast",
+  "original_title": "Vormittagsspuk",
+  "release_date": "1928-07-14",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

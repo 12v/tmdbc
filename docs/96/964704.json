@@ -1,0 +1,42 @@
+{
+  "id": 964704,
+  "title": "Will-o\u2019-the-Wisp",
+  "original_title": "Fogo-F\u00e1tuo",
+  "release_date": "2022-09-14",
+  "status": "Released",
+  "runtime": 67,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

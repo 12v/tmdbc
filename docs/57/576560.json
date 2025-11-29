@@ -1,0 +1,29 @@
+{
+  "id": 576560,
+  "title": "Tread",
+  "original_title": "Tread",
+  "release_date": "2020-02-21",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

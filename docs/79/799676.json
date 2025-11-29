@@ -1,0 +1,38 @@
+{
+  "id": 799676,
+  "title": "Shyam Singha Roy",
+  "original_title": "\u0c36\u0c4d\u0c2f\u0c3e\u0c2e\u0c4d \u0c38\u0c3f\u0c02\u0c17 \u0c30\u0c3e\u0c2f\u0c4d",
+  "release_date": "2021-12-24",
+  "status": "Released",
+  "runtime": 157,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    },
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

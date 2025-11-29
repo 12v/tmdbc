@@ -1,0 +1,21 @@
+{
+  "id": 108737,
+  "title": "Lake of Dracula",
+  "original_title": "\u546a\u3044\u306e\u9928 \u8840\u3092\u5438\u3046\u773c",
+  "release_date": "1971-06-11",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "ja",
+  "spoken_languages": [],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

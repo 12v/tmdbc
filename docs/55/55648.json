@@ -1,0 +1,33 @@
+{
+  "id": 55648,
+  "title": "The Wildcat",
+  "original_title": "Die Bergkatze",
+  "release_date": "1921-04-14",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

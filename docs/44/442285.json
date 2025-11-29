@@ -1,0 +1,25 @@
+{
+  "id": 442285,
+  "title": "The Beguines",
+  "original_title": "Le Rempart des B\u00e9guines",
+  "release_date": "1972-09-19",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

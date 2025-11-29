@@ -1,0 +1,39 @@
+{
+  "id": 531438,
+  "title": "Holiday in the Wild",
+  "original_title": "Holiday in the Wild",
+  "release_date": "2019-11-06",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Swahili",
+      "iso_639_1": "sw",
+      "name": "Kiswahili"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

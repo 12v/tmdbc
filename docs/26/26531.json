@@ -1,0 +1,33 @@
+{
+  "id": 26531,
+  "title": "The Little Princess",
+  "original_title": "The Little Princess",
+  "release_date": "1939-03-17",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

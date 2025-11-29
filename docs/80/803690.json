@@ -1,0 +1,37 @@
+{
+  "id": 803690,
+  "title": "Foreign Language",
+  "original_title": "Langue \u00e9trang\u00e8re",
+  "release_date": "2024-09-11",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "BE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

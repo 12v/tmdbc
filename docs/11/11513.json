@@ -1,0 +1,44 @@
+{
+  "id": 11513,
+  "title": "Cobra Verde",
+  "original_title": "Cobra Verde",
+  "release_date": "1987-12-03",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "Ewe",
+      "iso_639_1": "ee",
+      "name": "\u00c8\u028begbe"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

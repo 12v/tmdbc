@@ -1,0 +1,30 @@
+{
+  "id": 192871,
+  "title": "The Fate of Lee Khan",
+  "original_title": "\u8fce\u6625\u95a3\u4e4b\u98a8\u6ce2",
+  "release_date": "1973-12-06",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

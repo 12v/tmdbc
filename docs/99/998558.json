@@ -1,0 +1,29 @@
+{
+  "id": 998558,
+  "title": "Deleter",
+  "original_title": "Deleter",
+  "release_date": "2022-12-25",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

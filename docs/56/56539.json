@@ -1,0 +1,29 @@
+{
+  "id": 56539,
+  "title": "Friday Foster",
+  "original_title": "Friday Foster",
+  "release_date": "1975-12-25",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

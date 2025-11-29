@@ -1,0 +1,29 @@
+{
+  "id": 606403,
+  "title": "Special Delivery",
+  "original_title": "\ud2b9\uc1a1",
+  "release_date": "2022-01-12",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

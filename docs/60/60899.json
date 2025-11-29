@@ -1,0 +1,25 @@
+{
+  "id": 60899,
+  "title": "Brink of Life",
+  "original_title": "N\u00e4ra livet",
+  "release_date": "1958-03-31",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

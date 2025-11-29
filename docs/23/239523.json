@@ -1,0 +1,37 @@
+{
+  "id": 239523,
+  "title": "Hunter x Hunter: The Last Mission",
+  "original_title": "\u5287\u5834\u7248 HUNTER\u00d7HUNTER -The LAST MISSION-",
+  "release_date": "2013-12-27",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

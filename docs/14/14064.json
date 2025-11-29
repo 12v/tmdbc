@@ -1,0 +1,27 @@
+{
+  "id": 14064,
+  "title": "Ten Canoes",
+  "original_title": "Ten Canoes",
+  "release_date": "2006-06-29",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

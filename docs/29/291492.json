@@ -1,0 +1,38 @@
+{
+  "id": 291492,
+  "title": "A Record of Sweet Murder",
+  "original_title": "\u3042\u308b\u512a\u3057\u304d\u6bba\u4eba\u8005\u306e\u8a18\u9332",
+  "release_date": "2014-09-06",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

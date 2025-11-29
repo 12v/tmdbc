@@ -1,0 +1,30 @@
+{
+  "id": 39916,
+  "title": "Contamination",
+  "original_title": "Contamination",
+  "release_date": "1980-08-02",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

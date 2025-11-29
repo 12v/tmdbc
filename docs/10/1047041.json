@@ -1,0 +1,37 @@
+{
+  "id": 1047041,
+  "title": "Detective Conan: Black Iron Submarine",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u9ed2\u9244\u306e\u9b5a\u5f71\uff08\u30b5\u30d6\u30de\u30ea\u30f3\uff09",
+  "release_date": "2023-04-14",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 63450,
+  "title": "Mechanical Violator Hakaider",
+  "original_title": "\u4eba\u9020\u4eba\u9593\u30cf\u30ab\u30a4\u30c0\u30fc",
+  "release_date": "1995-04-15",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 36250,
+  "title": "Shinjuku Triad Society",
+  "original_title": "\u65b0\u5bbf\u9ed2\u793e\u4f1a \u30c1\u30e3\u30a4\u30ca\u30de\u30d5\u30a3\u30a2\u6226\u4e89",
+  "release_date": "1995-08-26",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

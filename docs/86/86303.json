@@ -1,0 +1,25 @@
+{
+  "id": 86303,
+  "title": "The Golden Thread",
+  "original_title": "\u09b8\u09c1\u09ac\u09b0\u09cd\u09a3\u09b0\u09c7\u0996\u09be",
+  "release_date": "1965-10-01",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "BD"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

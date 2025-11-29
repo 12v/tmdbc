@@ -1,0 +1,29 @@
+{
+  "id": 1278101,
+  "title": "Big World",
+  "original_title": "\u5c0f\u5c0f\u7684\u6211",
+  "release_date": "2024-12-27",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

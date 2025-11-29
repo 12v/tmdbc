@@ -1,0 +1,29 @@
+{
+  "id": 1368166,
+  "title": "The Housemaid",
+  "original_title": "The Housemaid",
+  "release_date": "2025-12-19",
+  "status": "Post Production",
+  "runtime": 131,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

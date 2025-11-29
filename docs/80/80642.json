@@ -1,0 +1,25 @@
+{
+  "id": 80642,
+  "title": "Manji",
+  "original_title": "\u534d(\u307e\u3093\u3058)",
+  "release_date": "1964-07-25",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

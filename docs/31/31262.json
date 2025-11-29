@@ -1,0 +1,43 @@
+{
+  "id": 31262,
+  "title": "The Man from London",
+  "original_title": "A Londoni f\u00e9rfi",
+  "release_date": "2008-09-24",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

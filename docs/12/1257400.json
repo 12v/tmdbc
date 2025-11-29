@@ -1,0 +1,38 @@
+{
+  "id": 1257400,
+  "title": "Meeting with Pol Pot",
+  "original_title": "\u1780\u17b6\u179a\u178e\u17b6\u178f\u17cb\u1787\u17bd\u1794\u1787\u17b6\u1798\u17bd\u1799 \u1794\u17c9\u17bb\u179b \u1796\u178f",
+  "release_date": "2024-06-05",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "km",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Khmer",
+      "iso_639_1": "km",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "KH",
+    "FR",
+    "QA",
+    "TW",
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

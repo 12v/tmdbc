@@ -1,0 +1,44 @@
+{
+  "id": 60672,
+  "title": "Crimson Rivers II: Angels of the Apocalypse",
+  "original_title": "Les Rivi\u00e8res pourpres 2 : Les Anges de l'apocalypse",
+  "release_date": "2004-02-18",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

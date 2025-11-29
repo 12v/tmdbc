@@ -1,0 +1,39 @@
+{
+  "id": 346401,
+  "title": "Daft Punk Unchained",
+  "original_title": "Daft Punk Unchained",
+  "release_date": "2015-06-24",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

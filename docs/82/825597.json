@@ -1,0 +1,37 @@
+{
+  "id": 825597,
+  "title": "Maggie Simpson in \"The Force Awakens from Its Nap\"",
+  "original_title": "Maggie Simpson in \"The Force Awakens from Its Nap\"",
+  "release_date": "2021-05-04",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

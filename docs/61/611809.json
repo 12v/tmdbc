@@ -1,0 +1,34 @@
+{
+  "id": 611809,
+  "title": "Kiss of the Rabbit God",
+  "original_title": "\u5154\u5152\u795e",
+  "release_date": "2019-06-29",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

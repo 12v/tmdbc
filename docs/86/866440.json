@@ -1,0 +1,33 @@
+{
+  "id": 866440,
+  "title": "2018",
+  "original_title": "2018",
+  "release_date": "2023-05-05",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

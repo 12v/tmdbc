@@ -1,0 +1,33 @@
+{
+  "id": 71722,
+  "title": "Cruel Gun Story",
+  "original_title": "\u62f3\u9283\u6b8b\u9177\u7269\u8a9e",
+  "release_date": "1964-02-01",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

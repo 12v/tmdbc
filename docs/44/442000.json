@@ -1,0 +1,33 @@
+{
+  "id": 442000,
+  "title": "Angamaly Diaries",
+  "original_title": "\u0d05\u0d19\u0d4d\u0d15\u0d2e\u0d3e\u0d32\u0d3f \u0d21\u0d2f\u0d31\u0d40\u0d38\u0d4d",
+  "release_date": "2017-03-03",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

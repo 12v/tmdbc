@@ -1,0 +1,33 @@
+{
+  "id": 977177,
+  "title": "Home for Rent",
+  "original_title": "\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e0a\u0e48\u0e32..\u0e1a\u0e39\u0e0a\u0e32\u0e22\u0e31\u0e0d",
+  "release_date": "2023-04-06",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

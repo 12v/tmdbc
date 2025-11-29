@@ -1,0 +1,35 @@
+{
+  "id": 93164,
+  "title": "A River Called Titas",
+  "original_title": "\u09a4\u09bf\u09a4\u09be\u09b8 \u098f\u0995\u099f\u09bf \u09a8\u09a6\u09c0\u09b0 \u09a8\u09be\u09ae",
+  "release_date": "1973-07-27",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "IN",
+    "BD"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

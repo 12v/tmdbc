@@ -1,0 +1,29 @@
+{
+  "id": 23535,
+  "title": "Class of 1999",
+  "original_title": "Class of 1999",
+  "release_date": "1990-04-01",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 100592,
+  "title": "The Hand",
+  "original_title": "Ruka",
+  "release_date": "1965-10-26",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 607338,
+  "title": "Krazy House",
+  "original_title": "Krazy House",
+  "release_date": "2024-05-16",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

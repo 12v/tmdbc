@@ -1,0 +1,25 @@
+{
+  "id": 1279,
+  "title": "Samaritan Girl",
+  "original_title": "\uc0ac\ub9c8\ub9ac\uc544",
+  "release_date": "2004-03-05",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

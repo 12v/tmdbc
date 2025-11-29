@@ -1,0 +1,39 @@
+{
+  "id": 660943,
+  "title": "Memories of My Father",
+  "original_title": "El olvido que seremos",
+  "release_date": "2020-08-22",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

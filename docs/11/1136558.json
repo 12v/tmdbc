@@ -1,0 +1,29 @@
+{
+  "id": 1136558,
+  "title": "Best Wishes to All",
+  "original_title": "\u307f\u306a\u306b\u5e78\u3042\u308c",
+  "release_date": "2022-06-06",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 14968,
+  "title": "Welcome to Dongmakgol",
+  "original_title": "\uc6f0\ucef4 \ud22c \ub3d9\ub9c9\uace8",
+  "release_date": "2005-08-04",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

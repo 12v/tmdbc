@@ -1,0 +1,33 @@
+{
+  "id": 15497,
+  "title": "Twelve O'Clock High",
+  "original_title": "Twelve O'Clock High",
+  "release_date": "1949-12-21",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

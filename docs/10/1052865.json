@@ -1,0 +1,38 @@
+{
+  "id": 1052865,
+  "title": "A Thousand Days",
+  "original_title": "Sewu Dino",
+  "release_date": "2023-04-19",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

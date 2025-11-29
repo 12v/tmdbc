@@ -1,0 +1,26 @@
+{
+  "id": 776541,
+  "title": "Hive",
+  "original_title": "Zgjoi",
+  "release_date": "2021-11-05",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "sq",
+  "spoken_languages": [
+    {
+      "english_name": "Albanian",
+      "iso_639_1": "sq",
+      "name": "shqip"
+    }
+  ],
+  "origin_country": [
+    "AL",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

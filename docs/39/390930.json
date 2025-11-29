@@ -1,0 +1,29 @@
+{
+  "id": 390930,
+  "title": "If Cats Disappeared from the World",
+  "original_title": "\u4e16\u754c\u304b\u3089\u732b\u304c\u6d88\u3048\u305f\u306a\u3089",
+  "release_date": "2016-05-14",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

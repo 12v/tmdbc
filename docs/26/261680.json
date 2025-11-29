@@ -1,0 +1,33 @@
+{
+  "id": 261680,
+  "title": "The Mad Fox",
+  "original_title": "\u604b\u3084\u604b\u306a\u3059\u306a\u604b",
+  "release_date": "1962-05-01",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

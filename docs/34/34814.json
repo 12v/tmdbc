@@ -1,0 +1,38 @@
+{
+  "id": 34814,
+  "title": "Zombie Flesh Eaters 2",
+  "original_title": "Zombi 3",
+  "release_date": "1988-06-01",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

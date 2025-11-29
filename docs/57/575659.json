@@ -1,0 +1,34 @@
+{
+  "id": 575659,
+  "title": "Berlin Alexanderplatz",
+  "original_title": "Berlin Alexanderplatz",
+  "release_date": "2020-06-25",
+  "status": "Released",
+  "runtime": 184,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

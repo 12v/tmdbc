@@ -1,0 +1,42 @@
+{
+  "id": 62181,
+  "title": "Devilman - Volume 1: The Birth",
+  "original_title": "\u30c7\u30d3\u30eb\u30de\u30f3 \u8a95\u751f\u7de8",
+  "release_date": "1987-11-01",
+  "status": "Released",
+  "runtime": 51,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

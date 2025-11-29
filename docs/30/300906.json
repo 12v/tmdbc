@@ -1,0 +1,29 @@
+{
+  "id": 300906,
+  "title": "Atrocious",
+  "original_title": "Atroz",
+  "release_date": "2018-10-26",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

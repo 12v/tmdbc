@@ -1,0 +1,33 @@
+{
+  "id": 550148,
+  "title": "The Body",
+  "original_title": "The Body",
+  "release_date": "2018-09-21",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

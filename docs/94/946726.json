@@ -1,0 +1,33 @@
+{
+  "id": 946726,
+  "title": "In Good Hands",
+  "original_title": "Sen Ya\u015famaya Bak",
+  "release_date": "2022-03-21",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

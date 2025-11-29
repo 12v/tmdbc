@@ -1,0 +1,29 @@
+{
+  "id": 46278,
+  "title": "Iphigenia",
+  "original_title": "\u0399\u03c6\u03b9\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1",
+  "release_date": "1977-09-10",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

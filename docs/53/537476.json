@@ -1,0 +1,33 @@
+{
+  "id": 537476,
+  "title": "I Trapped the Devil",
+  "original_title": "I Trapped the Devil",
+  "release_date": "2019-04-26",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

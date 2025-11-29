@@ -1,0 +1,33 @@
+{
+  "id": 515353,
+  "title": "Funan",
+  "original_title": "Funan",
+  "release_date": "2019-03-06",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

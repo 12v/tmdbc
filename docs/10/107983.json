@@ -1,0 +1,33 @@
+{
+  "id": 107983,
+  "title": "Golem",
+  "original_title": "Golem",
+  "release_date": "1980-03-18",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

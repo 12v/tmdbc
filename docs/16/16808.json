@@ -1,0 +1,45 @@
+{
+  "id": 16808,
+  "title": "Pok\u00e9mon Ranger and the Temple of the Sea",
+  "original_title": "\u5287\u5834\u7248\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u30a2\u30c9\u30d0\u30f3\u30b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3 \u30dd\u30b1\u30e2\u30f3\u30ec\u30f3\u30b8\u30e3\u30fc\u3068\u84bc\u6d77\u306e\u738b\u5b50 \u30de\u30ca\u30d5\u30a3",
+  "release_date": "2006-07-15",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

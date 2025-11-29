@@ -1,0 +1,33 @@
+{
+  "id": 1175343,
+  "title": "Hurricane Season",
+  "original_title": "Temporada de huracanes",
+  "release_date": "2023-11-01",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

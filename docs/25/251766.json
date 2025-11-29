@@ -1,0 +1,33 @@
+{
+  "id": 251766,
+  "title": "All the Women in the World",
+  "original_title": "Todas as Mulheres do Mundo",
+  "release_date": "1966-02-02",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

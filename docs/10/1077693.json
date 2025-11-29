@@ -1,0 +1,29 @@
+{
+  "id": 1077693,
+  "title": "Tiger Stripes",
+  "original_title": "Tiger Stripes",
+  "release_date": "2023-10-19",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ms",
+  "spoken_languages": [
+    {
+      "english_name": "Malay",
+      "iso_639_1": "ms",
+      "name": "Bahasa melayu"
+    }
+  ],
+  "origin_country": [
+    "MY"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 62851,
+  "title": "Under the Flag of the Rising Sun",
+  "original_title": "\u8ecd\u65d7\u306f\u305f\u3081\u304f\u4e0b\u306b",
+  "release_date": "1972-03-12",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

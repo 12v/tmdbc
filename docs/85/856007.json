@@ -1,0 +1,33 @@
+{
+  "id": 856007,
+  "title": "Natchathiram Nagargiradhu",
+  "original_title": "\u0ba8\u0b9f\u0bcd\u0b9a\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd \u0ba8\u0b95\u0bb0\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1",
+  "release_date": "2022-08-31",
+  "status": "Released",
+  "runtime": 170,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

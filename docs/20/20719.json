@@ -1,0 +1,25 @@
+{
+  "id": 20719,
+  "title": "Day of the Wacko",
+  "original_title": "Dzie\u0144 \u015bwira",
+  "release_date": "2002-06-07",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

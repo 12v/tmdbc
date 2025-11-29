@@ -1,0 +1,33 @@
+{
+  "id": 874745,
+  "title": "To Me, the One Who Loved You",
+  "original_title": "\u541b\u3092\u611b\u3057\u305f\u3072\u3068\u308a\u306e\u50d5\u3078",
+  "release_date": "2022-10-07",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

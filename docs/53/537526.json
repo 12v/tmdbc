@@ -1,0 +1,34 @@
+{
+  "id": 537526,
+  "title": "A Land Imagined",
+  "original_title": "\u5e7b\u571f",
+  "release_date": "2019-02-06",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "SG"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

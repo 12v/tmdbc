@@ -1,0 +1,43 @@
+{
+  "id": 1323409,
+  "title": "Dracula",
+  "original_title": "Dracula",
+  "release_date": "2025-10-15",
+  "status": "Released",
+  "runtime": 170,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

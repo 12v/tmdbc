@@ -1,0 +1,33 @@
+{
+  "id": 39104,
+  "title": "Dragon Ball Z: Super Android 13!",
+  "original_title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\uff3a \u6975\u9650\u30d0\u30c8\u30eb\uff01\u4e09\u5927\u8d85\u30b5\u30a4\u30e4\u4eba",
+  "release_date": "1992-07-11",
+  "status": "Released",
+  "runtime": 46,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

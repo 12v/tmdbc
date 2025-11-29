@@ -1,0 +1,33 @@
+{
+  "id": 890138,
+  "title": "A.R.M",
+  "original_title": "Ajayante Randam Moshanam",
+  "release_date": "2024-09-12",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 20342,
+  "title": "Secret",
+  "original_title": "\u4e0d\u80fd\u8aaa\u7684\u79d8\u5bc6",
+  "release_date": "2007-07-27",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

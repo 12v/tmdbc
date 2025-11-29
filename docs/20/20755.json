@@ -1,0 +1,29 @@
+{
+  "id": 20755,
+  "title": "Air Bud: World Pup",
+  "original_title": "Air Bud: World Pup",
+  "release_date": "2001-09-16",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

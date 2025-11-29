@@ -1,0 +1,37 @@
+{
+  "id": 349176,
+  "title": "Assassination Classroom",
+  "original_title": "\u6697\u6bba\u6559\u5ba4",
+  "release_date": "2015-03-21",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

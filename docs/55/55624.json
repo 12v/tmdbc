@@ -1,0 +1,25 @@
+{
+  "id": 55624,
+  "title": "Fata Morgana",
+  "original_title": "Fata Morgana",
+  "release_date": "1972-02-01",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

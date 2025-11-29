@@ -1,0 +1,33 @@
+{
+  "id": 183855,
+  "title": "The Kiss",
+  "original_title": "O Beijo no Asfalto",
+  "release_date": "1981-06-01",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

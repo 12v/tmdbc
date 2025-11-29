@@ -1,0 +1,38 @@
+{
+  "id": 83411,
+  "title": "The Drifting Classroom",
+  "original_title": "\u6f02\u6d41\u6559\u5ba4",
+  "release_date": "1987-07-11",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

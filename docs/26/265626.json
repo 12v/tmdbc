@@ -1,0 +1,29 @@
+{
+  "id": 265626,
+  "title": "Last Days of the Victim",
+  "original_title": "\u00daltimos d\u00edas de la v\u00edctima",
+  "release_date": "1982-04-08",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

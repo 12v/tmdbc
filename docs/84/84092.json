@@ -1,0 +1,43 @@
+{
+  "id": 84092,
+  "title": "Ramayana: The Legend of Prince Rama",
+  "original_title": "Ramayana : The Legend of Prince Rama",
+  "release_date": "1993-01-10",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Sanskrit",
+      "iso_639_1": "sa",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN",
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

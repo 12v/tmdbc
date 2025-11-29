@@ -1,0 +1,29 @@
+{
+  "id": 78507,
+  "title": "Spies",
+  "original_title": "Spione",
+  "release_date": "1928-03-22",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

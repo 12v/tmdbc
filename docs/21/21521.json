@@ -1,0 +1,29 @@
+{
+  "id": 21521,
+  "title": "Project A Part II",
+  "original_title": "A\u8a08\u5283\u7e8c\u96c6",
+  "release_date": "1987-07-25",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

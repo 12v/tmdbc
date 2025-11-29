@@ -1,0 +1,25 @@
+{
+  "id": 544355,
+  "title": "S\u00f3crates",
+  "original_title": "S\u00f3crates",
+  "release_date": "2018-09-21",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

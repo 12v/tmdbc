@@ -1,0 +1,38 @@
+{
+  "id": 428515,
+  "title": "Check the Store Next Door",
+  "original_title": "Cek Toko Sebelah",
+  "release_date": "2016-12-28",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

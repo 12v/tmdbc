@@ -1,0 +1,25 @@
+{
+  "id": 98914,
+  "title": "Mother",
+  "original_title": "\u041c\u0430\u0442\u044c",
+  "release_date": "1926-10-11",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 40141,
+  "title": "Massacre Time",
+  "original_title": "Le colt cantarono la morte e fu... tempo di massacro",
+  "release_date": "1966-08-10",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

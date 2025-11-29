@@ -1,0 +1,37 @@
+{
+  "id": 628964,
+  "title": "Child of Kamiari Month",
+  "original_title": "\u795e\u5728\u6708\u306e\u3053\u3069\u3082",
+  "release_date": "2021-10-08",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

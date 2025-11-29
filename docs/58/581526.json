@@ -1,0 +1,48 @@
+{
+  "id": 581526,
+  "title": "Deliver Us from Evil",
+  "original_title": "\ub2e4\ub9cc \uc545\uc5d0\uc11c \uad6c\ud558\uc18c\uc11c",
+  "release_date": "2020-08-05",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

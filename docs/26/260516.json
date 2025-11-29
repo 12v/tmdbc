@@ -1,0 +1,37 @@
+{
+  "id": 260516,
+  "title": "Lupin the Third: Jigen's Gravestone",
+  "original_title": "LUPIN THE IIIRD \u6b21\u5143\u5927\u4ecb\u306e\u5893\u6a19",
+  "release_date": "2014-06-21",
+  "status": "Released",
+  "runtime": 51,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

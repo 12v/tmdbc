@@ -1,0 +1,26 @@
+{
+  "id": 575769,
+  "title": "4x4",
+  "original_title": "4x4",
+  "release_date": "2019-04-04",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

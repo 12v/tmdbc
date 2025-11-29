@@ -1,0 +1,29 @@
+{
+  "id": 590593,
+  "title": "The Queen of Black Magic",
+  "original_title": "Ratu Ilmu Hitam",
+  "release_date": "2019-11-07",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

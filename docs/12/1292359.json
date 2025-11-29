@@ -1,0 +1,29 @@
+{
+  "id": 1292359,
+  "title": "Hello, Love, Again",
+  "original_title": "Hello, Love, Again",
+  "release_date": "2024-11-13",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

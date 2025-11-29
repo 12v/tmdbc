@@ -1,0 +1,38 @@
+{
+  "id": 321050,
+  "title": "The Miracle",
+  "original_title": "Mucize",
+  "release_date": "2015-01-01",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

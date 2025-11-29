@@ -1,0 +1,38 @@
+{
+  "id": 15049,
+  "title": "Bon Cop Bad Cop",
+  "original_title": "Bon Cop Bad Cop",
+  "release_date": "2006-07-06",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

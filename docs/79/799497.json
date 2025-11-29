@@ -1,0 +1,33 @@
+{
+  "id": 799497,
+  "title": "Get the Goat",
+  "original_title": "Cabras da Peste",
+  "release_date": "2021-03-18",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

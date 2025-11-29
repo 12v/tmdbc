@@ -1,0 +1,31 @@
+{
+  "id": 1092331,
+  "title": "The Last Year of Darkness",
+  "original_title": "\u5348\u591c\u51fa\u8d70",
+  "release_date": "2023-03-21",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

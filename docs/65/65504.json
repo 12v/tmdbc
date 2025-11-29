@@ -1,0 +1,35 @@
+{
+  "id": 65504,
+  "title": "Chronopolis",
+  "original_title": "Chronopolis",
+  "release_date": "1983-09-21",
+  "status": "Released",
+  "runtime": 52,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

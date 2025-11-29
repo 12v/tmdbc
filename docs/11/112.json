@@ -1,0 +1,38 @@
+{
+  "id": 112,
+  "title": "Italian for Beginners",
+  "original_title": "Italiensk for begyndere",
+  "release_date": "2000-12-07",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

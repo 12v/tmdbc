@@ -1,0 +1,25 @@
+{
+  "id": 785534,
+  "title": "Paper Lives",
+  "original_title": "Ka\u011f\u0131ttan Hayatlar",
+  "release_date": "2021-03-12",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

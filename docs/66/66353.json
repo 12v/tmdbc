@@ -1,0 +1,33 @@
+{
+  "id": 66353,
+  "title": "Mahanadhi",
+  "original_title": "\u0bae\u0b95\u0bbe\u0ba8\u0ba4\u0bbf",
+  "release_date": "1994-01-14",
+  "status": "Released",
+  "runtime": 162,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

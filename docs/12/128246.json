@@ -1,0 +1,29 @@
+{
+  "id": 128246,
+  "title": "A Werewolf Boy",
+  "original_title": "\ub291\ub300\uc18c\ub144",
+  "release_date": "2012-10-31",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

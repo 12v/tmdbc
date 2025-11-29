@@ -1,0 +1,40 @@
+{
+  "id": 35854,
+  "title": "Flash Point",
+  "original_title": "\u5c0e\u706b\u7dda",
+  "release_date": "2007-07-26",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

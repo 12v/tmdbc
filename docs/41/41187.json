@@ -1,0 +1,25 @@
+{
+  "id": 41187,
+  "title": "Fate",
+  "original_title": "Yazg\u0131",
+  "release_date": "2001-02-01",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 467905,
+  "title": "How to Make a Killing",
+  "original_title": "How to Make a Killing",
+  "release_date": "2026-02-20",
+  "status": "Post Production",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

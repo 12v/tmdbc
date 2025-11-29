@@ -1,0 +1,29 @@
+{
+  "id": 55544,
+  "title": "Tartuffe",
+  "original_title": "Herr Tart\u00fcff",
+  "release_date": "1926-01-25",
+  "status": "Released",
+  "runtime": 62,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

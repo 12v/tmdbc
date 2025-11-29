@@ -1,0 +1,42 @@
+{
+  "id": 425505,
+  "title": "Kin",
+  "original_title": "Kin",
+  "release_date": "2018-08-29",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

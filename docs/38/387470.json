@@ -1,0 +1,33 @@
+{
+  "id": 387470,
+  "title": "JoJo's Bizarre Adventure: Phantom Blood",
+  "original_title": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30d5\u30a1\u30f3\u30c8\u30e0 \u30d6\u30e9\u30c3\u30c9",
+  "release_date": "2007-02-17",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

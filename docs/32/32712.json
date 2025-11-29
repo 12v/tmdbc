@@ -1,0 +1,30 @@
+{
+  "id": 32712,
+  "title": "The House",
+  "original_title": "A casa",
+  "release_date": "1997-10-01",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "lt",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvi\u0173"
+    }
+  ],
+  "origin_country": [
+    "LT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 509730,
+  "title": "The Queen's Corgi",
+  "original_title": "The Queen's Corgi",
+  "release_date": "2019-02-13",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "BE"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

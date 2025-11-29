@@ -1,0 +1,29 @@
+{
+  "id": 706,
+  "title": "Effi Briest",
+  "original_title": "Fontane Effi Briest",
+  "release_date": "1974-06-20",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

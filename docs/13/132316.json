@@ -1,0 +1,29 @@
+{
+  "id": 132316,
+  "title": "Jab Tak Hai Jaan",
+  "original_title": "\u091c\u092c \u0924\u0915 \u0939\u0948 \u091c\u093e\u0928",
+  "release_date": "2012-11-13",
+  "status": "Released",
+  "runtime": 176,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

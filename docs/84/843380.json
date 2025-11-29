@@ -1,0 +1,38 @@
+{
+  "id": 843380,
+  "title": "Dead for a Dollar",
+  "original_title": "Dead for a Dollar",
+  "release_date": "2022-09-30",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

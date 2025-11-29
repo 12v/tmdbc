@@ -1,0 +1,29 @@
+{
+  "id": 84255,
+  "title": "Lady on the Bus",
+  "original_title": "A Dama do Lota\u00e7\u00e3o",
+  "release_date": "1978-04-17",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

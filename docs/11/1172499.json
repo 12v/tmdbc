@@ -1,0 +1,35 @@
+{
+  "id": 1172499,
+  "title": "Ice Cold: Murder, Coffee and Jessica Wongso",
+  "original_title": "Ice Cold: Murder, Coffee and Jessica Wongso",
+  "release_date": "2023-09-28",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ID",
+    "SG"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

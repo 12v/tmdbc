@@ -1,0 +1,25 @@
+{
+  "id": 596881,
+  "title": "Dwelling in the Fuchun Mountains",
+  "original_title": "\u6625\u6c5f\u6c34\u6696",
+  "release_date": "2020-01-01",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

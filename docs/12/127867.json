@@ -1,0 +1,33 @@
+{
+  "id": 127867,
+  "title": "The Brass Teapot",
+  "original_title": "The Brass Teapot",
+  "release_date": "2012-09-08",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

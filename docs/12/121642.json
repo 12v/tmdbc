@@ -1,0 +1,43 @@
+{
+  "id": 121642,
+  "title": "Twice Born",
+  "original_title": "Venuto al mondo",
+  "release_date": "2012-09-13",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 68822,
+  "title": "Casque d'Or",
+  "original_title": "Casque d'Or",
+  "release_date": "1952-03-13",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

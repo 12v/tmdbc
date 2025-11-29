@@ -1,0 +1,29 @@
+{
+  "id": 110428,
+  "title": "Camille Claudel, 1915",
+  "original_title": "Camille Claudel, 1915",
+  "release_date": "2013-03-13",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

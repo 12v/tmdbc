@@ -1,0 +1,25 @@
+{
+  "id": 154575,
+  "title": "Illumination",
+  "original_title": "Iluminacja",
+  "release_date": "1973-09-29",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

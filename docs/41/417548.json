@@ -1,0 +1,25 @@
+{
+  "id": 417548,
+  "title": "Brazilian Holocaust",
+  "original_title": "Holocausto Brasileiro",
+  "release_date": "2016-10-06",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

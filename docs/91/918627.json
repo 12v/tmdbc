@@ -1,0 +1,30 @@
+{
+  "id": 918627,
+  "title": "On My Mind",
+  "original_title": "On My Mind",
+  "release_date": "2021-07-10",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

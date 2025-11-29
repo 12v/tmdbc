@@ -1,0 +1,43 @@
+{
+  "id": 18672,
+  "title": "The Legend of the Swordsman",
+  "original_title": "\u7b11\u50b2\u6c5f\u6e56II\u6771\u65b9\u4e0d\u6557",
+  "release_date": "1992-06-26",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

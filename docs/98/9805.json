@@ -1,0 +1,33 @@
+{
+  "id": 9805,
+  "title": "(T)Raumschiff Surprise - Periode 1",
+  "original_title": "(T)Raumschiff Surprise - Periode 1",
+  "release_date": "2004-07-14",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

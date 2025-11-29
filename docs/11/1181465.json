@@ -1,0 +1,25 @@
+{
+  "id": 1181465,
+  "title": "Becky and Badette",
+  "original_title": "Becky and Badette",
+  "release_date": "2023-12-25",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

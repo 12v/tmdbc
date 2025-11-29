@@ -1,0 +1,33 @@
+{
+  "id": 834664,
+  "title": "Anweshippin Kandethum",
+  "original_title": "\u0d05\u0d28\u0d4d\u0d35\u0d47\u0d37\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d7b \u0d15\u0d23\u0d4d\u0d1f\u0d46\u0d24\u0d4d\u0d24\u0d41\u0d02",
+  "release_date": "2024-02-09",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

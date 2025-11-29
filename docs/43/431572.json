@@ -1,0 +1,37 @@
+{
+  "id": 431572,
+  "title": "JoJo's Bizarre Adventure: Diamond Is Unbreakable \u2013 Chapter 1",
+  "original_title": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u306f\u7815\u3051\u306a\u3044 \u7b2c\u4e00\u7ae0",
+  "release_date": "2017-08-04",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

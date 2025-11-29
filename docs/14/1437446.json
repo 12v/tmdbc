@@ -1,0 +1,25 @@
+{
+  "id": 1437446,
+  "title": "The Twister: Caught in the Storm",
+  "original_title": "The Twister: Caught in the Storm",
+  "release_date": "2025-03-18",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

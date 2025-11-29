@@ -1,0 +1,25 @@
+{
+  "id": 1178602,
+  "title": "Mirrors No. 3",
+  "original_title": "Miroirs No. 3",
+  "release_date": "2025-08-27",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

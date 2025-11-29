@@ -1,0 +1,25 @@
+{
+  "id": 10502,
+  "title": "The Man Without a Face",
+  "original_title": "The Man Without a Face",
+  "release_date": "1993-08-25",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

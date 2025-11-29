@@ -1,0 +1,35 @@
+{
+  "id": 1084863,
+  "title": "The Soul Eater",
+  "original_title": "Le Mangeur d'\u00e2mes",
+  "release_date": "2024-04-24",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

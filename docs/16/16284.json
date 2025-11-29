@@ -1,0 +1,38 @@
+{
+  "id": 16284,
+  "title": "Ice Cold in Alex",
+  "original_title": "Ice Cold in Alex",
+  "release_date": "1958-06-24",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

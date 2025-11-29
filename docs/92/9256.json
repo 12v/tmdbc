@@ -1,0 +1,34 @@
+{
+  "id": 9256,
+  "title": "Kopps",
+  "original_title": "Kopps",
+  "release_date": "2003-02-06",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

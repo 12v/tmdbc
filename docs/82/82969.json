@@ -1,0 +1,35 @@
+{
+  "id": 82969,
+  "title": "Don Juan or If Don Juan Were a Woman",
+  "original_title": "Don Juan ou si Don Juan \u00e9tait une femme...",
+  "release_date": "1973-02-22",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

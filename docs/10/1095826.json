@@ -1,0 +1,33 @@
+{
+  "id": 1095826,
+  "title": "Chronicles of a Wandering Saint",
+  "original_title": "Cr\u00f3nicas de una santa errante",
+  "release_date": "2024-06-28",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1462322,
+  "title": "The Last One for the Road",
+  "original_title": "Le citt\u00e0 di pianura",
+  "release_date": "2025-09-25",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

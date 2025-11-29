@@ -1,0 +1,25 @@
+{
+  "id": 1137759,
+  "title": "God Save the Tuches",
+  "original_title": "God Save the Tuche",
+  "release_date": "2025-02-05",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

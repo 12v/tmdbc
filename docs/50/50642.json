@@ -1,0 +1,29 @@
+{
+  "id": 50642,
+  "title": "Xuxa and the Mystery of the Little Ugly Princess",
+  "original_title": "Xuxa em: O Mist\u00e9rio de Feiurinha",
+  "release_date": "2009-12-25",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

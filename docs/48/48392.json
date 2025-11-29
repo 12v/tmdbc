@@ -1,0 +1,34 @@
+{
+  "id": 48392,
+  "title": "Sound of Noise",
+  "original_title": "Sound of Noise",
+  "release_date": "2010-12-25",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

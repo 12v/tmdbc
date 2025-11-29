@@ -1,0 +1,33 @@
+{
+  "id": 48490,
+  "title": "The New Barbarians",
+  "original_title": "I nuovi barbari",
+  "release_date": "1983-06-10",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

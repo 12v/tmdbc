@@ -1,0 +1,37 @@
+{
+  "id": 35053,
+  "title": "Darr",
+  "original_title": "\u0921\u0930",
+  "release_date": "1993-09-01",
+  "status": "Released",
+  "runtime": 179,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

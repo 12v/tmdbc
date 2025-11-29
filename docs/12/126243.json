@@ -1,0 +1,33 @@
+{
+  "id": 126243,
+  "title": "Death Laid an Egg",
+  "original_title": "La morte ha fatto l'uovo",
+  "release_date": "1968-01-09",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

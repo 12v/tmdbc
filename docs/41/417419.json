@@ -1,0 +1,29 @@
+{
+  "id": 417419,
+  "title": "SoulMate",
+  "original_title": "\u4e03\u6708\u4e0e\u5b89\u751f",
+  "release_date": "2016-09-14",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

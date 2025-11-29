@@ -1,0 +1,25 @@
+{
+  "id": 51578,
+  "title": "Happy End",
+  "original_title": "Happy End",
+  "release_date": "1967-09-01",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

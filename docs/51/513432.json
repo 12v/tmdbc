@@ -1,0 +1,40 @@
+{
+  "id": 513432,
+  "title": "Only You",
+  "original_title": "Only You",
+  "release_date": "2019-07-12",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "SE",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

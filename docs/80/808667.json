@@ -1,0 +1,33 @@
+{
+  "id": 808667,
+  "title": "Character",
+  "original_title": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
+  "release_date": "2021-06-11",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 973468,
+  "title": "WILL",
+  "original_title": "WIL",
+  "release_date": "2023-09-27",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

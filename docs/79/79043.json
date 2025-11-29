@@ -1,0 +1,38 @@
+{
+  "id": 79043,
+  "title": "The Story of Marie and Julien",
+  "original_title": "Histoire de Marie et Julien",
+  "release_date": "2003-09-10",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

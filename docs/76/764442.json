@@ -1,0 +1,30 @@
+{
+  "id": 764442,
+  "title": "Puan",
+  "original_title": "Puan",
+  "release_date": "2023-10-05",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

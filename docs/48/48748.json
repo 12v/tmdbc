@@ -1,0 +1,25 @@
+{
+  "id": 48748,
+  "title": "Klown",
+  "original_title": "Klovn - The Movie",
+  "release_date": "2010-12-16",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

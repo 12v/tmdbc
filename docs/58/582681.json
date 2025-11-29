@@ -1,0 +1,44 @@
+{
+  "id": 582681,
+  "title": "Friend Zone",
+  "original_title": "Friend Zone \u0e23\u0e30\u0e27\u0e31\u0e07..\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e32\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19",
+  "release_date": "2019-02-14",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

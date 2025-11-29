@@ -1,0 +1,25 @@
+{
+  "id": 221767,
+  "title": "Crypt of the Vampire",
+  "original_title": "La cripta e l'incubo",
+  "release_date": "1964-05-27",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

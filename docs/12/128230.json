@@ -1,0 +1,26 @@
+{
+  "id": 128230,
+  "title": "Three Sisters",
+  "original_title": "\u4e09\u59ca\u59b9",
+  "release_date": "2012-11-21",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

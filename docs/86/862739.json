@@ -1,0 +1,31 @@
+{
+  "id": 862739,
+  "title": "The Virgin of the Quarry Lake",
+  "original_title": "La virgen de la tosquera",
+  "release_date": "2025-10-30",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "MX",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

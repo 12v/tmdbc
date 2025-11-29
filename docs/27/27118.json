@@ -1,0 +1,37 @@
+{
+  "id": 27118,
+  "title": "The Hound of the Baskervilles",
+  "original_title": "The Hound of the Baskervilles",
+  "release_date": "1939-03-24",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

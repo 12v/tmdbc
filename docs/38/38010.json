@@ -1,0 +1,33 @@
+{
+  "id": 38010,
+  "title": "Fish Story",
+  "original_title": "\u30d5\u30a3\u30c3\u30b7\u30e5\u30b9\u30c8\u30fc\u30ea\u30fc",
+  "release_date": "2009-03-20",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

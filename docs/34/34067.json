@@ -1,0 +1,45 @@
+{
+  "id": 34067,
+  "title": "Pok\u00e9mon: Lucario and the Mystery of Mew",
+  "original_title": "\u5287\u5834\u7248\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u30a2\u30c9\u30d0\u30f3\u30b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3 \u30df\u30e5\u30a6\u3068\u6ce2\u5c0e\u306e\u52c7\u8005 \u30eb\u30ab\u30ea\u30aa",
+  "release_date": "2005-07-16",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

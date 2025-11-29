@@ -1,0 +1,29 @@
+{
+  "id": 928720,
+  "title": "Return to Dust",
+  "original_title": "\u9690\u5165\u5c18\u70df",
+  "release_date": "2022-07-08",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

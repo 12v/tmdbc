@@ -1,0 +1,29 @@
+{
+  "id": 1289888,
+  "title": "French Lover",
+  "original_title": "French Lover",
+  "release_date": "2025-09-25",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

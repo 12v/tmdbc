@@ -1,0 +1,25 @@
+{
+  "id": 90041,
+  "title": "La R\u00e9gion Centrale",
+  "original_title": "La r\u00e9gion centrale",
+  "release_date": "1971-02-12",
+  "status": "Released",
+  "runtime": 193,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

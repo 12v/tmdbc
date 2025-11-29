@@ -1,0 +1,33 @@
+{
+  "id": 78146,
+  "title": "Tough Guys Don't Dance",
+  "original_title": "Tough Guys Don't Dance",
+  "release_date": "1987-09-18",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

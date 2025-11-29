@@ -1,0 +1,33 @@
+{
+  "id": 1113448,
+  "title": "Ehrengard: The Art of Seduction",
+  "original_title": "Ehrengard: Forf\u00f8relsens kunst",
+  "release_date": "2023-09-14",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

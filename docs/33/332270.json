@@ -1,0 +1,39 @@
+{
+  "id": 332270,
+  "title": "Battle for Sevastopol",
+  "original_title": "\u0411\u0438\u0442\u0432\u0430 \u0437\u0430 \u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c",
+  "release_date": "2015-04-02",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU",
+    "UA"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

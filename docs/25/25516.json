@@ -1,0 +1,38 @@
+{
+  "id": 25516,
+  "title": "Koi... Mil Gaya",
+  "original_title": "\u0915\u094b\u0908 \u092e\u093f\u0932 \u0917\u092f\u093e",
+  "release_date": "2003-08-08",
+  "status": "Released",
+  "runtime": 165,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

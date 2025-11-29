@@ -1,0 +1,41 @@
+{
+  "id": 1000169,
+  "title": "Muganga",
+  "original_title": "Muganga - Celui qui soigne",
+  "release_date": "2025-09-24",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Lingala",
+      "iso_639_1": "ln",
+      "name": ""
+    },
+    {
+      "english_name": "Swahili",
+      "iso_639_1": "sw",
+      "name": "Kiswahili"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR",
+    "GA"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

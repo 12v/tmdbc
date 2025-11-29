@@ -1,0 +1,43 @@
+{
+  "id": 30593,
+  "title": "Heavy Traffic",
+  "original_title": "Heavy Traffic",
+  "release_date": "1973-08-08",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

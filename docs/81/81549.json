@@ -1,0 +1,37 @@
+{
+  "id": 81549,
+  "title": "Everything's Gonna Be Great",
+  "original_title": "Her \u015eey \u00c7ok G\u00fczel Olacak",
+  "release_date": "1998-11-27",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

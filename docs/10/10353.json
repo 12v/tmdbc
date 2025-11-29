@@ -1,0 +1,29 @@
+{
+  "id": 10353,
+  "title": "The Visitors II: The Corridors of Time",
+  "original_title": "Les Couloirs du temps : Les Visiteurs II",
+  "release_date": "1998-02-11",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

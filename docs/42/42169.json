@@ -1,0 +1,25 @@
+{
+  "id": 42169,
+  "title": "Christ Stopped at Eboli",
+  "original_title": "Cristo si \u00e8 fermato a Eboli",
+  "release_date": "1979-02-23",
+  "status": "Released",
+  "runtime": 220,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

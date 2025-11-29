@@ -1,0 +1,33 @@
+{
+  "id": 1363381,
+  "title": "Haunting of Mount Gede",
+  "original_title": "Petaka Gunung Gede",
+  "release_date": "2025-02-06",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

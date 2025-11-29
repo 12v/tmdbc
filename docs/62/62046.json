@@ -1,0 +1,33 @@
+{
+  "id": 62046,
+  "title": "Flypaper",
+  "original_title": "Flypaper",
+  "release_date": "2011-08-19",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

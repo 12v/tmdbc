@@ -1,0 +1,29 @@
+{
+  "id": 24001,
+  "title": "The Hills Run Red",
+  "original_title": "The Hills Run Red",
+  "release_date": "2009-09-29",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

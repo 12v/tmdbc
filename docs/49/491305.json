@@ -1,0 +1,34 @@
+{
+  "id": 491305,
+  "title": "Dead Pigs",
+  "original_title": "\u6d77\u4e0a\u6d6e\u57ce",
+  "release_date": "2018-01-19",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

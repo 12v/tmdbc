@@ -1,0 +1,29 @@
+{
+  "id": 43641,
+  "title": "Superman/Shazam!: The Return of Black Adam",
+  "original_title": "Superman/Shazam!: The Return of Black Adam",
+  "release_date": "2010-11-16",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

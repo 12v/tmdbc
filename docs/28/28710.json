@@ -1,0 +1,27 @@
+{
+  "id": 28710,
+  "title": "Kamchatka",
+  "original_title": "Kamchatka",
+  "release_date": "2002-10-17",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "ES",
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

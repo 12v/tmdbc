@@ -1,0 +1,25 @@
+{
+  "id": 20914,
+  "title": "My Friends",
+  "original_title": "Amici miei",
+  "release_date": "1975-10-24",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 767499,
+  "title": "The Manor",
+  "original_title": "The Manor",
+  "release_date": "2021-10-08",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

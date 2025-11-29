@@ -1,0 +1,25 @@
+{
+  "id": 185366,
+  "title": "Sunday in Peking",
+  "original_title": "Dimanche \u00e0 Pekin",
+  "release_date": "1956-11-01",
+  "status": "Released",
+  "runtime": 19,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

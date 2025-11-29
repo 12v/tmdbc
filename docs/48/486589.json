@@ -1,0 +1,45 @@
+{
+  "id": 486589,
+  "title": "Red Shoes and the Seven Dwarfs",
+  "original_title": "\ub808\ub4dc\uc288\uc988",
+  "release_date": "2019-07-25",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}
