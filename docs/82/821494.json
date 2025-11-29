@@ -1,0 +1,25 @@
+{
+  "id": 821494,
+  "title": "Last Film Show",
+  "original_title": "\u0a9b\u0ac7\u0ab2\u0acd\u0ab2\u0acb \u0ab6\u0acb",
+  "release_date": "2022-01-06",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "gu",
+  "spoken_languages": [
+    {
+      "english_name": "Gujarati",
+      "iso_639_1": "gu",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

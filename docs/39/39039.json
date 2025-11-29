@@ -1,0 +1,33 @@
+{
+  "id": 39039,
+  "title": "Awaara",
+  "original_title": "\u0906\u0935\u093e\u0930\u093e",
+  "release_date": "1951-12-14",
+  "status": "Released",
+  "runtime": 168,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

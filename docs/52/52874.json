@@ -1,0 +1,33 @@
+{
+  "id": 52874,
+  "title": "Battles Without Honor and Humanity: Proxy War",
+  "original_title": "\u4ec1\u7fa9\u306a\u304d\u6226\u3044 \u4ee3\u7406\u6226\u4e89",
+  "release_date": "1973-09-25",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

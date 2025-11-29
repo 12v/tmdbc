@@ -1,0 +1,32 @@
+{
+  "id": 1019871,
+  "title": "Little Trouble Girls",
+  "original_title": "Kaj ti je deklica",
+  "release_date": "2025-08-29",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "sl",
+  "spoken_languages": [
+    {
+      "english_name": "Slovenian",
+      "iso_639_1": "sl",
+      "name": "Sloven\u0161\u010dina"
+    }
+  ],
+  "origin_country": [
+    "HR",
+    "SI",
+    "IT",
+    "RS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

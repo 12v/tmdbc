@@ -1,0 +1,29 @@
+{
+  "id": 63066,
+  "title": "25 Watts",
+  "original_title": "25 Watts",
+  "release_date": "2001-01-28",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

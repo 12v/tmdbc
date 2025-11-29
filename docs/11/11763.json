@@ -1,0 +1,33 @@
+{
+  "id": 11763,
+  "title": "Bunty Aur Babli",
+  "original_title": "\u092c\u0902\u091f\u0940 \u0914\u0930 \u092c\u092c\u094d\u0932\u0940",
+  "release_date": "2005-05-27",
+  "status": "Released",
+  "runtime": 170,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 21930,
+  "title": "Gamera, the Giant Monster",
+  "original_title": "\u5927\u602a\u7363\u30ac\u30e1\u30e9",
+  "release_date": "1965-11-27",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

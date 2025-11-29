@@ -1,0 +1,25 @@
+{
+  "id": 69313,
+  "title": "The Guitar Mongoloid",
+  "original_title": "Gitarrmongot",
+  "release_date": "2004-10-01",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

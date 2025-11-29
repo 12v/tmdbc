@@ -1,0 +1,29 @@
+{
+  "id": 10036,
+  "title": "7 Dwarves: The Forest Is Not Enough",
+  "original_title": "7 Zwerge - Der Wald ist nicht genug",
+  "release_date": "2006-10-25",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 49899,
+  "title": "1/2 Man",
+  "original_title": "1/2 Mensch",
+  "release_date": "1986-07-06",
+  "status": "Released",
+  "runtime": 58,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

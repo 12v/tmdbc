@@ -1,0 +1,29 @@
+{
+  "id": 131473,
+  "title": "Way of a Gaucho",
+  "original_title": "Way of a Gaucho",
+  "release_date": "1952-10-16",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

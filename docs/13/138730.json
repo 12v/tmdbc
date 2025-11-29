@@ -1,0 +1,37 @@
+{
+  "id": 138730,
+  "title": "The Bewitched House",
+  "original_title": "La maison ensorcel\u00e9e",
+  "release_date": "1907-12-21",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

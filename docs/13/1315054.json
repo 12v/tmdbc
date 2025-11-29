@@ -1,0 +1,28 @@
+{
+  "id": 1315054,
+  "title": "Youth (Hard Times)",
+  "original_title": "\u9752\u6625\uff08\u82e6\uff09",
+  "release_date": "2025-04-02",
+  "status": "Released",
+  "runtime": 227,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "NL",
+    "LU",
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

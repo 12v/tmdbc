@@ -1,0 +1,29 @@
+{
+  "id": 31401,
+  "title": "The Broken Landlord",
+  "original_title": "Z\u00fc\u011f\u00fcrt A\u011fa",
+  "release_date": "1985-04-07",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

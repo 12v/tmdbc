@@ -1,0 +1,30 @@
+{
+  "id": 583198,
+  "title": "Unclenching the Fists",
+  "original_title": "\u0420\u0430\u0437\u0436\u0438\u043c\u0430\u044f \u043a\u0443\u043b\u0430\u043a\u0438",
+  "release_date": "2021-09-25",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "os",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Ossetian; Ossetic",
+      "iso_639_1": "os",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

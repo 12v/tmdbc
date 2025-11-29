@@ -1,0 +1,25 @@
+{
+  "id": 1235610,
+  "title": "Mercato",
+  "original_title": "Mercato",
+  "release_date": "2025-02-19",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

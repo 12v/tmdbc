@@ -1,0 +1,25 @@
+{
+  "id": 164990,
+  "title": "The Golden Fortress",
+  "original_title": "\u09b8\u09cb\u09a8\u09be\u09b0 \u0995\u09c7\u09b2\u09cd\u09b2\u09be",
+  "release_date": "1974-12-27",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

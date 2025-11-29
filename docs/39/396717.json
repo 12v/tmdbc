@@ -1,0 +1,23 @@
+{
+  "id": 396717,
+  "title": "12 Kilometers",
+  "original_title": "12 Kilometers",
+  "release_date": "2016-04-16",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "ru",
+  "spoken_languages": [],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 854344,
+  "title": "Senritsu Kaiki File Kowasugi! File 04: The Truth! Hanako-san in the Toilet",
+  "original_title": "\u6226\u6144\u602a\u5947\u30d5\u30a1\u30a4\u30eb \u30b3\u30ef\u3059\u304e\uff01FILE-04\u771f\u76f8\uff01\u30c8\u30a4\u30ec\u306e\u82b1\u5b50\u3055\u3093",
+  "release_date": "2013-03-02",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

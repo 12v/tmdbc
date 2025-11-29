@@ -1,0 +1,29 @@
+{
+  "id": 81981,
+  "title": "Girl with Hyacinths",
+  "original_title": "Flicka och Hyacinter",
+  "release_date": "1950-03-06",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

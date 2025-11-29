@@ -1,0 +1,25 @@
+{
+  "id": 37769,
+  "title": "The Second Tragic Fantozzi",
+  "original_title": "Il secondo tragico Fantozzi",
+  "release_date": "1976-04-15",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

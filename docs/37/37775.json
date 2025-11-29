@@ -1,0 +1,25 @@
+{
+  "id": 37775,
+  "title": "Bianco, rosso e Verdone",
+  "original_title": "Bianco, rosso e Verdone",
+  "release_date": "1981-02-20",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

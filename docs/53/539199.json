@@ -1,0 +1,29 @@
+{
+  "id": 539199,
+  "title": "The Great Buster: A Celebration",
+  "original_title": "The Great Buster: A Celebration",
+  "release_date": "2018-10-05",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

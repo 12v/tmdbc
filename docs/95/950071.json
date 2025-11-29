@@ -1,0 +1,38 @@
+{
+  "id": 950071,
+  "title": "Jaane Jaan",
+  "original_title": "\u091c\u093e\u0928\u0947 \u091c\u093e\u0902",
+  "release_date": "2023-09-21",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

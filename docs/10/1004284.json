@@ -1,0 +1,25 @@
+{
+  "id": 1004284,
+  "title": "Astral City 2: The Messengers",
+  "original_title": "Nosso Lar 2: Os Mensageiros",
+  "release_date": "2024-01-25",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 18125,
+  "title": "Rita, Sue and Bob Too",
+  "original_title": "Rita, Sue and Bob Too",
+  "release_date": "1987-05-20",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

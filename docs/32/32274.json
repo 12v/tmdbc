@@ -1,0 +1,25 @@
+{
+  "id": 32274,
+  "title": "Cradle Will Rock",
+  "original_title": "Cradle Will Rock",
+  "release_date": "1999-12-10",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

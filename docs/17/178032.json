@@ -1,0 +1,29 @@
+{
+  "id": 178032,
+  "title": "Lucio Flavio",
+  "original_title": "L\u00facio Fl\u00e1vio, o Passageiro da Agonia",
+  "release_date": "1977-02-01",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

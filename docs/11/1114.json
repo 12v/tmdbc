@@ -1,0 +1,29 @@
+{
+  "id": 1114,
+  "title": "The Story of the Weeping Camel",
+  "original_title": "Die Geschichte vom weinenden Kamel",
+  "release_date": "2003-06-29",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "mn",
+  "spoken_languages": [
+    {
+      "english_name": "Mongolian",
+      "iso_639_1": "mn",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "MN"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

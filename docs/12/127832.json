@@ -1,0 +1,25 @@
+{
+  "id": 127832,
+  "title": "The Bloody Exorcism of Coffin Joe",
+  "original_title": "O Exorcismo Negro",
+  "release_date": "1974-09-23",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

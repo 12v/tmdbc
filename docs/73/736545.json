@@ -1,0 +1,29 @@
+{
+  "id": 736545,
+  "title": "Nothing Serious",
+  "original_title": "\uc5f0\uc560 \ube60\uc9c4 \ub85c\ub9e8\uc2a4",
+  "release_date": "2021-11-24",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

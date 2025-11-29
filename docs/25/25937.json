@@ -1,0 +1,29 @@
+{
+  "id": 25937,
+  "title": "Once in a Summer",
+  "original_title": "\uadf8\ud574 \uc5ec\ub984",
+  "release_date": "2006-11-30",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 84249,
+  "title": "The Exiles",
+  "original_title": "The Exiles",
+  "release_date": "1961-07-13",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Navajo",
+      "iso_639_1": "nv",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

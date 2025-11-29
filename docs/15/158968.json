@@ -1,0 +1,25 @@
+{
+  "id": 158968,
+  "title": "Salt for Svanetia",
+  "original_title": "\u10ef\u10d8\u10db \u10e8\u10d5\u10d0\u10dc\u10d7\u10d4 (\u10db\u10d0\u10e0\u10d8\u10da\u10d8 \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10e1)",
+  "release_date": "1930-05-24",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

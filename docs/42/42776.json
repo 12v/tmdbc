@@ -1,0 +1,37 @@
+{
+  "id": 42776,
+  "title": "Sea Prince and the Fire Child",
+  "original_title": "\u30b7\u30ea\u30a6\u30b9\u306e\u4f1d\u8aac",
+  "release_date": "1981-07-18",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

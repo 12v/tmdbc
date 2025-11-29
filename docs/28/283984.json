@@ -1,0 +1,41 @@
+{
+  "id": 283984,
+  "title": "Fate/stay night: Heaven's Feel I. Presage Flower",
+  "original_title": "\u5287\u5834\u7248\u300cFate/stay night [Heaven\u2019s Feel]\u300d\u2160.presage flower",
+  "release_date": "2017-10-14",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

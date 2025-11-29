@@ -1,0 +1,31 @@
+{
+  "id": 1072269,
+  "title": "The Successor",
+  "original_title": "Le Successeur",
+  "release_date": "2023-11-07",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "CA",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

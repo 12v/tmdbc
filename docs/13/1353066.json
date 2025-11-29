@@ -1,0 +1,29 @@
+{
+  "id": 1353066,
+  "title": "A Pr\u00f3pria Carne",
+  "original_title": "A Pr\u00f3pria Carne",
+  "release_date": "2025-10-30",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1230242,
+  "title": "Bray Wyatt: Becoming Immortal",
+  "original_title": "Bray Wyatt: Becoming Immortal",
+  "release_date": "2024-03-31",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

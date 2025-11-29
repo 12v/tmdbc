@@ -1,0 +1,35 @@
+{
+  "id": 50275,
+  "title": "TPB AFK: The Pirate Bay - Away from Keyboard",
+  "original_title": "TPB AFK: The Pirate Bay - Away from Keyboard",
+  "release_date": "2013-02-08",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

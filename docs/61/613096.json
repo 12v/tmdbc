@@ -1,0 +1,25 @@
+{
+  "id": 613096,
+  "title": "I Love You, Stupid",
+  "original_title": "Te quiero, imb\u00e9cil",
+  "release_date": "2020-01-24",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

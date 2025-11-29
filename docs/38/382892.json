@@ -1,0 +1,29 @@
+{
+  "id": 382892,
+  "title": "Paris 05:59 / Th\u00e9o & Hugo",
+  "original_title": "Th\u00e9o et Hugo dans le m\u00eame bateau",
+  "release_date": "2016-04-27",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

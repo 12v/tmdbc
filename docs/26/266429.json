@@ -1,0 +1,29 @@
+{
+  "id": 266429,
+  "title": "Murdering the Devil",
+  "original_title": "Vra\u017eda ing. \u010certa",
+  "release_date": "1970-09-18",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

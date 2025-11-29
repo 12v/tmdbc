@@ -1,0 +1,29 @@
+{
+  "id": 97105,
+  "title": "Amblin'",
+  "original_title": "Amblin'",
+  "release_date": "1968-12-18",
+  "status": "Released",
+  "runtime": 26,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

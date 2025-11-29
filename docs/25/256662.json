@@ -1,0 +1,29 @@
+{
+  "id": 256662,
+  "title": "Forever a Woman",
+  "original_title": "\u4e73\u623f\u3088\u6c38\u9060\u306a\u308c",
+  "release_date": "1955-11-23",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

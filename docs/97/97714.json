@@ -1,0 +1,25 @@
+{
+  "id": 97714,
+  "title": "Children of the Beehive",
+  "original_title": "\u8702\u306e\u5de3\u306e\u5b50\u4f9b\u305f\u3061",
+  "release_date": "1948-08-24",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

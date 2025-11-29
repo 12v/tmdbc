@@ -1,0 +1,33 @@
+{
+  "id": 54111,
+  "title": "Memento Mori",
+  "original_title": "\uc5ec\uace0\uad34\ub2f4 \ub450\ubc88\uc9f8 \uc774\uc57c\uae30",
+  "release_date": "1999-12-24",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 12659,
+  "title": "Beijing Bicycle",
+  "original_title": "\u5341\u4e03\u5c81\u7684\u5355\u8f66",
+  "release_date": "2002-01-25",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

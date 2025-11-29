@@ -1,0 +1,29 @@
+{
+  "id": 455925,
+  "title": "Afternoon Class",
+  "original_title": "\uc560\ud504\ud130\ub208 \ud074\ub798\uc2a4",
+  "release_date": "2015-09-18",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 108017,
+  "title": "A Man There Was",
+  "original_title": "Terje Vigen",
+  "release_date": "1917-01-29",
+  "status": "Released",
+  "runtime": 56,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

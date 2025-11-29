@@ -4,9 +4,14 @@
   "original_title": "Stroszek",
   "release_date": "1977-05-20",
   "status": "Released",
-  "runtime": 107,
+  "runtime": 108,
   "original_language": "de",
   "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
     {
       "english_name": "German",
       "iso_639_1": "de",
@@ -16,11 +21,6 @@
       "english_name": "Italian",
       "iso_639_1": "it",
       "name": "Italiano"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
     }
   ],
   "origin_country": [

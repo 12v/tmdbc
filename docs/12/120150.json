@@ -1,0 +1,25 @@
+{
+  "id": 120150,
+  "title": "Thattathin Marayathu",
+  "original_title": "\u0d24\u0d1f\u0d4d\u0d1f\u0d24\u0d4d\u0d24\u0d3f\u0d7b \u0d2e\u0d31\u0d2f\u0d24\u0d4d\u0d24\u0d4d",
+  "release_date": "2012-07-06",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

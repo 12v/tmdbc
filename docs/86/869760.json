@@ -1,0 +1,37 @@
+{
+  "id": 869760,
+  "title": "Hanu-Man",
+  "original_title": "\u0c39\u0c28\u0c41-\u0c2e\u0c3e\u0c28\u0c4d",
+  "release_date": "2024-01-11",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

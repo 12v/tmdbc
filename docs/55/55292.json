@@ -1,0 +1,30 @@
+{
+  "id": 55292,
+  "title": "Shaolin",
+  "original_title": "\u65b0\u5c11\u6797\u5bfa",
+  "release_date": "2011-01-20",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

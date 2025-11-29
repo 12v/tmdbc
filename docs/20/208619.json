@@ -1,0 +1,33 @@
+{
+  "id": 208619,
+  "title": "The Moon Is... the Sun's Dream",
+  "original_title": "\ub2ec\uc740... \ud574\uac00 \uafb8\ub294 \uafc8",
+  "release_date": "1992-02-29",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

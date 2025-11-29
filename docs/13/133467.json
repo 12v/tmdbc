@@ -1,0 +1,29 @@
+{
+  "id": 133467,
+  "title": "Near Orou\u00ebt",
+  "original_title": "Du c\u00f4t\u00e9 d'Orou\u00ebt",
+  "release_date": "1973-09-27",
+  "status": "Released",
+  "runtime": 154,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

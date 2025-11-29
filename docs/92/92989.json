@@ -1,0 +1,25 @@
+{
+  "id": 92989,
+  "title": "A Summer at Grandpa's",
+  "original_title": "\u51ac\u51ac\u7684\u5047\u671f",
+  "release_date": "1984-11-24",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

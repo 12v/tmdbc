@@ -1,0 +1,30 @@
+{
+  "id": 411354,
+  "title": "What We Do in the Shadows: Interviews with Some Vampires",
+  "original_title": "What We Do in the Shadows: Interviews with Some Vampires",
+  "release_date": "2005-01-01",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "NZ",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

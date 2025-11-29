@@ -1,0 +1,37 @@
+{
+  "id": 50087,
+  "title": "Pok\u00e9mon: Zoroark - Master of Illusions",
+  "original_title": "\u5287\u5834\u7248\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9&\u30d1\u30fc\u30eb \u5e7b\u5f71\u306e\u8987\u8005 \u30be\u30ed\u30a2\u30fc\u30af",
+  "release_date": "2010-07-10",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

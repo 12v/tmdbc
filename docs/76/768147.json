@@ -1,0 +1,25 @@
+{
+  "id": 768147,
+  "title": "Asakusa Kid",
+  "original_title": "\u6d45\u8349\u30ad\u30c3\u30c9",
+  "release_date": "2021-12-09",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 129303,
+  "title": "Pas de Deux",
+  "original_title": "Pas de Deux",
+  "release_date": "1968-10-01",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

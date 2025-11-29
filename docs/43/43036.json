@@ -1,0 +1,29 @@
+{
+  "id": 43036,
+  "title": "Mill of the Stone Women",
+  "original_title": "Il mulino delle donne di pietra",
+  "release_date": "1960-08-30",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

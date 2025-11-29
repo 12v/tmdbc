@@ -1,0 +1,25 @@
+{
+  "id": 104242,
+  "title": "I Will Walk Like a Crazy Horse",
+  "original_title": "J'irai comme un cheval fou",
+  "release_date": "1973-11-22",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

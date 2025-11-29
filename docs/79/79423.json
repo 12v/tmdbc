@@ -1,0 +1,30 @@
+{
+  "id": 79423,
+  "title": "Valparaiso",
+  "original_title": "\u2026A Valpara\u00edso",
+  "release_date": "1964-08-31",
+  "status": "Released",
+  "runtime": 27,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

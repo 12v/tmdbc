@@ -1,0 +1,25 @@
+{
+  "id": 331354,
+  "title": "Requirements to Be a Normal Person",
+  "original_title": "Requisitos para ser una persona normal",
+  "release_date": "2015-06-04",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

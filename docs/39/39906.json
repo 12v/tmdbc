@@ -1,0 +1,29 @@
+{
+  "id": 39906,
+  "title": "Biotherapy",
+  "original_title": "\u30d0\u30a4\u30aa\u30bb\u30e9\u30d4\u30fc",
+  "release_date": "1986-09-25",
+  "status": "Released",
+  "runtime": 36,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 122699,
+  "title": "Bandits of Orgosolo",
+  "original_title": "Banditi a Orgosolo",
+  "release_date": "1961-11-17",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

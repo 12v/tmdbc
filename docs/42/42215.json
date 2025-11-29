@@ -1,0 +1,26 @@
+{
+  "id": 42215,
+  "title": "The Legacy",
+  "original_title": "The Legacy",
+  "release_date": "1978-09-29",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

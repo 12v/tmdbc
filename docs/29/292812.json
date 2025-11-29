@@ -1,0 +1,26 @@
+{
+  "id": 292812,
+  "title": "Brouillard #14",
+  "original_title": "Brouillard #14",
+  "release_date": "2013-09-14",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

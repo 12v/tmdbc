@@ -1,0 +1,30 @@
+{
+  "id": 92472,
+  "title": "Gandu",
+  "original_title": "\u0997\u09be\u09a8\u09cd\u09a1\u09c1",
+  "release_date": "2010-10-29",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

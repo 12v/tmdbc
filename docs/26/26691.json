@@ -1,0 +1,25 @@
+{
+  "id": 26691,
+  "title": "Neuilly Yo Mama!",
+  "original_title": "Neuilly sa M\u00e8re !",
+  "release_date": "2009-08-12",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

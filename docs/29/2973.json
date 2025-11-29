@@ -1,0 +1,33 @@
+{
+  "id": 2973,
+  "title": "Aelita: Queen of Mars",
+  "original_title": "\u0410\u044d\u043b\u0438\u0442\u0430",
+  "release_date": "1924-09-24",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 568034,
+  "title": "Something Good \u2014 Negro Kiss",
+  "original_title": "Something Good \u2014 Negro Kiss",
+  "release_date": "1898-01-02",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

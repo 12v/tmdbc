@@ -1,0 +1,25 @@
+{
+  "id": 45211,
+  "title": "Face to Face",
+  "original_title": "Faccia a faccia",
+  "release_date": "1967-11-23",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

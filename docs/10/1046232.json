@@ -1,0 +1,33 @@
+{
+  "id": 1046232,
+  "title": "Check the Store Next Door 2",
+  "original_title": "Cek Toko Sebelah 2",
+  "release_date": "2022-12-22",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 117488,
+  "title": "A Dirty Story",
+  "original_title": "Une sale histoire",
+  "release_date": "1977-11-09",
+  "status": "Released",
+  "runtime": 50,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

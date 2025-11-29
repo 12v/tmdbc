@@ -1,0 +1,29 @@
+{
+  "id": 35253,
+  "title": "Madame Tutli-Putli",
+  "original_title": "Madame Tutli-Putli",
+  "release_date": "2007-05-19",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

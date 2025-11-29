@@ -1,0 +1,33 @@
+{
+  "id": 58897,
+  "title": "Dry Summer",
+  "original_title": "Susuz Yaz",
+  "release_date": "1963-12-16",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

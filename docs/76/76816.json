@@ -1,0 +1,33 @@
+{
+  "id": 76816,
+  "title": "The Age of the Earth",
+  "original_title": "A Idade da Terra",
+  "release_date": "1980-11-17",
+  "status": "Released",
+  "runtime": 148,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

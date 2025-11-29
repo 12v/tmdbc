@@ -1,0 +1,29 @@
+{
+  "id": 101733,
+  "title": "Zombie Ass: Toilet of the Dead",
+  "original_title": "\u30be\u30f3\u30d3\u30a2\u30b9",
+  "release_date": "2012-02-25",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

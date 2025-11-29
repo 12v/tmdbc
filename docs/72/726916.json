@@ -1,0 +1,29 @@
+{
+  "id": 726916,
+  "title": "JJ+E",
+  "original_title": "Vinterviken",
+  "release_date": "2021-09-08",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

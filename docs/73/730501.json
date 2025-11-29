@@ -1,0 +1,25 @@
+{
+  "id": 730501,
+  "title": "The Unseen River",
+  "original_title": "Gi\u00f2ng s\u00f4ng kh\u00f4ng nh\u00ecn th\u1ea5y",
+  "release_date": "2020-08-06",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1107798,
+  "title": "Thesis on a Domestication",
+  "original_title": "Tesis sobre una domesticaci\u00f3n",
+  "release_date": "2025-10-23",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

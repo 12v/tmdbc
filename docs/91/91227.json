@@ -1,0 +1,29 @@
+{
+  "id": 91227,
+  "title": "Death Powder",
+  "original_title": "\u30c7\u30b9\u30d1\u30a6\u30c0\u30fc",
+  "release_date": "1986-06-21",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

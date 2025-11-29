@@ -1,0 +1,25 @@
+{
+  "id": 650614,
+  "title": "Lorena: Light-Footed Woman",
+  "original_title": "Lorena, la de pies ligeros",
+  "release_date": "2019-11-20",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

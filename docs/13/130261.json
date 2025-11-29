@@ -1,0 +1,29 @@
+{
+  "id": 130261,
+  "title": "Inspiration",
+  "original_title": "Inspirace",
+  "release_date": "1949-09-09",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

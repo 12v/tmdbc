@@ -1,0 +1,34 @@
+{
+  "id": 11083,
+  "title": "Kitchen Stories",
+  "original_title": "Salmer fra kj\u00f8kkenet",
+  "release_date": "2003-05-15",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

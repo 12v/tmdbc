@@ -1,0 +1,33 @@
+{
+  "id": 43487,
+  "title": "No Regrets for Our Youth",
+  "original_title": "\u308f\u304c\u9752\u6625\u306b\u6094\u306a\u3057",
+  "release_date": "1946-10-29",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

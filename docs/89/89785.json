@@ -1,0 +1,25 @@
+{
+  "id": 89785,
+  "title": "Yesterday Girl",
+  "original_title": "Abschied von gestern",
+  "release_date": "1967-09-21",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

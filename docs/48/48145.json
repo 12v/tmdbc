@@ -1,0 +1,31 @@
+{
+  "id": 48145,
+  "title": "The Devil's Eye",
+  "original_title": "Dj\u00e4vulens \u00f6ga",
+  "release_date": "1960-10-17",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

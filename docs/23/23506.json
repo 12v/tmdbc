@@ -1,0 +1,25 @@
+{
+  "id": 23506,
+  "title": "The Wizard of Gore",
+  "original_title": "The Wizard of Gore",
+  "release_date": "1970-10-23",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

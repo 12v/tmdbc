@@ -1,0 +1,25 @@
+{
+  "id": 379624,
+  "title": "Kitty",
+  "original_title": "Kitty",
+  "release_date": "2016-05-20",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 178736,
+  "title": "Chizuko's Younger Sister",
+  "original_title": "\u3075\u305f\u308a",
+  "release_date": "1991-05-10",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

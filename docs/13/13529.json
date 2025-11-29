@@ -1,0 +1,34 @@
+{
+  "id": 13529,
+  "title": "Electroma",
+  "original_title": "Electroma",
+  "release_date": "2006-05-21",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

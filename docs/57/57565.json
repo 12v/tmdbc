@@ -1,0 +1,26 @@
+{
+  "id": 57565,
+  "title": "A Private Function",
+  "original_title": "A Private Function",
+  "release_date": "1984-11-09",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

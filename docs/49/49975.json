@@ -1,0 +1,29 @@
+{
+  "id": 49975,
+  "title": "Traps",
+  "original_title": "Pasti, pasti, pasti\u010dky",
+  "release_date": "1998-04-16",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

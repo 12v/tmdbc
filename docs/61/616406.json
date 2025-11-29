@@ -1,0 +1,29 @@
+{
+  "id": 616406,
+  "title": "Howl from Beyond the Fog",
+  "original_title": "\u72ed\u9727\u306e\u570b",
+  "release_date": "2019-07-13",
+  "status": "Released",
+  "runtime": 35,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

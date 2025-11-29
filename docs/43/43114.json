@@ -1,0 +1,25 @@
+{
+  "id": 43114,
+  "title": "Buchanan Rides Alone",
+  "original_title": "Buchanan Rides Alone",
+  "release_date": "1958-08-01",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

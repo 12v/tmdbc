@@ -1,0 +1,37 @@
+{
+  "id": 382272,
+  "title": "Death Note: Light Up the NEW World",
+  "original_title": "\u30c7\u30b9\u30ce\u30fc\u30c8, Light up the NEW world",
+  "release_date": "2016-10-29",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

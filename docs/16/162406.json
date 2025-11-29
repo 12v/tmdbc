@@ -1,0 +1,25 @@
+{
+  "id": 162406,
+  "title": "Embracing",
+  "original_title": "\u306b\u3064\u3064\u307e\u308c\u3066",
+  "release_date": "1992-01-01",
+  "status": "Released",
+  "runtime": 40,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

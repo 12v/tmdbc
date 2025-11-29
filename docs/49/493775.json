@@ -1,0 +1,29 @@
+{
+  "id": 493775,
+  "title": "Fugue",
+  "original_title": "Fuga",
+  "release_date": "2018-10-01",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

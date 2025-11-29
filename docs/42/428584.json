@@ -1,0 +1,30 @@
+{
+  "id": 428584,
+  "title": "Menashe",
+  "original_title": "Menashe",
+  "release_date": "2017-07-28",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "yi",
+  "spoken_languages": [
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

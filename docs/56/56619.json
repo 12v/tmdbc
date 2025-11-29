@@ -1,0 +1,29 @@
+{
+  "id": 56619,
+  "title": "Darkness, Light, Darkness",
+  "original_title": "Tma, sv\u011btlo, tma",
+  "release_date": "1989-01-01",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

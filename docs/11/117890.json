@@ -1,0 +1,29 @@
+{
+  "id": 117890,
+  "title": "Confessions of a Police Captain",
+  "original_title": "Confessione di un commissario di polizia al procuratore della Repubblica",
+  "release_date": "1971-03-26",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

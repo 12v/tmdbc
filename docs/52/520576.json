@@ -1,0 +1,29 @@
+{
+  "id": 520576,
+  "title": "After the Rain",
+  "original_title": "\u604b\u306f\u96e8\u4e0a\u304c\u308a\u306e\u3088\u3046\u306b",
+  "release_date": "2018-05-25",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

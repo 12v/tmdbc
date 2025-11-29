@@ -1,0 +1,30 @@
+{
+  "id": 76293,
+  "title": "The Valiant Ones",
+  "original_title": "\u5fe0\u70c8\u5716",
+  "release_date": "1975-02-19",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

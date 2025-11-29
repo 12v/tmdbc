@@ -1,0 +1,37 @@
+{
+  "id": 391629,
+  "title": "Baaghi",
+  "original_title": "\u092c\u093e\u0918\u0940",
+  "release_date": "2016-04-29",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

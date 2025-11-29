@@ -1,0 +1,29 @@
+{
+  "id": 1313006,
+  "title": "Familia",
+  "original_title": "Familia",
+  "release_date": "2024-10-02",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

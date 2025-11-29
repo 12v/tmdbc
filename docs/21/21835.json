@@ -1,0 +1,41 @@
+{
+  "id": 21835,
+  "title": "A Chinese Odyssey Part Two: Cinderella",
+  "original_title": "\u5927\u8bdd\u897f\u6e38\u4e4b\u4ed9\u5c65\u5947\u7f18",
+  "release_date": "1995-02-04",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

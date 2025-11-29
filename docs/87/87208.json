@@ -1,0 +1,33 @@
+{
+  "id": 87208,
+  "title": "Adalen 31",
+  "original_title": "\u00c5dalen 31",
+  "release_date": "1969-05-01",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 950849,
+  "title": "Angry Annie",
+  "original_title": "Annie Col\u00e8re",
+  "release_date": "2022-11-30",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

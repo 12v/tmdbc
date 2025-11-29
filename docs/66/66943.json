@@ -1,0 +1,25 @@
+{
+  "id": 66943,
+  "title": "25th Anniversary Studio Ghibli Concert",
+  "original_title": "\u4e45\u77f3\u8b72 in \u6b66\u9053\u9928 ~\u5bae\u5d0e\u30a2\u30cb\u30e1\u3068\u5171\u306b\u6b69\u3093\u306025\u5e74\u9593",
+  "release_date": "2008-08-31",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

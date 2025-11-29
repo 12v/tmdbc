@@ -1,0 +1,25 @@
+{
+  "id": 33783,
+  "title": "It's Pat",
+  "original_title": "It's Pat",
+  "release_date": "1994-08-26",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

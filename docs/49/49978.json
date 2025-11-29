@@ -1,0 +1,33 @@
+{
+  "id": 49978,
+  "title": "My Twentieth Century",
+  "original_title": "Az \u00e9n XX. sz\u00e1zadom",
+  "release_date": "1989-09-01",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

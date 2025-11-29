@@ -1,0 +1,29 @@
+{
+  "id": 51358,
+  "title": "Neighbors",
+  "original_title": "Neighbors",
+  "release_date": "1920-12-12",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

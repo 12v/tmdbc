@@ -1,0 +1,35 @@
+{
+  "id": 143499,
+  "title": "The Pleasure of Love in Iran",
+  "original_title": "Plaisir d'amour en Iran",
+  "release_date": "1976-07-06",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

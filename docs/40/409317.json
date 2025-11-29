@@ -1,0 +1,29 @@
+{
+  "id": 409317,
+  "title": "It's a Fairy!",
+  "original_title": "\u00c9 Fada!",
+  "release_date": "2016-10-06",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

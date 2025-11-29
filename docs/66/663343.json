@@ -1,0 +1,29 @@
+{
+  "id": 663343,
+  "title": "Yes-People",
+  "original_title": "J\u00e1-F\u00f3lki\u00f0",
+  "release_date": "2020-01-24",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "IS"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 45886,
+  "title": "Days of Eclipse",
+  "original_title": "\u0414\u043d\u0438 \u0437\u0430\u0442\u043c\u0435\u043d\u0438\u044f",
+  "release_date": "1988-12-01",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

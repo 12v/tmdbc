@@ -1,0 +1,29 @@
+{
+  "id": 882580,
+  "title": "Christmas Carol",
+  "original_title": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uce90\ub7f4",
+  "release_date": "2022-12-07",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

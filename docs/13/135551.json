@@ -1,0 +1,41 @@
+{
+  "id": 135551,
+  "title": "Satan's Rhapsody",
+  "original_title": "Rapsodia Satanica",
+  "release_date": "1917-07-31",
+  "status": "Released",
+  "runtime": 44,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

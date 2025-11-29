@@ -1,0 +1,33 @@
+{
+  "id": 28857,
+  "title": "Return of Giant Majin",
+  "original_title": "\u5927\u9b54\u795e\u6012\u308b",
+  "release_date": "1966-08-13",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

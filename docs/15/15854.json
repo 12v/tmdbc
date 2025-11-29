@@ -1,0 +1,33 @@
+{
+  "id": 15854,
+  "title": "Kung Fu Panda: Secrets of the Furious Five",
+  "original_title": "Kung Fu Panda: Secrets of the Furious Five",
+  "release_date": "2008-11-08",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

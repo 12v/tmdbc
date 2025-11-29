@@ -1,0 +1,25 @@
+{
+  "id": 739269,
+  "title": "Little Big Women",
+  "original_title": "\u5b64\u5473",
+  "release_date": "2020-11-06",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 657644,
+  "title": "Minnal Murali",
+  "original_title": "\u0d2e\u0d3f\u0d28\u0d4d\u0d28\u0d7d \u0d2e\u0d41\u0d30\u0d33\u0d3f",
+  "release_date": "2021-12-16",
+  "status": "Released",
+  "runtime": 158,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

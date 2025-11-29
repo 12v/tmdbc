@@ -1,0 +1,33 @@
+{
+  "id": 1026999,
+  "title": "Kleks Academy",
+  "original_title": "Akademia Pana Kleksa",
+  "release_date": "2024-01-05",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

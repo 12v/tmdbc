@@ -1,0 +1,29 @@
+{
+  "id": 267407,
+  "title": "City of the Rising Sun",
+  "original_title": "\ud0dc\uc591\uc740 \uc5c6\ub2e4",
+  "release_date": "1999-01-09",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

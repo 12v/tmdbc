@@ -1,0 +1,25 @@
+{
+  "id": 83519,
+  "title": "Witchcraft",
+  "original_title": "Witchcraft",
+  "release_date": "1964-03-01",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

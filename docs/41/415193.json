@@ -1,0 +1,37 @@
+{
+  "id": 415193,
+  "title": "Imaikkaa Nodigal",
+  "original_title": "\u0b87\u0bae\u0bc8\u0b95\u0bcd\u0b95\u0bbe \u0ba8\u0bca\u0b9f\u0bbf\u0b95\u0bb3\u0bcd",
+  "release_date": "2018-08-30",
+  "status": "Released",
+  "runtime": 170,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28294,
+  "title": "She Killed in Ecstasy",
+  "original_title": "Sie t\u00f6tete in Ekstase",
+  "release_date": "1971-12-10",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 324184,
+  "title": "A German Youth",
+  "original_title": "Une jeunesse allemande",
+  "release_date": "2015-02-07",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

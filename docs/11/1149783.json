@@ -1,0 +1,29 @@
+{
+  "id": 1149783,
+  "title": "Oru Jaathi Jaathakam",
+  "original_title": "\u0d12\u0d30\u0d41 \u0d1c\u0d3e\u0d24\u0d3f  \u0d1c\u0d3e\u0d24\u0d15\u0d02",
+  "release_date": "2025-01-31",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

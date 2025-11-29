@@ -1,0 +1,33 @@
+{
+  "id": 19128,
+  "title": "The Thousand Eyes of Dr. Mabuse",
+  "original_title": "Die 1000 Augen des Dr. Mabuse",
+  "release_date": "1960-09-13",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1427729,
+  "title": "Muse",
+  "original_title": "Muse",
+  "release_date": "2025-07-19",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

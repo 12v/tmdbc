@@ -1,0 +1,25 @@
+{
+  "id": 56825,
+  "title": "Compagni di scuola",
+  "original_title": "Compagni di scuola",
+  "release_date": "1988-12-21",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

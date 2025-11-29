@@ -1,0 +1,29 @@
+{
+  "id": 36404,
+  "title": "The Cruise",
+  "original_title": "Rejs",
+  "release_date": "1970-10-19",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

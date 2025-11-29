@@ -1,0 +1,29 @@
+{
+  "id": 13315,
+  "title": "Big Bang Love, Juvenile A",
+  "original_title": "46\u5104\u5e74\u306e\u604b",
+  "release_date": "2006-02-11",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

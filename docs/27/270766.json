@@ -1,0 +1,37 @@
+{
+  "id": 270766,
+  "title": "Jigarthanda",
+  "original_title": "\u0b9c\u0bbf\u0b95\u0bb0\u0bcd\u0ba4\u0ba3\u0bcd\u0b9f\u0bbe",
+  "release_date": "2014-08-01",
+  "status": "Released",
+  "runtime": 170,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

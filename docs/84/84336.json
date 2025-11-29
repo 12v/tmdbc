@@ -1,0 +1,27 @@
+{
+  "id": 84336,
+  "title": "Shadow Dancer",
+  "original_title": "Shadow Dancer",
+  "release_date": "2012-02-12",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "IE",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}
