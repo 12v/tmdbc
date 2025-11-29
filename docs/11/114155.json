@@ -1,0 +1,26 @@
+{
+  "id": 114155,
+  "title": "Effie Gray",
+  "original_title": "Effie Gray",
+  "release_date": "2014-03-08",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

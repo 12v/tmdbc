@@ -1,0 +1,33 @@
+{
+  "id": 99261,
+  "title": "The Bloodstained Shadow",
+  "original_title": "Solamente nero",
+  "release_date": "1978-06-02",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 753946,
+  "title": "Nayattu",
+  "original_title": "\u0d28\u0d3e\u0d2f\u0d3e\u0d1f\u0d4d\u0d1f\u0d4d",
+  "release_date": "2021-04-08",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 19673,
+  "title": "Sexmission",
+  "original_title": "Seksmisja",
+  "release_date": "1984-05-13",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

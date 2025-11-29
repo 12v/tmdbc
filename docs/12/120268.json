@@ -1,0 +1,39 @@
+{
+  "id": 120268,
+  "title": "Johanna d\u2019Arc of Mongolia",
+  "original_title": "Johanna d\u2019Arc of Mongolia",
+  "release_date": "1989-02-01",
+  "status": "Released",
+  "runtime": 165,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

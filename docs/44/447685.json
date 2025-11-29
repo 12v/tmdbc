@@ -1,0 +1,25 @@
+{
+  "id": 447685,
+  "title": "The Green Fog",
+  "original_title": "The Green Fog",
+  "release_date": "2018-01-05",
+  "status": "Released",
+  "runtime": 62,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

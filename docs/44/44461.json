@@ -1,0 +1,25 @@
+{
+  "id": 44461,
+  "title": "Charlotte and Her Boyfriend",
+  "original_title": "Charlotte et son Jules",
+  "release_date": "1958-12-31",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

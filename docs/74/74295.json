@@ -1,0 +1,29 @@
+{
+  "id": 74295,
+  "title": "Crime and Punishment",
+  "original_title": "Rikos ja rangaistus",
+  "release_date": "1983-12-02",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

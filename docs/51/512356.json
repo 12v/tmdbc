@@ -1,0 +1,29 @@
+{
+  "id": 512356,
+  "title": "Pennywise: The Story of \u2018It\u2019",
+  "original_title": "Pennywise: The Story of \u2018It\u2019",
+  "release_date": "2021-10-15",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

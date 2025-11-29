@@ -1,0 +1,25 @@
+{
+  "id": 361787,
+  "title": "Neurotic Quest for Serenity",
+  "original_title": "TOC: Transtornada Obsessiva Compulsiva",
+  "release_date": "2017-02-02",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

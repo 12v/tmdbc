@@ -1,0 +1,34 @@
+{
+  "id": 1045454,
+  "title": "Daydreaming So Vividly About Our Spanish Holidays",
+  "original_title": "La herida luminosa",
+  "release_date": "2022-11-13",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

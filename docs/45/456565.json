@@ -1,0 +1,33 @@
+{
+  "id": 456565,
+  "title": "Judwaa 2",
+  "original_title": "\u091c\u0941\u0921\u093c\u0935\u093e 2",
+  "release_date": "2017-09-29",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

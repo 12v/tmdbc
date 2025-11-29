@@ -1,0 +1,29 @@
+{
+  "id": 29239,
+  "title": "The Mummy's Tomb",
+  "original_title": "The Mummy's Tomb",
+  "release_date": "1942-10-23",
+  "status": "Released",
+  "runtime": 61,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

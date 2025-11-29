@@ -1,0 +1,25 @@
+{
+  "id": 43778,
+  "title": "Death of a Bureaucrat",
+  "original_title": "La muerte de un bur\u00f3crata",
+  "release_date": "1966-07-24",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

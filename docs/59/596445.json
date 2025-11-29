@@ -1,0 +1,29 @@
+{
+  "id": 596445,
+  "title": "Dance with Me",
+  "original_title": "\u30c0\u30f3\u30b9\u30a6\u30a3\u30ba\u30df\u30fc",
+  "release_date": "2019-08-16",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

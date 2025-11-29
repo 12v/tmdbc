@@ -1,0 +1,25 @@
+{
+  "id": 686002,
+  "title": "Black Holes: The Edge of All We Know",
+  "original_title": "Black Holes: The Edge of All We Know",
+  "release_date": "2020-03-18",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

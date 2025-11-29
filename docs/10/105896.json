@@ -1,0 +1,29 @@
+{
+  "id": 105896,
+  "title": "The Phantom of Regular Size",
+  "original_title": "\u666e\u901a\u30b5\u30a4\u30ba\u306e\u602a\u4eba",
+  "release_date": "1986-01-01",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

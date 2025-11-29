@@ -1,0 +1,35 @@
+{
+  "id": 517731,
+  "title": "3 Faces",
+  "original_title": "\u0633\u0647 \u0631\u062e",
+  "release_date": "2018-06-06",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Azerbaijani",
+      "iso_639_1": "az",
+      "name": "Az\u0259rbaycan"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

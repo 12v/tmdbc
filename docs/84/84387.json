@@ -1,0 +1,25 @@
+{
+  "id": 84387,
+  "title": "Don't Panic",
+  "original_title": "Dimensiones ocultas",
+  "release_date": "1989-03-02",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 261525,
+  "title": "Miss Lonely",
+  "original_title": "\u3055\u3073\u3057\u3093\u307c\u3046",
+  "release_date": "1985-04-12",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

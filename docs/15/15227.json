@@ -1,0 +1,33 @@
+{
+  "id": 15227,
+  "title": "Galaxy Express 999: The Movie",
+  "original_title": "\u9280\u6cb3\u9244\u9053999",
+  "release_date": "1979-08-04",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

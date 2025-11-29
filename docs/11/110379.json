@@ -1,0 +1,33 @@
+{
+  "id": 110379,
+  "title": "Twilight",
+  "original_title": "Sz\u00fcrk\u00fclet",
+  "release_date": "1990-09-28",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

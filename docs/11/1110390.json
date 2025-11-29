@@ -1,0 +1,38 @@
+{
+  "id": 1110390,
+  "title": "Teri Baaton Mein Aisa Uljha Jiya",
+  "original_title": "\u0924\u0947\u0930\u0940 \u092c\u093e\u0924\u094b\u0902 \u092e\u0947\u0902 \u0910\u0938\u093e \u0909\u0932\u091d\u093e \u091c\u093f\u092f\u093e",
+  "release_date": "2024-02-09",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

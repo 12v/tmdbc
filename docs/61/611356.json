@@ -1,0 +1,29 @@
+{
+  "id": 611356,
+  "title": "Gulabo Sitabo",
+  "original_title": "\u0917\u0941\u0932\u093e\u092c\u094b \u0938\u093f\u0924\u093e\u092c\u094b",
+  "release_date": "2020-06-12",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

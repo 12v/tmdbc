@@ -1,0 +1,25 @@
+{
+  "id": 163378,
+  "title": "Les Mains n\u00e9gatives",
+  "original_title": "Les Mains n\u00e9gatives",
+  "release_date": "1978-01-01",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

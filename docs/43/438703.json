@@ -1,0 +1,25 @@
+{
+  "id": 438703,
+  "title": "Recep Ivedik 5",
+  "original_title": "Recep \u0130vedik 5",
+  "release_date": "2017-02-16",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 110412,
+  "title": "Symptoms",
+  "original_title": "Symptoms",
+  "release_date": "1974-05-10",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

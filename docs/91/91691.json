@@ -1,0 +1,33 @@
+{
+  "id": 91691,
+  "title": "Ga-ga: Glory to the Heroes",
+  "original_title": "Ga, Ga. Chwa\u0142a bohaterom",
+  "release_date": "1986-09-26",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

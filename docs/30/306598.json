@@ -1,0 +1,25 @@
+{
+  "id": 306598,
+  "title": "My Love, Don't Cross That River",
+  "original_title": "\ub2d8\uc544, \uadf8 \uac15\uc744 \uac74\ub108\uc9c0 \ub9c8\uc624",
+  "release_date": "2014-11-27",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

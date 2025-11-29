@@ -1,0 +1,29 @@
+{
+  "id": 410678,
+  "title": "Yourself and Yours",
+  "original_title": "\ub2f9\uc2e0\uc790\uc2e0\uacfc \ub2f9\uc2e0\uc758 \uac83",
+  "release_date": "2016-11-10",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

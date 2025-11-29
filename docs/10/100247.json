@@ -1,0 +1,29 @@
+{
+  "id": 100247,
+  "title": "Little Nemo",
+  "original_title": "Little Nemo",
+  "release_date": "1911-04-08",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 285213,
+  "title": "The Pirates",
+  "original_title": "\ud574\uc801: \ubc14\ub2e4\ub85c \uac04 \uc0b0\uc801",
+  "release_date": "2014-08-06",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 92475,
+  "title": "Three Songs About Lenin",
+  "original_title": "\u0422\u0440\u0438 \u043f\u0435\u0441\u043d\u0438 \u043e \u041b\u0435\u043d\u0438\u043d\u0435",
+  "release_date": "1934-11-06",
+  "status": "Released",
+  "runtime": 62,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

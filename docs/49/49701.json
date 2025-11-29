@@ -1,0 +1,29 @@
+{
+  "id": 49701,
+  "title": "Fool\u2019s Mate",
+  "original_title": "Le Coup du berger",
+  "release_date": "1956-11-01",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

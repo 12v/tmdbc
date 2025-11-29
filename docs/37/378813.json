@@ -1,0 +1,30 @@
+{
+  "id": 378813,
+  "title": "Aloys",
+  "original_title": "Aloys",
+  "release_date": "2016-03-31",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

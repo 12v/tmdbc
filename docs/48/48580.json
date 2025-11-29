@@ -1,0 +1,33 @@
+{
+  "id": 48580,
+  "title": "A Self-Made Hero",
+  "original_title": "Un h\u00e9ros tr\u00e8s discret",
+  "release_date": "1996-05-15",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

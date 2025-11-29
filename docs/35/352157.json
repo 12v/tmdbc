@@ -1,0 +1,33 @@
+{
+  "id": 352157,
+  "title": "Marguerite",
+  "original_title": "Marguerite",
+  "release_date": "2015-09-16",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

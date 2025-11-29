@@ -1,0 +1,26 @@
+{
+  "id": 1006161,
+  "title": "Blank Narcissus (Passion of the Swamp)",
+  "original_title": "Blank Narcissus (Passion of the Swamp)",
+  "release_date": "2022-09-18",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

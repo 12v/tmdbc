@@ -1,0 +1,29 @@
+{
+  "id": 1300116,
+  "title": "Fall for Me",
+  "original_title": "Fall for Me",
+  "release_date": "2025-08-20",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

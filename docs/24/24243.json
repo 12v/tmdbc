@@ -1,0 +1,33 @@
+{
+  "id": 24243,
+  "title": "The Best Things in the World",
+  "original_title": "As Melhores Coisas do Mundo",
+  "release_date": "2010-05-22",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 47712,
+  "title": "The Girl on the Broomstick",
+  "original_title": "D\u00edvka na ko\u0161t\u011bti",
+  "release_date": "1972-09-08",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

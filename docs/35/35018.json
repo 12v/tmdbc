@@ -1,0 +1,33 @@
+{
+  "id": 35018,
+  "title": "Irezumi",
+  "original_title": "\u523a\u9752",
+  "release_date": "1966-01-15",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

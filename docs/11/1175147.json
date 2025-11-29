@@ -1,0 +1,25 @@
+{
+  "id": 1175147,
+  "title": "Anything for a Pop Star 2",
+  "original_title": "Tudo por um Pop Star 2",
+  "release_date": "2024-10-10",
+  "status": "Released",
+  "runtime": 0,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

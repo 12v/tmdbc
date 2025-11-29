@@ -1,0 +1,25 @@
+{
+  "id": 679989,
+  "title": "Simply Black",
+  "original_title": "Tout simplement noir",
+  "release_date": "2020-07-08",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

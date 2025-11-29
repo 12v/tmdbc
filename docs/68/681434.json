@@ -1,0 +1,41 @@
+{
+  "id": 681434,
+  "title": "Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write About a Serial Killer",
+  "original_title": "Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write About a Serial Killer",
+  "release_date": "2025-04-04",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 455605,
+  "title": "Haunted Hospital: Heilstatten",
+  "original_title": "Heilst\u00e4tten",
+  "release_date": "2018-02-22",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

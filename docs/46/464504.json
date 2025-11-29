@@ -1,0 +1,25 @@
+{
+  "id": 464504,
+  "title": "A Madea Family Funeral",
+  "original_title": "A Madea Family Funeral",
+  "release_date": "2019-03-01",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

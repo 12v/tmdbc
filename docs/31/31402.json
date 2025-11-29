@@ -1,0 +1,33 @@
+{
+  "id": 31402,
+  "title": "The Chaos Class Is on Vacation",
+  "original_title": "Hababam S\u0131n\u0131f\u0131 Tatilde",
+  "release_date": "1977-02-01",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

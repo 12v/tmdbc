@@ -1,0 +1,35 @@
+{
+  "id": 17809,
+  "title": "Fist of Legend",
+  "original_title": "\u7cbe\u6b66\u82f1\u96c4",
+  "release_date": "1994-12-22",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

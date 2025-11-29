@@ -1,0 +1,30 @@
+{
+  "id": 20966,
+  "title": "Shaolin and Wu Tang",
+  "original_title": "\u5c11\u6797\u4e0e\u6b66\u5f53",
+  "release_date": "1983-07-02",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

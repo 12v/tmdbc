@@ -1,0 +1,30 @@
+{
+  "id": 95533,
+  "title": "Where Does Your Hidden Smile Lie?",
+  "original_title": "O\u00f9 g\u00eet votre sourire enfoui?",
+  "release_date": "2003-01-15",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1352026,
+  "title": "National Theatre Live: The Importance of Being Earnest",
+  "original_title": "National Theatre Live: The Importance of Being Earnest",
+  "release_date": "2025-02-20",
+  "status": "Released",
+  "runtime": 182,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

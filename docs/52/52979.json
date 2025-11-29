@@ -1,0 +1,29 @@
+{
+  "id": 52979,
+  "title": "Battles Without Honor and Humanity: Police Tactics",
+  "original_title": "\u4ec1\u7fa9\u306a\u304d\u6226\u3044 \u9802\u4e0a\u4f5c\u6226",
+  "release_date": "1974-01-15",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

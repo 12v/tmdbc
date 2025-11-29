@@ -1,0 +1,30 @@
+{
+  "id": 664589,
+  "title": "The Trouble with Being Born",
+  "original_title": "The Trouble with Being Born",
+  "release_date": "2020-12-03",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

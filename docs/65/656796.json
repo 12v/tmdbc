@@ -1,0 +1,29 @@
+{
+  "id": 656796,
+  "title": "Today We Fix the World",
+  "original_title": "Hoy se arregla el mundo",
+  "release_date": "2022-01-13",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

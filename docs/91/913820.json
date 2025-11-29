@@ -1,0 +1,32 @@
+{
+  "id": 913820,
+  "title": "Utama",
+  "original_title": "Utama",
+  "release_date": "2022-05-11",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Quechua",
+      "iso_639_1": "qu",
+      "name": ""
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "BO",
+    "FR",
+    "UY"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

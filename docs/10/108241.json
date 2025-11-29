@@ -1,0 +1,30 @@
+{
+  "id": 108241,
+  "title": "Next of Kin",
+  "original_title": "Next of Kin",
+  "release_date": "1984-11-30",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

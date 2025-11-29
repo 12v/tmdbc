@@ -1,0 +1,33 @@
+{
+  "id": 49593,
+  "title": "Muscle",
+  "original_title": "\u72c2\u3063\u305f\u821e\u8e0f\u4f1a",
+  "release_date": "1989-03-03",
+  "status": "Released",
+  "runtime": 58,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

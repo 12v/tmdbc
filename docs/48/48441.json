@@ -1,0 +1,33 @@
+{
+  "id": 48441,
+  "title": "Time Piece",
+  "original_title": "Time Piece",
+  "release_date": "1965-05-07",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

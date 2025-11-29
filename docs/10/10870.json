@@ -1,0 +1,43 @@
+{
+  "id": 10870,
+  "title": "Lucky Luke and the Daltons",
+  "original_title": "Les Dalton",
+  "release_date": "2004-11-08",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

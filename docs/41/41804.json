@@ -1,0 +1,37 @@
+{
+  "id": 41804,
+  "title": "All the Mornings of the World",
+  "original_title": "Tous les matins du monde",
+  "release_date": "1991-12-18",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

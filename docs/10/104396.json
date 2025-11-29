@@ -1,0 +1,25 @@
+{
+  "id": 104396,
+  "title": "Dickson Experimental Sound Film",
+  "original_title": "Dickson Experimental Sound Film",
+  "release_date": "1894-08-31",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

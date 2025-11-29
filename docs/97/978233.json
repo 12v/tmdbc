@@ -1,0 +1,25 @@
+{
+  "id": 978233,
+  "title": "Harry Styles - One Night Only in New York",
+  "original_title": "Harry Styles - One Night Only in New York",
+  "release_date": "2022-05-20",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

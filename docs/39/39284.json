@@ -1,0 +1,33 @@
+{
+  "id": 39284,
+  "title": "To Joy",
+  "original_title": "Till gl\u00e4dje",
+  "release_date": "1950-02-20",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

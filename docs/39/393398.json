@@ -1,0 +1,26 @@
+{
+  "id": 393398,
+  "title": "The Rise of the Nutters",
+  "original_title": "The Rise of the Nutters",
+  "release_date": "2007-01-02",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

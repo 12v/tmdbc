@@ -1,0 +1,29 @@
+{
+  "id": 66956,
+  "title": "This Special Friendship",
+  "original_title": "Les Amiti\u00e9s particuli\u00e8res",
+  "release_date": "1964-09-04",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

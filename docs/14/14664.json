@@ -1,0 +1,31 @@
+{
+  "id": 14664,
+  "title": "Sharky's Machine",
+  "original_title": "Sharky's Machine",
+  "release_date": "1981-12-18",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

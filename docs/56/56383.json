@@ -1,0 +1,29 @@
+{
+  "id": 56383,
+  "title": "Lisa, Lisa",
+  "original_title": "Lisa, Lisa",
+  "release_date": "1974-12-09",
+  "status": "Released",
+  "runtime": 68,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

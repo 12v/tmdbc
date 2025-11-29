@@ -1,0 +1,25 @@
+{
+  "id": 11680,
+  "title": "The Miser",
+  "original_title": "L'Avare",
+  "release_date": "1980-03-05",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

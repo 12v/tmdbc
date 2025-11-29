@@ -1,0 +1,29 @@
+{
+  "id": 25908,
+  "title": "The Valley of the Bees",
+  "original_title": "\u00dadol\u00ed v\u010del",
+  "release_date": "1968-05-17",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 127424,
+  "title": "Nazareno Cruz and the Wolf",
+  "original_title": "Nazareno Cruz y el lobo",
+  "release_date": "1975-06-05",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Quechua",
+      "iso_639_1": "qu",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

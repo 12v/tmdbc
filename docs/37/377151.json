@@ -1,0 +1,30 @@
+{
+  "id": 377151,
+  "title": "Fire at Sea",
+  "original_title": "Fuocoammare",
+  "release_date": "2016-02-18",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

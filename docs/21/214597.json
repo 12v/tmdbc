@@ -1,0 +1,29 @@
+{
+  "id": 214597,
+  "title": "Fright Night 2: New Blood",
+  "original_title": "Fright Night 2: New Blood",
+  "release_date": "2013-08-31",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

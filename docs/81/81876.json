@@ -1,0 +1,41 @@
+{
+  "id": 81876,
+  "title": "Cinderella Baiana",
+  "original_title": "Cinderela Baiana",
+  "release_date": "1998-09-04",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 356218,
+  "title": "Girls Lost",
+  "original_title": "Pojkarna",
+  "release_date": "2015-10-16",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

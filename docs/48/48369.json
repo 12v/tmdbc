@@ -1,0 +1,29 @@
+{
+  "id": 48369,
+  "title": "H\u00f4tel du Nord",
+  "original_title": "H\u00f4tel du Nord",
+  "release_date": "1938-12-17",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

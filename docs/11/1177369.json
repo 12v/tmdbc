@@ -1,0 +1,33 @@
+{
+  "id": 1177369,
+  "title": "The Legend of Zelda",
+  "original_title": "The Legend of Zelda",
+  "release_date": "2027-05-05",
+  "status": "In Production",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

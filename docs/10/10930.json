@@ -1,0 +1,29 @@
+{
+  "id": 10930,
+  "title": "The Flower of Evil",
+  "original_title": "La Fleur du mal",
+  "release_date": "2003-02-09",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

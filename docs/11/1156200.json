@@ -1,0 +1,25 @@
+{
+  "id": 1156200,
+  "title": "GIFT",
+  "original_title": "GIFT",
+  "release_date": "2023-10-18",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

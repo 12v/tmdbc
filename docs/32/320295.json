@@ -1,0 +1,38 @@
+{
+  "id": 320295,
+  "title": "Detective Byomkesh Bakshy!",
+  "original_title": "\u0921\u093f\u091f\u0947\u0915\u094d\u091f\u093f\u0935 \u092c\u094d\u092f\u094b\u092e\u0915\u0947\u0936 \u092c\u0915\u094d\u0936\u0940!",
+  "release_date": "2015-04-02",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

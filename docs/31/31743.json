@@ -1,0 +1,29 @@
+{
+  "id": 31743,
+  "title": "Hachiko",
+  "original_title": "\u30cf\u30c1\u516c\u7269\u8a9e",
+  "release_date": "1987-08-01",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

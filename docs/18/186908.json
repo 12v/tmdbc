@@ -1,0 +1,41 @@
+{
+  "id": 186908,
+  "title": "The Lion Has Seven Heads",
+  "original_title": "Der Leone Have Sept Cabe\u00e7as",
+  "release_date": "1971-08-03",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "CG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

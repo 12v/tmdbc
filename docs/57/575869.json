@@ -1,0 +1,29 @@
+{
+  "id": 575869,
+  "title": "The Yellow Night",
+  "original_title": "A Noite Amarela",
+  "release_date": "2019-08-07",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

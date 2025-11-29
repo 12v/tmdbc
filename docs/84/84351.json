@@ -1,0 +1,26 @@
+{
+  "id": 84351,
+  "title": "West of Memphis",
+  "original_title": "West of Memphis",
+  "release_date": "2012-11-22",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "NZ",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

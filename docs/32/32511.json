@@ -1,0 +1,33 @@
+{
+  "id": 32511,
+  "title": "Police, Adjective",
+  "original_title": "Poli\u021bist, adjectiv",
+  "release_date": "2010-01-14",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

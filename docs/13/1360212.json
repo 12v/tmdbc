@@ -1,0 +1,25 @@
+{
+  "id": 1360212,
+  "title": "Ali Wong: Single Lady",
+  "original_title": "Ali Wong: Single Lady",
+  "release_date": "2024-10-07",
+  "status": "Released",
+  "runtime": 59,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

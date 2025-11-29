@@ -1,0 +1,38 @@
+{
+  "id": 1416893,
+  "title": "What Marielle Knows",
+  "original_title": "Was Marielle wei\u00df",
+  "release_date": "2025-04-17",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

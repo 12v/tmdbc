@@ -1,0 +1,49 @@
+{
+  "id": 1080365,
+  "title": "They Call Him OG",
+  "original_title": "\u0c26\u0c46 \u0c15\u0c3e\u0c32\u0c4d \u0c39\u0c3f\u0c2e\u0c4d \u0c13\u0c1c\u0c3f",
+  "release_date": "2025-09-24",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1234782,
+  "title": "Don\u2019t Cry, Butterfly",
+  "original_title": "M\u01b0a tr\u00ean c\u00e1nh b\u01b0\u1edbm",
+  "release_date": "2025-01-03",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "ID",
+    "PH",
+    "SG",
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

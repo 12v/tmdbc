@@ -1,0 +1,33 @@
+{
+  "id": 888311,
+  "title": "Voy a pas\u00e1rmelo bien",
+  "original_title": "Voy a pas\u00e1rmelo bien",
+  "release_date": "2022-08-05",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

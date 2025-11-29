@@ -1,0 +1,33 @@
+{
+  "id": 855117,
+  "title": "King of Kotha",
+  "original_title": "King of \u0d15\u0d4a\u0d24\u0d4d\u0d24",
+  "release_date": "2023-08-24",
+  "status": "Released",
+  "runtime": 174,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 944152,
+  "title": "Chokehold",
+  "original_title": "Bo\u011fa Bo\u011fa",
+  "release_date": "2023-04-21",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

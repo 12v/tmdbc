@@ -1,0 +1,25 @@
+{
+  "id": 28847,
+  "title": "Demonia",
+  "original_title": "Demonia",
+  "release_date": "1990-10-01",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

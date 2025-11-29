@@ -1,0 +1,25 @@
+{
+  "id": 55685,
+  "title": "To Be Twenty",
+  "original_title": "Avere vent'anni",
+  "release_date": "1978-07-14",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

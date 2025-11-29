@@ -1,0 +1,37 @@
+{
+  "id": 76329,
+  "title": "Happy New Year",
+  "original_title": "La Bonne Ann\u00e9e",
+  "release_date": "1973-04-13",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

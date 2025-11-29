@@ -1,0 +1,30 @@
+{
+  "id": 13741,
+  "title": "2 Alone in Paris",
+  "original_title": "Seuls Two",
+  "release_date": "2008-06-25",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

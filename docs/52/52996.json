@@ -1,0 +1,30 @@
+{
+  "id": 52996,
+  "title": "A Fistful of Fingers",
+  "original_title": "A Fistful of Fingers",
+  "release_date": "1995-11-24",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

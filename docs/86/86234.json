@@ -1,0 +1,37 @@
+{
+  "id": 86234,
+  "title": "The Amulet of Ogum",
+  "original_title": "O Amuleto de Ogum",
+  "release_date": "1974-05-21",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

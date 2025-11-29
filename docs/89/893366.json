@@ -1,0 +1,31 @@
+{
+  "id": 893366,
+  "title": "Little Nicholas: Happy As Can Be",
+  "original_title": "Le petit Nicolas - Qu'est-ce qu'on attend pour \u00eatre heureux ?",
+  "release_date": "2022-02-15",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "FR",
+    "LU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

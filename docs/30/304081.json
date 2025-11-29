@@ -1,0 +1,29 @@
+{
+  "id": 304081,
+  "title": "F\u00e5r\u00f6 Document",
+  "original_title": "F\u00e5r\u00f6dokument 1970",
+  "release_date": "1970-01-01",
+  "status": "Released",
+  "runtime": 57,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

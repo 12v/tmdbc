@@ -1,0 +1,33 @@
+{
+  "id": 110901,
+  "title": "Kagero-za",
+  "original_title": "\u967d\u708e\u5ea7",
+  "release_date": "1981-08-21",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

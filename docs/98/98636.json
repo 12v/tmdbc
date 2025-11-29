@@ -1,0 +1,29 @@
+{
+  "id": 98636,
+  "title": "Kisses",
+  "original_title": "\u304f\u3061\u3065\u3051",
+  "release_date": "1957-07-23",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

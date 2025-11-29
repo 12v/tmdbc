@@ -1,0 +1,29 @@
+{
+  "id": 1233066,
+  "title": "Manitou's Canoe",
+  "original_title": "Das Kanu des Manitu",
+  "release_date": "2025-08-14",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

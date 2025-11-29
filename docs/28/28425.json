@@ -1,0 +1,29 @@
+{
+  "id": 28425,
+  "title": "The Invisible Man's Revenge",
+  "original_title": "The Invisible Man's Revenge",
+  "release_date": "1944-06-09",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

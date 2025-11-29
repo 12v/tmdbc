@@ -1,0 +1,30 @@
+{
+  "id": 126516,
+  "title": "Every-Night Dreams",
+  "original_title": "\u591c\u3054\u3068\u306e\u5922",
+  "release_date": "1933-06-08",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

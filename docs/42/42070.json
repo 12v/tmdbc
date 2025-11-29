@@ -1,0 +1,33 @@
+{
+  "id": 42070,
+  "title": "A Wind Named Amnesia",
+  "original_title": "\u98a8\u306e\u540d\u306f\u30a2\u30e0\u30cd\u30b8\u30a2",
+  "release_date": "1990-12-22",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

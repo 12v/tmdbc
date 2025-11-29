@@ -1,0 +1,25 @@
+{
+  "id": 473320,
+  "title": "Village Rockstars",
+  "original_title": "\u09ad\u09bf\u09b2\u09c7\u099c \u09f0\u0995\u09b7\u09cd\u099f\u09be\u09f0\u09cd\u099b",
+  "release_date": "2018-10-28",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "as",
+  "spoken_languages": [
+    {
+      "english_name": "Assamese",
+      "iso_639_1": "as",
+      "name": "\u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

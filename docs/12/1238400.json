@@ -1,0 +1,25 @@
+{
+  "id": 1238400,
+  "title": "You Are Not Alone: Fighting the Wolf Pack",
+  "original_title": "No est\u00e1s sola: La lucha contra La Manada",
+  "release_date": "2024-02-23",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

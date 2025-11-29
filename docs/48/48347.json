@@ -1,0 +1,36 @@
+{
+  "id": 48347,
+  "title": "The Old Lady and the Pigeons",
+  "original_title": "La vieille dame et les pigeons",
+  "release_date": "1997-05-27",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "FR",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

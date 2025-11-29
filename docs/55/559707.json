@@ -1,0 +1,31 @@
+{
+  "id": 559707,
+  "title": "My Love Affair with Marriage",
+  "original_title": "My Love Affair with Marriage",
+  "release_date": "2023-06-07",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "LV",
+    "LU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

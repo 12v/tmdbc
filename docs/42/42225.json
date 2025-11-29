@@ -1,0 +1,40 @@
+{
+  "id": 42225,
+  "title": "Padre Padrone",
+  "original_title": "Padre padrone",
+  "release_date": "1977-05-20",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "Sardinian",
+      "iso_639_1": "sc",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

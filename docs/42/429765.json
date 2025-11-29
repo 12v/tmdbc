@@ -1,0 +1,25 @@
+{
+  "id": 429765,
+  "title": "Dance Academy: The Movie",
+  "original_title": "Dance Academy: The Movie",
+  "release_date": "2017-04-06",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 58311,
+  "title": "Heroic Trio 2: Executioners",
+  "original_title": "\u73fe\u4ee3\u8c6a\u4fe0\u50b3",
+  "release_date": "1993-09-30",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

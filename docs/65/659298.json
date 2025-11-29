@@ -1,0 +1,25 @@
+{
+  "id": 659298,
+  "title": "My Uncle",
+  "original_title": "Day\u0131m",
+  "release_date": "1999-09-11",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

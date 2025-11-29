@@ -1,0 +1,29 @@
+{
+  "id": 3426,
+  "title": "Cesar and Rosalie",
+  "original_title": "C\u00e9sar et Rosalie",
+  "release_date": "1972-10-11",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

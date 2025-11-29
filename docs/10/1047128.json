@@ -1,0 +1,40 @@
+{
+  "id": 1047128,
+  "title": "Apolonia, Apolonia",
+  "original_title": "Apolonia, Apolonia",
+  "release_date": "2023-03-23",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

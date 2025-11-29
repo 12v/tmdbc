@@ -1,0 +1,33 @@
+{
+  "id": 39962,
+  "title": "Tamala 2010: A Punk Cat in Space",
+  "original_title": "TAMALA2010 a punk cat in space",
+  "release_date": "2002-10-19",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 809236,
+  "title": "Have You Ever Seen Fireflies?",
+  "original_title": "Sen Hi\u00e7 Ate\u015f B\u00f6ce\u011fi G\u00f6rd\u00fcn m\u00fc?",
+  "release_date": "2021-04-09",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

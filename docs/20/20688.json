@@ -1,0 +1,33 @@
+{
+  "id": 20688,
+  "title": "Kaminey",
+  "original_title": "\u0915\u092e\u0940\u0928\u0947",
+  "release_date": "2009-08-14",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 43681,
+  "title": "The Perfect Human",
+  "original_title": "Det perfekte menneske",
+  "release_date": "1968-06-14",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

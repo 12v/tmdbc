@@ -1,0 +1,37 @@
+{
+  "id": 97375,
+  "title": "Detective Conan: The Lost Ship in the Sky",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u5929\u7a7a\u306e\u96e3\u7834\u8239\uff08\u30ed\u30b9\u30c8\u30fb\u30b7\u30c3\u30d7\uff09",
+  "release_date": "2010-04-17",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

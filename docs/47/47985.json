@@ -1,0 +1,37 @@
+{
+  "id": 47985,
+  "title": "Assa",
+  "original_title": "\u0410\u0441\u0441\u0430",
+  "release_date": "1987-11-01",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2117,
+  "title": "Sophie Scholl: The Final Days",
+  "original_title": "Sophie Scholl \u2013 Die letzten Tage",
+  "release_date": "2005-02-13",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

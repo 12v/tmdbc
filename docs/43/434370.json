@@ -1,0 +1,30 @@
+{
+  "id": 434370,
+  "title": "Araby",
+  "original_title": "Ar\u00e1bia",
+  "release_date": "2018-04-05",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Pali",
+      "iso_639_1": "pi",
+      "name": ""
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

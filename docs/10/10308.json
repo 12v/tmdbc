@@ -1,0 +1,25 @@
+{
+  "id": 10308,
+  "title": "Why Does Herr R. Run Amok?",
+  "original_title": "Warum l\u00e4uft Herr R. Amok?",
+  "release_date": "1970-06-28",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

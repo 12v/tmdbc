@@ -1,0 +1,35 @@
+{
+  "id": 28290,
+  "title": "The Man in the Gray Flannel Suit",
+  "original_title": "The Man in the Gray Flannel Suit",
+  "release_date": "1956-04-12",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

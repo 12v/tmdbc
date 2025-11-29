@@ -1,0 +1,27 @@
+{
+  "id": 369373,
+  "title": "Stutterer",
+  "original_title": "Stutterer",
+  "release_date": "2015-07-08",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IE",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

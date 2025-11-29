@@ -1,0 +1,29 @@
+{
+  "id": 175503,
+  "title": "From Morning to Midnight",
+  "original_title": "Von morgens bis mitternachts",
+  "release_date": "1920-01-01",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

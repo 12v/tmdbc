@@ -1,0 +1,33 @@
+{
+  "id": 48256,
+  "title": "The Doll",
+  "original_title": "Die Puppe",
+  "release_date": "1919-12-05",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

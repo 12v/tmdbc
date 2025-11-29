@@ -1,0 +1,29 @@
+{
+  "id": 206461,
+  "title": "Everything Goes Wrong",
+  "original_title": "\u3059\u3079\u3066\u304c\u72c2\u3063\u3066\u308b",
+  "release_date": "1960-10-08",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

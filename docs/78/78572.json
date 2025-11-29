@@ -1,0 +1,29 @@
+{
+  "id": 78572,
+  "title": "All the Boys Are Called Patrick",
+  "original_title": "Charlotte et V\u00e9ronique, ou Tous les gar\u00e7ons s'appellent Patrick",
+  "release_date": "1959-05-06",
+  "status": "Released",
+  "runtime": 21,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

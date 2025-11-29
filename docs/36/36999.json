@@ -1,0 +1,35 @@
+{
+  "id": 36999,
+  "title": "31 Minutos, la pel\u00edcula",
+  "original_title": "31 Minutos, la pel\u00edcula",
+  "release_date": "2008-03-27",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "CL",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

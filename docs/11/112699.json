@@ -1,0 +1,29 @@
+{
+  "id": 112699,
+  "title": "Street Angel",
+  "original_title": "\u99ac\u8def\u5929\u4f7f",
+  "release_date": "1937-07-24",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

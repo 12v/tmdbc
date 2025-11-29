@@ -1,0 +1,25 @@
+{
+  "id": 1299209,
+  "title": "The Son of a Thousand Men",
+  "original_title": "O Filho de Mil Homens",
+  "release_date": "2025-10-30",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

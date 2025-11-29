@@ -1,0 +1,29 @@
+{
+  "id": 116303,
+  "title": "Rent-a-Cat",
+  "original_title": "\u30ec\u30f3\u30bf\u30cd\u30b3",
+  "release_date": "2012-05-12",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

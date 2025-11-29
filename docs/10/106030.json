@@ -1,0 +1,29 @@
+{
+  "id": 106030,
+  "title": "Joan of Arc",
+  "original_title": "Jeanne d'Arc",
+  "release_date": "1900-08-06",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

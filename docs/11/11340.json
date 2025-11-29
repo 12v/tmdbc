@@ -1,0 +1,29 @@
+{
+  "id": 11340,
+  "title": "Banana Joe",
+  "original_title": "Banana Joe",
+  "release_date": "1982-03-24",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 145762,
+  "title": "Now!",
+  "original_title": "Now!",
+  "release_date": "1965-01-01",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

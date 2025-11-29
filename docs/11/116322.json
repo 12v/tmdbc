@@ -1,0 +1,37 @@
+{
+  "id": 116322,
+  "title": "The Legend of La Llorona",
+  "original_title": "La Leyenda de la Llorona",
+  "release_date": "2011-10-21",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

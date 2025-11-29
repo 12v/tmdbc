@@ -1,0 +1,25 @@
+{
+  "id": 804973,
+  "title": "A Day in a Life",
+  "original_title": "A Day in a Life",
+  "release_date": "2021-03-20",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

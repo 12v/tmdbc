@@ -1,0 +1,29 @@
+{
+  "id": 989238,
+  "title": "No Love Lost",
+  "original_title": "La fille de son p\u00e8re",
+  "release_date": "2023-12-20",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

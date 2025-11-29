@@ -1,0 +1,33 @@
+{
+  "id": 69152,
+  "title": "Escape from the Bronx",
+  "original_title": "Fuga dal Bronx",
+  "release_date": "1983-08-15",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

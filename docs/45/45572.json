@@ -1,0 +1,38 @@
+{
+  "id": 45572,
+  "title": "Resurrection of the Little Match Girl",
+  "original_title": "\uc131\ub0e5\ud314\uc774 \uc18c\ub140\uc758 \uc7ac\ub9bc",
+  "release_date": "2002-09-13",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

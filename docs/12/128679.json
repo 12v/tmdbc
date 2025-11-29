@@ -1,0 +1,29 @@
+{
+  "id": 128679,
+  "title": "Begone Dull Care",
+  "original_title": "Begone Dull Care",
+  "release_date": "1949-10-01",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

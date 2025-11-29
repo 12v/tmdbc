@@ -1,0 +1,25 @@
+{
+  "id": 1158959,
+  "title": "A Life Too Short: The Isabella Nardoni Case",
+  "original_title": "Isabella: o Caso Nardoni",
+  "release_date": "2023-08-17",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

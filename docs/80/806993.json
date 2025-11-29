@@ -1,0 +1,25 @@
+{
+  "id": 806993,
+  "title": "Gender Troublemakers",
+  "original_title": "Gender Troublemakers",
+  "release_date": "1993-01-01",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

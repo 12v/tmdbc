@@ -1,0 +1,25 @@
+{
+  "id": 60282,
+  "title": "Fat Choi Spirit",
+  "original_title": "\u56a6\u5495\u56a6\u5495\u65b0\u5e74\u8ca1",
+  "release_date": "2002-02-08",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

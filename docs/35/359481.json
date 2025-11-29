@@ -1,0 +1,29 @@
+{
+  "id": 359481,
+  "title": "The Story of PuPu",
+  "original_title": "\u30d7\u30fc\u30d7\u30fc\u306e\u7269\u8a9e",
+  "release_date": "1998-04-04",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

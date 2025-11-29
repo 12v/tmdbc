@@ -1,0 +1,30 @@
+{
+  "id": 41781,
+  "title": "The Stranger",
+  "original_title": "\u0986\u0997\u09a8\u09cd\u09a4\u09c1\u0995",
+  "release_date": "1991-05-07",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

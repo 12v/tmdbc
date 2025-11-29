@@ -1,0 +1,33 @@
+{
+  "id": 39506,
+  "title": "Story of a Prostitute",
+  "original_title": "\u6625\u5a66\u4f1d",
+  "release_date": "1965-02-27",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

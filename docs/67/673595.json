@@ -1,0 +1,37 @@
+{
+  "id": 673595,
+  "title": "Maggie Simpson in \"Playdate with Destiny\"",
+  "original_title": "Maggie Simpson in \"Playdate with Destiny\"",
+  "release_date": "2020-02-29",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

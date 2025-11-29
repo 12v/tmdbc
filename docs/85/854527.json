@@ -1,0 +1,25 @@
+{
+  "id": 854527,
+  "title": "Semiotic Plastic",
+  "original_title": "Plastic semiotic",
+  "release_date": "2021-12-19",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

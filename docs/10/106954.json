@@ -1,0 +1,33 @@
+{
+  "id": 106954,
+  "title": "Thrilling Bloody Sword",
+  "original_title": "\u795e\u528d\u52d5\u5c71\u6cb3",
+  "release_date": "1981-01-01",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 499546,
+  "title": "We",
+  "original_title": "Wij",
+  "release_date": "2018-07-12",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

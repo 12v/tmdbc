@@ -1,0 +1,33 @@
+{
+  "id": 47615,
+  "title": "Orgy of the Dead",
+  "original_title": "Orgy of the Dead",
+  "release_date": "1965-06-01",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

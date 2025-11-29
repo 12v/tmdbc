@@ -1,0 +1,33 @@
+{
+  "id": 8779,
+  "title": "Journey to the Beginning of Time",
+  "original_title": "Cesta do prav\u011bku",
+  "release_date": "1955-08-05",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

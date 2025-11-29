@@ -1,0 +1,25 @@
+{
+  "id": 539529,
+  "title": "Notturno",
+  "original_title": "Notturno",
+  "release_date": "2020-09-09",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

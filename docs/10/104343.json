@@ -1,0 +1,29 @@
+{
+  "id": 104343,
+  "title": "The Man Who Left His Will on Film",
+  "original_title": "\u6771\u4eac\u6218\u4e89\u6226\u5f8c\u79d8\u8a71",
+  "release_date": "1970-06-27",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

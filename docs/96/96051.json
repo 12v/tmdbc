@@ -1,0 +1,33 @@
+{
+  "id": 96051,
+  "title": "Motherland Hotel",
+  "original_title": "Anayurt Oteli",
+  "release_date": "1987-10-23",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

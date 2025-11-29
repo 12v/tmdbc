@@ -1,0 +1,25 @@
+{
+  "id": 54184,
+  "title": "Lambert the Sheepish Lion",
+  "original_title": "Lambert the Sheepish Lion",
+  "release_date": "1952-02-08",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

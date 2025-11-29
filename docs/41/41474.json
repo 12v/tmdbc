@@ -1,0 +1,33 @@
+{
+  "id": 41474,
+  "title": "Lone Wolf and Cub: Baby Cart to Hades",
+  "original_title": "\u5b50\u9023\u308c\u72fc \u6b7b\u306b\u98a8\u306b\u5411\u3046\u4e73\u6bcd\u8eca",
+  "release_date": "1972-09-02",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

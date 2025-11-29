@@ -1,0 +1,25 @@
+{
+  "id": 1006024,
+  "title": "Who'll Stop the Rain",
+  "original_title": "\u9752\u6625\u4e26\u4e0d\u6eab\u67d4",
+  "release_date": "2023-10-27",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

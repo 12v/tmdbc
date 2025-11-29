@@ -1,0 +1,29 @@
+{
+  "id": 60375,
+  "title": "Rocky VI",
+  "original_title": "Rock'y VI",
+  "release_date": "1986-06-14",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 811741,
+  "title": "Teka-Teki Tika",
+  "original_title": "Teka-Teki Tika",
+  "release_date": "2021-12-23",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 38221,
+  "title": "Space Amoeba",
+  "original_title": "\u30b2\u30be\u30e9\u30fb\u30ac\u30cb\u30e1\u30fb\u30ab\u30e1\u30fc\u30d0 \u6c7a\u6226!\u5357\u6d77\u306e\u5927\u602a\u7363",
+  "release_date": "1970-08-01",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

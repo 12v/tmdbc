@@ -1,0 +1,29 @@
+{
+  "id": 927855,
+  "title": "Love Tactics",
+  "original_title": "A\u015fk Taktikleri",
+  "release_date": "2022-02-11",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

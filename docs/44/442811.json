@@ -1,0 +1,30 @@
+{
+  "id": 442811,
+  "title": "Sunday's Illness",
+  "original_title": "La enfermedad del domingo",
+  "release_date": "2018-02-23",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

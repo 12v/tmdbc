@@ -1,0 +1,29 @@
+{
+  "id": 402778,
+  "title": "Remo",
+  "original_title": "\u0bb0\u0bc6\u0bae\u0bcb",
+  "release_date": "2016-10-07",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 12602,
+  "title": "The Torture Chamber of Dr. Sadism",
+  "original_title": "Die Schlangengrube und das Pendel",
+  "release_date": "1967-10-05",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 109298,
+  "title": "The Big Bad Wolf",
+  "original_title": "The Big Bad Wolf",
+  "release_date": "1934-04-14",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 256216,
+  "title": "Girls of the Night",
+  "original_title": "\u5973\u3070\u304b\u308a\u306e\u591c",
+  "release_date": "1961-09-04",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

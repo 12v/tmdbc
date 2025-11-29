@@ -1,0 +1,37 @@
+{
+  "id": 16976,
+  "title": "9 Souls",
+  "original_title": "\u30ca\u30a4\u30f3\u30fb\u30bd\u30a6\u30eb\u30ba",
+  "release_date": "2003-07-19",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

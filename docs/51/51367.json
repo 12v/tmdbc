@@ -1,0 +1,25 @@
+{
+  "id": 51367,
+  "title": "The Love Nest",
+  "original_title": "The Love Nest",
+  "release_date": "1923-03-01",
+  "status": "Released",
+  "runtime": 24,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

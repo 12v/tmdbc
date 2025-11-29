@@ -1,0 +1,37 @@
+{
+  "id": 572154,
+  "title": "Rascal Does Not Dream of a Dreaming Girl",
+  "original_title": "\u9752\u6625\u30d6\u30bf\u91ce\u90ce\u306f\u3086\u3081\u307f\u308b\u5c11\u5973\u306e\u5922\u3092\u898b\u306a\u3044",
+  "release_date": "2019-06-15",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

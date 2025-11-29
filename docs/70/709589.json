@@ -1,0 +1,29 @@
+{
+  "id": 709589,
+  "title": "Parasite in Love",
+  "original_title": "\u604b\u3059\u308b\u5bc4\u751f\u866b",
+  "release_date": "2021-11-12",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

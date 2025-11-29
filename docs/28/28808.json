@@ -1,0 +1,41 @@
+{
+  "id": 28808,
+  "title": "Detective Conan: The Last Wizard of the Century",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u4e16\u7d00\u672b\u306e\u9b54\u8853\u5e2b",
+  "release_date": "1999-04-17",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

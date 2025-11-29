@@ -1,0 +1,33 @@
+{
+  "id": 40897,
+  "title": "Zatoichi and the Chest of Gold",
+  "original_title": "\u5ea7\u982d\u5e02\u5343\u4e21\u9996",
+  "release_date": "1964-03-14",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

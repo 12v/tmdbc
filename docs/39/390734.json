@@ -1,0 +1,33 @@
+{
+  "id": 390734,
+  "title": "Kingsglaive: Final Fantasy XV",
+  "original_title": "\u30ad\u30f3\u30b0\u30b9\u30b0\u30ec\u30a4\u30d6 \u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fcXV",
+  "release_date": "2016-07-09",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

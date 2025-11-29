@@ -1,0 +1,25 @@
+{
+  "id": 32627,
+  "title": "The MacKintosh Man",
+  "original_title": "The MacKintosh Man",
+  "release_date": "1973-11-08",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

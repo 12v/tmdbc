@@ -1,0 +1,27 @@
+{
+  "id": 582903,
+  "title": "Echo",
+  "original_title": "Bergm\u00e1l",
+  "release_date": "2019-12-12",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "IS",
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

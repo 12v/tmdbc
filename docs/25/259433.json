@@ -1,0 +1,25 @@
+{
+  "id": 259433,
+  "title": "Buddies",
+  "original_title": "Buddies",
+  "release_date": "1985-09-12",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

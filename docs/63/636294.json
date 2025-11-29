@@ -1,0 +1,33 @@
+{
+  "id": 636294,
+  "title": "Lucky Chan-sil",
+  "original_title": "\ucc2c\uc2e4\uc774\ub294 \ubcf5\ub3c4 \ub9ce\uc9c0",
+  "release_date": "2020-03-05",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

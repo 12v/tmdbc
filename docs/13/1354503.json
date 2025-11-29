@@ -1,0 +1,29 @@
+{
+  "id": 1354503,
+  "title": "An Invisible Victim: The Eliza Samudio Case",
+  "original_title": "A V\u00edtima Invis\u00edvel: O Caso Eliza Samudio",
+  "release_date": "2024-09-26",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

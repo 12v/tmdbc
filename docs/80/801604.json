@@ -1,0 +1,29 @@
+{
+  "id": 801604,
+  "title": "Shark: The Beginning",
+  "original_title": "\uc0e4\ud06c: \ub354 \ube44\uae30\ub2dd",
+  "release_date": "2021-11-26",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

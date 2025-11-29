@@ -1,0 +1,37 @@
+{
+  "id": 48624,
+  "title": "Urotsukid\u014dji: Legend of the Overfiend",
+  "original_title": "\u8d85\u795e\u4f1d\u8aac \u3046\u308d\u3064\u304d\u7ae5\u5b50",
+  "release_date": "1989-03-18",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

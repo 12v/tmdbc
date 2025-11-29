@@ -1,0 +1,29 @@
+{
+  "id": 37975,
+  "title": "The Star Maker",
+  "original_title": "L'uomo delle stelle",
+  "release_date": "1995-09-21",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 192109,
+  "title": "The Woman with Two Heads",
+  "original_title": "\u4e8c\u982d\u5973  \u5f71\u306e\u6620\u753b",
+  "release_date": "1977-06-14",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

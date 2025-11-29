@@ -1,0 +1,25 @@
+{
+  "id": 1058078,
+  "title": "Carousel",
+  "original_title": "Karusell",
+  "release_date": "2023-10-20",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

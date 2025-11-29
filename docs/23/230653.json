@@ -1,0 +1,29 @@
+{
+  "id": 230653,
+  "title": "Cyclops",
+  "original_title": "\u30ad\u30af\u30ed\u30d7\u30b9",
+  "release_date": "1987-10-26",
+  "status": "Released",
+  "runtime": 52,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

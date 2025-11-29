@@ -1,0 +1,33 @@
+{
+  "id": 1223799,
+  "title": "The Corpse Washer",
+  "original_title": "Pemandi Jenazah",
+  "release_date": "2024-02-22",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

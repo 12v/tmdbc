@@ -1,0 +1,42 @@
+{
+  "id": 46908,
+  "title": "Dead Mountaineer's Hotel",
+  "original_title": "Hukkunud Alpinisti hotell",
+  "release_date": "1979-08-27",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "et",
+  "spoken_languages": [
+    {
+      "english_name": "Estonian",
+      "iso_639_1": "et",
+      "name": "Eesti"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

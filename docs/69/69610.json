@@ -1,0 +1,29 @@
+{
+  "id": 69610,
+  "title": "King of the Doormen",
+  "original_title": "Kap\u0131c\u0131lar Kral\u0131",
+  "release_date": "1977-05-01",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

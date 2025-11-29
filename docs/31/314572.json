@@ -1,0 +1,29 @@
+{
+  "id": 314572,
+  "title": "The Boss: Anatomy of a Crime",
+  "original_title": "El patr\u00f3n, radiograf\u00eda de un crimen",
+  "release_date": "2014-10-12",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

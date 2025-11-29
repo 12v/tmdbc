@@ -1,0 +1,29 @@
+{
+  "id": 17170,
+  "title": "Bright Lights, Big City",
+  "original_title": "Bright Lights, Big City",
+  "release_date": "1988-04-01",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

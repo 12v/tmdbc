@@ -1,0 +1,31 @@
+{
+  "id": 1103750,
+  "title": "The Time It Takes",
+  "original_title": "Il tempo che ci vuole",
+  "release_date": "2024-09-26",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

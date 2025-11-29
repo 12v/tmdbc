@@ -1,0 +1,33 @@
+{
+  "id": 600184,
+  "title": "The Nest",
+  "original_title": "The Nest (Il nido)",
+  "release_date": "2019-08-15",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

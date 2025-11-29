@@ -1,0 +1,25 @@
+{
+  "id": 1043997,
+  "title": "The Beautiful Summer",
+  "original_title": "La bella estate",
+  "release_date": "2023-08-24",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

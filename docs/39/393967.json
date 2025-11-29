@@ -1,0 +1,35 @@
+{
+  "id": 393967,
+  "title": "My Brothers and Sisters in the North",
+  "original_title": "Meine Br\u00fcder und Schwestern im Norden",
+  "release_date": "2016-07-14",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

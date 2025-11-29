@@ -1,0 +1,33 @@
+{
+  "id": 257089,
+  "title": "Love Under the Crucifix",
+  "original_title": "\u304a\u541f\u3055\u307e",
+  "release_date": "1962-06-03",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

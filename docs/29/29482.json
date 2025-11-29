@@ -1,0 +1,33 @@
+{
+  "id": 29482,
+  "title": "The Bloodstained Butterfly",
+  "original_title": "Una farfalla con le ali insanguinate",
+  "release_date": "1971-09-10",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

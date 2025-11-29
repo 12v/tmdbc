@@ -1,0 +1,29 @@
+{
+  "id": 1030571,
+  "title": "Property",
+  "original_title": "Propriedade",
+  "release_date": "2023-12-16",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

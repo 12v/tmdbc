@@ -1,0 +1,25 @@
+{
+  "id": 106124,
+  "title": "Pearls of the Deep",
+  "original_title": "Perli\u010dky na dn\u011b",
+  "release_date": "1966-01-07",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

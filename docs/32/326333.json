@@ -1,0 +1,38 @@
+{
+  "id": 326333,
+  "title": "Liza, the Fox-Fairy",
+  "original_title": "Liza, a r\u00f3kat\u00fcnd\u00e9r",
+  "release_date": "2015-02-19",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

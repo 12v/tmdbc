@@ -1,0 +1,29 @@
+{
+  "id": 630220,
+  "title": "18 Presents",
+  "original_title": "18 regali",
+  "release_date": "2020-01-02",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 698201,
+  "title": "Tokyo Revengers",
+  "original_title": "\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba",
+  "release_date": "2021-07-09",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

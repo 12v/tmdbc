@@ -1,0 +1,25 @@
+{
+  "id": 1102390,
+  "title": "The Sparrow in the Chimney",
+  "original_title": "Der Spatz im Kamin",
+  "release_date": "2024-10-10",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 303623,
+  "title": "Hello Ladies: The Movie",
+  "original_title": "Hello Ladies: The Movie",
+  "release_date": "2014-11-22",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

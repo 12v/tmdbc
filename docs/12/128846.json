@@ -1,0 +1,25 @@
+{
+  "id": 128846,
+  "title": "Not Reconciled",
+  "original_title": "Nicht vers\u00f6hnt oder Es hilft nur Gewalt, wo Gewalt herrscht",
+  "release_date": "1965-07-04",
+  "status": "Released",
+  "runtime": 55,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 84508,
+  "title": "The Ghost of Yotsuya",
+  "original_title": "\u6771\u6d77\u9053\u56db\u8c37\u602a\u8ac7",
+  "release_date": "1959-07-11",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

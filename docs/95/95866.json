@@ -1,0 +1,33 @@
+{
+  "id": 95866,
+  "title": "The Poor Little Rich Girl",
+  "original_title": "The Poor Little Rich Girl",
+  "release_date": "1917-03-05",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

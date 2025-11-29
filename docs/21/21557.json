@@ -1,0 +1,30 @@
+{
+  "id": 21557,
+  "title": "Hazaaron Khwaishein Aisi",
+  "original_title": "\u0939\u091c\u093c\u093e\u0930\u094b\u0902 \u0916\u093c\u094d\u0935\u093e\u0939\u093f\u0936\u0947\u0902 \u0910\u0938\u0940",
+  "release_date": "2003-12-22",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

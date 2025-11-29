@@ -1,0 +1,29 @@
+{
+  "id": 878976,
+  "title": "Just Remembering",
+  "original_title": "\u3061\u3087\u3063\u3068\u601d\u3044\u51fa\u3057\u305f\u3060\u3051",
+  "release_date": "2022-02-11",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

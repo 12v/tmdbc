@@ -1,0 +1,37 @@
+{
+  "id": 1208284,
+  "title": "Two to One",
+  "original_title": "Zwei zu Eins",
+  "release_date": "2024-07-25",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

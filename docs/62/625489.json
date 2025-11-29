@@ -1,0 +1,25 @@
+{
+  "id": 625489,
+  "title": "Recep Ivedik 6",
+  "original_title": "Recep \u0130vedik 6",
+  "release_date": "2019-11-07",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

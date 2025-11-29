@@ -1,0 +1,25 @@
+{
+  "id": 7014,
+  "title": "Themroc",
+  "original_title": "Themroc",
+  "release_date": "1973-03-01",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 713854,
+  "title": "Kappela",
+  "original_title": "\u0d15\u0d2a\u0d4d\u0d2a\u0d47\u0d33",
+  "release_date": "2020-03-06",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

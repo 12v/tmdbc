@@ -1,0 +1,38 @@
+{
+  "id": 1225683,
+  "title": "Estomago 2: The Cookfather",
+  "original_title": "Est\u00f4mago II: O Poderoso Chef",
+  "release_date": "2024-08-29",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

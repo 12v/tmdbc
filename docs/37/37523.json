@@ -1,0 +1,25 @@
+{
+  "id": 37523,
+  "title": "Envy",
+  "original_title": "K\u0131skanmak",
+  "release_date": "2009-08-08",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

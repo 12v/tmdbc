@@ -1,0 +1,29 @@
+{
+  "id": 215407,
+  "title": "Trances",
+  "original_title": "\u0627\u0644\u062d\u0627\u0644",
+  "release_date": "1982-01-27",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "MA"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

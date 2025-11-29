@@ -1,0 +1,37 @@
+{
+  "id": 492015,
+  "title": "The Pinchcliffe Grand Prix",
+  "original_title": "Fl\u00e5klypa Grand Prix",
+  "release_date": "1975-08-28",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

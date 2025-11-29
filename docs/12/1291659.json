@@ -1,0 +1,30 @@
+{
+  "id": 1291659,
+  "title": "The Wizard of the Kremlin",
+  "original_title": "The Wizard of the Kremlin",
+  "release_date": "2026-01-21",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

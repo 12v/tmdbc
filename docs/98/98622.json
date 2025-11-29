@@ -1,0 +1,23 @@
+{
+  "id": 98622,
+  "title": "9",
+  "original_title": "9",
+  "release_date": "2005-04-21",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

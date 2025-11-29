@@ -1,0 +1,30 @@
+{
+  "id": 62734,
+  "title": "Paganini",
+  "original_title": "Paganini",
+  "release_date": "1990-05-25",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

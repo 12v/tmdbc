@@ -1,0 +1,28 @@
+{
+  "id": 676819,
+  "title": "Moneyboys",
+  "original_title": "\u91d1\u9322\u7537\u5b69",
+  "release_date": "2021-11-19",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "BE",
+    "FR",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 41764,
+  "title": "The Best Intentions",
+  "original_title": "Den goda viljan",
+  "release_date": "1992-05-24",
+  "status": "Released",
+  "runtime": 182,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "GB",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

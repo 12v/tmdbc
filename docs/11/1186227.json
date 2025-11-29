@@ -1,0 +1,25 @@
+{
+  "id": 1186227,
+  "title": "The ABCs of Book Banning",
+  "original_title": "The ABCs of Book Banning",
+  "release_date": "2024-02-16",
+  "status": "Released",
+  "runtime": 27,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

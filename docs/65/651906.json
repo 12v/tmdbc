@@ -1,0 +1,29 @@
+{
+  "id": 651906,
+  "title": "M8 - When Death Rescues Life",
+  "original_title": "M-8: Quando a Morte Socorre a Vida",
+  "release_date": "2019-12-03",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

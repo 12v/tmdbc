@@ -1,0 +1,37 @@
+{
+  "id": 507569,
+  "title": "The Seven Deadly Sins: Prisoners of the Sky",
+  "original_title": "\u5287\u5834\u7248 \u4e03\u3064\u306e\u5927\u7f6a \u5929\u7a7a\u306e\u56da\u308f\u308c\u4eba",
+  "release_date": "2018-08-18",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

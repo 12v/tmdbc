@@ -1,0 +1,29 @@
+{
+  "id": 1303356,
+  "title": "L'\u00c9preuve du feu",
+  "original_title": "L'\u00c9preuve du feu",
+  "release_date": "2025-08-13",
+  "status": "Released",
+  "runtime": 0,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

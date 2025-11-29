@@ -1,0 +1,29 @@
+{
+  "id": 30870,
+  "title": "A Cat in the Brain",
+  "original_title": "Un gatto nel cervello",
+  "release_date": "1990-08-08",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
