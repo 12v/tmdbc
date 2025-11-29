@@ -1,0 +1,37 @@
+{
+  "id": 34131,
+  "title": "Gamera vs. Viras",
+  "original_title": "\u30ac\u30e1\u30e9\u5bfe\u5b87\u5b99\u602a\u7363\u30d0\u30a4\u30e9\u30b9",
+  "release_date": "1968-03-20",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

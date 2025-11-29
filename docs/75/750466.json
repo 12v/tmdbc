@@ -1,0 +1,33 @@
+{
+  "id": 750466,
+  "title": "Wundersch\u00f6n",
+  "original_title": "Wundersch\u00f6n",
+  "release_date": "2022-02-03",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

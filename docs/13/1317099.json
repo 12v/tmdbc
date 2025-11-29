@@ -1,0 +1,29 @@
+{
+  "id": 1317099,
+  "title": "The Flamenco Guitar of Yerai Cort\u00e9s",
+  "original_title": "La guitarra flamenca de Yerai Cort\u00e9s",
+  "release_date": "2024-12-20",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

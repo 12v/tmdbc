@@ -1,0 +1,33 @@
+{
+  "id": 117212,
+  "title": "A Fugitive from the Past",
+  "original_title": "\u98e2\u9913\u6d77\u5ce1",
+  "release_date": "1965-01-15",
+  "status": "Released",
+  "runtime": 183,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

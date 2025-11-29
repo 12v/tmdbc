@@ -1,0 +1,25 @@
+{
+  "id": 369131,
+  "title": "My Friend Nietzsche",
+  "original_title": "Meu Amigo Nietzsche",
+  "release_date": "2012-09-22",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 38730,
+  "title": "A Fool There Was",
+  "original_title": "A Fool There Was",
+  "release_date": "1915-01-12",
+  "status": "Released",
+  "runtime": 67,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

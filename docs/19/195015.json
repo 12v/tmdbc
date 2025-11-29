@@ -1,0 +1,29 @@
+{
+  "id": 195015,
+  "title": "The Woman Who Invented Love",
+  "original_title": "A Mulher Que Inventou o Amor",
+  "release_date": "1980-10-20",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

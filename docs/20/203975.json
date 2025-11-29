@@ -1,0 +1,33 @@
+{
+  "id": 203975,
+  "title": "The Secret Face",
+  "original_title": "Gizli Y\u00fcz",
+  "release_date": "1991-11-22",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

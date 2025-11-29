@@ -1,0 +1,33 @@
+{
+  "id": 127946,
+  "title": "Tenderness of the Wolves",
+  "original_title": "Die Z\u00e4rtlichkeit der W\u00f6lfe",
+  "release_date": "1973-07-12",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

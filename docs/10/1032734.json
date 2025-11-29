@@ -1,0 +1,35 @@
+{
+  "id": 1032734,
+  "title": "The Red Suitcase",
+  "original_title": "La valise rouge",
+  "release_date": "2022-08-10",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "LU"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

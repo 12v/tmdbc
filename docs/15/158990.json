@@ -1,0 +1,33 @@
+{
+  "id": 158990,
+  "title": "Wrong Cops",
+  "original_title": "Wrong Cops",
+  "release_date": "2013-12-18",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "RU",
+    "BE",
+    "FR",
+    "US",
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

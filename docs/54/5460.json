@@ -1,0 +1,25 @@
+{
+  "id": 5460,
+  "title": "Cruel Intentions 3",
+  "original_title": "Cruel Intentions 3",
+  "release_date": "2004-08-10",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

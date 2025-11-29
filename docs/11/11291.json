@@ -1,0 +1,33 @@
+{
+  "id": 11291,
+  "title": "The Brothers Lionheart",
+  "original_title": "Br\u00f6derna Lejonhj\u00e4rta",
+  "release_date": "1977-09-23",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

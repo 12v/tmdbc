@@ -1,0 +1,30 @@
+{
+  "id": 65482,
+  "title": "The Law",
+  "original_title": "Tila\u00ef",
+  "release_date": "1990-09-24",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "ff",
+  "spoken_languages": [
+    {
+      "english_name": "Fulah",
+      "iso_639_1": "ff",
+      "name": "Fulfulde"
+    }
+  ],
+  "origin_country": [
+    "CH",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

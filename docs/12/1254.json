@@ -1,0 +1,25 @@
+{
+  "id": 1254,
+  "title": "Don't Worry, I'm Fine",
+  "original_title": "Je vais bien, ne t'en fais pas",
+  "release_date": "2006-09-06",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

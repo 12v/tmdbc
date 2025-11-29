@@ -1,0 +1,30 @@
+{
+  "id": 1247154,
+  "title": "Young Royals Forever",
+  "original_title": "Young Royals Forever",
+  "release_date": "2024-03-13",
+  "status": "Released",
+  "runtime": 53,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

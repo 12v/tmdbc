@@ -1,0 +1,33 @@
+{
+  "id": 40435,
+  "title": "The Super Inframan",
+  "original_title": "\u4e2d\u570b\u8d85\u4eba",
+  "release_date": "1975-08-01",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

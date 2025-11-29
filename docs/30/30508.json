@@ -1,0 +1,33 @@
+{
+  "id": 30508,
+  "title": "Berlin Calling",
+  "original_title": "Berlin Calling",
+  "release_date": "2008-10-01",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 25752,
+  "title": "Children of the Corn 666: Isaac's Return",
+  "original_title": "Children of the Corn 666: Isaac's Return",
+  "release_date": "1999-10-19",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

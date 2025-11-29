@@ -1,0 +1,33 @@
+{
+  "id": 84111,
+  "title": "You Are the Apple of My Eye",
+  "original_title": "\u90a3\u4e9b\u5e74\uff0c\u6211\u5011\u4e00\u8d77\u8ffd\u7684\u5973\u5b69",
+  "release_date": "2011-08-19",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

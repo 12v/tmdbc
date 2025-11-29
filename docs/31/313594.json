@@ -1,0 +1,29 @@
+{
+  "id": 313594,
+  "title": "The Little Girl of Hanoi",
+  "original_title": "Em b\u00e9 H\u00e0 N\u1ed9i",
+  "release_date": "1974-10-01",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1037348,
+  "title": "My Happy Marriage",
+  "original_title": "\u308f\u305f\u3057\u306e\u5e78\u305b\u306a\u7d50\u5a5a",
+  "release_date": "2023-03-17",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

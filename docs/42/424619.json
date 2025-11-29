@@ -1,0 +1,25 @@
+{
+  "id": 424619,
+  "title": "The Magic Tuche",
+  "original_title": "Les Tuche 3",
+  "release_date": "2018-01-31",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

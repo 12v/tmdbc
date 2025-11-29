@@ -1,0 +1,34 @@
+{
+  "id": 114570,
+  "title": "The Hunters",
+  "original_title": "\u039f\u03b9 \u03ba\u03c5\u03bd\u03b7\u03b3\u03bf\u03af",
+  "release_date": "1977-10-19",
+  "status": "Released",
+  "runtime": 171,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

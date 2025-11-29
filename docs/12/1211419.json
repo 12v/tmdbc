@@ -1,0 +1,25 @@
+{
+  "id": 1211419,
+  "title": "A Vampire in the Family",
+  "original_title": "Meu cunhado \u00e9 um vampiro",
+  "release_date": "2023-12-23",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

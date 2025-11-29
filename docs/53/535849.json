@@ -1,0 +1,29 @@
+{
+  "id": 535849,
+  "title": "Secrets in the Hot Spring",
+  "original_title": "\u5207\u5c0f\u91d1\u5bb6\u7684\u65c5\u9928",
+  "release_date": "2018-07-11",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 10103,
+  "title": "Windstruck",
+  "original_title": "\ub0b4 \uc5ec\uc790\uce5c\uad6c\ub97c \uc18c\uac1c\ud569\ub2c8\ub2e4",
+  "release_date": "2004-06-03",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

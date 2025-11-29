@@ -1,0 +1,26 @@
+{
+  "id": 300521,
+  "title": "Born in Gaza",
+  "original_title": "Nacido en Gaza",
+  "release_date": "2014-12-12",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "PS"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

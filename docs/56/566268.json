@@ -1,0 +1,25 @@
+{
+  "id": 566268,
+  "title": "The Passion According to G.H.",
+  "original_title": "A Paix\u00e3o Segundo G.H.",
+  "release_date": "2024-04-11",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

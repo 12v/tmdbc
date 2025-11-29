@@ -1,0 +1,33 @@
+{
+  "id": 21036,
+  "title": "Panda! Go Panda!",
+  "original_title": "\u30d1\u30f3\u30c0\u30b3\u30d1\u30f3\u30c0",
+  "release_date": "1972-12-17",
+  "status": "Released",
+  "runtime": 35,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

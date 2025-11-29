@@ -1,0 +1,33 @@
+{
+  "id": 567973,
+  "title": "Furie",
+  "original_title": "Hai Ph\u01b0\u1ee3ng",
+  "release_date": "2019-02-22",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 808579,
+  "title": "Anne+: The Film",
+  "original_title": "Anne+",
+  "release_date": "2021-10-14",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

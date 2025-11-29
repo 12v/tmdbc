@@ -1,0 +1,39 @@
+{
+  "id": 435577,
+  "title": "The 12th Man",
+  "original_title": "Den 12. mann",
+  "release_date": "2017-12-25",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Northern Sami",
+      "iso_639_1": "se",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

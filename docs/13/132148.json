@@ -1,0 +1,25 @@
+{
+  "id": 132148,
+  "title": "The Battle of Chile: Part II",
+  "original_title": "La batalla de Chile (Parte 2). El Golpe de Estado",
+  "release_date": "1976-03-13",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

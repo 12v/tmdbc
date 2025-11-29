@@ -1,0 +1,29 @@
+{
+  "id": 375572,
+  "title": "Italian Race",
+  "original_title": "Veloce come il vento",
+  "release_date": "2016-04-07",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

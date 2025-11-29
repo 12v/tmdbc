@@ -1,0 +1,33 @@
+{
+  "id": 932,
+  "title": "The Murderers Are Among Us",
+  "original_title": "Die M\u00f6rder sind unter uns",
+  "release_date": "1946-10-15",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "XG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 812592,
+  "title": "Get the Grift",
+  "original_title": "Os Salafr\u00e1rios",
+  "release_date": "2021-04-28",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

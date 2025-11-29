@@ -1,0 +1,35 @@
+{
+  "id": 48227,
+  "title": "La Soufri\u00e8re: Waiting for an Inevitable Catastrophe",
+  "original_title": "La Soufri\u00e8re: Warten auf eine unausweichliche Katastrophe",
+  "release_date": "1977-10-01",
+  "status": "Released",
+  "runtime": 31,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

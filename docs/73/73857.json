@@ -1,0 +1,30 @@
+{
+  "id": 73857,
+  "title": "Wild Tango",
+  "original_title": "Tango feroz: La leyenda de Tanguito",
+  "release_date": "1993-06-03",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

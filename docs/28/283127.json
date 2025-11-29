@@ -1,0 +1,29 @@
+{
+  "id": 283127,
+  "title": "Yakuza Apocalypse",
+  "original_title": "\u6975\u9053\u5927\u6226\u4e89",
+  "release_date": "2015-05-21",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

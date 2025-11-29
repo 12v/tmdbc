@@ -1,0 +1,33 @@
+{
+  "id": 44864,
+  "title": "The Magic Flute",
+  "original_title": "Trollfl\u00f6jten",
+  "release_date": "1975-10-04",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

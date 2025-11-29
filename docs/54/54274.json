@@ -1,0 +1,33 @@
+{
+  "id": 54274,
+  "title": "Zatoichi and the Doomed Man",
+  "original_title": "\u5ea7\u982d\u5e02\u9006\u624b\u65ac\u308a",
+  "release_date": "1965-09-18",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

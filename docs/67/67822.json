@@ -1,0 +1,30 @@
+{
+  "id": 67822,
+  "title": "Rituals",
+  "original_title": "Rituals",
+  "release_date": "1977-07-21",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

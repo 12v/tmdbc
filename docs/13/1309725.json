@@ -1,0 +1,30 @@
+{
+  "id": 1309725,
+  "title": "The Richest Woman in the World",
+  "original_title": "La Femme la plus riche du monde",
+  "release_date": "2025-10-29",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

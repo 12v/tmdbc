@@ -1,0 +1,33 @@
+{
+  "id": 1132152,
+  "title": "Ace",
+  "original_title": "\u0b8f\u0bb8\u0bcd",
+  "release_date": "2025-05-23",
+  "status": "Released",
+  "runtime": 154,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

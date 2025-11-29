@@ -1,0 +1,35 @@
+{
+  "id": 253689,
+  "title": "Introduction to the End of an Argument",
+  "original_title": "\u0645\u0642\u062f\u0645\u0629 \u0644\u0646\u0647\u0627\u064a\u0627\u062a \u062c\u062f\u0627\u0644",
+  "release_date": "1990-01-01",
+  "status": "Released",
+  "runtime": 40,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

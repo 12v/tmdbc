@@ -1,0 +1,29 @@
+{
+  "id": 745078,
+  "title": "Prime Time",
+  "original_title": "Prime Time",
+  "release_date": "2021-01-30",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

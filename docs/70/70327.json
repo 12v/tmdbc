@@ -1,0 +1,41 @@
+{
+  "id": 70327,
+  "title": "Gamera vs. Jiger",
+  "original_title": "\u30ac\u30e1\u30e9\u5bfe\u5927\u9b54\u7363\u30b8\u30e3\u30a4\u30ac\u30fc",
+  "release_date": "1970-03-21",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

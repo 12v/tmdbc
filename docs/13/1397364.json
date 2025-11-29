@@ -1,0 +1,29 @@
+{
+  "id": 1397364,
+  "title": "La Grazia",
+  "original_title": "La Grazia",
+  "release_date": "2025-12-05",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

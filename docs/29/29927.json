@@ -1,0 +1,39 @@
+{
+  "id": 29927,
+  "title": "Pretty Village, Pretty Flame",
+  "original_title": "\u041b\u0435\u043f\u0430 \u0441\u0435\u043b\u0430, \u043b\u0435\u043f\u043e \u0433\u043e\u0440\u0435",
+  "release_date": "1996-05-11",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

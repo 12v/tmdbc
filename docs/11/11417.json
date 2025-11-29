@@ -1,0 +1,33 @@
+{
+  "id": 11417,
+  "title": "The Lift",
+  "original_title": "De Lift",
+  "release_date": "1983-05-11",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

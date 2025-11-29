@@ -1,0 +1,33 @@
+{
+  "id": 1211999,
+  "title": "Kadhalikka Neramillai",
+  "original_title": "\u0b95\u0bbe\u0ba4\u0bb2\u0bbf\u0b95\u0bcd\u0b95 \u0ba8\u0bc7\u0bb0\u0bae\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8",
+  "release_date": "2025-01-14",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 122445,
+  "title": "The Middleman",
+  "original_title": "\u099c\u09a8\u0985\u09b0\u09a3\u09cd\u09af",
+  "release_date": "1976-02-20",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

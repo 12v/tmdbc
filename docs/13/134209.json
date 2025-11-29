@@ -1,0 +1,30 @@
+{
+  "id": 134209,
+  "title": "A Wedding Suit",
+  "original_title": "\u0644\u0628\u0627\u0633\u06cc \u0628\u0631\u0627\u06cc \u0639\u0631\u0648\u0633\u06cc\u200e\u200e",
+  "release_date": "1976-01-01",
+  "status": "Released",
+  "runtime": 59,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Azerbaijani",
+      "iso_639_1": "az",
+      "name": "Az\u0259rbaycan"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

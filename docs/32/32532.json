@@ -1,0 +1,27 @@
+{
+  "id": 32532,
+  "title": "Everything Will Be OK",
+  "original_title": "Everything Will Be OK",
+  "release_date": "2006-01-10",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

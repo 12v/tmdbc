@@ -1,0 +1,29 @@
+{
+  "id": 1379486,
+  "title": "Victorian Psycho",
+  "original_title": "Victorian Psycho",
+  "release_date": "",
+  "status": "Post Production",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

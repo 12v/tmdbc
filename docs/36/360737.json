@@ -1,0 +1,30 @@
+{
+  "id": 360737,
+  "title": "Center of My World",
+  "original_title": "Die Mitte der Welt",
+  "release_date": "2016-11-10",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

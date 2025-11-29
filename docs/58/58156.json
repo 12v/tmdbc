@@ -1,0 +1,25 @@
+{
+  "id": 58156,
+  "title": "Pure",
+  "original_title": "Till det som \u00e4r vackert",
+  "release_date": "2010-10-22",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

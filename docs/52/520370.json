@@ -1,0 +1,25 @@
+{
+  "id": 520370,
+  "title": "The American Meme",
+  "original_title": "The American Meme",
+  "release_date": "2018-12-07",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

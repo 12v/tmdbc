@@ -1,0 +1,25 @@
+{
+  "id": 1412113,
+  "title": "Squid Game: Making Season 2",
+  "original_title": "\uc624\uc9d5\uc5b4 \uac8c\uc784: \uc2dc\uc98c2 \uc81c\uc791 \uc774\uc57c\uae30",
+  "release_date": "2025-01-02",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

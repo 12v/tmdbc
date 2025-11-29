@@ -1,0 +1,37 @@
+{
+  "id": 84480,
+  "title": "The Little Prince and the Eight-Headed Dragon",
+  "original_title": "\u308f\u3093\u3071\u304f\u738b\u5b50\u306e\u5927\u86c7\u9000\u6cbb",
+  "release_date": "1963-03-24",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

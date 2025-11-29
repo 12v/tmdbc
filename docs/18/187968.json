@@ -1,0 +1,30 @@
+{
+  "id": 187968,
+  "title": "Now",
+  "original_title": "Nu",
+  "release_date": "2003-01-27",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

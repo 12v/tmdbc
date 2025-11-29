@@ -1,0 +1,37 @@
+{
+  "id": 42360,
+  "title": "Inuyasha the Movie: Affections Touching Across Time",
+  "original_title": "\u72ac\u591c\u53c9 \u6642\u4ee3\u3092\u8d8a\u3048\u308b\u60f3\u3044",
+  "release_date": "2001-12-15",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 364608,
+  "title": "A Christmas Dream",
+  "original_title": "V\u00e1no\u010dn\u00ed sen",
+  "release_date": "1945-10-26",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

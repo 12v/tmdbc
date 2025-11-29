@@ -1,0 +1,29 @@
+{
+  "id": 12578,
+  "title": "Germany in Autumn",
+  "original_title": "Deutschland im Herbst",
+  "release_date": "1978-03-03",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

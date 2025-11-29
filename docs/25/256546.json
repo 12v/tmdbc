@@ -1,0 +1,29 @@
+{
+  "id": 256546,
+  "title": "A Small September Affair",
+  "original_title": "Bi K\u00fc\u00e7\u00fck Eyl\u00fcl Meselesi",
+  "release_date": "2014-02-14",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

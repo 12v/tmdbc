@@ -1,0 +1,29 @@
+{
+  "id": 949808,
+  "title": "Squaring the Circle (The Story of Hipgnosis)",
+  "original_title": "Squaring the Circle (The Story of Hipgnosis)",
+  "release_date": "2023-06-07",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

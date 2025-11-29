@@ -1,0 +1,33 @@
+{
+  "id": 118628,
+  "title": "English Vinglish",
+  "original_title": "\u0907\u0902\u0917\u094d\u0932\u093f\u0936 \u0935\u093f\u0902\u0917\u094d\u0932\u093f\u0936",
+  "release_date": "2012-09-21",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 572151,
+  "title": "Zombie for Sale",
+  "original_title": "\uae30\ubb18\ud55c \uac00\uc871",
+  "release_date": "2019-02-13",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 86732,
+  "title": "Red Psalm",
+  "original_title": "M\u00e9g k\u00e9r a n\u00e9p",
+  "release_date": "1972-03-09",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

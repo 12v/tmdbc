@@ -1,0 +1,29 @@
+{
+  "id": 1363282,
+  "title": "The Carman Family Deaths",
+  "original_title": "The Carman Family Deaths",
+  "release_date": "2025-11-18",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 382079,
+  "title": "Donald Trump's The Art of the Deal: The Movie",
+  "original_title": "Donald Trump's The Art of the Deal: The Movie",
+  "release_date": "2016-02-10",
+  "status": "Released",
+  "runtime": 50,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

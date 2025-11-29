@@ -1,0 +1,30 @@
+{
+  "id": 89681,
+  "title": "The Hour of the Furnaces",
+  "original_title": "La hora de los hornos",
+  "release_date": "1968-09-30",
+  "status": "Released",
+  "runtime": 260,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

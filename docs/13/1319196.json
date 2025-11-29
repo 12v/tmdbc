@@ -1,0 +1,27 @@
+{
+  "id": 1319196,
+  "title": "Youth (Homecoming)",
+  "original_title": "\u9752\u6625\uff08\u5f52\uff09",
+  "release_date": "2025-07-09",
+  "status": "Released",
+  "runtime": 152,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "NL",
+    "LU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

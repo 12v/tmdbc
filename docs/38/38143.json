@@ -1,0 +1,30 @@
+{
+  "id": 38143,
+  "title": "The Story of Qiu Ju",
+  "original_title": "\u79cb\u83ca\u6253\u5b98\u53f8",
+  "release_date": "1992-08-31",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

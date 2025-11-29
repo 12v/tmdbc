@@ -1,0 +1,41 @@
+{
+  "id": 266031,
+  "title": "Jauja",
+  "original_title": "Jauja",
+  "release_date": "2014-11-27",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "DK",
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 676792,
+  "title": "Forensic",
+  "original_title": "\u0d2b\u0d4b\u0d31\u0d28\u0d4d\u200d\u0d38\u0d3f\u0d15\u0d4d",
+  "release_date": "2020-02-28",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

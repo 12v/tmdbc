@@ -1,0 +1,33 @@
+{
+  "id": 28063,
+  "title": "Caltiki, the Immortal Monster",
+  "original_title": "Caltiki il mostro immortale",
+  "release_date": "1959-08-07",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

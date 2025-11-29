@@ -1,0 +1,33 @@
+{
+  "id": 1248795,
+  "title": "Art of Love",
+  "original_title": "Romantik H\u0131rs\u0131z",
+  "release_date": "2024-03-13",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

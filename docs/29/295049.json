@@ -1,0 +1,29 @@
+{
+  "id": 295049,
+  "title": "Nativity 3: Dude, Where's My Donkey?!",
+  "original_title": "Nativity 3: Dude, Where's My Donkey?!",
+  "release_date": "2014-11-14",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

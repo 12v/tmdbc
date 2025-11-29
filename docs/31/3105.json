@@ -1,0 +1,33 @@
+{
+  "id": 3105,
+  "title": "Frankenstein: The True Story",
+  "original_title": "Frankenstein: The True Story",
+  "release_date": "1974-09-19",
+  "status": "Released",
+  "runtime": 186,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 422603,
+  "title": "Aanandam",
+  "original_title": "\u0d06\u0d28\u0d28\u0d4d\u0d26\u0d02",
+  "release_date": "2016-10-21",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

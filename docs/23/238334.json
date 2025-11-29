@@ -1,0 +1,33 @@
+{
+  "id": 238334,
+  "title": "Xica",
+  "original_title": "Xica da Silva",
+  "release_date": "1976-09-06",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

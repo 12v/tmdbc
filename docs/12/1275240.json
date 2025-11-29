@@ -1,0 +1,25 @@
+{
+  "id": 1275240,
+  "title": "Desert of Namibia",
+  "original_title": "\u30ca\u30df\u30d3\u30a2\u306e\u7802\u6f20",
+  "release_date": "2024-09-06",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 409296,
+  "title": "Dearest Sister",
+  "original_title": "\u0e99\u0ec9\u0ead\u0e87\u0eae\u0eb1\u0e81",
+  "release_date": "2017-04-21",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "lo",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Estonian",
+      "iso_639_1": "et",
+      "name": "Eesti"
+    },
+    {
+      "english_name": "Lao",
+      "iso_639_1": "lo",
+      "name": ""
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "EE",
+    "FR",
+    "LA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

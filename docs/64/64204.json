@@ -1,0 +1,29 @@
+{
+  "id": 64204,
+  "title": "Pull My Daisy",
+  "original_title": "Pull My Daisy",
+  "release_date": "1959-11-11",
+  "status": "Released",
+  "runtime": 26,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

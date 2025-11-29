@@ -1,0 +1,33 @@
+{
+  "id": 227895,
+  "title": "The Ravishing of Frank N. Stein",
+  "original_title": "Le ravissement de Frank N. Stein",
+  "release_date": "1982-02-18",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

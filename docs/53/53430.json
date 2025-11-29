@@ -1,0 +1,29 @@
+{
+  "id": 53430,
+  "title": "The Pilgrim",
+  "original_title": "The Pilgrim",
+  "release_date": "1923-02-19",
+  "status": "Released",
+  "runtime": 46,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

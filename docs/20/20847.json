@@ -1,0 +1,38 @@
+{
+  "id": 20847,
+  "title": "The Needle",
+  "original_title": "\u0418\u0433\u043b\u0430",
+  "release_date": "1989-02-13",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Uzbek",
+      "iso_639_1": "uz",
+      "name": "ozbek"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

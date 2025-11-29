@@ -1,0 +1,26 @@
+{
+  "id": 42122,
+  "title": "The Dresser",
+  "original_title": "The Dresser",
+  "release_date": "1983-12-06",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

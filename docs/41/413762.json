@@ -1,0 +1,26 @@
+{
+  "id": 413762,
+  "title": "The Levelling",
+  "original_title": "The Levelling",
+  "release_date": "2017-05-12",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

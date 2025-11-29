@@ -1,0 +1,32 @@
+{
+  "id": 1004598,
+  "title": "Anhell69",
+  "original_title": "Anhell69",
+  "release_date": "2023-05-26",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "CO",
+    "FR",
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 215653,
+  "title": "Yozgat Blues",
+  "original_title": "Yozgat Blues",
+  "release_date": "2013-12-05",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

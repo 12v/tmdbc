@@ -1,0 +1,26 @@
+{
+  "id": 854572,
+  "title": "The Great Movement",
+  "original_title": "El Gran Movimiento",
+  "release_date": "2022-03-30",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CH",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

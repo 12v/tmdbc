@@ -1,0 +1,49 @@
+{
+  "id": 868,
+  "title": "Tsotsi",
+  "original_title": "Tsotsi",
+  "release_date": "2005-12-23",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "tn",
+  "spoken_languages": [
+    {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Sotho",
+      "iso_639_1": "st",
+      "name": ""
+    },
+    {
+      "english_name": "Tswana",
+      "iso_639_1": "tn",
+      "name": ""
+    },
+    {
+      "english_name": "Zulu",
+      "iso_639_1": "zu",
+      "name": "isiZulu"
+    }
+  ],
+  "origin_country": [
+    "ZA"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

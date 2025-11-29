@@ -1,0 +1,33 @@
+{
+  "id": 117042,
+  "title": "The Devil's Trap",
+  "original_title": "\u010e\u00e1blova past",
+  "release_date": "1962-04-20",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

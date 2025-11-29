@@ -1,0 +1,29 @@
+{
+  "id": 647206,
+  "title": "Android Kunjappan Version 5.25",
+  "original_title": "\u0d06\u0d7b\u0d21\u0d4d\u0d30\u0d47\u0d3e\u0d2f\u0d4d\u200c\u0d21\u0d4d \u0d15\u0d41\u0d1e\u0d4d\u0d1e\u0d2a\u0d4d\u0d2a\u0d7b Version 5.25",
+  "release_date": "2019-11-08",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 198598,
+  "title": "Othon",
+  "original_title": "Les yeux ne veulent pas en tout temps se fermer, ou Peut-\u00eatre qu'un jour Rome se permettra de choisir \u00e0 son tour",
+  "release_date": "1971-01-13",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

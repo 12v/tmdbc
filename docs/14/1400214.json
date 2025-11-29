@@ -1,0 +1,30 @@
+{
+  "id": 1400214,
+  "title": "Maspalomas",
+  "original_title": "Maspalomas",
+  "release_date": "2025-09-26",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "eu",
+  "spoken_languages": [
+    {
+      "english_name": "Basque",
+      "iso_639_1": "eu",
+      "name": "euskera"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

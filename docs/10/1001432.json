@@ -1,0 +1,26 @@
+{
+  "id": 1001432,
+  "title": "Who by Fire",
+  "original_title": "Comme le feu",
+  "release_date": "2024-07-31",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

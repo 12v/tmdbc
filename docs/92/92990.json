@@ -1,0 +1,33 @@
+{
+  "id": 92990,
+  "title": "Yellow Earth",
+  "original_title": "\u9ec4\u571f\u5730",
+  "release_date": "1984-08-19",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

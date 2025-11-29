@@ -1,0 +1,33 @@
+{
+  "id": 41477,
+  "title": "Lone Wolf and Cub: Baby Cart in Peril",
+  "original_title": "\u5b50\u9023\u308c\u72fc \u89aa\u306e\u5fc3\u5b50\u306e\u5fc3",
+  "release_date": "1972-12-30",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

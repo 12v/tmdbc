@@ -1,0 +1,33 @@
+{
+  "id": 258452,
+  "title": "A Girl, She Is 100%",
+  "original_title": "100%\u306e\u5973\u306e\u5b50",
+  "release_date": "1983-01-02",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

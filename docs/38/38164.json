@@ -1,0 +1,33 @@
+{
+  "id": 38164,
+  "title": "Kaos",
+  "original_title": "Kaos",
+  "release_date": "1984-11-23",
+  "status": "Released",
+  "runtime": 188,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

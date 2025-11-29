@@ -1,0 +1,29 @@
+{
+  "id": 574547,
+  "title": "She Said, He Said",
+  "original_title": "Ela Disse, Ele Disse",
+  "release_date": "2019-10-10",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

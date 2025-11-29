@@ -1,0 +1,25 @@
+{
+  "id": 1075989,
+  "title": "Explanation for Everything",
+  "original_title": "Magyar\u00e1zat mindenre",
+  "release_date": "2023-10-05",
+  "status": "Released",
+  "runtime": 151,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

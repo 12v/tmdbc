@@ -1,0 +1,37 @@
+{
+  "id": 599925,
+  "title": "Shershaah",
+  "original_title": "\u0936\u0947\u0930\u0936\u093e\u0939",
+  "release_date": "2021-08-12",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

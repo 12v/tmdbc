@@ -1,0 +1,29 @@
+{
+  "id": 476781,
+  "title": "Possessive",
+  "original_title": "Posesif",
+  "release_date": "2017-10-26",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

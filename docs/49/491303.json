@@ -1,0 +1,29 @@
+{
+  "id": 491303,
+  "title": "Butterflies",
+  "original_title": "Kelebekler",
+  "release_date": "2018-03-30",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

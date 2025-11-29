@@ -1,0 +1,29 @@
+{
+  "id": 412096,
+  "title": "Maanagaram",
+  "original_title": "\u0bae\u0bbe\u0ba8\u0b95\u0bb0\u0bae\u0bcd",
+  "release_date": "2017-03-10",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

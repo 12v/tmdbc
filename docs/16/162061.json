@@ -1,0 +1,25 @@
+{
+  "id": 162061,
+  "title": "Happy-Go-Lucky",
+  "original_title": "\u590f\u6642\u9593\u306e\u5927\u4eba\u305f\u3061",
+  "release_date": "1997-03-17",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

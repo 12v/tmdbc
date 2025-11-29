@@ -1,0 +1,38 @@
+{
+  "id": 96712,
+  "title": "The Puppetmaster",
+  "original_title": "\u6232\u5922\u4eba\u751f",
+  "release_date": "1993-12-08",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

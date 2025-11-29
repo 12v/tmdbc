@@ -1,0 +1,29 @@
+{
+  "id": 652020,
+  "title": "The First Temptation of Christ",
+  "original_title": "A Primeira Tenta\u00e7\u00e3o de Cristo",
+  "release_date": "2019-12-03",
+  "status": "Released",
+  "runtime": 46,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

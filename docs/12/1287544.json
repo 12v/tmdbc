@@ -1,0 +1,25 @@
+{
+  "id": 1287544,
+  "title": "Screw Mickiewicz 2",
+  "original_title": "Piep*zy\u0107 Mickiewicza 2",
+  "release_date": "2025-01-24",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

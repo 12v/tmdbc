@@ -1,0 +1,25 @@
+{
+  "id": 42606,
+  "title": "Invocation of My Demon Brother",
+  "original_title": "Invocation of My Demon Brother",
+  "release_date": "1969-10-10",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

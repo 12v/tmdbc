@@ -1,0 +1,29 @@
+{
+  "id": 44836,
+  "title": "Evil Dead Trap 2: Hideki",
+  "original_title": "\u30d2\u30c7\u30ad : \u6b7b\u970a\u306e\u7f60\u4e8c",
+  "release_date": "1992-07-11",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 668742,
+  "title": "Father There Is Only One 2",
+  "original_title": "Padre no hay m\u00e1s que uno 2: la llegada de la suegra",
+  "release_date": "2020-07-29",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

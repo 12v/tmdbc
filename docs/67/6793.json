@@ -1,0 +1,37 @@
+{
+  "id": 6793,
+  "title": "The Haunted Castle",
+  "original_title": "Schlo\u00df Vogel\u00f6d",
+  "release_date": "1921-04-07",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 37584,
+  "title": "Pandora's Box",
+  "original_title": "Pandora'n\u0131n Kutusu",
+  "release_date": "2008-09-06",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

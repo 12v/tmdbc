@@ -1,0 +1,29 @@
+{
+  "id": 987546,
+  "title": "Mom, If I Were A Vampire",
+  "original_title": "\u5abd, \u5982\u679c\u6211\u662f\u5438\u8840\u9b3c",
+  "release_date": "2022-09-29",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

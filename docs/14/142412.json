@@ -1,0 +1,29 @@
+{
+  "id": 142412,
+  "title": "Kaun?",
+  "original_title": "\u0915\u094c\u0928",
+  "release_date": "1999-02-26",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 110377,
+  "title": "Mekong Hotel",
+  "original_title": "\u0e41\u0e21\u0e48\u0e42\u0e02\u0e07\u0e42\u0e2e\u0e40\u0e15\u0e47\u0e25",
+  "release_date": "2012-07-27",
+  "status": "Released",
+  "runtime": 61,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

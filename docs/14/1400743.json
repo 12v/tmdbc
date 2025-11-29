@@ -1,0 +1,36 @@
+{
+  "id": 1400743,
+  "title": "DJ Ahmet",
+  "original_title": "\u0414\u0438\u045f\u0435\u0458 \u0410\u0445\u043c\u0435\u0442",
+  "release_date": "2025-08-28",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "mk",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "CZ",
+    "HR",
+    "MK",
+    "RS"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

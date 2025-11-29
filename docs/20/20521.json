@@ -1,0 +1,31 @@
+{
+  "id": 20521,
+  "title": "Reefer Madness: The Movie Musical",
+  "original_title": "Reefer Madness: The Movie Musical",
+  "release_date": "2006-03-01",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "DE",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

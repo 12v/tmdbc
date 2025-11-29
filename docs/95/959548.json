@@ -1,0 +1,28 @@
+{
+  "id": 959548,
+  "title": "The Governesses",
+  "original_title": "The Governesses",
+  "release_date": "",
+  "status": "Rumored",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IE",
+    "ES",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

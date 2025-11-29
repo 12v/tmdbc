@@ -1,0 +1,33 @@
+{
+  "id": 53298,
+  "title": "Kutsal Damacana",
+  "original_title": "Kutsal Damacana",
+  "release_date": "2007-12-20",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

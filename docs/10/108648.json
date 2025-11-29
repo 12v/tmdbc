@@ -1,0 +1,25 @@
+{
+  "id": 108648,
+  "title": "The Bride from Hades",
+  "original_title": "\u7261\u4e39\u71c8\u7c60",
+  "release_date": "1968-06-15",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

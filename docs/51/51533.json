@@ -1,0 +1,29 @@
+{
+  "id": 51533,
+  "title": "Let the Bullets Fly",
+  "original_title": "\u8b93\u5b50\u5f48\u98db",
+  "release_date": "2010-12-20",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

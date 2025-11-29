@@ -1,0 +1,33 @@
+{
+  "id": 612402,
+  "title": "Nani's Gang Leader",
+  "original_title": "\u0c28\u0c3e\u0c28\u0c3f'\u0c38\u0c4d \u0c17\u0c4d\u0c2f\u0c3e\u0c02\u0c17\u0c4d \u0c32\u0c40\u0c21\u0c30\u0c4d",
+  "release_date": "2019-09-13",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

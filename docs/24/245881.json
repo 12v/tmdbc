@@ -1,0 +1,41 @@
+{
+  "id": 245881,
+  "title": "Scooby-Doo! Haunted Holidays",
+  "original_title": "Scooby-Doo! Haunted Holidays",
+  "release_date": "2012-10-16",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 157319,
+  "title": "Blood of the Condor",
+  "original_title": "Yawar mallku",
+  "release_date": "1969-11-20",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Quechua",
+      "iso_639_1": "qu",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "BO"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

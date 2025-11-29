@@ -1,0 +1,29 @@
+{
+  "id": 42498,
+  "title": "The Adversary",
+  "original_title": "\u09aa\u09cd\u09b0\u09a4\u09bf \u09a6\u09cd\u09ac\u09a8\u09cd\u09a6\u09cd\u09ac\u09c0",
+  "release_date": "1970-10-27",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

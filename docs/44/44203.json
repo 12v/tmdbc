@@ -1,0 +1,29 @@
+{
+  "id": 44203,
+  "title": "Ju-on: The Curse 2",
+  "original_title": "\u546a\u60282 \u30d3\u30c7\u30aa\u7248",
+  "release_date": "2000-03-25",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

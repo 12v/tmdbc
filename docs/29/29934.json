@@ -1,0 +1,30 @@
+{
+  "id": 29934,
+  "title": "Lovelorn",
+  "original_title": "G\u00f6n\u00fcl Yaras\u0131",
+  "release_date": "2005-01-07",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

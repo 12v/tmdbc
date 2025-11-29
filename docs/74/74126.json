@@ -1,0 +1,29 @@
+{
+  "id": 74126,
+  "title": "Record of a Tenement Gentleman",
+  "original_title": "\u9577\u5c4b\u7d33\u58eb\u9332",
+  "release_date": "1947-05-20",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
