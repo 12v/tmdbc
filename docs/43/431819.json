@@ -1,0 +1,37 @@
+{
+  "id": 431819,
+  "title": "Fireworks",
+  "original_title": "\u6253\u3061\u4e0a\u3052\u82b1\u706b\u3001\u4e0b\u304b\u3089\u898b\u308b\u304b\uff1f\u6a2a\u304b\u3089\u898b\u308b\u304b\uff1f",
+  "release_date": "2017-08-18",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

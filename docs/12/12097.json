@@ -1,0 +1,34 @@
+{
+  "id": 12097,
+  "title": "Pippi Longstocking",
+  "original_title": "Pippi L\u00e5ngstrump",
+  "release_date": "1969-05-09",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

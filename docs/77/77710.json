@@ -1,0 +1,33 @@
+{
+  "id": 77710,
+  "title": "My Uncle Killed a Guy",
+  "original_title": "Meu Tio Matou um Cara",
+  "release_date": "2004-12-12",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

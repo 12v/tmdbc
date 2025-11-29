@@ -1,0 +1,29 @@
+{
+  "id": 42628,
+  "title": "Gok\u00e9, Body Snatcher from Hell",
+  "original_title": "\u5438\u8840\u9b3c\u30b4\u30b1\u30df\u30c9\u30ed",
+  "release_date": "1968-08-14",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

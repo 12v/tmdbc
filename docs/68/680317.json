@@ -1,0 +1,39 @@
+{
+  "id": 680317,
+  "title": "Yung Lean: In My Head",
+  "original_title": "Yung Lean: In My Head",
+  "release_date": "2020-04-15",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

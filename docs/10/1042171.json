@@ -1,0 +1,25 @@
+{
+  "id": 1042171,
+  "title": "Ivalu",
+  "original_title": "Ivalu",
+  "release_date": "2023-01-22",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "kl",
+  "spoken_languages": [
+    {
+      "english_name": "Kalaallisut",
+      "iso_639_1": "kl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

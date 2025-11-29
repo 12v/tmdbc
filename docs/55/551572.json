@@ -1,0 +1,29 @@
+{
+  "id": 551572,
+  "title": "Everything for a Pop Star",
+  "original_title": "Tudo por um Pop Star",
+  "release_date": "2018-10-11",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

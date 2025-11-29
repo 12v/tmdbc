@@ -1,0 +1,26 @@
+{
+  "id": 34759,
+  "title": "Ziggy Stardust and the Spiders from Mars",
+  "original_title": "Ziggy Stardust and the Spiders from Mars",
+  "release_date": "1983-12-23",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 65040,
+  "title": "Up, Down, Fragile",
+  "original_title": "Haut bas fragile",
+  "release_date": "1995-04-12",
+  "status": "Released",
+  "runtime": 169,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

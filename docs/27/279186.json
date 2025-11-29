@@ -1,0 +1,25 @@
+{
+  "id": 279186,
+  "title": "0.5 mm",
+  "original_title": "0.5\u30df\u30ea",
+  "release_date": "2014-11-08",
+  "status": "Released",
+  "runtime": 198,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

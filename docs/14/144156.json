@@ -1,0 +1,25 @@
+{
+  "id": 144156,
+  "title": "Dream Work",
+  "original_title": "Dream Work",
+  "release_date": "2001-03-17",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

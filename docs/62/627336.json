@@ -1,0 +1,48 @@
+{
+  "id": 627336,
+  "title": "L2: Empuraan",
+  "original_title": "L2: \u0d0e\u0d2e\u0d4d\u0d2a\u0d41\u0d30\u0d3e\u0d7b",
+  "release_date": "2025-03-27",
+  "status": "Released",
+  "runtime": 179,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

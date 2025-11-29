@@ -1,0 +1,41 @@
+{
+  "id": 350499,
+  "title": "Pok\u00e9mon the Movie: Hoopa and the Clash of Ages",
+  "original_title": "\u30dd\u30b1\u30e2\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30d3\u30fcXY \u5149\u8f2a\u306e\u8d85\u9b54\u795e \u30d5\u30fc\u30d1",
+  "release_date": "2015-07-18",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

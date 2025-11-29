@@ -1,0 +1,29 @@
+{
+  "id": 31405,
+  "title": "The Foster Brothers",
+  "original_title": "S\u00fct Karde\u015fler",
+  "release_date": "1976-02-01",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

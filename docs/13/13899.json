@@ -1,0 +1,38 @@
+{
+  "id": 13899,
+  "title": "Dead or Alive 2: Birds",
+  "original_title": "DEAD OR ALIVE 2 \u9003\u4ea1\u8005",
+  "release_date": "2000-12-02",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

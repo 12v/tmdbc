@@ -1,0 +1,25 @@
+{
+  "id": 160075,
+  "title": "Nobody's Daughter Haewon",
+  "original_title": "\ub204\uad6c\uc758 \ub538\ub3c4 \uc544\ub2cc \ud574\uc6d0",
+  "release_date": "2013-02-28",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

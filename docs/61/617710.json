@@ -1,0 +1,25 @@
+{
+  "id": 617710,
+  "title": "You Will Die at Twenty",
+  "original_title": "\u0633\u062a\u0645\u0648\u062a \u0641\u064a \u0627\u0644\u0639\u0634\u0631\u064a\u0646",
+  "release_date": "2020-02-12",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "SD"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

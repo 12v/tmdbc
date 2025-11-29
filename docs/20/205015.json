@@ -1,0 +1,42 @@
+{
+  "id": 205015,
+  "title": "Four Sisters and a Wedding",
+  "original_title": "Four Sisters and a Wedding",
+  "release_date": "2013-06-26",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

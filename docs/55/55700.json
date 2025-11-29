@@ -1,0 +1,27 @@
+{
+  "id": 55700,
+  "title": "Ossos",
+  "original_title": "Ossos",
+  "release_date": "1997-11-14",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "FR",
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

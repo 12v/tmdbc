@@ -1,0 +1,29 @@
+{
+  "id": 595923,
+  "title": "Nina Wu",
+  "original_title": "\u707c\u4eba\u79d8\u5bc6",
+  "release_date": "2019-10-10",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

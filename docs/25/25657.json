@@ -1,0 +1,34 @@
+{
+  "id": 25657,
+  "title": "Kamome Diner",
+  "original_title": "\u304b\u3082\u3081\u98df\u5802",
+  "release_date": "2006-06-11",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 42522,
+  "title": "The Hired Hand",
+  "original_title": "The Hired Hand",
+  "release_date": "1971-08-11",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

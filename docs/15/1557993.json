@@ -1,0 +1,29 @@
+{
+  "id": 1557993,
+  "title": "Babo: The Haftbefehl Story",
+  "original_title": "Babo - Die Haftbefehl-Story",
+  "release_date": "2025-10-27",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

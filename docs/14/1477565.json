@@ -1,0 +1,26 @@
+{
+  "id": 1477565,
+  "title": "Trainwreck: The Real Project X",
+  "original_title": "Trainwreck: The Real Project X",
+  "release_date": "2025-07-07",
+  "status": "Released",
+  "runtime": 48,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

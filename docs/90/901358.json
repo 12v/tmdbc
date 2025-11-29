@@ -1,0 +1,41 @@
+{
+  "id": 901358,
+  "title": "Tchaikovsky's Wife",
+  "original_title": "\u0416\u0435\u043d\u0430 \u0427\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e",
+  "release_date": "2022-11-11",
+  "status": "Released",
+  "runtime": 144,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "RU",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 97211,
+  "title": "Dreams",
+  "original_title": "Kvinnodr\u00f6m",
+  "release_date": "1955-08-22",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

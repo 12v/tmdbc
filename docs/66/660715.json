@@ -1,0 +1,43 @@
+{
+  "id": 660715,
+  "title": "After Blue (Dirty Paradise)",
+  "original_title": "After Blue (Paradis sale)",
+  "release_date": "2021-10-20",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

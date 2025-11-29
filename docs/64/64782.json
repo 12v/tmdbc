@@ -1,0 +1,38 @@
+{
+  "id": 64782,
+  "title": "A Lesson in Love",
+  "original_title": "En lektion i k\u00e4rlek",
+  "release_date": "1954-10-04",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1148969,
+  "title": "The (Almost) Legends",
+  "original_title": "Los (casi) \u00eddolos de Bah\u00eda Colorada",
+  "release_date": "2023-07-19",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

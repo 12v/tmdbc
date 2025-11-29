@@ -1,0 +1,29 @@
+{
+  "id": 410717,
+  "title": "Joe Pera Talks You to Sleep",
+  "original_title": "Joe Pera Talks You to Sleep",
+  "release_date": "2016-03-22",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

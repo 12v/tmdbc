@@ -1,0 +1,29 @@
+{
+  "id": 906223,
+  "title": "Maamannan",
+  "original_title": "\u0bae\u0bbe\u0bae\u0ba9\u0bcd\u0ba9\u0ba9\u0bcd",
+  "release_date": "2023-06-29",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

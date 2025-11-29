@@ -1,0 +1,35 @@
+{
+  "id": 46595,
+  "title": "The Great Ecstasy of Woodcarver Steiner",
+  "original_title": "Die gro\u00dfe Ekstase des Bildschnitzers Steiner",
+  "release_date": "1974-01-01",
+  "status": "Released",
+  "runtime": 45,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Slovenian",
+      "iso_639_1": "sl",
+      "name": "Sloven\u0161\u010dina"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

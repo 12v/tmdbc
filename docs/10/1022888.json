@@ -1,0 +1,29 @@
+{
+  "id": 1022888,
+  "title": "I Wish You All the Best",
+  "original_title": "I Wish You All the Best",
+  "release_date": "2025-11-07",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

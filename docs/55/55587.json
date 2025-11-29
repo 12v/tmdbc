@@ -1,0 +1,29 @@
+{
+  "id": 55587,
+  "title": "Michael",
+  "original_title": "Michael",
+  "release_date": "1924-09-26",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

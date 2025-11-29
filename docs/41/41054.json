@@ -1,0 +1,25 @@
+{
+  "id": 41054,
+  "title": "Il Grido",
+  "original_title": "Il Grido",
+  "release_date": "1957-09-26",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

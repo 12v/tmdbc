@@ -1,0 +1,38 @@
+{
+  "id": 16411,
+  "title": "Initial D",
+  "original_title": "\u982d\u6587\u5b57D",
+  "release_date": "2005-05-12",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

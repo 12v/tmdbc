@@ -1,0 +1,50 @@
+{
+  "id": 25961,
+  "title": "Pok\u00e9mon: The Rise of Darkrai",
+  "original_title": "\u5287\u5834\u7248\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9&\u30d1\u30fc\u30eb \u30c7\u30a3\u30a2\u30eb\u30acVS\u30d1\u30eb\u30ad\u30a2VS\u30c0\u30fc\u30af\u30e9\u30a4",
+  "release_date": "2007-07-14",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

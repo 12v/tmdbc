@@ -1,0 +1,29 @@
+{
+  "id": 45713,
+  "title": "Double Suicide",
+  "original_title": "\u5fc3\u4e2d\u5929\u7db2\u5cf6",
+  "release_date": "1969-05-24",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

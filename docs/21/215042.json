@@ -1,0 +1,39 @@
+{
+  "id": 215042,
+  "title": "Metalhead",
+  "original_title": "M\u00e1lmhaus",
+  "release_date": "2013-10-11",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "IS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

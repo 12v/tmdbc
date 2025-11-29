@@ -1,0 +1,25 @@
+{
+  "id": 572299,
+  "title": "How to Build a Girl",
+  "original_title": "How to Build a Girl",
+  "release_date": "2020-09-24",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

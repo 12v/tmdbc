@@ -1,0 +1,30 @@
+{
+  "id": 408435,
+  "title": "Sami Blood",
+  "original_title": "Sameblod",
+  "release_date": "2016-09-12",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Northern Sami",
+      "iso_639_1": "se",
+      "name": ""
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

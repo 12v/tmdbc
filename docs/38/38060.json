@@ -1,0 +1,33 @@
+{
+  "id": 38060,
+  "title": "The Lorax",
+  "original_title": "The Lorax",
+  "release_date": "1972-02-14",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

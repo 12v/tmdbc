@@ -1,0 +1,29 @@
+{
+  "id": 12482,
+  "title": "Love Is Colder Than Death",
+  "original_title": "Liebe ist k\u00e4lter als der Tod",
+  "release_date": "1970-01-16",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

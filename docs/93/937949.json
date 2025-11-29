@@ -1,0 +1,33 @@
+{
+  "id": 937949,
+  "title": "Mussum, o Filmis",
+  "original_title": "Mussum, o Filmis",
+  "release_date": "2023-11-02",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 5168,
+  "title": "To Be and to Have",
+  "original_title": "\u00catre et avoir",
+  "release_date": "2002-08-28",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

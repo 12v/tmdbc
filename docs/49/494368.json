@@ -1,0 +1,25 @@
+{
+  "id": 494368,
+  "title": "Dave Chappelle: The Bird Revelation",
+  "original_title": "Dave Chappelle: The Bird Revelation",
+  "release_date": "2017-12-31",
+  "status": "Released",
+  "runtime": 49,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

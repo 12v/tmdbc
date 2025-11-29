@@ -1,0 +1,33 @@
+{
+  "id": 83297,
+  "title": "Crazy Thunder Road",
+  "original_title": "\u72c2\u3044\u54b2\u304d\u30b5\u30f3\u30c0\u30fc\u30ed\u30fc\u30c9",
+  "release_date": "1980-05-24",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

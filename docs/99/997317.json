@@ -1,0 +1,33 @@
+{
+  "id": 997317,
+  "title": "Kaguya-sama: Love Is War -The First Kiss That Never Ends-",
+  "original_title": "\u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044-\u30d5\u30a1\u30fc\u30b9\u30c8\u30ad\u30c3\u30b9\u306f\u7d42\u308f\u3089\u306a\u3044-",
+  "release_date": "2022-12-17",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

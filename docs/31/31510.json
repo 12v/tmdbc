@@ -1,0 +1,33 @@
+{
+  "id": 31510,
+  "title": "Ben-Hur: A Tale of the Christ",
+  "original_title": "Ben-Hur: A Tale of the Christ",
+  "release_date": "1925-12-25",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

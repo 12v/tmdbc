@@ -1,0 +1,25 @@
+{
+  "id": 1061990,
+  "title": "City Hunter",
+  "original_title": "\u30b7\u30c6\u30a3\u30fc\u30cf\u30f3\u30bf\u30fc",
+  "release_date": "2024-04-24",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1296742,
+  "title": "Rangga & Cinta",
+  "original_title": "Rangga & Cinta",
+  "release_date": "2025-10-02",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "KR",
+    "MY",
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

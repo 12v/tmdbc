@@ -1,0 +1,38 @@
+{
+  "id": 39100,
+  "title": "Dragon Ball Z: The World's Strongest",
+  "original_title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebZ \u3053\u306e\u4e16\u3067\u4e00\u756a\u5f37\u3044\u30e4\u30c4",
+  "release_date": "1990-03-10",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

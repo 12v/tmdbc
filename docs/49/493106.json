@@ -1,0 +1,35 @@
+{
+  "id": 493106,
+  "title": "Matangi / Maya / M.I.A.",
+  "original_title": "Matangi / Maya / M.I.A.",
+  "release_date": "2018-09-21",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

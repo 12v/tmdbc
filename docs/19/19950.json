@@ -1,0 +1,29 @@
+{
+  "id": 19950,
+  "title": "Yavarum Nalam",
+  "original_title": "\u0baf\u0bbe\u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0ba8\u0bb2\u0bae\u0bcd",
+  "release_date": "2009-03-06",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 57875,
+  "title": "The Snow Woman",
+  "original_title": "\u602a\u8ac7\u96ea\u5973\u90ce",
+  "release_date": "1968-04-20",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 55853,
+  "title": "Gang of Four",
+  "original_title": "La Bande des quatre",
+  "release_date": "1989-02-08",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

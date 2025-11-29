@@ -1,0 +1,25 @@
+{
+  "id": 4955,
+  "title": "Girls in Uniform",
+  "original_title": "M\u00e4dchen in Uniform",
+  "release_date": "1958-07-07",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

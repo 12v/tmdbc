@@ -1,0 +1,29 @@
+{
+  "id": 99599,
+  "title": "Daughter of the Nile",
+  "original_title": "\u5c3c\u7f85\u6cb3\u5973\u5152",
+  "release_date": "1987-08-22",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

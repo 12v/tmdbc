@@ -1,0 +1,25 @@
+{
+  "id": 35847,
+  "title": "The Mischief Makers",
+  "original_title": "Les Mistons",
+  "release_date": "1957-11-14",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

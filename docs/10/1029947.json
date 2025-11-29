@@ -1,0 +1,25 @@
+{
+  "id": 1029947,
+  "title": "Kaathal - The Core",
+  "original_title": "\u0d15\u0d3e\u0d24\u0d7d - The Core",
+  "release_date": "2023-11-23",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

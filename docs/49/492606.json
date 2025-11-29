@@ -1,0 +1,37 @@
+{
+  "id": 492606,
+  "title": "Game of Thrones - Conquest & Rebellion: An Animated History of the Seven Kingdoms",
+  "original_title": "Game of Thrones - Conquest & Rebellion: An Animated History of the Seven Kingdoms",
+  "release_date": "2017-12-12",
+  "status": "Released",
+  "runtime": 45,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

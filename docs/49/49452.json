@@ -1,0 +1,25 @@
+{
+  "id": 49452,
+  "title": "The Smiling Madame Beudet",
+  "original_title": "La Souriante Madame Beudet",
+  "release_date": "1923-11-09",
+  "status": "Released",
+  "runtime": 43,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

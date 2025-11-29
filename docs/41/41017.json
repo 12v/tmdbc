@@ -1,0 +1,33 @@
+{
+  "id": 41017,
+  "title": "Gauche the Cellist",
+  "original_title": "\u30bb\u30ed\u5f3e\u304d\u306e\u30b4\u30fc\u30b7\u30e5",
+  "release_date": "1982-01-23",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

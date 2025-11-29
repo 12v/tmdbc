@@ -1,0 +1,29 @@
+{
+  "id": 47848,
+  "title": "Scent of a Woman",
+  "original_title": "Profumo di donna",
+  "release_date": "1974-12-20",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

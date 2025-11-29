@@ -1,0 +1,29 @@
+{
+  "id": 91378,
+  "title": "The Awakening of the Beast",
+  "original_title": "O Despertar da Besta",
+  "release_date": "1970-10-01",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

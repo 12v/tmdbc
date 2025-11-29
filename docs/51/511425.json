@@ -1,0 +1,25 @@
+{
+  "id": 511425,
+  "title": "Eternity",
+  "original_title": "Wi\u00f1aypacha",
+  "release_date": "2018-04-19",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ay",
+  "spoken_languages": [
+    {
+      "english_name": "Aymara",
+      "iso_639_1": "ay",
+      "name": "Aymara"
+    }
+  ],
+  "origin_country": [
+    "PE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 84944,
+  "title": "The White Reindeer",
+  "original_title": "Valkoinen peura",
+  "release_date": "1952-07-18",
+  "status": "Released",
+  "runtime": 68,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

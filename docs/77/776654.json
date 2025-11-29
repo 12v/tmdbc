@@ -1,0 +1,29 @@
+{
+  "id": 776654,
+  "title": "Bergen",
+  "original_title": "Bergen",
+  "release_date": "2022-03-04",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 543760,
+  "title": "The Chambermaid",
+  "original_title": "La Camarista",
+  "release_date": "2019-03-25",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 455565,
+  "title": "Bombshell: The Hedy Lamarr Story",
+  "original_title": "Bombshell: The Hedy Lamarr Story",
+  "release_date": "2018-06-06",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

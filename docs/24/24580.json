@@ -1,0 +1,29 @@
+{
+  "id": 24580,
+  "title": "The Quatermass Xperiment",
+  "original_title": "The Quatermass Xperiment",
+  "release_date": "1955-08-26",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

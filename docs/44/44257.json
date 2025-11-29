@@ -1,0 +1,33 @@
+{
+  "id": 44257,
+  "title": "Industrial Symphony No. 1: The Dream of the Brokenhearted",
+  "original_title": "Industrial Symphony No. 1: The Dream of the Brokenhearted",
+  "release_date": "1990-09-01",
+  "status": "Released",
+  "runtime": 50,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

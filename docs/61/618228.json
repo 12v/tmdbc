@@ -1,0 +1,38 @@
+{
+  "id": 618228,
+  "title": "Moffie",
+  "original_title": "Moffie",
+  "release_date": "2020-03-13",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "af",
+  "spoken_languages": [
+    {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ZA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

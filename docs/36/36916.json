@@ -1,0 +1,37 @@
+{
+  "id": 36916,
+  "title": "The Men Who Tread on the Tiger's Tail",
+  "original_title": "\u864e\u306e\u5c3e\u3092\u8e0f\u3080\u7537\u9054",
+  "release_date": "1952-04-24",
+  "status": "Released",
+  "runtime": 59,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 69011,
+  "title": "Wicked City",
+  "original_title": "\u5996\u7378\u90fd\u5e02",
+  "release_date": "1992-11-20",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 91229,
+  "title": "Dogra Magra",
+  "original_title": "\u30c9\u30b0\u30e9\u30fb\u30de\u30b0\u30e9",
+  "release_date": "1988-10-15",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

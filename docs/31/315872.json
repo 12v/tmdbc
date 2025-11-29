@@ -1,0 +1,30 @@
+{
+  "id": 315872,
+  "title": "My Mother",
+  "original_title": "Mia madre",
+  "release_date": "2015-04-16",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

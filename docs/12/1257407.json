@@ -1,0 +1,28 @@
+{
+  "id": 1257407,
+  "title": "When the Light Breaks",
+  "original_title": "Lj\u00f3sbrot",
+  "release_date": "2024-10-17",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "IS",
+    "NL",
+    "FR",
+    "HR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

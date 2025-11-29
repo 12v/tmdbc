@@ -1,0 +1,25 @@
+{
+  "id": 660708,
+  "title": "Il Buco",
+  "original_title": "Il buco",
+  "release_date": "2021-09-22",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

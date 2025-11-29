@@ -1,0 +1,33 @@
+{
+  "id": 450720,
+  "title": "Arif V 216",
+  "original_title": "Arif V 216",
+  "release_date": "2018-01-05",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

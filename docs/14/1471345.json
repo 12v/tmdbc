@@ -1,0 +1,25 @@
+{
+  "id": 1471345,
+  "title": "Homo Argentum",
+  "original_title": "Homo Argentum",
+  "release_date": "2025-08-14",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

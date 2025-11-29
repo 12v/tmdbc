@@ -1,0 +1,25 @@
+{
+  "id": 61703,
+  "title": "Adoption",
+  "original_title": "\u00d6r\u00f6kbefogad\u00e1s",
+  "release_date": "1975-09-25",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

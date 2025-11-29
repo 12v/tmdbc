@@ -1,0 +1,38 @@
+{
+  "id": 39102,
+  "title": "Dragon Ball Z: Lord Slug",
+  "original_title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u30bc\u30c3\u30c8 \u8d85\u30b9\u30fc\u30d1\u30fc\u30b5\u30a4\u30e4\u4eba\u3058\u3093\u3060\u5b6b\u305d\u3093\u609f\u3054\u7a7a\u304f\u3046",
+  "release_date": "1991-03-19",
+  "status": "Released",
+  "runtime": 52,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

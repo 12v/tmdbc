@@ -1,0 +1,29 @@
+{
+  "id": 297326,
+  "title": "Eiffel... I'm in Love",
+  "original_title": "Eiffel... I'm in Love",
+  "release_date": "2003-11-21",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

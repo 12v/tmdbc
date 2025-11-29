@@ -1,0 +1,25 @@
+{
+  "id": 37288,
+  "title": "Take Care of My Cat",
+  "original_title": "\uace0\uc591\uc774\ub97c \ubd80\ud0c1\ud574",
+  "release_date": "2001-10-13",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

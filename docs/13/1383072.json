@@ -1,0 +1,37 @@
+{
+  "id": 1383072,
+  "title": "Mahavatar Narsimha",
+  "original_title": "\u092e\u0939\u093e\u0935\u0924\u093e\u0930 \u0928\u0930\u0938\u093f\u092e\u094d\u0939\u093e",
+  "release_date": "2025-07-25",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

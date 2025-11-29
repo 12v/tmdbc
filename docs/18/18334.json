@@ -1,0 +1,25 @@
+{
+  "id": 18334,
+  "title": "Guinea Pig: Devil's Experiment",
+  "original_title": "\u30ae\u30cb\u30fc\u30d4\u30c3\u30b0 \u60aa\u9b54\u306e\u5b9f\u9a13",
+  "release_date": "1985-09-04",
+  "status": "Released",
+  "runtime": 43,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

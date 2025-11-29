@@ -1,0 +1,25 @@
+{
+  "id": 88302,
+  "title": "Pirosmani",
+  "original_title": "\u10e4\u10d8\u10e0\u10dd\u10e1\u10db\u10d0\u10dc\u10d8",
+  "release_date": "1969-12-28",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
