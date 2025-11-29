@@ -1,0 +1,29 @@
+{
+  "id": 253363,
+  "title": "The Ninth Heart",
+  "original_title": "Dev\u00e1t\u00e9 srdce",
+  "release_date": "1979-04-13",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

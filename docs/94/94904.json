@@ -1,0 +1,26 @@
+{
+  "id": 94904,
+  "title": "7 Days in Havana",
+  "original_title": "7 d\u00edas en La Habana",
+  "release_date": "2012-04-05",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

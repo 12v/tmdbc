@@ -1,0 +1,29 @@
+{
+  "id": 376869,
+  "title": "Neerja",
+  "original_title": "\u0928\u0940\u0930\u091c\u093e",
+  "release_date": "2016-02-19",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

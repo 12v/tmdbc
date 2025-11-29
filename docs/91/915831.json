@@ -1,0 +1,47 @@
+{
+  "id": 915831,
+  "title": "Monica, O My Darling",
+  "original_title": "\u092e\u094b\u0928\u093f\u0915\u093e, \u0913 \u092e\u093e\u092f \u0921\u093e\u0930\u094d\u0932\u093f\u0902\u0917",
+  "release_date": "2022-11-11",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

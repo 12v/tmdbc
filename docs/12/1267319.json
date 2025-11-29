@@ -1,0 +1,33 @@
+{
+  "id": 1267319,
+  "title": "Mantis",
+  "original_title": "\uc0ac\ub9c8\uadc0",
+  "release_date": "2025-09-26",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

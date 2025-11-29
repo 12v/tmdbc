@@ -1,0 +1,25 @@
+{
+  "id": 116146,
+  "title": "Iracema",
+  "original_title": "Iracema: Uma Transa Amaz\u00f4nica",
+  "release_date": "1976-06-02",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 377729,
+  "title": "Bad Black",
+  "original_title": "Bad Black",
+  "release_date": "2016-09-25",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Ganda",
+      "iso_639_1": "lg",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "UG"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 618389,
+  "title": "Andrey Tarkovsky. A Cinema Prayer",
+  "original_title": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0422\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0438\u0439. \u041a\u0438\u043d\u043e \u043a\u0430\u043a \u043c\u043e\u043b\u0438\u0442\u0432\u0430",
+  "release_date": "2019-10-17",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

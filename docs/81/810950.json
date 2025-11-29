@@ -1,0 +1,27 @@
+{
+  "id": 810950,
+  "title": "Little Palestine: Diary of a Siege",
+  "original_title": "\u0641\u0644\u0633\u0637\u064a\u0646\u0646\u0627 \u0627\u0644\u0635\u063a\u064a\u0631\u0629",
+  "release_date": "2021-05-01",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "LB",
+    "QA"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

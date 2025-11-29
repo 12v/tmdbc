@@ -1,0 +1,34 @@
+{
+  "id": 10387,
+  "title": "The Emperor and the Assassin",
+  "original_title": "\u8346\u8f72\u523a\u79e6\u738b",
+  "release_date": "1998-10-08",
+  "status": "Released",
+  "runtime": 162,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

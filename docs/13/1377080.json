@@ -1,0 +1,33 @@
+{
+  "id": 1377080,
+  "title": "Green Bones",
+  "original_title": "Green Bones",
+  "release_date": "2024-12-25",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

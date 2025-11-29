@@ -1,0 +1,25 @@
+{
+  "id": 675476,
+  "title": "Crazy Samurai Musashi",
+  "original_title": "\u72c2\u6b66\u8535",
+  "release_date": "2020-08-21",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

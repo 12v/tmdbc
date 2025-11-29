@@ -1,0 +1,25 @@
+{
+  "id": 1218509,
+  "title": "Pete Davidson: Turbo Fonzarelli",
+  "original_title": "Pete Davidson: Turbo Fonzarelli",
+  "release_date": "2024-01-09",
+  "status": "Released",
+  "runtime": 56,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

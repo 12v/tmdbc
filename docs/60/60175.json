@@ -1,0 +1,25 @@
+{
+  "id": 60175,
+  "title": "The Under-Gifted",
+  "original_title": "Les sous-dou\u00e9s",
+  "release_date": "1980-04-30",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

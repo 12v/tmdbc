@@ -1,0 +1,25 @@
+{
+  "id": 114412,
+  "title": "Public Housing",
+  "original_title": "Public Housing",
+  "release_date": "1997-06-02",
+  "status": "Released",
+  "runtime": 200,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1321139,
+  "title": "Lovesick",
+  "original_title": "\u6709\u75c5\u624d\u6703\u559c\u6b61\u4f60",
+  "release_date": "2025-04-02",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

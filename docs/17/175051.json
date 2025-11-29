@@ -1,0 +1,25 @@
+{
+  "id": 175051,
+  "title": "Wuthering Heights",
+  "original_title": "\u5d50\u304c\u4e18",
+  "release_date": "1988-05-28",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

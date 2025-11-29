@@ -1,0 +1,35 @@
+{
+  "id": 1388977,
+  "title": "Rains Over Babel",
+  "original_title": "Llueve sobre Babel",
+  "release_date": "2026-01-02",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "CO",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

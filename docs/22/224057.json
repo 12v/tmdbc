@@ -1,0 +1,43 @@
+{
+  "id": 224057,
+  "title": "North 24 Kaatham",
+  "original_title": "\u0d28\u0d4b\u0d7c\u0d24\u0d4d\u0d24\u0d4d 24 \u0d15\u0d3e\u0d24\u0d02",
+  "release_date": "2013-09-14",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Gujarati",
+      "iso_639_1": "gu",
+      "name": ""
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

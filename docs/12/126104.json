@@ -1,0 +1,32 @@
+{
+  "id": 126104,
+  "title": "The Magic Gloves",
+  "original_title": "Los guantes m\u00e1gicos",
+  "release_date": "2003-09-08",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "AR",
+    "FR",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 463800,
+  "title": "Firebase",
+  "original_title": "Firebase",
+  "release_date": "2017-06-28",
+  "status": "Released",
+  "runtime": 27,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

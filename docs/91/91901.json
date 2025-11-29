@@ -1,0 +1,25 @@
+{
+  "id": 91901,
+  "title": "The Bronte Sisters",
+  "original_title": "Les S\u0153urs Bront\u00eb",
+  "release_date": "1979-05-09",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

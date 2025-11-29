@@ -1,0 +1,33 @@
+{
+  "id": 574467,
+  "title": "The Warden",
+  "original_title": "\u0633\u0631\u062e\u200c \u067e\u0648\u0633\u062a",
+  "release_date": "2019-06-01",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

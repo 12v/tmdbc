@@ -1,0 +1,25 @@
+{
+  "id": 253541,
+  "title": "White Hole",
+  "original_title": "White Hole",
+  "release_date": "1979-02-01",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 462718,
+  "title": "Pariyerum Perumal",
+  "original_title": "\u0baa\u0bb0\u0bbf\u0baf\u0bc7\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bbe\u0bb3\u0bcd",
+  "release_date": "2018-09-28",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

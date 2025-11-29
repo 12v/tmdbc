@@ -1,0 +1,38 @@
+{
+  "id": 265,
+  "title": "Lili Marleen",
+  "original_title": "Lili Marleen",
+  "release_date": "1981-01-14",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

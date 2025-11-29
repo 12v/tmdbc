@@ -1,0 +1,38 @@
+{
+  "id": 99770,
+  "title": "Asterix & Obelix: God Save Britannia",
+  "original_title": "Ast\u00e9rix & Ob\u00e9lix : Au service de Sa Majest\u00e9",
+  "release_date": "2012-10-17",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IE",
+    "IT",
+    "CA",
+    "HU",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

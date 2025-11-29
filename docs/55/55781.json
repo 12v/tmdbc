@@ -1,0 +1,37 @@
+{
+  "id": 55781,
+  "title": "Terrifying Girls' High School: Lynch Law Classroom",
+  "original_title": "\u6050\u6016\u5973\u5b50\u9ad8\u6821\u3000\u66b4\u884c\u30ea\u30f3\u30c1\u6559\u5ba4",
+  "release_date": "1973-03-31",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

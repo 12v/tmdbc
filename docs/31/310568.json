@@ -1,0 +1,29 @@
+{
+  "id": 310568,
+  "title": "The Summer of Sangaile",
+  "original_title": "Sangail\u0117s vasara",
+  "release_date": "2015-07-29",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "lt",
+  "spoken_languages": [
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvi\u0173"
+    }
+  ],
+  "origin_country": [
+    "LT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

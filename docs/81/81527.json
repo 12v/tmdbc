@@ -1,0 +1,28 @@
+{
+  "id": 81527,
+  "title": "Aurora",
+  "original_title": "Aurora",
+  "release_date": "2011-03-11",
+  "status": "Released",
+  "runtime": 186,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "FR",
+    "CH",
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

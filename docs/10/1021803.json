@@ -1,0 +1,33 @@
+{
+  "id": 1021803,
+  "title": "Adagio",
+  "original_title": "Adagio",
+  "release_date": "2023-12-14",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

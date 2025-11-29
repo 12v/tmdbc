@@ -1,0 +1,29 @@
+{
+  "id": 979851,
+  "title": "The Ordinaries",
+  "original_title": "The Ordinaries",
+  "release_date": "2023-03-30",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

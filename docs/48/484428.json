@@ -1,0 +1,35 @@
+{
+  "id": 484428,
+  "title": "Becoming Astrid",
+  "original_title": "Unga Astrid",
+  "release_date": "2018-09-14",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

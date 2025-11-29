@@ -1,0 +1,30 @@
+{
+  "id": 618362,
+  "title": "State Funeral",
+  "original_title": "\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u043f\u043e\u0445\u043e\u0440\u043e\u043d\u044b",
+  "release_date": "2019-10-22",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "LT",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 36874,
+  "title": "The Country Doctor",
+  "original_title": "The Country Doctor",
+  "release_date": "1909-07-08",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 20714,
+  "title": "12",
+  "original_title": "12",
+  "release_date": "2007-06-06",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Chechen",
+      "iso_639_1": "ce",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

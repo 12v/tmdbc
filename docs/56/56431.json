@@ -1,0 +1,25 @@
+{
+  "id": 56431,
+  "title": "A Pistol for Ringo",
+  "original_title": "Una pistola per Ringo",
+  "release_date": "1965-05-12",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

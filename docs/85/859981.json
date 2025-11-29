@@ -1,0 +1,33 @@
+{
+  "id": 859981,
+  "title": "Autobiography",
+  "original_title": "Autobiography",
+  "release_date": "2023-01-19",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

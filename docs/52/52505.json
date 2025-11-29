@@ -1,0 +1,25 @@
+{
+  "id": 52505,
+  "title": "The Other Woman",
+  "original_title": "The Other Woman",
+  "release_date": "2010-10-28",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

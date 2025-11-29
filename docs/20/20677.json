@@ -1,0 +1,41 @@
+{
+  "id": 20677,
+  "title": "Detective Conan: Captured in Her Eyes",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u77b3\u306e\u4e2d\u306e\u6697\u6bba\u8005",
+  "release_date": "2000-04-22",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

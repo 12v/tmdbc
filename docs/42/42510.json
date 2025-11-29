@@ -1,0 +1,25 @@
+{
+  "id": 42510,
+  "title": "The Idle Class",
+  "original_title": "The Idle Class",
+  "release_date": "1921-09-25",
+  "status": "Released",
+  "runtime": 32,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

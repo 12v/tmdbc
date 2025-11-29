@@ -1,0 +1,30 @@
+{
+  "id": 28430,
+  "title": "The Day the Earth Caught Fire",
+  "original_title": "The Day the Earth Caught Fire",
+  "release_date": "1961-11-01",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

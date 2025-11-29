@@ -1,0 +1,23 @@
+{
+  "id": 353989,
+  "title": "Abzurdah",
+  "original_title": "Abzurdah",
+  "release_date": "2015-06-04",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

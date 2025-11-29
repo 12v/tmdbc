@@ -1,0 +1,29 @@
+{
+  "id": 44785,
+  "title": "Afraid to Die",
+  "original_title": "\u304b\u3089\u3063\u98a8\u91ce\u90ce",
+  "release_date": "1960-03-22",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

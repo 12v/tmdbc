@@ -1,0 +1,26 @@
+{
+  "id": 63320,
+  "title": "Lions Love",
+  "original_title": "Lions Love",
+  "release_date": "1969-10-12",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

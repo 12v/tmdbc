@@ -1,0 +1,32 @@
+{
+  "id": 43443,
+  "title": "Joan of Arc",
+  "original_title": "Joan of Arc",
+  "release_date": "1948-12-22",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

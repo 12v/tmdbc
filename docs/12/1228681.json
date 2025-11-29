@@ -1,0 +1,25 @@
+{
+  "id": 1228681,
+  "title": "Sex",
+  "original_title": "Sex",
+  "release_date": "2024-03-01",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

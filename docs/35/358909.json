@@ -1,0 +1,33 @@
+{
+  "id": 358909,
+  "title": "A Copy of My Mind",
+  "original_title": "A Copy of My Mind",
+  "release_date": "2016-02-11",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

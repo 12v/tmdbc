@@ -1,0 +1,25 @@
+{
+  "id": 262028,
+  "title": "I'm Going to Santiago",
+  "original_title": "Ir\u00e9 a Santiago",
+  "release_date": "1964-01-01",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

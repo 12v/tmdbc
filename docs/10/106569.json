@@ -1,0 +1,41 @@
+{
+  "id": 106569,
+  "title": "The Demon",
+  "original_title": "\u9b3c",
+  "release_date": "1972-05-04",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

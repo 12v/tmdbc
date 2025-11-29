@@ -1,0 +1,25 @@
+{
+  "id": 104543,
+  "title": "Mandala",
+  "original_title": "\u66fc\u9640\u7f85",
+  "release_date": "1971-09-11",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

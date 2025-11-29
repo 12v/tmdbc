@@ -1,0 +1,34 @@
+{
+  "id": 12716,
+  "title": "My Father's Glory",
+  "original_title": "La Gloire de mon P\u00e8re",
+  "release_date": "1990-08-29",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Occitan",
+      "iso_639_1": "oc",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

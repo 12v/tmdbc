@@ -1,0 +1,45 @@
+{
+  "id": 36897,
+  "title": "Pok\u00e9mon: Mewtwo Returns",
+  "original_title": "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u30df\u30e5\u30a6\u30c4\u30fc! \u6211\u30cf\u30b3\u30b3\u30cb\u5728\u30ea MEWTWO SAGA",
+  "release_date": "2001-08-17",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

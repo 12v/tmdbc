@@ -1,0 +1,33 @@
+{
+  "id": 155372,
+  "title": "The Bloody Lady",
+  "original_title": "Krvav\u00e1 pani",
+  "release_date": "1981-02-12",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "sk",
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Sloven\u010dina"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

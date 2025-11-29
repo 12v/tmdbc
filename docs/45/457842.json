@@ -1,0 +1,27 @@
+{
+  "id": 457842,
+  "title": "Arrhythmia",
+  "original_title": "\u0410\u0440\u0438\u0442\u043c\u0438\u044f",
+  "release_date": "2017-10-12",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "FI",
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

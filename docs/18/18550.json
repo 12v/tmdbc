@@ -1,0 +1,25 @@
+{
+  "id": 18550,
+  "title": "Fled",
+  "original_title": "Fled",
+  "release_date": "1996-07-19",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

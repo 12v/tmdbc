@@ -1,0 +1,29 @@
+{
+  "id": 786705,
+  "title": "Confessions of an Invisible Girl",
+  "original_title": "Confiss\u00f5es de uma Garota Exclu\u00edda",
+  "release_date": "2021-09-22",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

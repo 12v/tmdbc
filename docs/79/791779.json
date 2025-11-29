@@ -1,0 +1,29 @@
+{
+  "id": 791779,
+  "title": "Joji",
+  "original_title": "\u0d1c\u0d4b\u0d1c\u0d3f",
+  "release_date": "2021-04-07",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

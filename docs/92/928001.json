@@ -1,0 +1,38 @@
+{
+  "id": 928001,
+  "title": "Dry Ground Burning",
+  "original_title": "Mato Seco em Chamas",
+  "release_date": "2023-02-23",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

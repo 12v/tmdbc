@@ -1,0 +1,25 @@
+{
+  "id": 26503,
+  "title": "The Black Cat",
+  "original_title": "Black Cat: Gatto nero",
+  "release_date": "1981-04-04",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

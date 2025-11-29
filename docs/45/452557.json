@@ -1,0 +1,29 @@
+{
+  "id": 452557,
+  "title": "Wolf Warrior 2",
+  "original_title": "\u6218\u72fc2",
+  "release_date": "2017-07-27",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

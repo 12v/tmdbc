@@ -1,0 +1,25 @@
+{
+  "id": 84943,
+  "title": "Genuine: The Tragedy of a Vampire",
+  "original_title": "Genuine, die Trag\u00f6die eines seltsamen Hauses",
+  "release_date": "1920-09-02",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

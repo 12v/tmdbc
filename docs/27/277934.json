@@ -1,0 +1,33 @@
+{
+  "id": 277934,
+  "title": "Only You",
+  "original_title": "Sadece Sen",
+  "release_date": "2014-03-14",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1380447,
+  "title": "Anthony Jeselnik: Bones and All",
+  "original_title": "Anthony Jeselnik: Bones and All",
+  "release_date": "2024-11-25",
+  "status": "Released",
+  "runtime": 51,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

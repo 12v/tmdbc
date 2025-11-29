@@ -1,0 +1,33 @@
+{
+  "id": 218257,
+  "title": "Supermarket",
+  "original_title": "Supermarkt",
+  "release_date": "1974-01-30",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

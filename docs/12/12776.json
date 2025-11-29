@@ -1,0 +1,25 @@
+{
+  "id": 12776,
+  "title": "Johnny Stecchino",
+  "original_title": "Johnny Stecchino",
+  "release_date": "1991-10-24",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

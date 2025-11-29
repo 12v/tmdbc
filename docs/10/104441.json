@@ -1,0 +1,29 @@
+{
+  "id": 104441,
+  "title": "Nanami: The Inferno of First Love",
+  "original_title": "\u521d\u604b\u30fb\u5730\u7344\u7bc7",
+  "release_date": "1968-05-25",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

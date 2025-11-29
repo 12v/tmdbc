@@ -1,0 +1,25 @@
+{
+  "id": 120972,
+  "title": "Everybody's Woman",
+  "original_title": "La signora di tutti",
+  "release_date": "1934-11-29",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

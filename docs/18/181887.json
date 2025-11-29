@@ -1,0 +1,30 @@
+{
+  "id": 181887,
+  "title": "Kanehsatake, 270 Years of Resistance",
+  "original_title": "Kanehsatake, 270 Years of Resistance",
+  "release_date": "1993-07-12",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

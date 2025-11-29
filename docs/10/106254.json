@@ -1,0 +1,25 @@
+{
+  "id": 106254,
+  "title": "The End of St. Petersburg",
+  "original_title": "\u041a\u043e\u043d\u0435\u0446 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0430",
+  "release_date": "1927-12-13",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

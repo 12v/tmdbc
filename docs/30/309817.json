@@ -1,0 +1,37 @@
+{
+  "id": 309817,
+  "title": "Dark Waters",
+  "original_title": "\u0635\u0631\u0627\u0639 \u0641\u064a \u0627\u0644\u0645\u064a\u0646\u0627\u0621",
+  "release_date": "1956-01-16",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

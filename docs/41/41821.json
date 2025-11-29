@@ -1,0 +1,25 @@
+{
+  "id": 41821,
+  "title": "Ju Dou",
+  "original_title": "\u83ca\u8c46",
+  "release_date": "1990-04-21",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

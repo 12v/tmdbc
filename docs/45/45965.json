@@ -1,0 +1,33 @@
+{
+  "id": 45965,
+  "title": "Sanshiro Sugata Part Two",
+  "original_title": "\u7e8c \u59ff\u4e09\u56db\u90ce",
+  "release_date": "1945-05-03",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

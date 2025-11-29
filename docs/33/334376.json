@@ -1,0 +1,29 @@
+{
+  "id": 334376,
+  "title": "Ghost in the Shell: The New Movie",
+  "original_title": "\u653b\u6bbb\u6a5f\u52d5\u968a \u65b0\u5287\u5834\u7248",
+  "release_date": "2015-06-20",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

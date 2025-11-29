@@ -1,0 +1,30 @@
+{
+  "id": 44085,
+  "title": "The Yacoubian Building",
+  "original_title": "\u0639\u0645\u0627\u0631\u0629 \u064a\u0639\u0642\u0648\u0628\u064a\u0627\u0646",
+  "release_date": "2006-06-01",
+  "status": "Released",
+  "runtime": 161,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

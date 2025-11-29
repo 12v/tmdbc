@@ -1,0 +1,29 @@
+{
+  "id": 352196,
+  "title": "Frenzy",
+  "original_title": "Abluka",
+  "release_date": "2015-07-29",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

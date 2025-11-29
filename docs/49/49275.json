@@ -1,0 +1,33 @@
+{
+  "id": 49275,
+  "title": "Bluebeard",
+  "original_title": "Barbe-bleue",
+  "release_date": "1901-07-25",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

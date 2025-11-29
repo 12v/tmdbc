@@ -1,0 +1,35 @@
+{
+  "id": 102691,
+  "title": "Bells from the Deep",
+  "original_title": "Glocken aus der Tiefe",
+  "release_date": "1993-09-07",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

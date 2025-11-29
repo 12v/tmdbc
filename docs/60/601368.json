@@ -1,0 +1,25 @@
+{
+  "id": 601368,
+  "title": "Swimming Out Till the Sea Turns Blue",
+  "original_title": "\u4e00\u76f4\u6e38\u5230\u6d77\u6c34\u53d8\u84dd",
+  "release_date": "2021-05-28",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

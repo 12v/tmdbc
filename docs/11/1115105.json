@@ -1,0 +1,30 @@
+{
+  "id": 1115105,
+  "title": "The Gullsp\u00e5ng Miracle",
+  "original_title": "Miraklet i Gullsp\u00e5ng",
+  "release_date": "2023-10-27",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

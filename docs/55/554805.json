@@ -1,0 +1,41 @@
+{
+  "id": 554805,
+  "title": "Kingdom",
+  "original_title": "\u30ad\u30f3\u30b0\u30c0\u30e0",
+  "release_date": "2019-04-19",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

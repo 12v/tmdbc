@@ -1,0 +1,33 @@
+{
+  "id": 500909,
+  "title": "I Do Not Care If We Go Down in History as Barbarians",
+  "original_title": "\u00cemi este indiferent dac\u0103 \u00een istorie vom intra ca barbari",
+  "release_date": "2018-09-28",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

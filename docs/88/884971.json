@@ -1,0 +1,29 @@
+{
+  "id": 884971,
+  "title": "Goliath",
+  "original_title": "Goliath",
+  "release_date": "2022-03-09",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

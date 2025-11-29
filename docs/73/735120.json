@@ -1,0 +1,38 @@
+{
+  "id": 735120,
+  "title": "C U Soon",
+  "original_title": "\u0d38\u0d40 \u0d2f\u0d42 \u0d38\u0d42\u0d7a.",
+  "release_date": "2020-09-01",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

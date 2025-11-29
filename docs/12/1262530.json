@@ -1,0 +1,43 @@
+{
+  "id": 1262530,
+  "title": "The Mehta Boys",
+  "original_title": "\u0926 \u092e\u0947\u0939\u0924\u093e \u092c\u0949\u092f\u091c",
+  "release_date": "2024-09-20",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Gujarati",
+      "iso_639_1": "gu",
+      "name": ""
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

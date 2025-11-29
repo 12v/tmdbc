@@ -1,0 +1,29 @@
+{
+  "id": 1469239,
+  "title": "Karol G: Tomorrow Was Beautiful",
+  "original_title": "Karol G: Ma\u00f1ana fue muy bonito",
+  "release_date": "2025-04-30",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CO"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

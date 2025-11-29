@@ -1,0 +1,26 @@
+{
+  "id": 1313211,
+  "title": "The Party's Over!",
+  "original_title": "Classe moyenne",
+  "release_date": "2025-09-24",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

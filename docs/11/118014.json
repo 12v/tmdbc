@@ -1,0 +1,29 @@
+{
+  "id": 118014,
+  "title": "The Seashell and the Clergyman",
+  "original_title": "La Coquille et le Clergyman",
+  "release_date": "1928-10-01",
+  "status": "Released",
+  "runtime": 41,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

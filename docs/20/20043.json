@@ -1,0 +1,29 @@
+{
+  "id": 20043,
+  "title": "Royal Space Force - The Wings of Honneamise",
+  "original_title": "\u738b\u7acb\u5b87\u5b99\u8ecd \u30aa\u30cd\u30a2\u30df\u30b9\u306e\u7ffc",
+  "release_date": "1987-03-14",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

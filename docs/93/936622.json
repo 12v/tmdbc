@@ -1,0 +1,25 @@
+{
+  "id": 936622,
+  "title": "Bade Miyan Chote Miyan",
+  "original_title": "\u092c\u0921\u093c\u0947 \u092e\u093f\u092f\u093e\u0901 \u091b\u094b\u091f\u0947 \u092e\u093f\u092f\u093e\u0901",
+  "release_date": "2024-04-11",
+  "status": "Released",
+  "runtime": 164,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

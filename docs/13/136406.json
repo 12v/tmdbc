@@ -1,0 +1,39 @@
+{
+  "id": 136406,
+  "title": "Lego Star Wars: The Empire Strikes Out",
+  "original_title": "Lego Star Wars: The Empire Strikes Out",
+  "release_date": "2012-09-26",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

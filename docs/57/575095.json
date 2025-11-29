@@ -1,0 +1,25 @@
+{
+  "id": 575095,
+  "title": "Acid Rain",
+  "original_title": "Acid Rain",
+  "release_date": "2019-01-27",
+  "status": "Released",
+  "runtime": 26,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

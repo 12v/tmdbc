@@ -1,0 +1,29 @@
+{
+  "id": 86266,
+  "title": "The Power of Kangwon Province",
+  "original_title": "\uac15\uc6d0\ub3c4\uc758 \ud798",
+  "release_date": "1998-04-04",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

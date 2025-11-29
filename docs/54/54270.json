@@ -1,0 +1,37 @@
+{
+  "id": 54270,
+  "title": "Revival of Evangelion",
+  "original_title": "\u65b0\u4e16\u7d00\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u5287\u5834\u7248 DEATH(TRUE)\u00b2\uff0fAir\uff0f\u307e\u3054\u3053\u308d\u3092\uff64\u541b\u306b",
+  "release_date": "1998-03-07",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

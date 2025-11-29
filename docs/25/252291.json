@@ -1,0 +1,25 @@
+{
+  "id": 252291,
+  "title": "ABC of a Strike",
+  "original_title": "ABC da Greve",
+  "release_date": "1990-02-15",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

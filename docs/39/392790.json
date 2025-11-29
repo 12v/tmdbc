@@ -1,0 +1,25 @@
+{
+  "id": 392790,
+  "title": "Ma' Rosa",
+  "original_title": "Ma' Rosa",
+  "release_date": "2016-11-09",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

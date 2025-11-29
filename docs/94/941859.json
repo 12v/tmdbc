@@ -1,0 +1,35 @@
+{
+  "id": 941859,
+  "title": "Let the River Flow",
+  "original_title": "Ellos eatnu - La elva leve",
+  "release_date": "2023-02-03",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "se",
+  "spoken_languages": [
+    {
+      "english_name": "Northern Sami",
+      "iso_639_1": "se",
+      "name": ""
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 553010,
+  "title": "Out There Halloween Mega Tape",
+  "original_title": "Out There Halloween Mega Tape",
+  "release_date": "2022-07-25",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

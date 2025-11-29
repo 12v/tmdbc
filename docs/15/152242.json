@@ -1,0 +1,34 @@
+{
+  "id": 152242,
+  "title": "Rio Babilonia",
+  "original_title": "Rio Babil\u00f4nia",
+  "release_date": "1982-09-14",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

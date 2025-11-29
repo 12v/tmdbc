@@ -1,0 +1,26 @@
+{
+  "id": 1232350,
+  "title": "Memories of a Burning Body",
+  "original_title": "Memorias de un cuerpo que arde",
+  "release_date": "2024-07-11",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "CR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

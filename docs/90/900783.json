@@ -1,0 +1,29 @@
+{
+  "id": 900783,
+  "title": "The Kashmir Files",
+  "original_title": "\u0926 \u0915\u0936\u094d\u092e\u0940\u0930 \u092b\u093c\u093e\u0907\u0932\u094d\u0938",
+  "release_date": "2022-03-11",
+  "status": "Released",
+  "runtime": 170,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

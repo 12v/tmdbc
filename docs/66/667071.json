@@ -1,0 +1,25 @@
+{
+  "id": 667071,
+  "title": "Felicit\u00e0",
+  "original_title": "Felicit\u00e0",
+  "release_date": "2020-07-15",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

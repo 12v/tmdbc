@@ -1,0 +1,29 @@
+{
+  "id": 568300,
+  "title": "BTS World Tour: Love Yourself in Seoul",
+  "original_title": "\ub7ec\ube0c \uc720\uc5b4\uc140\ud504 \uc778 \uc11c\uc6b8",
+  "release_date": "2019-01-26",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

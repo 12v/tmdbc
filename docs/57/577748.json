@@ -1,0 +1,33 @@
+{
+  "id": 577748,
+  "title": "Sometimes, I Think About Dying",
+  "original_title": "Sometimes, I Think About Dying",
+  "release_date": "2019-11-01",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

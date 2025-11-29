@@ -1,0 +1,29 @@
+{
+  "id": 585062,
+  "title": "Luka Chuppi",
+  "original_title": "\u0932\u0941\u0915\u094d\u0915\u093e \u091a\u0941\u092a\u094d\u092a\u0940",
+  "release_date": "2019-03-01",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

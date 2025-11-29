@@ -1,0 +1,29 @@
+{
+  "id": 1038198,
+  "title": "NCT DREAM THE MOVIE : In A DREAM",
+  "original_title": "\uc5d4\uc2dc\ud2f0 \ub4dc\ub9bc \ub354 \ubb34\ube44: \uc778 \uc5b4 \ub4dc\ub9bc",
+  "release_date": "2022-11-30",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

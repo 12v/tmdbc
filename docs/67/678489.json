@@ -1,0 +1,33 @@
+{
+  "id": 678489,
+  "title": "The Bridge Curse",
+  "original_title": "\u5973\u9b3c\u6a4b",
+  "release_date": "2020-02-27",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

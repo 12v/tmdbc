@@ -1,0 +1,29 @@
+{
+  "id": 566565,
+  "title": "Click & Collect",
+  "original_title": "Click & Collect",
+  "release_date": "2018-12-24",
+  "status": "Released",
+  "runtime": 53,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

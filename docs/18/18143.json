@@ -1,0 +1,25 @@
+{
+  "id": 18143,
+  "title": "She and Her Cat",
+  "original_title": "\u5f7c\u5973\u3068\u5f7c\u5973\u306e\u732b",
+  "release_date": "1999-10-01",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

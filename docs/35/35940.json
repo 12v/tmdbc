@@ -1,0 +1,33 @@
+{
+  "id": 35940,
+  "title": "Bratz: Passion 4 Fashion - Diamondz",
+  "original_title": "Bratz: Passion 4 Fashion - Diamondz",
+  "release_date": "2006-09-26",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

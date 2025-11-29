@@ -1,0 +1,41 @@
+{
+  "id": 665133,
+  "title": "Malik",
+  "original_title": "\u0d2e\u0d3e\u0d32\u0d3f\u0d15\u0d4d",
+  "release_date": "2021-07-15",
+  "status": "Released",
+  "runtime": 161,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

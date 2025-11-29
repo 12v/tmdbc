@@ -1,0 +1,29 @@
+{
+  "id": 472640,
+  "title": "Under the Tree",
+  "original_title": "Undir tr\u00e9nu",
+  "release_date": "2017-09-06",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "IS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

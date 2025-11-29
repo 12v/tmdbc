@@ -1,0 +1,26 @@
+{
+  "id": 928747,
+  "title": "Nest",
+  "original_title": "Hrei\u00f0ur",
+  "release_date": "2022-02-10",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "IS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

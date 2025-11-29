@@ -1,0 +1,25 @@
+{
+  "id": 148371,
+  "title": "A Story Written with Water",
+  "original_title": "\u6c34\u3067\u66f8\u304b\u308c\u305f\u7269\u8a9e",
+  "release_date": "1965-11-23",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

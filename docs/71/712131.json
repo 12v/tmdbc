@@ -1,0 +1,25 @@
+{
+  "id": 712131,
+  "title": "Souad",
+  "original_title": "\u0633\u0639\u0627\u062f",
+  "release_date": "2021-08-27",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1203484,
+  "title": "Monster",
+  "original_title": "Monster",
+  "release_date": "2023-11-29",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

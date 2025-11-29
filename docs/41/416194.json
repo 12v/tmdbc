@@ -1,0 +1,33 @@
+{
+  "id": 416194,
+  "title": "The Quake",
+  "original_title": "Skjelvet",
+  "release_date": "2018-08-31",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

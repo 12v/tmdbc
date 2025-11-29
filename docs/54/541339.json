@@ -1,0 +1,25 @@
+{
+  "id": 541339,
+  "title": "The Good Girls",
+  "original_title": "Las ni\u00f1as bien",
+  "release_date": "2019-03-22",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

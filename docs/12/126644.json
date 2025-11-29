@@ -1,0 +1,37 @@
+{
+  "id": 126644,
+  "title": "By the Law",
+  "original_title": "\u041f\u043e \u0437\u0430\u043a\u043e\u043d\u0443",
+  "release_date": "1926-12-03",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

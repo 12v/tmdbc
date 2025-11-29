@@ -1,0 +1,25 @@
+{
+  "id": 449754,
+  "title": "April's Daughters",
+  "original_title": "Las hijas de Abril",
+  "release_date": "2017-07-26",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

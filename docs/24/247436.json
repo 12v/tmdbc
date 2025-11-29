@@ -1,0 +1,25 @@
+{
+  "id": 247436,
+  "title": "Wind",
+  "original_title": "Sz\u00e9l",
+  "release_date": "1996-05-09",
+  "status": "Released",
+  "runtime": 7,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

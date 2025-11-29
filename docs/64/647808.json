@@ -1,0 +1,26 @@
+{
+  "id": 647808,
+  "title": "The Nan Movie",
+  "original_title": "The Nan Movie",
+  "release_date": "2022-03-18",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

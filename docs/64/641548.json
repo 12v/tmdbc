@@ -1,0 +1,33 @@
+{
+  "id": 641548,
+  "title": "Roh",
+  "original_title": "Roh",
+  "release_date": "2020-08-06",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "ms",
+  "spoken_languages": [
+    {
+      "english_name": "Malay",
+      "iso_639_1": "ms",
+      "name": "Bahasa melayu"
+    }
+  ],
+  "origin_country": [
+    "MY"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

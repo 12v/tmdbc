@@ -1,0 +1,29 @@
+{
+  "id": 543294,
+  "title": "Song Lang",
+  "original_title": "Song Lang",
+  "release_date": "2018-08-17",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

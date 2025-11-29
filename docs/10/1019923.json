@@ -1,0 +1,25 @@
+{
+  "id": 1019923,
+  "title": "George A. Romero's Resident Evil",
+  "original_title": "George A. Romero's Resident Evil",
+  "release_date": "2025-01-07",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

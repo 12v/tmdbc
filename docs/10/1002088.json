@@ -1,0 +1,29 @@
+{
+  "id": 1002088,
+  "title": "Mission: Cross",
+  "original_title": "\ud06c\ub85c\uc2a4",
+  "release_date": "2024-08-08",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

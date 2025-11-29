@@ -1,0 +1,33 @@
+{
+  "id": 164378,
+  "title": "Bound for the Fields, the Mountains, and the Seacoast",
+  "original_title": "\u91ce\u3086\u304d\u5c71\u3086\u304d\u6d77\u3079\u3086\u304d",
+  "release_date": "1986-10-04",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

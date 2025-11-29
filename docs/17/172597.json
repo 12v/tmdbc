@@ -1,0 +1,25 @@
+{
+  "id": 172597,
+  "title": "After the Curfew",
+  "original_title": "Lewat Djam Malam",
+  "release_date": "1954-05-01",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

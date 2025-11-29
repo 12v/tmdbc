@@ -1,0 +1,25 @@
+{
+  "id": 104374,
+  "title": "Woman of the Lake",
+  "original_title": "\u5973\u306e\u307f\u3065\u3046\u307f",
+  "release_date": "1966-08-27",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

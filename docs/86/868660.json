@@ -1,0 +1,29 @@
+{
+  "id": 868660,
+  "title": "Guntur Kaaram",
+  "original_title": "\u0c17\u0c41\u0c02\u0c1f\u0c42\u0c30\u0c41 \u0c15\u0c3e\u0c30\u0c02",
+  "release_date": "2024-01-11",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1077684,
+  "title": "Samsara",
+  "original_title": "Samsara",
+  "release_date": "2023-10-06",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Lao",
+      "iso_639_1": "lo",
+      "name": ""
+    },
+    {
+      "english_name": "Swahili",
+      "iso_639_1": "sw",
+      "name": "Kiswahili"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

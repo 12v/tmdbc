@@ -1,0 +1,34 @@
+{
+  "id": 171204,
+  "title": "Spider",
+  "original_title": "Zirneklis",
+  "release_date": "1992-04-17",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "lv",
+  "spoken_languages": [
+    {
+      "english_name": "Latvian",
+      "iso_639_1": "lv",
+      "name": "Latvie\u0161u"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "LV"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

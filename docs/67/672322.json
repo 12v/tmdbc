@@ -1,0 +1,37 @@
+{
+  "id": 672322,
+  "title": "Rurouni Kenshin: The Beginning",
+  "original_title": "\u308b\u308d\u3046\u306b\u5263\u5fc3 \u6700\u7d42\u7ae0 The Beginning",
+  "release_date": "2021-06-04",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

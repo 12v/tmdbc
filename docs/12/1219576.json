@@ -1,0 +1,30 @@
+{
+  "id": 1219576,
+  "title": "Goebbels and the F\u00fchrer",
+  "original_title": "F\u00fchrer und Verf\u00fchrer",
+  "release_date": "2024-07-11",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "SK"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

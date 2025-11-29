@@ -1,0 +1,29 @@
+{
+  "id": 42116,
+  "title": "The Makioka Sisters",
+  "original_title": "\u7d30\u96ea",
+  "release_date": "1983-05-21",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

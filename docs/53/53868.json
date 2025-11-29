@@ -1,0 +1,25 @@
+{
+  "id": 53868,
+  "title": "The Vault of Horror",
+  "original_title": "The Vault of Horror",
+  "release_date": "1973-03-16",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

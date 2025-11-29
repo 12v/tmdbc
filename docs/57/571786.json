@@ -1,0 +1,33 @@
+{
+  "id": 571786,
+  "title": "Miss & Mrs. Cops",
+  "original_title": "\uac78\uce85\uc2a4",
+  "release_date": "2019-05-09",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

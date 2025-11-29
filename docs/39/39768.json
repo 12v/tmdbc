@@ -1,0 +1,29 @@
+{
+  "id": 39768,
+  "title": "Beware of the Car!",
+  "original_title": "\u0411\u0435\u0440\u0435\u0433\u0438\u0441\u044c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f",
+  "release_date": "1966-05-22",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

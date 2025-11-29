@@ -1,0 +1,38 @@
+{
+  "id": 67297,
+  "title": "The Girl of Your Dreams",
+  "original_title": "La ni\u00f1a de tus ojos",
+  "release_date": "1998-11-13",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

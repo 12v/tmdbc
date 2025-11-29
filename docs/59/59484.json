@@ -1,0 +1,33 @@
+{
+  "id": 59484,
+  "title": "Le Pont du Nord",
+  "original_title": "Le Pont du Nord",
+  "release_date": "1982-03-24",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

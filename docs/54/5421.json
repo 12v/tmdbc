@@ -1,0 +1,25 @@
+{
+  "id": 5421,
+  "title": "Absurd",
+  "original_title": "Rosso sangue",
+  "release_date": "1981-10-01",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

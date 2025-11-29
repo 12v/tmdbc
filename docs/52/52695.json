@@ -1,0 +1,33 @@
+{
+  "id": 52695,
+  "title": "In the Line of Duty 3",
+  "original_title": "\u7687\u5bb6\u5e2b\u59d0III\u96cc\u96c4\u5927\u76dc",
+  "release_date": "1988-09-28",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

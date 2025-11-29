@@ -1,0 +1,30 @@
+{
+  "id": 74124,
+  "title": "Shinjuku Boys",
+  "original_title": "Shinjuku Boys",
+  "release_date": "1995-12-07",
+  "status": "Released",
+  "runtime": 53,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

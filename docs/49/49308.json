@@ -1,0 +1,29 @@
+{
+  "id": 49308,
+  "title": "That Night's Wife",
+  "original_title": "\u305d\u306e\u591c\u306e\u59bb",
+  "release_date": "1930-07-06",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

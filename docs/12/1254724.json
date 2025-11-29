@@ -1,0 +1,29 @@
+{
+  "id": 1254724,
+  "title": "SUGA | Agust D TOUR 'D-DAY' THE MOVIE",
+  "original_title": "\uc288\uac00\uff5c\uc5b4\uac70\uc2a4\ud2b8 \ub514 \ud22c\uc5b4 '\ub514-\ub370\uc774' \ub354 \ubb34\ube44",
+  "release_date": "2024-04-10",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

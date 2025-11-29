@@ -1,0 +1,30 @@
+{
+  "id": 45555,
+  "title": "God's Angry Man",
+  "original_title": "Glaube und W\u00e4hrung: Dr. Gene Scott, Fernsehprediger",
+  "release_date": "1981-05-17",
+  "status": "Released",
+  "runtime": 44,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

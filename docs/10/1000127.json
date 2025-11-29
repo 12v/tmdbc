@@ -1,0 +1,30 @@
+{
+  "id": 1000127,
+  "title": "In His Own Image",
+  "original_title": "\u00c0 son image",
+  "release_date": "2024-09-04",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Corsican",
+      "iso_639_1": "co",
+      "name": ""
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

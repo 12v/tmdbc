@@ -1,0 +1,33 @@
+{
+  "id": 340382,
+  "title": "Attack on Titan II: End of the World",
+  "original_title": "\u9032\u6483\u306e\u5de8\u4eba ATTACK ON TITAN \u30a8\u30f3\u30c9 \u30aa\u30d6 \u30b6 \u30ef\u30fc\u30eb\u30c9",
+  "release_date": "2015-09-01",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

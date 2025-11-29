@@ -1,0 +1,26 @@
+{
+  "id": 487625,
+  "title": "Marguerite",
+  "original_title": "Marguerite",
+  "release_date": "2017-11-12",
+  "status": "Released",
+  "runtime": 19,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

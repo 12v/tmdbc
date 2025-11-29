@@ -1,0 +1,25 @@
+{
+  "id": 87148,
+  "title": "Monster Dog",
+  "original_title": "Leviat\u00e1n",
+  "release_date": "1984-12-01",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1222140,
+  "title": "Golam",
+  "original_title": "\u0d17\u0d4b\u0d33\u0d02",
+  "release_date": "2024-06-07",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

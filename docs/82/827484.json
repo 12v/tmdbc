@@ -1,0 +1,29 @@
+{
+  "id": 827484,
+  "title": "In the Court of the Crimson King: King Crimson at 50",
+  "original_title": "In the Court of the Crimson King: King Crimson at 50",
+  "release_date": "2022-10-19",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

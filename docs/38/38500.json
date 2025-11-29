@@ -1,0 +1,25 @@
+{
+  "id": 38500,
+  "title": "Howling IV: The Original Nightmare",
+  "original_title": "Howling IV: The Original Nightmare",
+  "release_date": "1988-11-01",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

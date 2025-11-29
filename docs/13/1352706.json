@@ -1,0 +1,30 @@
+{
+  "id": 1352706,
+  "title": "Still Life with Ghosts",
+  "original_title": "Bodeg\u00f3n con fantasmas",
+  "release_date": "2025-02-07",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "RS",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

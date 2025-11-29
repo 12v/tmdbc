@@ -1,0 +1,26 @@
+{
+  "id": 492190,
+  "title": "The Day Shall Come",
+  "original_title": "The Day Shall Come",
+  "release_date": "2019-10-11",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

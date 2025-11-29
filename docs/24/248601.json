@@ -1,0 +1,29 @@
+{
+  "id": 248601,
+  "title": "Bibi & Tina",
+  "original_title": "Bibi & Tina - Der Film",
+  "release_date": "2014-03-06",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

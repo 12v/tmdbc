@@ -1,0 +1,25 @@
+{
+  "id": 278727,
+  "title": "O Seasons, O Castles",
+  "original_title": "\u00d4 saisons, \u00f4 ch\u00e2teaux",
+  "release_date": "1958-05-01",
+  "status": "Released",
+  "runtime": 21,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

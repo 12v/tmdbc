@@ -1,0 +1,29 @@
+{
+  "id": 997391,
+  "title": "RDX: Robert Dony Xavier",
+  "original_title": "\u0d06\u0d30\u0d4d\u200d\u0d21\u0d3f\u0d0e\u0d15\u0d4d\u0d38\u0d4d: \u0d31\u0d4b\u0d2c\u0d30\u0d4d\u200d\u0d1f\u0d4d\u0d1f\u0d4d \u0d21\u0d4b\u0d23\u0d3f \u0d38\u0d47\u0d35\u0d4d\u0d2f\u0d30\u0d4d\u200d",
+  "release_date": "2023-08-25",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

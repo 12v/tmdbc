@@ -1,0 +1,29 @@
+{
+  "id": 62369,
+  "title": "Help Me, My Love",
+  "original_title": "Amore mio aiutami",
+  "release_date": "1969-10-03",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

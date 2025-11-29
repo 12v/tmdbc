@@ -1,0 +1,29 @@
+{
+  "id": 672128,
+  "title": "Dia",
+  "original_title": "\u0ca6\u0cbf\u0caf\u0cbe",
+  "release_date": "2020-02-07",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "kn",
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

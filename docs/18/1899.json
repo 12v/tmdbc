@@ -1,0 +1,26 @@
+{
+  "id": 1899,
+  "title": "The Chinese Botanist's Daughters",
+  "original_title": "Les filles du botaniste",
+  "release_date": "2006-04-26",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

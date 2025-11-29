@@ -1,0 +1,34 @@
+{
+  "id": 28635,
+  "title": "Wishmaster 3: Beyond the Gates of Hell",
+  "original_title": "Wishmaster 3: Beyond the Gates of Hell",
+  "release_date": "2001-10-23",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

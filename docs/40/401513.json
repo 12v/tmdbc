@@ -1,0 +1,37 @@
+{
+  "id": 401513,
+  "title": "Attraction",
+  "original_title": "\u041f\u0440\u0438\u0442\u044f\u0436\u0435\u043d\u0438\u0435",
+  "release_date": "2017-01-26",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

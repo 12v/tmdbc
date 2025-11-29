@@ -1,0 +1,33 @@
+{
+  "id": 1084412,
+  "title": "Fireworks",
+  "original_title": "Kembang Api",
+  "release_date": "2023-03-02",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

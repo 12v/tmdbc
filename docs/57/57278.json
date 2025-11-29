@@ -1,0 +1,29 @@
+{
+  "id": 57278,
+  "title": "The Hexer",
+  "original_title": "Wied\u017amin",
+  "release_date": "2001-11-09",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

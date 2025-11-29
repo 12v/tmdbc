@@ -1,0 +1,25 @@
+{
+  "id": 1393382,
+  "title": "Popeye's Revenge",
+  "original_title": "Popeye's Revenge",
+  "release_date": "2025-02-12",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

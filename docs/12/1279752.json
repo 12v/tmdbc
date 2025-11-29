@@ -1,0 +1,33 @@
+{
+  "id": 1279752,
+  "title": "Baby Assassins: Nice Days",
+  "original_title": "\u30d9\u30a4\u30d3\u30fc\u308f\u308b\u304d\u3085\u30fc\u308c \u30ca\u30a4\u30b9\u30c7\u30a4\u30ba",
+  "release_date": "2024-08-02",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

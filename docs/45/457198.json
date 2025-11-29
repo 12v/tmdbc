@@ -1,0 +1,29 @@
+{
+  "id": 457198,
+  "title": "The Burden",
+  "original_title": "Min b\u00f6rda",
+  "release_date": "2017-01-27",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

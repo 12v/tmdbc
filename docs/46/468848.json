@@ -1,0 +1,33 @@
+{
+  "id": 468848,
+  "title": "Njandukalude Naattil Oridavela",
+  "original_title": "\u0d1e\u0d23\u0d4d\u0d1f\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u0d28\u0d3e\u0d1f\u0d4d\u0d1f\u0d3f\u0d32\u0d4d\u200d \u0d12\u0d30\u0d3f\u0d1f\u0d35\u0d47\u0d33",
+  "release_date": "2017-09-01",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

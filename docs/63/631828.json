@@ -1,0 +1,33 @@
+{
+  "id": 631828,
+  "title": "Isa Pa, with Feelings",
+  "original_title": "Isa Pa, with Feelings",
+  "release_date": "2019-10-16",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

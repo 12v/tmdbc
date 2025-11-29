@@ -1,0 +1,30 @@
+{
+  "id": 301959,
+  "title": "Interstellar: Nolan's Odyssey",
+  "original_title": "Interstellar: Nolan's Odyssey",
+  "release_date": "2014-11-05",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

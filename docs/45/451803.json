@@ -1,0 +1,38 @@
+{
+  "id": 451803,
+  "title": "Duke Bluebeard's Castle",
+  "original_title": "Duke Bluebeard's Castle",
+  "release_date": "1989-04-12",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 71622,
+  "title": "Atrocious",
+  "original_title": "Atrocious",
+  "release_date": "2010-10-15",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 42102,
+  "title": "A Sunday in the Country",
+  "original_title": "Un dimanche \u00e0 la campagne",
+  "release_date": "1984-04-11",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

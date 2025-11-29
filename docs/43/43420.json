@@ -1,0 +1,30 @@
+{
+  "id": 43420,
+  "title": "Cinema, Aspirins and Vultures",
+  "original_title": "Cinema, Aspirinas e Urubus",
+  "release_date": "2005-05-17",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 999722,
+  "title": "Old People",
+  "original_title": "Old People",
+  "release_date": "2022-10-07",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

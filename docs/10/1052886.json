@@ -1,0 +1,33 @@
+{
+  "id": 1052886,
+  "title": "Do You See What I See",
+  "original_title": "Do You See What I See: Cerita Horor #64 - First Love",
+  "release_date": "2024-05-16",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

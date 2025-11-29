@@ -1,0 +1,33 @@
+{
+  "id": 133563,
+  "title": "Killers on Parade",
+  "original_title": "\u5915\u967d\u306b\u8d64\u3044\u4ffa\u306e\u9854",
+  "release_date": "1961-02-19",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

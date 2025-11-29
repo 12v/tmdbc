@@ -1,0 +1,25 @@
+{
+  "id": 715714,
+  "title": "Night Ride",
+  "original_title": "Nattrikken",
+  "release_date": "2020-06-10",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

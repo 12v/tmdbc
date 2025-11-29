@@ -1,0 +1,44 @@
+{
+  "id": 27861,
+  "title": "Mimino",
+  "original_title": "\u041c\u0438\u043c\u0438\u043d\u043e",
+  "release_date": "1977-06-06",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Armenian",
+      "iso_639_1": "hy",
+      "name": ""
+    },
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

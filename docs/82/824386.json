@@ -1,0 +1,30 @@
+{
+  "id": 824386,
+  "title": "Big Boys Don\u2019t Cry",
+  "original_title": "Big Boys Don\u2019t Cry",
+  "release_date": "2022-09-05",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

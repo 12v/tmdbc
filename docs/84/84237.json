@@ -1,0 +1,29 @@
+{
+  "id": 84237,
+  "title": "Humanity and Paper Balloons",
+  "original_title": "\u4eba\u60c5\u7d19\u98a8\u8239",
+  "release_date": "1937-08-25",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10000,
+  "title": "The Strategy of the Snail",
+  "original_title": "La estrategia del caracol",
+  "release_date": "1993-12-25",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CO"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

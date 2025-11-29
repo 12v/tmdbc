@@ -1,0 +1,29 @@
+{
+  "id": 27033,
+  "title": "The Strange Love of Martha Ivers",
+  "original_title": "The Strange Love of Martha Ivers",
+  "release_date": "1946-08-19",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

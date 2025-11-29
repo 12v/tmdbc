@@ -1,0 +1,25 @@
+{
+  "id": 338224,
+  "title": "Killing Spree",
+  "original_title": "Folies Meurtri\u00e8res",
+  "release_date": "1984-01-01",
+  "status": "Released",
+  "runtime": 48,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

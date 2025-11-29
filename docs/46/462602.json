@@ -1,0 +1,25 @@
+{
+  "id": 462602,
+  "title": "Kuleshov Effect",
+  "original_title": "\u042d\u0444\u0444\u0435\u043a\u0442 \u041a\u0443\u043b\u0435\u0448\u043e\u0432\u0430",
+  "release_date": "1919-01-01",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

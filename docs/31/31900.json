@@ -1,0 +1,25 @@
+{
+  "id": 31900,
+  "title": "Gainsbourg: A Heroic Life",
+  "original_title": "Gainsbourg (vie h\u00e9ro\u00efque)",
+  "release_date": "2010-01-20",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

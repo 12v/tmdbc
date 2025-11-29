@@ -1,0 +1,25 @@
+{
+  "id": 490039,
+  "title": "Loveling",
+  "original_title": "Benzinho",
+  "release_date": "2018-08-03",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

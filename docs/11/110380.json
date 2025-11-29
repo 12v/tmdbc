@@ -1,0 +1,30 @@
+{
+  "id": 110380,
+  "title": "Places in Cities",
+  "original_title": "Pl\u00e4tze in St\u00e4dten",
+  "release_date": "1998-09-28",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

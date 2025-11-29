@@ -1,0 +1,37 @@
+{
+  "id": 1220566,
+  "title": "Eagles of the Republic",
+  "original_title": "Eagles of the Republic",
+  "release_date": "2025-09-19",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "FR",
+    "FI",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

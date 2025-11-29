@@ -1,0 +1,25 @@
+{
+  "id": 660002,
+  "title": "Love After Love",
+  "original_title": "\u7b2c\u4e00\u7089\u9999",
+  "release_date": "2021-10-22",
+  "status": "Released",
+  "runtime": 144,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

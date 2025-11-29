@@ -1,0 +1,37 @@
+{
+  "id": 37924,
+  "title": "Sweeney Todd",
+  "original_title": "Sweeney Todd",
+  "release_date": "2006-01-03",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

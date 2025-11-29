@@ -1,0 +1,25 @@
+{
+  "id": 801071,
+  "title": "The Jack in the Box: Awakening",
+  "original_title": "The Jack in the Box: Awakening",
+  "release_date": "2022-02-24",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

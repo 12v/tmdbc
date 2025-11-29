@@ -1,0 +1,25 @@
+{
+  "id": 17734,
+  "title": "Thirteen Conversations About One Thing",
+  "original_title": "Thirteen Conversations About One Thing",
+  "release_date": "2001-09-02",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

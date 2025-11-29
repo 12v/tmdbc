@@ -1,0 +1,25 @@
+{
+  "id": 578944,
+  "title": "Days of the Bagnold Summer",
+  "original_title": "Days of the Bagnold Summer",
+  "release_date": "2020-08-13",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

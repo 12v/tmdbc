@@ -1,0 +1,25 @@
+{
+  "id": 69014,
+  "title": "Tales of Ordinary Madness",
+  "original_title": "Storie di ordinaria follia",
+  "release_date": "1981-09-11",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

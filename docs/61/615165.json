@@ -1,0 +1,29 @@
+{
+  "id": 615165,
+  "title": "Her Blue Sky",
+  "original_title": "\u7a7a\u306e\u9752\u3055\u3092\u77e5\u308b\u4eba\u3088",
+  "release_date": "2019-10-11",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

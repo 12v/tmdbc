@@ -1,0 +1,29 @@
+{
+  "id": 408292,
+  "title": "The Last Family",
+  "original_title": "Ostatnia rodzina",
+  "release_date": "2016-09-30",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

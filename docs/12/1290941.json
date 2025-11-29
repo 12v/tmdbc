@@ -1,0 +1,29 @@
+{
+  "id": 1290941,
+  "title": "Golo & Ritchie",
+  "original_title": "Golo & Ritchie",
+  "release_date": "2024-08-14",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

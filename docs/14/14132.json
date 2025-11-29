@@ -1,0 +1,37 @@
+{
+  "id": 14132,
+  "title": "Macross: Do You Remember Love?",
+  "original_title": "\u8d85\u6642\u7a7a\u8981\u585e\u30de\u30af\u30ed\u30b9 \u611b\u30fb\u304a\u307c\u3048\u3066\u3044\u307e\u3059\u304b",
+  "release_date": "1984-07-21",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

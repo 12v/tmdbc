@@ -1,0 +1,37 @@
+{
+  "id": 1231574,
+  "title": "My Oni Girl",
+  "original_title": "\u597d\u304d\u3067\u3082\u5acc\u3044\u306a\u3042\u307e\u306e\u3058\u3083\u304f",
+  "release_date": "2024-05-24",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

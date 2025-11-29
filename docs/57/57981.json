@@ -1,0 +1,25 @@
+{
+  "id": 57981,
+  "title": "Rapado",
+  "original_title": "Rapado",
+  "release_date": "1992-08-01",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

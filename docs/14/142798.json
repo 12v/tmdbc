@@ -1,0 +1,29 @@
+{
+  "id": 142798,
+  "title": "Blue Mountains, or Unbelievable Story",
+  "original_title": "\u10ea\u10d8\u10e1\u10e4\u10d4\u10e0\u10d8 \u10db\u10d7\u10d4\u10d1\u10d8 \u10d0\u10dc\u10e3 \u10d3\u10d0\u10e3\u10ef\u10d4\u10e0\u10d4\u10d1\u10d4\u10da\u10d8 \u10d0\u10db\u10d1\u10d0\u10d5\u10d8",
+  "release_date": "1983-12-18",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

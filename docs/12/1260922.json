@@ -1,0 +1,29 @@
+{
+  "id": 1260922,
+  "title": "Found Footage: The Making of the Patterson Project",
+  "original_title": "Found Footage: The Making of the Patterson Project",
+  "release_date": "2025-06-20",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

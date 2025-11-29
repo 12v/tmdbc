@@ -1,0 +1,44 @@
+{
+  "id": 609031,
+  "title": "My Thoughts Are Silent",
+  "original_title": "\u041c\u043e\u0457 \u0434\u0443\u043c\u043a\u0438 \u0442\u0438\u0445\u0456",
+  "release_date": "2020-01-02",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "uk",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "UA"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

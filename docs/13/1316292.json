@@ -1,0 +1,30 @@
+{
+  "id": 1316292,
+  "title": "The Last Ranger",
+  "original_title": "The Last Ranger",
+  "release_date": "2024-01-07",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "xh",
+  "spoken_languages": [
+    {
+      "english_name": "Xhosa",
+      "iso_639_1": "xh",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ZA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

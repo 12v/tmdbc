@@ -1,0 +1,25 @@
+{
+  "id": 1304594,
+  "title": "Una Peque\u00f1a Confusi\u00f3n",
+  "original_title": "Una Peque\u00f1a Confusi\u00f3n",
+  "release_date": "2024-12-25",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

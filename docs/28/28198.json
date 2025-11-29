@@ -1,0 +1,25 @@
+{
+  "id": 28198,
+  "title": "Nosferatu in Venice",
+  "original_title": "Nosferatu a Venezia",
+  "release_date": "1988-09-10",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

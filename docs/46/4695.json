@@ -1,0 +1,25 @@
+{
+  "id": 4695,
+  "title": "Pappa ante Portas",
+  "original_title": "Pappa ante Portas",
+  "release_date": "1991-02-21",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 40031,
+  "title": "The Queen of Black Magic",
+  "original_title": "Ratu Ilmu Hitam",
+  "release_date": "1981-01-01",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

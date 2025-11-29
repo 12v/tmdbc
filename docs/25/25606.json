@@ -1,0 +1,25 @@
+{
+  "id": 25606,
+  "title": "Fantozzi: White Collar Blues",
+  "original_title": "Fantozzi",
+  "release_date": "1975-03-27",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

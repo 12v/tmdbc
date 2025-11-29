@@ -1,0 +1,37 @@
+{
+  "id": 1355755,
+  "title": "An Almost Christmas Story",
+  "original_title": "An Almost Christmas Story",
+  "release_date": "2024-10-14",
+  "status": "Released",
+  "runtime": 24,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

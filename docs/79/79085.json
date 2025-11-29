@@ -1,0 +1,25 @@
+{
+  "id": 79085,
+  "title": "The Third Page",
+  "original_title": "\u00dc\u00e7\u00fcnc\u00fc Sayfa",
+  "release_date": "1999-10-29",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

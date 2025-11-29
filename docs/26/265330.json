@@ -1,0 +1,25 @@
+{
+  "id": 265330,
+  "title": "Bad Boys",
+  "original_title": "Bad Boys",
+  "release_date": "2014-04-17",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

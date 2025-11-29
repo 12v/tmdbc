@@ -1,0 +1,25 @@
+{
+  "id": 123648,
+  "title": "The Land",
+  "original_title": "\u0627\u0644\u0623\u0631\u0636",
+  "release_date": "1970-01-26",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

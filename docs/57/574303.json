@@ -1,0 +1,37 @@
+{
+  "id": 574303,
+  "title": "Jo Pil-ho: The Dawning Rage",
+  "original_title": "\uc545\uc9c8\uacbd\ucc30",
+  "release_date": "2019-03-20",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

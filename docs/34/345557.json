@@ -1,0 +1,29 @@
+{
+  "id": 345557,
+  "title": "Angry Man",
+  "original_title": "Sinna mann",
+  "release_date": "2009-04-21",
+  "status": "Released",
+  "runtime": 20,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

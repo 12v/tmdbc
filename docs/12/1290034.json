@@ -1,0 +1,25 @@
+{
+  "id": 1290034,
+  "title": "Defying Gravity: The Curtain Rises on Wicked",
+  "original_title": "Defying Gravity: The Curtain Rises on Wicked",
+  "release_date": "2024-11-16",
+  "status": "Released",
+  "runtime": 43,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

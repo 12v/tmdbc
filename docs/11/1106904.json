@@ -1,0 +1,33 @@
+{
+  "id": 1106904,
+  "title": "Totto-chan: The Little Girl at the Window",
+  "original_title": "\u7a93\u304e\u308f\u306e\u30c8\u30c3\u30c8\u3061\u3083\u3093",
+  "release_date": "2023-12-08",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

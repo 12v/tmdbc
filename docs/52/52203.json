@@ -1,0 +1,26 @@
+{
+  "id": 52203,
+  "title": "The Flesh and the Fiends",
+  "original_title": "The Flesh and the Fiends",
+  "release_date": "1960-02-02",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

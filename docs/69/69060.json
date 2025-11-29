@@ -1,0 +1,25 @@
+{
+  "id": 69060,
+  "title": "You\u2019re Missing the Point",
+  "original_title": "Ah\u00ed est\u00e1 el detalle",
+  "release_date": "1940-09-11",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

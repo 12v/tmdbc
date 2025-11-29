@@ -1,0 +1,25 @@
+{
+  "id": 854932,
+  "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
+  "original_title": "\u6226\u6144\u602a\u5947\u30d5\u30a1\u30a4\u30eb \u30b3\u30ef\u3059\u304e\uff01\u53f2\u4e0a\u6700\u6050\u306e\u5287\u5834\u7248",
+  "release_date": "2014-05-03",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

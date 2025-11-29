@@ -1,0 +1,29 @@
+{
+  "id": 85589,
+  "title": "Zero Kelvin",
+  "original_title": "Kj\u00e6rlighetens kj\u00f8tere",
+  "release_date": "1995-09-29",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

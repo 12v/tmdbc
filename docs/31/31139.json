@@ -1,0 +1,29 @@
+{
+  "id": 31139,
+  "title": "Office Romance",
+  "original_title": "\u0421\u043b\u0443\u0436\u0435\u0431\u043d\u044b\u0439 \u0440\u043e\u043c\u0430\u043d",
+  "release_date": "1977-10-26",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}
