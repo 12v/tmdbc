@@ -1,0 +1,26 @@
+{
+  "id": 372411,
+  "title": "Absolutely Fabulous: The Movie",
+  "original_title": "Absolutely Fabulous: The Movie",
+  "release_date": "2016-07-01",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

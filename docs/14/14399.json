@@ -1,0 +1,33 @@
+{
+  "id": 14399,
+  "title": "Killing Cabos",
+  "original_title": "Matando Cabos",
+  "release_date": "2004-07-16",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 384127,
+  "title": "A Man and a Woman",
+  "original_title": "\ub0a8\uacfc \uc5ec",
+  "release_date": "2016-02-25",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

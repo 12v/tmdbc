@@ -1,0 +1,41 @@
+{
+  "id": 26662,
+  "title": "Detective Conan: The Phantom of Baker Street",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u30d9\u30a4\u30ab\u30fc\u8857\uff08\u30b9\u30c8\u30ea\u30fc\u30c8\uff09\u306e\u4ea1\u970a",
+  "release_date": "2002-04-20",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

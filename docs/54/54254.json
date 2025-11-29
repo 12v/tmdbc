@@ -1,0 +1,25 @@
+{
+  "id": 54254,
+  "title": "The Song of Sparrows",
+  "original_title": "\u0622\u0648\u0627\u0632 \u06af\u0646\u062c\u0634\u06a9\u200c\u0647\u0627",
+  "release_date": "2008-10-01",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

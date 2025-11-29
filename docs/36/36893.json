@@ -1,0 +1,29 @@
+{
+  "id": 36893,
+  "title": "It's Not Just You, Murray!",
+  "original_title": "It's Not Just You, Murray!",
+  "release_date": "1964-01-13",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 9967,
+  "title": "Uncommon Valor",
+  "original_title": "Uncommon Valor",
+  "release_date": "1983-12-16",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

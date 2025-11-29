@@ -1,0 +1,29 @@
+{
+  "id": 665783,
+  "title": "Dry Wind",
+  "original_title": "Vento Seco",
+  "release_date": "2020-02-26",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

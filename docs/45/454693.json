@@ -1,0 +1,34 @@
+{
+  "id": 454693,
+  "title": "The Silent Revolution",
+  "original_title": "Das schweigende Klassenzimmer",
+  "release_date": "2018-03-01",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 80441,
+  "title": "We Still Kill the Old Way",
+  "original_title": "A ciascuno il suo",
+  "release_date": "1967-02-24",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 61594,
+  "title": "The Grand Duel",
+  "original_title": "Il grande duello",
+  "release_date": "1972-12-29",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

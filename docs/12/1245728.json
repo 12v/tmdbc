@@ -1,0 +1,31 @@
+{
+  "id": 1245728,
+  "title": "Peacock",
+  "original_title": "Pfau - Bin ich echt?",
+  "release_date": "2025-02-20",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

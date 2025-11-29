@@ -1,0 +1,30 @@
+{
+  "id": 56935,
+  "title": "The Lacemaker",
+  "original_title": "La Dentelli\u00e8re",
+  "release_date": "1977-05-25",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31596,
+  "title": "Lemora: A Child's Tale of the Supernatural",
+  "original_title": "Lemora: A Child's Tale of the Supernatural",
+  "release_date": "1973-05-01",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

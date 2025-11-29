@@ -1,0 +1,39 @@
+{
+  "id": 26038,
+  "title": "Call Northside 777",
+  "original_title": "Call Northside 777",
+  "release_date": "1948-02-13",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

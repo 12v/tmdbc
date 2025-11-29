@@ -1,0 +1,25 @@
+{
+  "id": 1157023,
+  "title": "The Summer with Carmen",
+  "original_title": "\u03a4\u03bf \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c4\u03b7\u03c2 \u039a\u03ac\u03c1\u03bc\u03b5\u03bd",
+  "release_date": "2023-11-04",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

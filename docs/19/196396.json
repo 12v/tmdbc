@@ -1,0 +1,29 @@
+{
+  "id": 196396,
+  "title": "The Witch",
+  "original_title": "La F\u00e9e Carabosse ou le poignard fatal",
+  "release_date": "1906-11-06",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

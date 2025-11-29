@@ -1,0 +1,29 @@
+{
+  "id": 29270,
+  "title": "A Time for Drunken Horses",
+  "original_title": "Zamani baray\u00e9 masti asbha",
+  "release_date": "2000-09-13",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

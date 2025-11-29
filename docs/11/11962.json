@@ -1,0 +1,29 @@
+{
+  "id": 11962,
+  "title": "Joe's Apartment",
+  "original_title": "Joe's Apartment",
+  "release_date": "1996-07-26",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

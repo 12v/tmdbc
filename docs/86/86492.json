@@ -1,0 +1,29 @@
+{
+  "id": 86492,
+  "title": "Winterbeast",
+  "original_title": "Winterbeast",
+  "release_date": "1992-05-08",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

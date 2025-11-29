@@ -1,0 +1,29 @@
+{
+  "id": 550201,
+  "title": "The Pool",
+  "original_title": "The Pool \u0e19\u0e23\u0e01 6 \u0e40\u0e21\u0e15\u0e23",
+  "release_date": "2018-09-27",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

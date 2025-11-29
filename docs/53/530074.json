@@ -1,0 +1,25 @@
+{
+  "id": 530074,
+  "title": "A Self-Induced Hallucination",
+  "original_title": "A Self-Induced Hallucination",
+  "release_date": "2018-06-13",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 291157,
+  "title": "Khoobsurat",
+  "original_title": "\u0916\u0942\u092c\u0938\u0942\u0930\u0924",
+  "release_date": "2014-09-19",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 4823,
+  "title": "Final Analysis",
+  "original_title": "Final Analysis",
+  "release_date": "1992-02-07",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

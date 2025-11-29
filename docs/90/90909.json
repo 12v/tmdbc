@@ -1,0 +1,25 @@
+{
+  "id": 90909,
+  "title": "Sisyphus",
+  "original_title": "Sisyphus",
+  "release_date": "1974-10-01",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

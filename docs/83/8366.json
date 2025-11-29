@@ -1,0 +1,33 @@
+{
+  "id": 8366,
+  "title": "Manitou's Shoe",
+  "original_title": "Der Schuh des Manitu",
+  "release_date": "2001-07-11",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

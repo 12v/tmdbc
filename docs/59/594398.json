@@ -1,0 +1,25 @@
+{
+  "id": 594398,
+  "title": "Mio on the Shore",
+  "original_title": "\u308f\u305f\u3057\u306f\u5149\u3092\u306b\u304e\u3063\u3066\u3044\u308b",
+  "release_date": "2019-11-15",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

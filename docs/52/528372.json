@@ -1,0 +1,29 @@
+{
+  "id": 528372,
+  "title": "Muslum",
+  "original_title": "M\u00fcsl\u00fcm",
+  "release_date": "2018-10-26",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

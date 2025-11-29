@@ -1,0 +1,25 @@
+{
+  "id": 517815,
+  "title": "The Girl and the Spider",
+  "original_title": "Das M\u00e4dchen und die Spinne",
+  "release_date": "2021-05-13",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

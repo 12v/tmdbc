@@ -1,0 +1,29 @@
+{
+  "id": 86990,
+  "title": "Let There Be Light",
+  "original_title": "Let There Be Light",
+  "release_date": "1946-12-16",
+  "status": "Released",
+  "runtime": 58,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

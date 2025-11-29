@@ -1,0 +1,33 @@
+{
+  "id": 90277,
+  "title": "The Little Mermaid",
+  "original_title": "\u0420\u0443\u0441\u0430\u043b\u043e\u0447\u043a\u0430",
+  "release_date": "1968-06-19",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

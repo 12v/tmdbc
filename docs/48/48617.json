@@ -1,0 +1,31 @@
+{
+  "id": 48617,
+  "title": "Father and Daughter",
+  "original_title": "Father and Daughter",
+  "release_date": "2001-04-19",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "GB",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

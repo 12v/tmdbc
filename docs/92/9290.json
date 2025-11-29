@@ -1,0 +1,30 @@
+{
+  "id": 9290,
+  "title": "Crocodile Dundee in Los Angeles",
+  "original_title": "Crocodile Dundee in Los Angeles",
+  "release_date": "2001-04-12",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

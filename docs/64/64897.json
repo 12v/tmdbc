@@ -1,0 +1,29 @@
+{
+  "id": 64897,
+  "title": "Stormy Waters",
+  "original_title": "Remorques",
+  "release_date": "1941-11-27",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 80557,
+  "title": "Family Diary",
+  "original_title": "Cronaca familiare",
+  "release_date": "1962-09-28",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

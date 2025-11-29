@@ -1,0 +1,29 @@
+{
+  "id": 59964,
+  "title": "Cabin in the Sky",
+  "original_title": "Cabin in the Sky",
+  "release_date": "1943-03-24",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

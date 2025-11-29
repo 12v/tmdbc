@@ -1,0 +1,25 @@
+{
+  "id": 480488,
+  "title": "The Eternal Feminine",
+  "original_title": "Los adioses",
+  "release_date": "2017-10-27",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 951036,
+  "title": "Queendom",
+  "original_title": "Queendom",
+  "release_date": "2023-12-01",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

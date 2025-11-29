@@ -1,0 +1,29 @@
+{
+  "id": 73714,
+  "title": "Franz Kafka's a Country Doctor",
+  "original_title": "\u30ab\u30d5\u30ab \u7530\u820e\u533b\u8005",
+  "release_date": "2007-11-17",
+  "status": "Released",
+  "runtime": 21,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

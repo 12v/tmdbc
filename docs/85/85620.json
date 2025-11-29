@@ -1,0 +1,29 @@
+{
+  "id": 85620,
+  "title": "Blood and Roses",
+  "original_title": "Et mourir de plaisir",
+  "release_date": "1960-09-14",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

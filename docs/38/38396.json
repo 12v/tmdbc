@@ -1,0 +1,25 @@
+{
+  "id": 38396,
+  "title": "That's Life",
+  "original_title": "Cos\u00ec \u00e8 la vita",
+  "release_date": "1998-12-18",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

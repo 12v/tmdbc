@@ -1,0 +1,30 @@
+{
+  "id": 128395,
+  "title": "Emita\u00ef",
+  "original_title": "Emita\u00ef",
+  "release_date": "1973-02-09",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "wo",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Wolof",
+      "iso_639_1": "wo",
+      "name": "Wolof"
+    }
+  ],
+  "origin_country": [
+    "SN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

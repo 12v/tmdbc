@@ -1,0 +1,33 @@
+{
+  "id": 11845,
+  "title": "Intimacy",
+  "original_title": "Intimacy",
+  "release_date": "2001-01-20",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

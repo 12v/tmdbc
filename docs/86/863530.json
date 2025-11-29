@@ -1,0 +1,38 @@
+{
+  "id": 863530,
+  "title": "Thallumaala",
+  "original_title": "\u0d24\u0d32\u0d4d\u0d32\u0d41\u0d2e\u0d3e\u0d32",
+  "release_date": "2022-08-12",
+  "status": "Released",
+  "runtime": 146,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

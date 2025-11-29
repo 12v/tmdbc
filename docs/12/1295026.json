@@ -1,0 +1,29 @@
+{
+  "id": 1295026,
+  "title": "100 METERS",
+  "original_title": "\u3072\u3083\u304f\u3048\u3080\u3002",
+  "release_date": "2025-09-19",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

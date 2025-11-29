@@ -1,0 +1,29 @@
+{
+  "id": 893372,
+  "title": "Driving Madeleine",
+  "original_title": "Une belle course",
+  "release_date": "2022-09-21",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 39029,
+  "title": "Kill!",
+  "original_title": "\u65ac\u308b",
+  "release_date": "1968-06-22",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

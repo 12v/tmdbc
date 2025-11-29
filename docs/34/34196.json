@@ -1,0 +1,33 @@
+{
+  "id": 34196,
+  "title": "God Is Brazilian",
+  "original_title": "Deus \u00e9 Brasileiro",
+  "release_date": "2003-01-31",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

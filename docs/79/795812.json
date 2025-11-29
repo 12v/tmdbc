@@ -1,0 +1,25 @@
+{
+  "id": 795812,
+  "title": "Mr. Bachmann and His Class",
+  "original_title": "Herr Bachmann und seine Klasse",
+  "release_date": "2021-09-16",
+  "status": "Released",
+  "runtime": 217,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

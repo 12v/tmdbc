@@ -1,0 +1,25 @@
+{
+  "id": 372962,
+  "title": "Mai-chan's Daily Life",
+  "original_title": "\u307e\u3044\u3061\u3083\u3093\u306e\u65e5\u5e38",
+  "release_date": "2014-11-29",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

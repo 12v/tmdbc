@@ -1,0 +1,34 @@
+{
+  "id": 1217392,
+  "title": "Curry & Cyanide: The Jolly Joseph Case",
+  "original_title": "Curry & Cyanide: The Jolly Joseph Case",
+  "release_date": "2023-12-22",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1016767,
+  "title": "Bittersweet Rain",
+  "original_title": "Saudade fez Morada aqui Dentro",
+  "release_date": "2023-10-10",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

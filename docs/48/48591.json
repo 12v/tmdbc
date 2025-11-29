@@ -1,0 +1,25 @@
+{
+  "id": 48591,
+  "title": "The Oyster Princess",
+  "original_title": "Die Austernprinzessin",
+  "release_date": "1919-06-26",
+  "status": "Released",
+  "runtime": 58,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

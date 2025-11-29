@@ -1,0 +1,25 @@
+{
+  "id": 555795,
+  "title": "This Is Not Berlin",
+  "original_title": "Esto no es Berl\u00edn",
+  "release_date": "2019-06-21",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

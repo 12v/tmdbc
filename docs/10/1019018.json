@@ -1,0 +1,25 @@
+{
+  "id": 1019018,
+  "title": "Heck",
+  "original_title": "Heck",
+  "release_date": "2020-07-08",
+  "status": "Released",
+  "runtime": 29,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

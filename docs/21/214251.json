@@ -1,0 +1,29 @@
+{
+  "id": 214251,
+  "title": "Story of My Death",
+  "original_title": "Hist\u00f2ria de la meva mort",
+  "release_date": "2013-10-23",
+  "status": "Released",
+  "runtime": 148,
+  "original_language": "ca",
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

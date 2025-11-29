@@ -1,0 +1,25 @@
+{
+  "id": 42695,
+  "title": "I Am Curious (Yellow)",
+  "original_title": "Jag \u00e4r nyfiken - en film i gult",
+  "release_date": "1967-03-10",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

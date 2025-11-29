@@ -1,0 +1,40 @@
+{
+  "id": 1175235,
+  "title": "Riverboom",
+  "original_title": "Riverboom",
+  "release_date": "2024-09-25",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Pushto",
+      "iso_639_1": "ps",
+      "name": "\u067e\u069a\u062a\u0648"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "AF",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

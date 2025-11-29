@@ -1,0 +1,29 @@
+{
+  "id": 40980,
+  "title": "Heroes of the East",
+  "original_title": "\u4e2d\u83ef\u4e08\u592b",
+  "release_date": "1978-12-30",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

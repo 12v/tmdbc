@@ -1,0 +1,26 @@
+{
+  "id": 1208758,
+  "title": "The Best Mother in the World",
+  "original_title": "A Melhor M\u00e3e do Mundo",
+  "release_date": "2025-08-07",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

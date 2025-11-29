@@ -1,0 +1,37 @@
+{
+  "id": 1314784,
+  "title": "Hridayapoorvam",
+  "original_title": "\u0d39\u0d43\u0d26\u0d2f\u0d2a\u0d42\u0d30\u0d4d\u200d\u0d35\u0d4d\u0d35\u0d02",
+  "release_date": "2025-08-28",
+  "status": "Released",
+  "runtime": 151,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

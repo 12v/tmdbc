@@ -1,0 +1,29 @@
+{
+  "id": 1262684,
+  "title": "Meninas N\u00e3o Choram",
+  "original_title": "Meninas N\u00e3o Choram",
+  "release_date": "2024-04-30",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

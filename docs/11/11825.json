@@ -1,0 +1,29 @@
+{
+  "id": 11825,
+  "title": "Police Academy 5: Assignment Miami Beach",
+  "original_title": "Police Academy 5: Assignment Miami Beach",
+  "release_date": "1988-03-17",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

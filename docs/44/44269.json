@@ -1,0 +1,25 @@
+{
+  "id": 44269,
+  "title": "All That Glitters",
+  "original_title": "Tout ce qui Brille",
+  "release_date": "2010-03-24",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 167267,
+  "title": "The Structure of Crystal",
+  "original_title": "Struktura kryszta\u0142u",
+  "release_date": "1969-10-14",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

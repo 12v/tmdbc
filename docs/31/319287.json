@@ -1,0 +1,29 @@
+{
+  "id": 319287,
+  "title": "Fant\u00f4mas",
+  "original_title": "Fant\u00f4mas",
+  "release_date": "1913-05-09",
+  "status": "Released",
+  "runtime": 339,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

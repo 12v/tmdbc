@@ -1,0 +1,29 @@
+{
+  "id": 1077877,
+  "title": "Shadow of Fire",
+  "original_title": "\u307b\u304b\u3052",
+  "release_date": "2023-11-25",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

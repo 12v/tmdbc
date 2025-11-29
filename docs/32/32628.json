@@ -1,0 +1,25 @@
+{
+  "id": 32628,
+  "title": "Three Ages",
+  "original_title": "Three Ages",
+  "release_date": "1923-09-24",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

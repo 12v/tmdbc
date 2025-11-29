@@ -1,0 +1,29 @@
+{
+  "id": 115018,
+  "title": "The Vampire Doll",
+  "original_title": "\u5e7d\u970a\u5c4b\u6577\u306e\u6050\u6016 \u8840\u3092\u5438\u3046\u4eba\u5f62",
+  "release_date": "1970-07-04",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

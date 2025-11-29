@@ -1,0 +1,33 @@
+{
+  "id": 1058662,
+  "title": "In My Mother's Skin",
+  "original_title": "In My Mother's Skin",
+  "release_date": "2023-01-20",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

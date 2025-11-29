@@ -1,0 +1,25 @@
+{
+  "id": 927998,
+  "title": "Geographies of Solitude",
+  "original_title": "Geographies of Solitude",
+  "release_date": "2022-02-17",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

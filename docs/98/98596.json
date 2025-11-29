@@ -1,0 +1,25 @@
+{
+  "id": 98596,
+  "title": "Overdose",
+  "original_title": "El pico",
+  "release_date": "1983-09-04",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 843024,
+  "title": "All the Crows in the World",
+  "original_title": "\u5929\u4e0b\u70cf\u9d09",
+  "release_date": "2021-06-13",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

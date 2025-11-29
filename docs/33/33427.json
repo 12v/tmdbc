@@ -1,0 +1,35 @@
+{
+  "id": 33427,
+  "title": "LEGO: The Adventures of Clutch Powers",
+  "original_title": "LEGO: The Adventures of Clutch Powers",
+  "release_date": "2010-05-28",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

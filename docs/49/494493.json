@@ -1,0 +1,25 @@
+{
+  "id": 494493,
+  "title": "The Beachnickers",
+  "original_title": "Os Farofeiros",
+  "release_date": "2018-03-08",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

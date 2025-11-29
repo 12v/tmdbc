@@ -1,0 +1,38 @@
+{
+  "id": 780154,
+  "title": "All My Friends Are Dead",
+  "original_title": "Wszyscy moi przyjaciele nie \u017cyj\u0105",
+  "release_date": "2020-12-28",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

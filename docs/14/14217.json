@@ -1,0 +1,29 @@
+{
+  "id": 14217,
+  "title": "Reincarnation",
+  "original_title": "\u8f2a\u5efb",
+  "release_date": "2005-10-27",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

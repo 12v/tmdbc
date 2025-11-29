@@ -1,0 +1,26 @@
+{
+  "id": 42603,
+  "title": "Valentino",
+  "original_title": "Valentino",
+  "release_date": "1977-09-07",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

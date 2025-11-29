@@ -1,0 +1,33 @@
+{
+  "id": 90034,
+  "title": "The Tale of the Fox",
+  "original_title": "Le Roman de Renard",
+  "release_date": "1941-04-10",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

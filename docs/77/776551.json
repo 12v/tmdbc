@@ -1,0 +1,32 @@
+{
+  "id": 776551,
+  "title": "Faya Dayi",
+  "original_title": "Faya Dayi",
+  "release_date": "2021-09-03",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "om",
+  "spoken_languages": [
+    {
+      "english_name": "Amharic",
+      "iso_639_1": "am",
+      "name": ""
+    },
+    {
+      "english_name": "Oromo",
+      "iso_639_1": "om",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ET",
+    "QA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

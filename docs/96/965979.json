@@ -1,0 +1,33 @@
+{
+  "id": 965979,
+  "title": "Dada",
+  "original_title": "\u0b9f\u0bbe\u0b9f\u0bbe",
+  "release_date": "2023-02-10",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

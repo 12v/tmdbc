@@ -1,0 +1,25 @@
+{
+  "id": 88591,
+  "title": "Luc\u00eda",
+  "original_title": "Luc\u00eda",
+  "release_date": "1968-10-01",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

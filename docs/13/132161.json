@@ -1,0 +1,25 @@
+{
+  "id": 132161,
+  "title": "Hapax Legomena I: Nostalgia",
+  "original_title": "Hapax Legomena I: Nostalgia",
+  "release_date": "1971-11-20",
+  "status": "Released",
+  "runtime": 36,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

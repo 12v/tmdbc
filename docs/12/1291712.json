@@ -1,0 +1,31 @@
+{
+  "id": 1291712,
+  "title": "The Tasters",
+  "original_title": "Le assaggiatrici",
+  "release_date": "2025-03-27",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "CH",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

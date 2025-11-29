@@ -1,0 +1,29 @@
+{
+  "id": 11546,
+  "title": "Police Academy: Mission to Moscow",
+  "original_title": "Police Academy: Mission to Moscow",
+  "release_date": "1994-06-09",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

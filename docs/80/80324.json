@@ -1,0 +1,29 @@
+{
+  "id": 80324,
+  "title": "Innocent Sorcerers",
+  "original_title": "Niewinni czarodzieje",
+  "release_date": "1960-12-17",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 49035,
+  "title": "Alaipayuthey",
+  "original_title": "\u0b85\u0bb2\u0bc8\u0baa\u0bbe\u0baf\u0bc1\u0ba4\u0bc7",
+  "release_date": "2000-04-14",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

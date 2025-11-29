@@ -1,0 +1,29 @@
+{
+  "id": 34549,
+  "title": "Max Keeble's Big Move",
+  "original_title": "Max Keeble's Big Move",
+  "release_date": "2001-10-05",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

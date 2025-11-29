@@ -1,0 +1,30 @@
+{
+  "id": 1429834,
+  "title": "Almost Family",
+  "original_title": "Fam\u00edlia, Pero no Mucho",
+  "release_date": "2025-07-17",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

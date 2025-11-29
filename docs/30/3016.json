@@ -1,0 +1,33 @@
+{
+  "id": 3016,
+  "title": "Dr. Jekyll and Mr. Hyde",
+  "original_title": "Dr. Jekyll and Mr. Hyde",
+  "release_date": "1920-03-18",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

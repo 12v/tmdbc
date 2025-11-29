@@ -1,0 +1,38 @@
+{
+  "id": 148284,
+  "title": "Enthiran",
+  "original_title": "\u0b8e\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba9\u0bcd",
+  "release_date": "2010-10-01",
+  "status": "Released",
+  "runtime": 176,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

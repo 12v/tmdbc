@@ -1,0 +1,33 @@
+{
+  "id": 1210794,
+  "title": "Trouble",
+  "original_title": "Strul",
+  "release_date": "2024-10-02",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

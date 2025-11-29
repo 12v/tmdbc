@@ -1,0 +1,39 @@
+{
+  "id": 10690,
+  "title": "Space Truckers",
+  "original_title": "Space Truckers",
+  "release_date": "1996-10-04",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IE",
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 36231,
+  "title": "Guinea Pig Part 4: Devil Doctor Woman",
+  "original_title": "\u30ae\u30cb\u30fc\u30d4\u30c3\u30b04 \u30d4\u30fc\u30bf\u30fc\u306e\u60aa\u9b54\u306e\u5973\u533b\u3055\u3093",
+  "release_date": "1986-09-10",
+  "status": "Released",
+  "runtime": 48,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 396485,
+  "title": "A. K.",
+  "original_title": "A. K.",
+  "release_date": "1985-05-20",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

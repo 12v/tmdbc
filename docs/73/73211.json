@@ -1,0 +1,37 @@
+{
+  "id": 73211,
+  "title": "King of Devil's Island",
+  "original_title": "Kongen av Bast\u00f8y",
+  "release_date": "2010-12-16",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "PL",
+    "NO",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

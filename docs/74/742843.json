@@ -1,0 +1,31 @@
+{
+  "id": 742843,
+  "title": "Affairs of the Art",
+  "original_title": "Affairs of the Art",
+  "release_date": "2021-01-29",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

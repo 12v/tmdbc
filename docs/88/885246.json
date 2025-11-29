@@ -1,0 +1,26 @@
+{
+  "id": 885246,
+  "title": "Skunk",
+  "original_title": "Skunk",
+  "release_date": "2024-03-13",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

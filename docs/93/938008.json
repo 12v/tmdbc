@@ -1,0 +1,33 @@
+{
+  "id": 938008,
+  "title": "The Killer",
+  "original_title": "\ub354 \ud0ac\ub7ec: \uc8fd\uc5b4\ub3c4 \ub418\ub294 \uc544\uc774",
+  "release_date": "2022-07-13",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

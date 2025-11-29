@@ -1,0 +1,37 @@
+{
+  "id": 46921,
+  "title": "The Cat with Hands",
+  "original_title": "The Cat with Hands",
+  "release_date": "2001-06-01",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

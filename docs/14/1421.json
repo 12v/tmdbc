@@ -1,0 +1,33 @@
+{
+  "id": 1421,
+  "title": "The Man Who Loved Women",
+  "original_title": "L'Homme qui aimait les femmes",
+  "release_date": "1977-04-27",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

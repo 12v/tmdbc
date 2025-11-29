@@ -1,0 +1,30 @@
+{
+  "id": 1231035,
+  "title": "Gloria!",
+  "original_title": "Gloria!",
+  "release_date": "2024-04-11",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

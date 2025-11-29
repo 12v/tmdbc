@@ -1,0 +1,34 @@
+{
+  "id": 20567,
+  "title": "Sex and Fury",
+  "original_title": "\u4e0d\u826f\u59d0\u5fa1\u4f1d\u3000\u732a\u306e\u9e7f\u304a\u8776",
+  "release_date": "1973-02-17",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

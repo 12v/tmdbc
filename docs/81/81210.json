@@ -1,0 +1,29 @@
+{
+  "id": 81210,
+  "title": "Aniki-B\u00f3b\u00f3",
+  "original_title": "Aniki-B\u00f3b\u00f3",
+  "release_date": "1942-12-18",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

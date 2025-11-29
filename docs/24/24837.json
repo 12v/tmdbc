@@ -1,0 +1,25 @@
+{
+  "id": 24837,
+  "title": "August Underground's Mordum",
+  "original_title": "August Underground's Mordum",
+  "release_date": "2003-01-01",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

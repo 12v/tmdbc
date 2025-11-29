@@ -1,0 +1,33 @@
+{
+  "id": 719232,
+  "title": "Digital Video Editing with Adobe Premiere Pro: The Real-World Guide to Set Up and Workflow",
+  "original_title": "\uadf8\ub140\ub97c \uc9c0\uc6b0\ub294 \uc2dc\uac04",
+  "release_date": "2020-05-28",
+  "status": "Released",
+  "runtime": 40,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

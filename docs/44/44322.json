@@ -1,0 +1,25 @@
+{
+  "id": 44322,
+  "title": "East Palace, West Palace",
+  "original_title": "\u4e1c\u5bab\u897f\u5bab",
+  "release_date": "1996-11-11",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 256379,
+  "title": "Kummatty",
+  "original_title": "\u0d15\u0d41\u0d2e\u0d4d\u0d2e\u0d3e\u0d1f\u0d4d\u0d1f\u0d3f",
+  "release_date": "1979-07-12",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

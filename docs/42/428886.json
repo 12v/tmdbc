@@ -1,0 +1,26 @@
+{
+  "id": 428886,
+  "title": "England Is Mine",
+  "original_title": "England Is Mine",
+  "release_date": "2017-08-04",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

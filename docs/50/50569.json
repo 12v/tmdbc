@@ -1,0 +1,33 @@
+{
+  "id": 50569,
+  "title": "The Boxer from Shantung",
+  "original_title": "\u99ac\u6c38\u8c9e",
+  "release_date": "1972-02-11",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 83223,
+  "title": "Rats: Night of Terror",
+  "original_title": "Rats - Notte di terrore",
+  "release_date": "1984-08-03",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

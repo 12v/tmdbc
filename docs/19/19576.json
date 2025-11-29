@@ -1,0 +1,41 @@
+{
+  "id": 19576,
+  "title": "One Piece: The Movie",
+  "original_title": "\u30ef\u30f3\u30d4\u30fc\u30b9",
+  "release_date": "2000-03-04",
+  "status": "Released",
+  "runtime": 51,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

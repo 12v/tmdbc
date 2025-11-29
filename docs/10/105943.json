@@ -1,0 +1,33 @@
+{
+  "id": 105943,
+  "title": "Life Is Flashing Before Your Eyes",
+  "original_title": "Life Is Flashing Before Your Eyes",
+  "release_date": "1984-01-01",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 34019,
+  "title": "The Hidden Blade",
+  "original_title": "\u96a0\u3057\u5263 \u9b3c\u306e\u722a",
+  "release_date": "2004-10-30",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

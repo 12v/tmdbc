@@ -1,0 +1,29 @@
+{
+  "id": 985883,
+  "title": "Do Not Disturb",
+  "original_title": "Do Not Disturb",
+  "release_date": "2023-09-29",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

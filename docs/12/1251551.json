@@ -1,0 +1,33 @@
+{
+  "id": 1251551,
+  "title": "Pravinkoodu Shappu",
+  "original_title": "\u0d2a\u0d4d\u0d30\u0d3e\u0d35\u0d3f\u0d7b\u0d15\u0d42\u0d1f\u0d4d \u0d37\u0d3e\u0d2a\u0d4d\u0d2a\u0d41",
+  "release_date": "2025-01-16",
+  "status": "Released",
+  "runtime": 146,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

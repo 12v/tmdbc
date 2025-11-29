@@ -1,0 +1,29 @@
+{
+  "id": 23148,
+  "title": "Lady Sings the Blues",
+  "original_title": "Lady Sings the Blues",
+  "release_date": "1972-10-12",
+  "status": "Released",
+  "runtime": 144,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

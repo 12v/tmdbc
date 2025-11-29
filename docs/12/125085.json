@@ -1,0 +1,25 @@
+{
+  "id": 125085,
+  "title": "Murmur of Youth",
+  "original_title": "\u7f8e\u9e97\u5728\u5531\u6b4c",
+  "release_date": "1997-09-12",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

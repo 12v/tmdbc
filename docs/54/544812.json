@@ -1,0 +1,25 @@
+{
+  "id": 544812,
+  "title": "The Third Wife",
+  "original_title": "V\u1ee3 ba",
+  "release_date": "2019-01-11",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

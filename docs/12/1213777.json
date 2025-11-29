@@ -1,0 +1,29 @@
+{
+  "id": 1213777,
+  "title": "Dhadak 2",
+  "original_title": "\u0927\u0921\u093c\u0915 \u0968",
+  "release_date": "2025-08-01",
+  "status": "Released",
+  "runtime": 146,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

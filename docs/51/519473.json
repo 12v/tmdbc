@@ -1,0 +1,33 @@
+{
+  "id": 519473,
+  "title": "Nancy Drew and the Hidden Staircase",
+  "original_title": "Nancy Drew and the Hidden Staircase",
+  "release_date": "2019-03-15",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 125858,
+  "title": "tokyo.sora",
+  "original_title": "tokyo.sora",
+  "release_date": "2002-10-26",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

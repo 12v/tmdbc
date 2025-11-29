@@ -1,0 +1,33 @@
+{
+  "id": 28609,
+  "title": "Dragon Ball Z: Dead Zone",
+  "original_title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\uff3a \u30aa\u30e9\u306e\u609f\u98ef\u3092\u304b\u3048\u305b\u30c3!!",
+  "release_date": "1989-07-15",
+  "status": "Released",
+  "runtime": 41,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

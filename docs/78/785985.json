@@ -1,0 +1,29 @@
+{
+  "id": 785985,
+  "title": "The Takedown",
+  "original_title": "Loin du p\u00e9riph",
+  "release_date": "2022-05-06",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

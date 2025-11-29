@@ -1,0 +1,29 @@
+{
+  "id": 86000,
+  "title": "Always",
+  "original_title": "\uc624\uc9c1 \uadf8\ub300\ub9cc",
+  "release_date": "2011-10-20",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

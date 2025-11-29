@@ -1,0 +1,41 @@
+{
+  "id": 283589,
+  "title": "Bang Bang!",
+  "original_title": "\u092c\u0948\u0902\u0917 \u092c\u0948\u0902\u0917",
+  "release_date": "2014-10-02",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

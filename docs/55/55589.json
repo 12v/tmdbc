@@ -1,0 +1,29 @@
+{
+  "id": 55589,
+  "title": "Master of the House",
+  "original_title": "Du skal \u00e6re din hustru",
+  "release_date": "1925-10-05",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

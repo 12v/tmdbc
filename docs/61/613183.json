@@ -1,0 +1,25 @@
+{
+  "id": 613183,
+  "title": "All the Freckles in the World",
+  "original_title": "Todas las pecas del mundo",
+  "release_date": "2019-09-27",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

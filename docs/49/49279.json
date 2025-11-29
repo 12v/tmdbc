@@ -1,0 +1,29 @@
+{
+  "id": 49279,
+  "title": "The Man with the Rubber Head",
+  "original_title": "L'Homme \u00e0 la t\u00eate de caoutchouc",
+  "release_date": "1901-12-01",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

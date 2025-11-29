@@ -1,0 +1,25 @@
+{
+  "id": 918044,
+  "title": "Winter Boy",
+  "original_title": "Le lyc\u00e9en",
+  "release_date": "2022-11-30",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

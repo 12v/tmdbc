@@ -1,0 +1,29 @@
+{
+  "id": 25939,
+  "title": "Passenger",
+  "original_title": "Pasa\u017cerka",
+  "release_date": "1963-09-20",
+  "status": "Released",
+  "runtime": 62,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

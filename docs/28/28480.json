@@ -1,0 +1,33 @@
+{
+  "id": 28480,
+  "title": "Phantom",
+  "original_title": "Phantom",
+  "release_date": "1922-11-13",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

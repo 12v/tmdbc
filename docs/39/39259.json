@@ -1,0 +1,25 @@
+{
+  "id": 39259,
+  "title": "Dr\u00e1cula",
+  "original_title": "Dr\u00e1cula",
+  "release_date": "1931-03-11",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 607383,
+  "title": "AquaSlash",
+  "original_title": "AquaSlash",
+  "release_date": "2019-07-29",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

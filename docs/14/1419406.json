@@ -1,0 +1,34 @@
+{
+  "id": 1419406,
+  "title": "The Shadow's Edge",
+  "original_title": "\u6355\u98ce\u8ffd\u5f71",
+  "release_date": "2025-08-16",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

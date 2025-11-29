@@ -1,0 +1,25 @@
+{
+  "id": 588154,
+  "title": "Noah Land",
+  "original_title": "Nuh Tepesi",
+  "release_date": "2019-09-29",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

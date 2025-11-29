@@ -1,0 +1,34 @@
+{
+  "id": 1037264,
+  "title": "The Disappearance of Josef Mengele",
+  "original_title": "Das Verschwinden des Josef Mengele",
+  "release_date": "2025-10-16",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 519106,
+  "title": "The Trouble with You",
+  "original_title": "En libert\u00e9 !",
+  "release_date": "2018-10-06",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

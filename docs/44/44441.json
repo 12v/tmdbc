@@ -1,0 +1,25 @@
+{
+  "id": 44441,
+  "title": "Different from the Others",
+  "original_title": "Anders als die Andern",
+  "release_date": "1919-05-28",
+  "status": "Released",
+  "runtime": 51,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

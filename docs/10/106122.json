@@ -1,0 +1,29 @@
+{
+  "id": 106122,
+  "title": "A Ship to India",
+  "original_title": "Skepp till Indialand",
+  "release_date": "1947-09-22",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

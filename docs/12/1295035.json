@@ -1,0 +1,26 @@
+{
+  "id": 1295035,
+  "title": "Super Happy Forever",
+  "original_title": "Super Happy Forever",
+  "release_date": "2025-01-27",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

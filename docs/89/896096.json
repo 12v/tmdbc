@@ -1,0 +1,25 @@
+{
+  "id": 896096,
+  "title": "The Mysterious Gaze of the Flamingo",
+  "original_title": "La misteriosa mirada del flamenco",
+  "release_date": "2025-09-11",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 532067,
+  "title": "KONOSUBA \u2013 God's blessing on this wonderful world! Legend of Crimson",
+  "original_title": "\u6620\u753b \u3053\u306e\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c\u306b\u795d\u798f\u3092\uff01\u7d05\u4f1d\u8aac",
+  "release_date": "2019-08-30",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 46982,
+  "title": "Black Peter",
+  "original_title": "\u010cern\u00fd Petr",
+  "release_date": "1964-04-17",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

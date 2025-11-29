@@ -1,0 +1,26 @@
+{
+  "id": 1015356,
+  "title": "To Kill a Tiger",
+  "original_title": "To Kill a Tiger",
+  "release_date": "2023-10-20",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

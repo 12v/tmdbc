@@ -1,0 +1,31 @@
+{
+  "id": 34899,
+  "title": "The Vertical Ray of the Sun",
+  "original_title": "M\u00f9a h\u00e8 chi\u1ec1u th\u1eb3ng \u0111\u1ee9ng",
+  "release_date": "2000-05-17",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "FR",
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

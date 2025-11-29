@@ -1,0 +1,29 @@
+{
+  "id": 747225,
+  "title": "Bleat",
+  "original_title": "\u0392\u03bb\u03b7\u03c7\u03ae",
+  "release_date": "2022-05-06",
+  "status": "Released",
+  "runtime": 30,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

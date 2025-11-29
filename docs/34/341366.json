@@ -1,0 +1,31 @@
+{
+  "id": 341366,
+  "title": "Sherpa",
+  "original_title": "Sherpa",
+  "release_date": "2015-10-02",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Nepali",
+      "iso_639_1": "ne",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

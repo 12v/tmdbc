@@ -1,0 +1,37 @@
+{
+  "id": 51942,
+  "title": "I Married a Strange Person!",
+  "original_title": "I Married a Strange Person!",
+  "release_date": "1998-08-28",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

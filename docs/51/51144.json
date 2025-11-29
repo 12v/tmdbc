@@ -1,0 +1,25 @@
+{
+  "id": 51144,
+  "title": "Torment",
+  "original_title": "Hets",
+  "release_date": "1944-10-02",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

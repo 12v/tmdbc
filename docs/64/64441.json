@@ -1,0 +1,34 @@
+{
+  "id": 64441,
+  "title": "Three Crowns of the Sailor",
+  "original_title": "Les Trois couronnes du matelot",
+  "release_date": "1991-10-04",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 872954,
+  "title": "The Old Way",
+  "original_title": "The Old Way",
+  "release_date": "2023-01-06",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 536115,
+  "title": "Godzilla: The Planet Eater",
+  "original_title": "GODZILLA \u661f\u3092\u55b0\u3046\u8005",
+  "release_date": "2018-11-09",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ja",
+  "spoken_languages": [],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

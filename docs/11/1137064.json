@@ -1,0 +1,33 @@
+{
+  "id": 1137064,
+  "title": "Mortal World 2",
+  "original_title": "\u00d6l\u00fcml\u00fc D\u00fcnya 2",
+  "release_date": "2023-12-01",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

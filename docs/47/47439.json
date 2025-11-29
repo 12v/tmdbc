@@ -1,0 +1,25 @@
+{
+  "id": 47439,
+  "title": "Time Regained",
+  "original_title": "Le Temps retrouv\u00e9",
+  "release_date": "1999-05-19",
+  "status": "Released",
+  "runtime": 163,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

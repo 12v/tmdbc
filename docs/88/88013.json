@@ -1,0 +1,29 @@
+{
+  "id": 88013,
+  "title": "Poor Pierrot",
+  "original_title": "Pauvre Pierrot",
+  "release_date": "1892-10-28",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

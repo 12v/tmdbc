@@ -1,0 +1,29 @@
+{
+  "id": 47650,
+  "title": "Easy Street",
+  "original_title": "Easy Street",
+  "release_date": "1917-01-22",
+  "status": "Released",
+  "runtime": 26,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

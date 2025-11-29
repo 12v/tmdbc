@@ -1,0 +1,25 @@
+{
+  "id": 68637,
+  "title": "Ducoboo",
+  "original_title": "L'\u00c9l\u00e8ve Ducobu",
+  "release_date": "2011-06-22",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
