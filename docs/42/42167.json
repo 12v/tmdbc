@@ -1,0 +1,25 @@
+{
+  "id": 42167,
+  "title": "Bye Bye Brazil",
+  "original_title": "Bye Bye Brasil",
+  "release_date": "1980-02-08",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

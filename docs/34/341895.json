@@ -1,0 +1,34 @@
+{
+  "id": 341895,
+  "title": "Premam",
+  "original_title": "\u0d2a\u0d4d\u0d30\u0d47\u0d2e\u0d02",
+  "release_date": "2015-05-29",
+  "status": "Released",
+  "runtime": 157,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

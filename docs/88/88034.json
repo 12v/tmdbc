@@ -1,0 +1,29 @@
+{
+  "id": 88034,
+  "title": "The Hypothesis of the Stolen Painting",
+  "original_title": "L\u2019hypoth\u00e8se du tableau vol\u00e9",
+  "release_date": "1978-04-04",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1146577,
+  "title": "CTRL",
+  "original_title": "\u0915\u0928\u094d\u091f\u094d\u0930\u094b\u0932",
+  "release_date": "2024-10-04",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

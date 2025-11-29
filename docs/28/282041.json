@@ -1,0 +1,25 @@
+{
+  "id": 282041,
+  "title": "Electric Boogaloo: The Wild, Untold Story of Cannon Films",
+  "original_title": "Electric Boogaloo: The Wild, Untold Story of Cannon Films",
+  "release_date": "2014-10-06",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

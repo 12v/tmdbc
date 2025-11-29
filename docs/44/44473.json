@@ -1,0 +1,29 @@
+{
+  "id": 44473,
+  "title": "Entr'acte",
+  "original_title": "Entr'acte",
+  "release_date": "1924-12-04",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

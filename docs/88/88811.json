@@ -1,0 +1,29 @@
+{
+  "id": 88811,
+  "title": "Goodbye South, Goodbye",
+  "original_title": "\u5357\u570b\u518d\u898b\uff0c\u5357\u570b",
+  "release_date": "1996-05-13",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

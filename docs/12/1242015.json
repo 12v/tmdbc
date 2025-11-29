@@ -1,0 +1,26 @@
+{
+  "id": 1242015,
+  "title": "Young Mothers",
+  "original_title": "Jeunes m\u00e8res",
+  "release_date": "2025-05-23",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

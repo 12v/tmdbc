@@ -1,0 +1,37 @@
+{
+  "id": 20981,
+  "title": "The Call of Cthulhu",
+  "original_title": "The Call of Cthulhu",
+  "release_date": "2006-04-03",
+  "status": "Released",
+  "runtime": 47,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

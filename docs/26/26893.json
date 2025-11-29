@@ -1,0 +1,25 @@
+{
+  "id": 26893,
+  "title": "The Lower Depths",
+  "original_title": "\u3069\u3093\u5e95",
+  "release_date": "1957-10-01",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

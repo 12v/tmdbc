@@ -1,0 +1,33 @@
+{
+  "id": 664594,
+  "title": "Kill It and Leave This Town",
+  "original_title": "Zabij to i wyjed\u017a z tego miasta",
+  "release_date": "2020-11-27",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

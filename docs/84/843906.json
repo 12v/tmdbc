@@ -1,0 +1,29 @@
+{
+  "id": 843906,
+  "title": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+  "original_title": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+  "release_date": "2021-09-14",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 43339,
+  "title": "Twenty-Four Eyes",
+  "original_title": "\u4e8c\u5341\u56db\u306e\u77b3",
+  "release_date": "1954-09-15",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

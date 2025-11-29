@@ -1,0 +1,25 @@
+{
+  "id": 54400,
+  "title": "Wax, or The Discovery of Television Among the Bees",
+  "original_title": "Wax, or The Discovery of Television Among the Bees",
+  "release_date": "1991-10-21",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

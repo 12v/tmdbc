@@ -1,0 +1,33 @@
+{
+  "id": 123839,
+  "title": "Wolf's Hole",
+  "original_title": "Vl\u010d\u00ed bouda",
+  "release_date": "1987-06-01",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

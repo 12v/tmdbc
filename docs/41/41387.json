@@ -1,0 +1,34 @@
+{
+  "id": 41387,
+  "title": "From Beijing with Love",
+  "original_title": "\u570b\u7522\u51cc\u51cc\u6f06",
+  "release_date": "1994-10-13",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

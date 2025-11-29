@@ -1,11 +1,11 @@
 {
-  "id": 719410,
-  "title": "Your Name Engraved Herein",
-  "original_title": "\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57",
-  "release_date": "2020-09-30",
+  "id": 1364297,
+  "title": "Bunnylovr",
+  "original_title": "Bunnylovr",
+  "release_date": "2025-01-25",
   "status": "Released",
-  "runtime": 115,
-  "original_language": "zh",
+  "runtime": 86,
+  "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "Mandarin",
@@ -19,14 +19,9 @@
     }
   ],
   "origin_country": [
-    "TW",
     "US"
   ],
   "genres": [
-    {
-      "id": 10749,
-      "name": "Romance"
-    },
     {
       "id": 18,
       "name": "Drama"

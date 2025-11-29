@@ -1,0 +1,29 @@
+{
+  "id": 124088,
+  "title": "Just Another Girl on the I.R.T.",
+  "original_title": "Just Another Girl on the I.R.T.",
+  "release_date": "1993-03-19",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

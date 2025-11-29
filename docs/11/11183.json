@@ -1,0 +1,25 @@
+{
+  "id": 11183,
+  "title": "French Fried Vacation",
+  "original_title": "Les Bronz\u00e9s",
+  "release_date": "1978-11-11",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

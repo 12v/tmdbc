@@ -1,0 +1,29 @@
+{
+  "id": 45967,
+  "title": "One Wonderful Sunday",
+  "original_title": "\u7d20\u6674\u3089\u3057\u304d\u65e5\u66dc\u65e5",
+  "release_date": "1947-07-01",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

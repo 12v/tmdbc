@@ -1,0 +1,31 @@
+{
+  "id": 64252,
+  "title": "Fruits of Passion",
+  "original_title": "Les Fruits de la passion",
+  "release_date": "1981-06-03",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

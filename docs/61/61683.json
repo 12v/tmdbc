@@ -1,0 +1,29 @@
+{
+  "id": 61683,
+  "title": "Don't Deliver Us from Evil",
+  "original_title": "Mais ne nous delivrez pas du mal",
+  "release_date": "1971-10-13",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

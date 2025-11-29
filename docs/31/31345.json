@@ -1,0 +1,25 @@
+{
+  "id": 31345,
+  "title": "Naked Childhood",
+  "original_title": "L'Enfance nue",
+  "release_date": "1969-01-22",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

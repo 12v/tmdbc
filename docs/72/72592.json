@@ -1,0 +1,29 @@
+{
+  "id": 72592,
+  "title": "Honey and Clover",
+  "original_title": "\u30cf\u30c1\u30df\u30c4\u3068\u30af\u30ed\u30fc\u30d0\u30fc",
+  "release_date": "2006-07-22",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

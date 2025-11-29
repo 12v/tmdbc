@@ -1,0 +1,29 @@
+{
+  "id": 28974,
+  "title": "A Woman of Paris: A Drama of Fate",
+  "original_title": "A Woman of Paris: A Drama of Fate",
+  "release_date": "1923-10-01",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

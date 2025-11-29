@@ -1,0 +1,33 @@
+{
+  "id": 524738,
+  "title": "May the Devil Take You",
+  "original_title": "Sebelum Iblis Menjemput",
+  "release_date": "2018-08-09",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

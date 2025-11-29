@@ -1,0 +1,25 @@
+{
+  "id": 215743,
+  "title": "Moebius",
+  "original_title": "\ubafc\ube44\uc6b0\uc2a4",
+  "release_date": "2013-09-05",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

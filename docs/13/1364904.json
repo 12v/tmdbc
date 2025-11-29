@@ -1,0 +1,41 @@
+{
+  "id": 1364904,
+  "title": "A Useful Ghost",
+  "original_title": "\u0e1c\u0e35\u0e43\u0e0a\u0e49\u0e44\u0e14\u0e49\u0e04\u0e48\u0e30",
+  "release_date": "2025-08-27",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "DE",
+    "SG",
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

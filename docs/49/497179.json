@@ -1,0 +1,33 @@
+{
+  "id": 497179,
+  "title": "Stranger in My Pocket",
+  "original_title": "Cebimdeki Yabanc\u0131",
+  "release_date": "2018-02-02",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

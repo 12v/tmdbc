@@ -1,0 +1,30 @@
+{
+  "id": 66557,
+  "title": "Malina",
+  "original_title": "Malina",
+  "release_date": "1991-01-17",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

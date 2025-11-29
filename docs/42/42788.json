@@ -1,0 +1,29 @@
+{
+  "id": 42788,
+  "title": "Before the Revolution",
+  "original_title": "Prima della rivoluzione",
+  "release_date": "1964-05-13",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

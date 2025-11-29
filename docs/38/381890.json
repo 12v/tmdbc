@@ -1,0 +1,33 @@
+{
+  "id": 381890,
+  "title": "The Mermaid",
+  "original_title": "\u7f8e\u4eba\u9c7c",
+  "release_date": "2016-02-08",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

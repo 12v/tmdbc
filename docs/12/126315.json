@@ -1,0 +1,25 @@
+{
+  "id": 126315,
+  "title": "After Lucia",
+  "original_title": "Despu\u00e9s de Luc\u00eda",
+  "release_date": "2012-10-03",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

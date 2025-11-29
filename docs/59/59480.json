@@ -1,0 +1,33 @@
+{
+  "id": 59480,
+  "title": "Gamera 2: Attack of Legion",
+  "original_title": "\u30ac\u30e1\u30e92 \u30ec\u30ae\u30aa\u30f3\u8972\u6765",
+  "release_date": "1996-07-12",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

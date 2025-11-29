@@ -1,0 +1,25 @@
+{
+  "id": 382602,
+  "title": "Sadako vs. Kayako",
+  "original_title": "\u8c9e\u5b50vs\u4f3d\u6930\u5b50",
+  "release_date": "2016-06-18",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

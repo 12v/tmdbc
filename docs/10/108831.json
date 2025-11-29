@@ -1,0 +1,25 @@
+{
+  "id": 108831,
+  "title": "Hotel Monterey",
+  "original_title": "H\u00f4tel Monterey",
+  "release_date": "1973-09-01",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "BE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

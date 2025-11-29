@@ -1,0 +1,33 @@
+{
+  "id": 793502,
+  "title": "Dracula",
+  "original_title": "Dracula",
+  "release_date": "",
+  "status": "Rumored",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

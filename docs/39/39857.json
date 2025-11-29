@@ -1,0 +1,33 @@
+{
+  "id": 39857,
+  "title": "The Untold Story",
+  "original_title": "\u516b\u4ed9\u98ef\u5e97\u4e4b\u4eba\u8089\u53c9\u71d2\u5305",
+  "release_date": "1993-05-13",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

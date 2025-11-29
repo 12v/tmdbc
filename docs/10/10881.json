@@ -1,0 +1,30 @@
+{
+  "id": 10881,
+  "title": "Avalon",
+  "original_title": "Avalon",
+  "release_date": "2001-01-20",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "JP",
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

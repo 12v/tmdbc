@@ -1,0 +1,25 @@
+{
+  "id": 861072,
+  "title": "Don't Make Me Go",
+  "original_title": "Don't Make Me Go",
+  "release_date": "2022-06-13",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

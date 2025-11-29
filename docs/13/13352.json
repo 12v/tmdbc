@@ -1,0 +1,29 @@
+{
+  "id": 13352,
+  "title": "It's a Very Merry Muppet Christmas Movie",
+  "original_title": "It's a Very Merry Muppet Christmas Movie",
+  "release_date": "2002-11-29",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 336222,
+  "title": "Rams",
+  "original_title": "Hr\u00fatar",
+  "release_date": "2015-05-28",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "IS",
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

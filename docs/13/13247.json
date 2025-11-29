@@ -1,0 +1,37 @@
+{
+  "id": 13247,
+  "title": "A Muppet Family Christmas",
+  "original_title": "A Muppet Family Christmas",
+  "release_date": "1987-12-16",
+  "status": "Released",
+  "runtime": 47,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

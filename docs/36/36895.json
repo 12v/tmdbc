@@ -1,0 +1,25 @@
+{
+  "id": 36895,
+  "title": "Suzaku",
+  "original_title": "\u840c\u306e\u6731\u96c0",
+  "release_date": "1997-11-01",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
