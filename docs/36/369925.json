@@ -1,0 +1,33 @@
+{
+  "id": 369925,
+  "title": "Oopiri",
+  "original_title": "\u0c0a\u0c2a\u0c3f\u0c30\u0c3f",
+  "release_date": "2016-03-25",
+  "status": "Released",
+  "runtime": 158,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

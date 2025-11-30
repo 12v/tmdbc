@@ -1,0 +1,33 @@
+{
+  "id": 1387175,
+  "title": "Ex Ex Lovers",
+  "original_title": "Ex Ex Lovers",
+  "release_date": "2025-02-12",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

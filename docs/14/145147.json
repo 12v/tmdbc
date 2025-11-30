@@ -1,0 +1,25 @@
+{
+  "id": 145147,
+  "title": "The Second Circle",
+  "original_title": "\u041a\u0440\u0443\u0433 \u0432\u0442\u043e\u0440\u043e\u0439",
+  "release_date": "1990-09-11",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

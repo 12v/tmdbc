@@ -1,0 +1,27 @@
+{
+  "id": 69352,
+  "title": "Our Grand Despair",
+  "original_title": "Bizim B\u00fcy\u00fck \u00c7aresizli\u011fimiz",
+  "release_date": "2011-04-15",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "NL",
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 717192,
+  "title": "Ferry",
+  "original_title": "Ferry",
+  "release_date": "2021-05-13",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

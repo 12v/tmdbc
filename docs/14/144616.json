@@ -1,0 +1,29 @@
+{
+  "id": 144616,
+  "title": "Sofia the First: Once Upon a Princess",
+  "original_title": "Sofia the First: Once Upon a Princess",
+  "release_date": "2012-11-18",
+  "status": "Released",
+  "runtime": 47,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

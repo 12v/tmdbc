@@ -1,0 +1,25 @@
+{
+  "id": 275700,
+  "title": "The Last Party",
+  "original_title": "The Last Party",
+  "release_date": "1993-08-27",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

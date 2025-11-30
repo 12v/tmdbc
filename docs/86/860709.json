@@ -1,0 +1,29 @@
+{
+  "id": 860709,
+  "title": "So Damn Easy Going",
+  "original_title": "S\u00e5 j\u00e4vla easy going",
+  "release_date": "2022-02-25",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

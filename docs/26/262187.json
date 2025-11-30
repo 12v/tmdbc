@@ -1,0 +1,29 @@
+{
+  "id": 262187,
+  "title": "Jonathan",
+  "original_title": "Jonathan",
+  "release_date": "1970-05-15",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

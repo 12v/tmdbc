@@ -1,0 +1,37 @@
+{
+  "id": 224339,
+  "title": "Onaayum Aattukkuttiyum",
+  "original_title": "\u0b93\u0ba8\u0bbe\u0baf\u0bc1\u0bae\u0bcd \u0b86\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd",
+  "release_date": "2013-09-27",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

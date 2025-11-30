@@ -1,0 +1,25 @@
+{
+  "id": 499471,
+  "title": "Permanent Green Light",
+  "original_title": "Feu vert permanent",
+  "release_date": "2019-05-02",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

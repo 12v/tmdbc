@@ -1,0 +1,25 @@
+{
+  "id": 95242,
+  "title": "The Dying Swan",
+  "original_title": "\u0423\u043c\u0438\u0440\u0430\u044e\u0449\u0438\u0439 \u043b\u0435\u0431\u0435\u0434\u044c",
+  "release_date": "1917-01-17",
+  "status": "Released",
+  "runtime": 49,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

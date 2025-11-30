@@ -1,0 +1,31 @@
+{
+  "id": 852,
+  "title": "It Happened in Broad Daylight",
+  "original_title": "Es geschah am hellichten Tag",
+  "release_date": "1958-06-09",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "CH",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

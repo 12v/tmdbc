@@ -1,0 +1,29 @@
+{
+  "id": 283727,
+  "title": "Blue Spring Ride",
+  "original_title": "\u30a2\u30aa\u30cf\u30e9\u30a4\u30c9",
+  "release_date": "2014-12-13",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

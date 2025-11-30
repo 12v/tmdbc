@@ -1,0 +1,33 @@
+{
+  "id": 1086591,
+  "title": "Rascal Does Not Dream of a Knapsack Kid",
+  "original_title": "\u9752\u6625\u30d6\u30bf\u91ce\u90ce\u306f\u30e9\u30f3\u30c9\u30bb\u30eb\u30ac\u30fc\u30eb\u306e\u5922\u3092\u898b\u306a\u3044",
+  "release_date": "2023-12-01",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

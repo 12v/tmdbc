@@ -1,0 +1,29 @@
+{
+  "id": 204342,
+  "title": "HK: Forbidden Super Hero",
+  "original_title": "HK/\u5909\u614b\u4eee\u9762",
+  "release_date": "2013-04-13",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

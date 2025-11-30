@@ -1,0 +1,29 @@
+{
+  "id": 65946,
+  "title": "Ready",
+  "original_title": "Ready",
+  "release_date": "2011-06-03",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

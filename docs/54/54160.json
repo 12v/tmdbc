@@ -1,0 +1,33 @@
+{
+  "id": 54160,
+  "title": "Message from Space",
+  "original_title": "\u5b87\u5b99\u304b\u3089\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
+  "release_date": "1978-04-29",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

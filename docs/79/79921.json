@@ -1,0 +1,45 @@
+{
+  "id": 79921,
+  "title": "Special Section",
+  "original_title": "Section sp\u00e9ciale",
+  "release_date": "1975-04-23",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "DE",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 837602,
+  "title": "You Have to Come and See It",
+  "original_title": "Ten\u00e9is que venir a verla",
+  "release_date": "2022-06-03",
+  "status": "Released",
+  "runtime": 62,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

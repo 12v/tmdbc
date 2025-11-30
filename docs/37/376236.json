@@ -1,0 +1,27 @@
+{
+  "id": 376236,
+  "title": "Nuts!",
+  "original_title": "Nuts!",
+  "release_date": "2016-01-22",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

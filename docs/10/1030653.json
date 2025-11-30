@@ -1,0 +1,39 @@
+{
+  "id": 1030653,
+  "title": "Elis & Tom: It Had to be You",
+  "original_title": "Elis & Tom: S\u00f3 Tinha de Ser com Voc\u00ea",
+  "release_date": "2023-09-21",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

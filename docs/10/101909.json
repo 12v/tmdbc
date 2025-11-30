@@ -1,0 +1,25 @@
+{
+  "id": 101909,
+  "title": "The Bridge of Arts",
+  "original_title": "Le Pont des Arts",
+  "release_date": "2004-11-10",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

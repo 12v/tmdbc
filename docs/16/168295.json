@@ -1,0 +1,29 @@
+{
+  "id": 168295,
+  "title": "A Legend or Was It?",
+  "original_title": "\u6b7b\u95d8\u306e\u4f1d\u8aac",
+  "release_date": "1963-08-11",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

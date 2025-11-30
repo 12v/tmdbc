@@ -1,0 +1,35 @@
+{
+  "id": 1234593,
+  "title": "Shambhala",
+  "original_title": "\u0f04\u0f05\u0f64\u0f58\u0f0b\u0f56\u0fb7\u0f0b\u0f63\u0f0d",
+  "release_date": "2024-09-13",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "bo",
+  "spoken_languages": [
+    {
+      "english_name": "Nepali",
+      "iso_639_1": "ne",
+      "name": ""
+    },
+    {
+      "english_name": "Tibetan",
+      "iso_639_1": "bo",
+      "name": "\u0f56\u0f7c\u0f51\u0f0b\u0f66\u0f90\u0f51\u0f0b\u0f0d"
+    }
+  ],
+  "origin_country": [
+    "NP",
+    "NO",
+    "TW",
+    "TR",
+    "FR",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

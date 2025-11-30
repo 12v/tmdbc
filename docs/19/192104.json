@@ -1,0 +1,25 @@
+{
+  "id": 192104,
+  "title": "The Cage",
+  "original_title": "\u6abb\u56da",
+  "release_date": "1964-01-01",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

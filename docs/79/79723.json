@@ -1,0 +1,29 @@
+{
+  "id": 79723,
+  "title": "New Kids Nitro",
+  "original_title": "New Kids Nitro",
+  "release_date": "2011-12-07",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

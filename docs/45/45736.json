@@ -1,0 +1,29 @@
+{
+  "id": 45736,
+  "title": "Shaolin Temple",
+  "original_title": "\u5c11\u6797\u5bfa",
+  "release_date": "1976-12-22",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 433157,
+  "title": "One Piece: Heart of Gold",
+  "original_title": "\u30ef\u30f3\u30d4\u30fc\u30b9\uff5e\u30cf\u30fc\u30c8 \u30aa\u30d6 \u30b4\u30fc\u30eb\u30c9\uff5e",
+  "release_date": "2016-12-31",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

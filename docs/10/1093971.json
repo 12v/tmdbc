@@ -1,0 +1,25 @@
+{
+  "id": 1093971,
+  "title": "Srikanth",
+  "original_title": "\u0936\u094d\u0930\u0940\u0915\u093e\u0902\u0924 - \u0906 \u0930\u0939\u093e \u0939\u0948 \u0938\u092c\u0915\u0940 \u0906\u0901\u0916\u0947\u0902 \u0916\u094b\u0932\u0928\u0947",
+  "release_date": "2024-05-10",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

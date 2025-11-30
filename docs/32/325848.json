@@ -1,0 +1,25 @@
+{
+  "id": 325848,
+  "title": "The Parisian Bitch",
+  "original_title": "Connasse, princesse des c\u0153urs",
+  "release_date": "2015-04-29",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

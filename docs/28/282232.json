@@ -1,0 +1,25 @@
+{
+  "id": 282232,
+  "title": "The Cigarette",
+  "original_title": "La cigarette",
+  "release_date": "1919-10-10",
+  "status": "Released",
+  "runtime": 51,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

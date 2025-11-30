@@ -1,0 +1,29 @@
+{
+  "id": 44411,
+  "title": "Eccentricities of a Blonde-Haired Girl",
+  "original_title": "Singularidades de uma Rapariga Loura",
+  "release_date": "2009-04-30",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

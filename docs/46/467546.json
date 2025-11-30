@@ -1,0 +1,31 @@
+{
+  "id": 467546,
+  "title": "Iceman",
+  "original_title": "Der Mann aus dem Eis",
+  "release_date": "2017-11-30",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "AT",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

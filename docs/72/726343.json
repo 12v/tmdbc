@@ -1,0 +1,29 @@
+{
+  "id": 726343,
+  "title": "The Day of Destruction",
+  "original_title": "\u7834\u58ca\u306e\u65e5",
+  "release_date": "2020-07-24",
+  "status": "Released",
+  "runtime": 57,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

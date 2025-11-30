@@ -1,0 +1,29 @@
+{
+  "id": 301825,
+  "title": "Bibi & Tina: Bewildered and Bewitched",
+  "original_title": "Bibi & Tina - Voll verhext!",
+  "release_date": "2014-12-25",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

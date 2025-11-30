@@ -1,0 +1,37 @@
+{
+  "id": 44731,
+  "title": "One Piece: Episode of Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom",
+  "original_title": "\uff2f\uff2e\uff25 \uff30\uff29\uff25\uff23\uff25\uff08\u30ef\u30f3\u30d4\u30fc\u30b9\uff09 \u30a8\u30d4\u30bd\u30fc\u30c9\u30aa\u30d6\u30c1\u30e7\u30c3\u30d1\u30fc\uff0b\u51ac\u306b\u54b2\u304f\u3001\u5947\u8de1\u306e\u685c",
+  "release_date": "2008-03-01",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 324794,
+  "title": "The Blue Hour",
+  "original_title": "\u0e2d\u0e19\u0e18\u0e01\u0e32\u0e23",
+  "release_date": "2015-02-09",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

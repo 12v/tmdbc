@@ -1,0 +1,25 @@
+{
+  "id": 980296,
+  "title": "Los Frikis",
+  "original_title": "Los Frikis",
+  "release_date": "2024-12-20",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

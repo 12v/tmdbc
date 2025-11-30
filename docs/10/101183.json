@@ -1,0 +1,34 @@
+{
+  "id": 101183,
+  "title": "The Third Lover",
+  "original_title": "L'\u0152il du Malin",
+  "release_date": "1962-05-02",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

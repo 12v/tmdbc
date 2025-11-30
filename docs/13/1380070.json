@@ -1,0 +1,25 @@
+{
+  "id": 1380070,
+  "title": "22 Bahnen",
+  "original_title": "22 Bahnen",
+  "release_date": "2025-09-04",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

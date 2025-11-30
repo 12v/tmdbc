@@ -1,0 +1,25 @@
+{
+  "id": 117595,
+  "title": "The Love Life of an Octopus",
+  "original_title": "Les amours de la pieuvre",
+  "release_date": "1967-01-01",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

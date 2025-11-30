@@ -1,0 +1,25 @@
+{
+  "id": 334924,
+  "title": "The Treasure",
+  "original_title": "Comoara",
+  "release_date": "2015-12-03",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

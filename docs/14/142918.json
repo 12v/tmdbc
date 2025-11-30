@@ -1,0 +1,25 @@
+{
+  "id": 142918,
+  "title": "Woman of Tokyo",
+  "original_title": "\u6771\u4eac\u306e\u5973",
+  "release_date": "1933-02-09",
+  "status": "Released",
+  "runtime": 47,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

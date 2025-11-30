@@ -1,0 +1,29 @@
+{
+  "id": 977935,
+  "title": "Together 99",
+  "original_title": "Tillsammans 99",
+  "release_date": "2023-10-13",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

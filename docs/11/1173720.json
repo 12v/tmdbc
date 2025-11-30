@@ -1,0 +1,29 @@
+{
+  "id": 1173720,
+  "title": "Hobal",
+  "original_title": "\u0647\u0648\u0628\u0627\u0644",
+  "release_date": "2025-01-02",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "SA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

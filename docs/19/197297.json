@@ -1,0 +1,29 @@
+{
+  "id": 197297,
+  "title": "Law of the Border",
+  "original_title": "Hudutlar\u0131n Kanunu",
+  "release_date": "1966-10-04",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

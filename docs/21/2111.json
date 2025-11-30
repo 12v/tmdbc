@@ -1,0 +1,25 @@
+{
+  "id": 2111,
+  "title": "Balzac and the Little Chinese Seamstress",
+  "original_title": "\u5df4\u5c14\u624e\u514b\u4e0e\u5c0f\u88c1\u7f1d",
+  "release_date": "2002-05-16",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

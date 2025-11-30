@@ -1,0 +1,42 @@
+{
+  "id": 925380,
+  "title": "The Chronicles of Narnia: The Lion, the Witch & the Wardrobe",
+  "original_title": "The Chronicles of Narnia: The Lion, the Witch & the Wardrobe",
+  "release_date": "1988-11-13",
+  "status": "Released",
+  "runtime": 161,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

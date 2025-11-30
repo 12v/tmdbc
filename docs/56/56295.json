@@ -1,0 +1,29 @@
+{
+  "id": 56295,
+  "title": "Love of Siam",
+  "original_title": "\u0e23\u0e31\u0e01\u0e41\u0e2b\u0e48\u0e07\u0e2a\u0e22\u0e32\u0e21",
+  "release_date": "2007-11-22",
+  "status": "Released",
+  "runtime": 154,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

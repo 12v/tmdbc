@@ -1,0 +1,25 @@
+{
+  "id": 154653,
+  "title": "Kyiv Frescoes",
+  "original_title": "\u041a\u0438\u0435\u0432\u0441\u043a\u0438\u0435 \u0444\u0440\u0435\u0441\u043a\u0438",
+  "release_date": "1966-05-09",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

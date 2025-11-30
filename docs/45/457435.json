@@ -1,0 +1,29 @@
+{
+  "id": 457435,
+  "title": "Return of the Hero",
+  "original_title": "Le retour du h\u00e9ros",
+  "release_date": "2018-02-14",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

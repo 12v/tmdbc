@@ -1,0 +1,25 @@
+{
+  "id": 114034,
+  "title": "The Making of Fanny and Alexander",
+  "original_title": "Dokument Fanny och Alexander",
+  "release_date": "1984-09-16",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

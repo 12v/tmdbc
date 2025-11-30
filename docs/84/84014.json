@@ -1,0 +1,30 @@
+{
+  "id": 84014,
+  "title": "The Herd",
+  "original_title": "S\u00fcr\u00fc",
+  "release_date": "1979-02-01",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

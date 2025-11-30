@@ -1,0 +1,25 @@
+{
+  "id": 53174,
+  "title": "Kokow\u00e4\u00e4h",
+  "original_title": "Kokow\u00e4\u00e4h",
+  "release_date": "2011-02-03",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

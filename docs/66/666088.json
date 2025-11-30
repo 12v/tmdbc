@@ -1,0 +1,25 @@
+{
+  "id": 666088,
+  "title": "Mam\u00e1, mam\u00e1, mam\u00e1",
+  "original_title": "Mam\u00e1, mam\u00e1, mam\u00e1",
+  "release_date": "2021-01-07",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

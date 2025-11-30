@@ -1,0 +1,33 @@
+{
+  "id": 62495,
+  "title": "First Love",
+  "original_title": "Primo amore",
+  "release_date": "2004-02-13",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

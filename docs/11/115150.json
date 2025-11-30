@@ -1,0 +1,34 @@
+{
+  "id": 115150,
+  "title": "Images of the World and the Inscription of War",
+  "original_title": "Bilder der Welt und Inschrift des Krieges",
+  "release_date": "1991-11-13",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

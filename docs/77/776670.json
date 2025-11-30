@@ -1,0 +1,48 @@
+{
+  "id": 776670,
+  "title": "All the Moons",
+  "original_title": "Ilargi guztiak",
+  "release_date": "2020-12-25",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "eu",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Basque",
+      "iso_639_1": "eu",
+      "name": "euskera"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 611468,
+  "title": "Kidnapping Stella",
+  "original_title": "Kidnapping Stella",
+  "release_date": "2019-06-29",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

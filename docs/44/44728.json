@@ -1,0 +1,33 @@
+{
+  "id": 44728,
+  "title": "One Piece: Curse of the Sacred Sword",
+  "original_title": "ONE PIECE \u546a\u308f\u308c\u305f\u8056\u5263",
+  "release_date": "2004-03-06",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

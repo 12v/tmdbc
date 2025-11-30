@@ -1,0 +1,33 @@
+{
+  "id": 1065913,
+  "title": "Purusha Pretham",
+  "original_title": "\u0d2a\u0d41\u0d30\u0d41\u0d37 \u0d2a\u0d4d\u0d30\u0d47\u0d24\u0d02",
+  "release_date": "2023-03-24",
+  "status": "Released",
+  "runtime": 152,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

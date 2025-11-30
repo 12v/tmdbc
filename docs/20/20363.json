@@ -1,0 +1,29 @@
+{
+  "id": 20363,
+  "title": "The Pee-wee Herman Show",
+  "original_title": "The Pee-wee Herman Show",
+  "release_date": "1981-09-11",
+  "status": "Released",
+  "runtime": 58,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

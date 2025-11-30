@@ -1,0 +1,29 @@
+{
+  "id": 133521,
+  "title": "Shameless",
+  "original_title": "Bez wstydu",
+  "release_date": "2012-07-20",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

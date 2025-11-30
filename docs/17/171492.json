@@ -1,0 +1,25 @@
+{
+  "id": 171492,
+  "title": "Ankur: The Seedling",
+  "original_title": "\u0905\u0902\u0915\u0941\u0930",
+  "release_date": "1974-07-20",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

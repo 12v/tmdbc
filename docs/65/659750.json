@@ -1,0 +1,33 @@
+{
+  "id": 659750,
+  "title": "Turma da M\u00f4nica em Cine Gibi: O Filme",
+  "original_title": "Turma da M\u00f4nica em Cine Gibi: O Filme",
+  "release_date": "2004-07-09",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

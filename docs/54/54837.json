@@ -1,0 +1,29 @@
+{
+  "id": 54837,
+  "title": "Highway Patrolman",
+  "original_title": "El patrullero",
+  "release_date": "1991-12-28",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

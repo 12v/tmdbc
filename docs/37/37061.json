@@ -1,0 +1,25 @@
+{
+  "id": 37061,
+  "title": "Gatica, the Monkey",
+  "original_title": "Gatica el Mono",
+  "release_date": "1993-05-13",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 48515,
+  "title": "Japanese Summer: Double Suicide",
+  "original_title": "\u7121\u7406\u5fc3\u4e2d \u65e5\u672c\u306e\u590f",
+  "release_date": "1967-09-02",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

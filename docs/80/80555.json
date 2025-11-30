@@ -1,0 +1,29 @@
+{
+  "id": 80555,
+  "title": "Wind Across the Everglades",
+  "original_title": "Wind Across the Everglades",
+  "release_date": "1958-09-11",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

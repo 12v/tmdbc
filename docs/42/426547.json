@@ -1,0 +1,29 @@
+{
+  "id": 426547,
+  "title": "Alike",
+  "original_title": "Alike",
+  "release_date": "2015-11-06",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

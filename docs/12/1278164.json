@@ -1,0 +1,37 @@
+{
+  "id": 1278164,
+  "title": "Blood Brothers: Bara Naga",
+  "original_title": "Blood Brothers: Bara Naga",
+  "release_date": "2025-04-10",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ms",
+  "spoken_languages": [
+    {
+      "english_name": "Malay",
+      "iso_639_1": "ms",
+      "name": "Bahasa melayu"
+    }
+  ],
+  "origin_country": [
+    "MY"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

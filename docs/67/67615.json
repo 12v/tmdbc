@@ -1,0 +1,33 @@
+{
+  "id": 67615,
+  "title": "The Bandit",
+  "original_title": "O Cangaceiro",
+  "release_date": "1953-01-20",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

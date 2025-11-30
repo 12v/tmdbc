@@ -1,0 +1,33 @@
+{
+  "id": 84533,
+  "title": "Ek Main Aur Ekk Tu",
+  "original_title": "\u090f\u0915 \u092e\u0948\u0902 \u0914\u0930 \u090f\u0915 \u0924\u0942",
+  "release_date": "2012-02-10",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 42454,
+  "title": "Vincent, Francois, Paul and the Others",
+  "original_title": "Vincent, Fran\u00e7ois, Paul\u2026 et les autres",
+  "release_date": "1974-10-23",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

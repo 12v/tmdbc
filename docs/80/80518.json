@@ -1,0 +1,41 @@
+{
+  "id": 80518,
+  "title": "Fullmetal Alchemist: The Sacred Star of Milos",
+  "original_title": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b \u5606\u304d\u306e\u4e18\uff08\u30df\u30ed\u30b9\uff09\u306e\u8056\u306a\u308b\u661f",
+  "release_date": "2011-07-02",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

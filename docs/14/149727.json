@@ -1,0 +1,25 @@
+{
+  "id": 149727,
+  "title": "The Plea",
+  "original_title": "\u10d5\u10d4\u10d3\u10e0\u10d4\u10d1\u10d0",
+  "release_date": "1967-12-24",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

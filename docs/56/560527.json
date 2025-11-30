@@ -1,0 +1,33 @@
+{
+  "id": 560527,
+  "title": "The Dude in Me",
+  "original_title": "\ub0b4\uc548\uc758 \uadf8\ub188",
+  "release_date": "2019-01-09",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

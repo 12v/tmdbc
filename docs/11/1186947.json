@@ -1,0 +1,33 @@
+{
+  "id": 1186947,
+  "title": "Outlaw",
+  "original_title": "Bandida - A N\u00famero Um",
+  "release_date": "2024-06-20",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

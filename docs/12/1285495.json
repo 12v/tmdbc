@@ -1,0 +1,25 @@
+{
+  "id": 1285495,
+  "title": "Tak\u0131nt\u0131lar",
+  "original_title": "Tak\u0131nt\u0131lar",
+  "release_date": "2024-11-15",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

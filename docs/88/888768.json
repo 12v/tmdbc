@@ -1,0 +1,29 @@
+{
+  "id": 888768,
+  "title": "Weekend Rebels",
+  "original_title": "Wochenendrebellen",
+  "release_date": "2023-09-28",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 239367,
+  "title": "Giovanni's Island",
+  "original_title": "\u30b8\u30e7\u30d0\u30f3\u30cb\u306e\u5cf6",
+  "release_date": "2014-02-22",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

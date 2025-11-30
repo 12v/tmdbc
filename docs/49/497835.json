@@ -1,0 +1,35 @@
+{
+  "id": 497835,
+  "title": "Sin",
+  "original_title": "Il peccato",
+  "release_date": "2019-11-14",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "RU",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

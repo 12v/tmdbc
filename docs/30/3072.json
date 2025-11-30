@@ -1,0 +1,29 @@
+{
+  "id": 3072,
+  "title": "Frankenstein Unbound",
+  "original_title": "Frankenstein Unbound",
+  "release_date": "1990-11-02",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

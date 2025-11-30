@@ -1,0 +1,29 @@
+{
+  "id": 811596,
+  "title": "Notre-Dame on Fire",
+  "original_title": "Notre-Dame br\u00fble",
+  "release_date": "2022-03-16",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

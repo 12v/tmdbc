@@ -1,0 +1,34 @@
+{
+  "id": 944664,
+  "title": "Without Saying Goodbye",
+  "original_title": "Hasta que nos volvamos a encontrar",
+  "release_date": "2022-03-18",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Sinhalese",
+      "iso_639_1": "si",
+      "name": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "PE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

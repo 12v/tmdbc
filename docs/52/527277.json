@@ -1,0 +1,34 @@
+{
+  "id": 527277,
+  "title": "Sid & Aya: Not a Love Story",
+  "original_title": "Sid & Aya: Not a Love Story",
+  "release_date": "2018-05-30",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
