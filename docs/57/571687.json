@@ -1,0 +1,25 @@
+{
+  "id": 571687,
+  "title": "A Perfectly Normal Family",
+  "original_title": "En helt almindelig familie",
+  "release_date": "2020-02-20",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

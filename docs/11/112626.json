@@ -1,10 +1,10 @@
 {
-  "id": 58227,
-  "title": "The Connection",
-  "original_title": "The Connection",
-  "release_date": "1962-02-15",
+  "id": 112626,
+  "title": "Lift",
+  "original_title": "Lift",
+  "release_date": "2001-08-12",
   "status": "Released",
-  "runtime": 110,
+  "runtime": 25,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,12 +14,12 @@
     }
   ],
   "origin_country": [
-    "US"
+    "GB"
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 99,
+      "name": "Documentary"
     }
   ]
 }

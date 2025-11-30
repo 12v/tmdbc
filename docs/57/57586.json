@@ -1,10 +1,10 @@
 {
-  "id": 58227,
-  "title": "The Connection",
-  "original_title": "The Connection",
-  "release_date": "1962-02-15",
+  "id": 57586,
+  "title": "African Cats",
+  "original_title": "African Cats",
+  "release_date": "2011-04-21",
   "status": "Released",
-  "runtime": 110,
+  "runtime": 89,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,12 @@
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
     }
   ]
 }

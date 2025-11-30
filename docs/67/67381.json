@@ -1,0 +1,25 @@
+{
+  "id": 67381,
+  "title": "La Danse: The Paris Opera Ballet",
+  "original_title": "La danse - Le ballet de L'Op\u00e9ra de Paris",
+  "release_date": "2009-10-07",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

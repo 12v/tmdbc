@@ -1,8 +1,8 @@
 {
-  "id": 58227,
-  "title": "The Connection",
-  "original_title": "The Connection",
-  "release_date": "1962-02-15",
+  "id": 32599,
+  "title": "Alex in Wonderland",
+  "original_title": "Alex in Wonderland",
+  "release_date": "1970-12-22",
   "status": "Released",
   "runtime": 110,
   "original_language": "en",
@@ -17,6 +17,10 @@
     "US"
   ],
   "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
     {
       "id": 18,
       "name": "Drama"

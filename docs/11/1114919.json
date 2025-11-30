@@ -1,16 +1,21 @@
 {
-  "id": 58227,
-  "title": "The Connection",
-  "original_title": "The Connection",
-  "release_date": "1962-02-15",
+  "id": 1114919,
+  "title": "Smoking Tigers",
+  "original_title": "Smoking Tigers",
+  "release_date": "2024-08-16",
   "status": "Released",
-  "runtime": 110,
+  "runtime": 91,
   "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
     }
   ],
   "origin_country": [

@@ -1,0 +1,37 @@
+{
+  "id": 28764,
+  "title": "Detective Conan: The Raven Chaser",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u6f06\u9ed2\u306e\u8ffd\u8de1\u8005\uff08\u30c1\u30a7\u30a4\u30b5\u30fc\uff09",
+  "release_date": "2009-04-18",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}
