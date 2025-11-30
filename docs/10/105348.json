@@ -1,0 +1,29 @@
+{
+  "id": 105348,
+  "title": "The Party and the Guests",
+  "original_title": "O slavnosti a hostech",
+  "release_date": "1966-12-30",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

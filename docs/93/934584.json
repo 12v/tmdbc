@@ -1,0 +1,29 @@
+{
+  "id": 934584,
+  "title": "Rich Flu",
+  "original_title": "La fiebre de los ricos",
+  "release_date": "2024-12-12",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

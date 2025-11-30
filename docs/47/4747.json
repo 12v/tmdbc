@@ -1,0 +1,25 @@
+{
+  "id": 4747,
+  "title": "Nathalie Granger",
+  "original_title": "Nathalie Granger",
+  "release_date": "1973-09-27",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

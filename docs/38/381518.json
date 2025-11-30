@@ -1,0 +1,25 @@
+{
+  "id": 381518,
+  "title": "Mindhorn",
+  "original_title": "Mindhorn",
+  "release_date": "2016-10-09",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

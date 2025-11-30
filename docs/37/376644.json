@@ -1,0 +1,29 @@
+{
+  "id": 376644,
+  "title": "Fishmans: Otokotachi no Wakare 98.12.28 @ Akasaka Blitz",
+  "original_title": "\u30d5\u30a3\u30c3\u30b7\u30e5\u30de\u30f3\u30ba\u3000\u7537\u9054\u306e\u5225\u308c 98.12.28 @\u8d64\u5742BLITZ",
+  "release_date": "2005-12-28",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

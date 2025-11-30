@@ -1,0 +1,30 @@
+{
+  "id": 1023122,
+  "title": "Steppenwolf",
+  "original_title": "\u0414\u0430\u043b\u0430 \u049b\u0430\u0441\u049b\u044b\u0440\u044b",
+  "release_date": "2024-08-15",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "kk",
+  "spoken_languages": [
+    {
+      "english_name": "Kazakh",
+      "iso_639_1": "kk",
+      "name": "\u049b\u0430\u0437\u0430\u049b"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "KZ"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

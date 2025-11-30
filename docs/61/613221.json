@@ -1,0 +1,29 @@
+{
+  "id": 613221,
+  "title": "Daughter",
+  "original_title": "Dcera",
+  "release_date": "2019-06-29",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

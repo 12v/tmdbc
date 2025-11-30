@@ -1,0 +1,33 @@
+{
+  "id": 1172648,
+  "title": "Blame the Game",
+  "original_title": "Spieleabend",
+  "release_date": "2024-07-03",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

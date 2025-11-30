@@ -1,0 +1,38 @@
+{
+  "id": 527248,
+  "title": "Crystal Swan",
+  "original_title": "\u0425\u0440\u0443\u0441\u0442\u0430\u043b\u044c",
+  "release_date": "2018-08-29",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Belarusian",
+      "iso_639_1": "be",
+      "name": "\u0431\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f \u043c\u043e\u0432\u0430"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "BY",
+    "DE",
+    "RU",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

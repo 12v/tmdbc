@@ -1,0 +1,35 @@
+{
+  "id": 519238,
+  "title": "Murder Me, Monster",
+  "original_title": "Muere, monstruo, muere",
+  "release_date": "2019-05-15",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CL",
+    "FR",
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1393069,
+  "title": "The Most Beautiful Girl in the World",
+  "original_title": "The Most Beautiful Girl in the World",
+  "release_date": "2025-02-13",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

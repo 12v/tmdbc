@@ -1,0 +1,33 @@
+{
+  "id": 98948,
+  "title": "Abraham Lincoln vs. Zombies",
+  "original_title": "Abraham Lincoln vs. Zombies",
+  "release_date": "2012-05-29",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

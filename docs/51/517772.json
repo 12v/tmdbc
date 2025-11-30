@@ -1,0 +1,25 @@
+{
+  "id": 517772,
+  "title": "Dead Souls",
+  "original_title": "\u6b7b\u9748\u9b42",
+  "release_date": "2018-10-24",
+  "status": "Released",
+  "runtime": 497,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

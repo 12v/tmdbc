@@ -1,0 +1,37 @@
+{
+  "id": 523536,
+  "title": "Checkered Ninja",
+  "original_title": "Ternet Ninja",
+  "release_date": "2018-12-25",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

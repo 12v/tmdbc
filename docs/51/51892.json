@@ -1,0 +1,25 @@
+{
+  "id": 51892,
+  "title": "Chess Fever",
+  "original_title": "\u0428\u0430\u0445\u043c\u0430\u0442\u043d\u0430\u044f \u0433\u043e\u0440\u044f\u0447\u043a\u0430",
+  "release_date": "1925-12-21",
+  "status": "Released",
+  "runtime": 24,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

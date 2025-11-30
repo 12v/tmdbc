@@ -1,0 +1,29 @@
+{
+  "id": 74873,
+  "title": "The Little Mermaid",
+  "original_title": "Mal\u00e1 mo\u0159sk\u00e1 v\u00edla",
+  "release_date": "1976-11-12",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

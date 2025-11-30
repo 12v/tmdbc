@@ -1,0 +1,34 @@
+{
+  "id": 1404799,
+  "title": "Mirage",
+  "original_title": "\u0d2e\u0d3f\u0d31\u0d3e\u0d1c\u0d4d",
+  "release_date": "2025-09-19",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

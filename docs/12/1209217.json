@@ -1,0 +1,37 @@
+{
+  "id": 1209217,
+  "title": "Case Closed: The Million-Dollar Pentagram",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 100\u4e07\u30c9\u30eb\u306e\u4e94\u7a1c\u661f\uff08\u307f\u3061\u3057\u308b\u3079\uff09",
+  "release_date": "2024-04-12",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

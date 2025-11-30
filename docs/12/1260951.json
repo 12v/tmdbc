@@ -1,0 +1,29 @@
+{
+  "id": 1260951,
+  "title": "Her Story",
+  "original_title": "\u597d\u4e1c\u897f",
+  "release_date": "2024-11-09",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

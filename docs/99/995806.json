@@ -1,0 +1,27 @@
+{
+  "id": 995806,
+  "title": "Banel & Adama",
+  "original_title": "Banel e Adama",
+  "release_date": "2023-03-21",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ff",
+  "spoken_languages": [
+    {
+      "english_name": "Fulah",
+      "iso_639_1": "ff",
+      "name": "Fulfulde"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "ML",
+    "SN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

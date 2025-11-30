@@ -1,0 +1,37 @@
+{
+  "id": 409421,
+  "title": "BLAME!",
+  "original_title": "\u30d6\u30e9\u30e0",
+  "release_date": "2017-05-20",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

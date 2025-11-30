@@ -1,0 +1,38 @@
+{
+  "id": 170657,
+  "title": "Journey to the West: Conquering the Demons",
+  "original_title": "\u897f\u6e38\u00b7\u964d\u9b54\u7bc7",
+  "release_date": "2013-02-07",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

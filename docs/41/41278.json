@@ -1,0 +1,29 @@
+{
+  "id": 41278,
+  "title": "Alice in Wonderland",
+  "original_title": "Alice in Wonderland",
+  "release_date": "1903-05-19",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

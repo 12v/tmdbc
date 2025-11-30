@@ -1,0 +1,25 @@
+{
+  "id": 625658,
+  "title": "Fan Girl",
+  "original_title": "Fan Girl",
+  "release_date": "2020-10-31",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

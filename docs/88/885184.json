@@ -1,0 +1,29 @@
+{
+  "id": 885184,
+  "title": "Dasara",
+  "original_title": "\u0c26\u0c38\u0c30\u0c3e",
+  "release_date": "2023-03-30",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

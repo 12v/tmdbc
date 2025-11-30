@@ -1,0 +1,23 @@
+{
+  "id": 691683,
+  "title": "Cheaper by the Dozen",
+  "original_title": "Cheaper by the Dozen",
+  "release_date": "2022-03-18",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

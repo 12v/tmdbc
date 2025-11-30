@@ -1,0 +1,37 @@
+{
+  "id": 1208735,
+  "title": "Thandel",
+  "original_title": "\u0c24\u0c02\u0c21\u0c47\u0c32\u0c4d",
+  "release_date": "2025-02-07",
+  "status": "Released",
+  "runtime": 152,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

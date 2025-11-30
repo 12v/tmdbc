@@ -1,0 +1,33 @@
+{
+  "id": 833384,
+  "title": "The Year of the Shark",
+  "original_title": "L'Ann\u00e9e du requin",
+  "release_date": "2022-08-03",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

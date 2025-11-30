@@ -1,0 +1,25 @@
+{
+  "id": 215400,
+  "title": "The Glass Harmonica",
+  "original_title": "\u0421\u0442\u0435\u043a\u043b\u044f\u043d\u043d\u0430\u044f \u0433\u0430\u0440\u043c\u043e\u043d\u0438\u043a\u0430",
+  "release_date": "1968-01-01",
+  "status": "Released",
+  "runtime": 21,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

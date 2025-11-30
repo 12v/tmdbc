@@ -1,0 +1,34 @@
+{
+  "id": 65749,
+  "title": "Tango",
+  "original_title": "Tango, no me dejes nunca",
+  "release_date": "1998-08-06",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

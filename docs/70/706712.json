@@ -1,0 +1,33 @@
+{
+  "id": 706712,
+  "title": "Beauty Water",
+  "original_title": "\uae30\uae30\uad34\uad34 \uc131\ud615\uc218",
+  "release_date": "2020-09-09",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1399914,
+  "title": "The Simpsons: O C'mon All Ye Faithful",
+  "original_title": "The Simpsons: O C'mon All Ye Faithful",
+  "release_date": "2024-12-16",
+  "status": "Released",
+  "runtime": 45,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

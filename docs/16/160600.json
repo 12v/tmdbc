@@ -1,0 +1,29 @@
+{
+  "id": 160600,
+  "title": "Massacre Gun",
+  "original_title": "\u307f\u306a\u6bba\u3057\u306e\u62f3\u9283",
+  "release_date": "1967-09-06",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

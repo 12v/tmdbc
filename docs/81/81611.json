@@ -1,0 +1,33 @@
+{
+  "id": 81611,
+  "title": "The German Chainsaw Massacre",
+  "original_title": "Das deutsche Kettens\u00e4genmassaker",
+  "release_date": "1990-11-29",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

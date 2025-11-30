@@ -1,0 +1,29 @@
+{
+  "id": 162505,
+  "title": "One Way or Another",
+  "original_title": "De cierta manera",
+  "release_date": "1977-06-01",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

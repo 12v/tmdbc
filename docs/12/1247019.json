@@ -1,0 +1,33 @@
+{
+  "id": 1247019,
+  "title": "Death Whisperer 2",
+  "original_title": "\u0e18\u0e35\u0e48\u0e2b\u0e22\u0e14 2",
+  "release_date": "2024-10-10",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

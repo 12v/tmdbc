@@ -1,0 +1,33 @@
+{
+  "id": 1318349,
+  "title": "Kadaisi Ulaga Por",
+  "original_title": "\u0b95\u0b9f\u0bc8\u0b9a\u0bbf \u0b89\u0bb2\u0b95\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bcd",
+  "release_date": "2024-09-20",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

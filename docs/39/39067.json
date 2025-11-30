@@ -1,0 +1,29 @@
+{
+  "id": 39067,
+  "title": "Macabre",
+  "original_title": "Rumah Dara",
+  "release_date": "2009-10-08",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

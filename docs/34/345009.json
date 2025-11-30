@@ -1,0 +1,29 @@
+{
+  "id": 345009,
+  "title": "Mine",
+  "original_title": "Mine",
+  "release_date": "2016-10-06",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

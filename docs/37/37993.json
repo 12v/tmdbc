@@ -1,0 +1,25 @@
+{
+  "id": 37993,
+  "title": "Angels of the Sun",
+  "original_title": "Anjos do Sol",
+  "release_date": "2006-03-04",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

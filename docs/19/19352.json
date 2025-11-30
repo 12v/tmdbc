@@ -1,0 +1,25 @@
+{
+  "id": 19352,
+  "title": "We Will Rock You",
+  "original_title": "We Will Rock You",
+  "release_date": "1982-05-03",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

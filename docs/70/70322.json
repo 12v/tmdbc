@@ -1,0 +1,37 @@
+{
+  "id": 70322,
+  "title": "Gamera vs. Zigra",
+  "original_title": "\u30ac\u30e1\u30e9\u5bfe\u6df1\u6d77\u602a\u7363\u30b8\u30b0\u30e9",
+  "release_date": "1971-07-17",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

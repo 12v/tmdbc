@@ -1,0 +1,29 @@
+{
+  "id": 8749,
+  "title": "Hamlet Goes Business",
+  "original_title": "Hamlet liikemaailmassa",
+  "release_date": "1987-08-21",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

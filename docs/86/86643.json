@@ -1,0 +1,26 @@
+{
+  "id": 86643,
+  "title": "House of Whipcord",
+  "original_title": "House of Whipcord",
+  "release_date": "1974-04-19",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

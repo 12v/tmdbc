@@ -1,0 +1,29 @@
+{
+  "id": 56474,
+  "title": "Philanthropy",
+  "original_title": "Filantropica",
+  "release_date": "2002-03-15",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

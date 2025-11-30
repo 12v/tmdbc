@@ -1,0 +1,26 @@
+{
+  "id": 1464323,
+  "title": "Reedland",
+  "original_title": "Rietland",
+  "release_date": "2025-10-09",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 673971,
+  "title": "The Lighthouse: A Dark & Stormy Tale",
+  "original_title": "The Lighthouse: A Dark & Stormy Tale",
+  "release_date": "2020-01-14",
+  "status": "Released",
+  "runtime": 37,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

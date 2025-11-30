@@ -1,0 +1,33 @@
+{
+  "id": 26277,
+  "title": "Mujhse Dosti Karoge!",
+  "original_title": "\u092e\u0941\u091d\u0938\u0947 \u0926\u094b\u0938\u094d\u0924\u0940 \u0915\u0930\u094b\u0917\u0947!",
+  "release_date": "2002-08-08",
+  "status": "Released",
+  "runtime": 149,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 749927,
+  "title": "Riverside Mukolitta",
+  "original_title": "\u5ddd\u3063\u307a\u308a\u30e0\u30b3\u30ea\u30c3\u30bf",
+  "release_date": "2021-11-03",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

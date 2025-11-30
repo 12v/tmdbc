@@ -1,0 +1,29 @@
+{
+  "id": 179129,
+  "title": "The Skywalk Is Gone",
+  "original_title": "\u5929\u6a4b\u4e0d\u898b\u4e86",
+  "release_date": "2002-10-08",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

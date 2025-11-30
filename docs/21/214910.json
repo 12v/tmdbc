@@ -1,0 +1,33 @@
+{
+  "id": 214910,
+  "title": "Hwayi: A Monster Boy",
+  "original_title": "\ud654\uc774: \uad34\ubb3c\uc744 \uc0bc\ud0a8 \uc544\uc774",
+  "release_date": "2013-10-09",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 674255,
+  "title": "Vengeance Is Mine, All Others Pay Cash",
+  "original_title": "Seperti Dendam, Rindu Harus Dibayar Tuntas",
+  "release_date": "2021-12-02",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

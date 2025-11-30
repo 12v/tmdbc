@@ -1,0 +1,30 @@
+{
+  "id": 42085,
+  "title": "Camila",
+  "original_title": "Camila",
+  "release_date": "1984-05-17",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

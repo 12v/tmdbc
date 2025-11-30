@@ -1,0 +1,33 @@
+{
+  "id": 36879,
+  "title": "The Beast in Heat",
+  "original_title": "La bestia in calore",
+  "release_date": "1977-07-19",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

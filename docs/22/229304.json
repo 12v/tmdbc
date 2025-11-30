@@ -1,0 +1,25 @@
+{
+  "id": 229304,
+  "title": "Han Gong-ju",
+  "original_title": "\ud55c\uacf5\uc8fc",
+  "release_date": "2014-04-17",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 39767,
+  "title": "Getting Any?",
+  "original_title": "\u307f\u3093\u306a\u301c\u3084\u3063\u3066\u308b\u304b!",
+  "release_date": "1995-02-11",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

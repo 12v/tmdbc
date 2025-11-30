@@ -1,0 +1,25 @@
+{
+  "id": 49473,
+  "title": "Cocoon",
+  "original_title": "Koza",
+  "release_date": "1995-05-01",
+  "status": "Released",
+  "runtime": 20,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 77381,
+  "title": "Intimate Lighting",
+  "original_title": "Intimn\u00ed osv\u011btlen\u00ed",
+  "release_date": "1965-04-08",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

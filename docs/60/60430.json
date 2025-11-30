@@ -1,0 +1,25 @@
+{
+  "id": 60430,
+  "title": "Love at the Top",
+  "original_title": "Le Mouton enrag\u00e9",
+  "release_date": "1974-03-13",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1156311,
+  "title": "Yana-Wara",
+  "original_title": "Yana-Wara",
+  "release_date": "2024-04-04",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "ay",
+  "spoken_languages": [
+    {
+      "english_name": "Aymara",
+      "iso_639_1": "ay",
+      "name": "Aymara"
+    }
+  ],
+  "origin_country": [
+    "PE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

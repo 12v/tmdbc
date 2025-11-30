@@ -1,0 +1,39 @@
+{
+  "id": 1013052,
+  "title": "U Are the Universe",
+  "original_title": "\u0422\u0438 \u2013 \u041a\u043e\u0441\u043c\u043e\u0441",
+  "release_date": "2025-04-24",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "uk",
+  "spoken_languages": [
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "UA"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

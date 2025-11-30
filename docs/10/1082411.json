@@ -1,0 +1,25 @@
+{
+  "id": 1082411,
+  "title": "Adios Amigo",
+  "original_title": "\u0d05\u0d21\u0d3f\u0d2f\u0d4b\u0d38\u0d4d \u0d05\u0d2e\u0d3f\u0d17\u0d4b",
+  "release_date": "2024-08-09",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

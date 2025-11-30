@@ -1,0 +1,37 @@
+{
+  "id": 36867,
+  "title": "Shark Skin Man and Peach Hip Girl",
+  "original_title": "\u9bab\u808c\u7537\u3068\u6843\u5c3b\u5973",
+  "release_date": "1999-02-06",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

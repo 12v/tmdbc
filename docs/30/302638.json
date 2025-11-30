@@ -1,0 +1,43 @@
+{
+  "id": 302638,
+  "title": "Iyobinte Pusthakam",
+  "original_title": "\u0d07\u0d2f\u0d4b\u0d2c\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d2a\u0d41\u0d38\u0d4d\u0d24\u0d15\u0d02",
+  "release_date": "2014-11-07",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

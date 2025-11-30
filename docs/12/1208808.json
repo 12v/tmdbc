@@ -1,0 +1,25 @@
+{
+  "id": 1208808,
+  "title": "Night Shift",
+  "original_title": "Turno nocturno",
+  "release_date": "2024-12-05",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

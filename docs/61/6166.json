@@ -1,0 +1,30 @@
+{
+  "id": 6166,
+  "title": "Dinner for One",
+  "original_title": "Dinner for One",
+  "release_date": "1963-06-08",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 38898,
+  "title": "Night Train",
+  "original_title": "Poci\u0105g",
+  "release_date": "1959-09-06",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

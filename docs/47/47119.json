@@ -1,0 +1,25 @@
+{
+  "id": 47119,
+  "title": "The Son Of...",
+  "original_title": "Le Gar\u00e7u",
+  "release_date": "1995-10-31",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

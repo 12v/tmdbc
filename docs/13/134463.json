@@ -1,0 +1,29 @@
+{
+  "id": 134463,
+  "title": "The Tree, the Mayor and the Mediatheque",
+  "original_title": "L'Arbre, le Maire et la M\u00e9diath\u00e8que",
+  "release_date": "1993-02-10",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

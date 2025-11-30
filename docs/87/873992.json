@@ -1,0 +1,25 @@
+{
+  "id": 873992,
+  "title": "Saudi Vellakka",
+  "original_title": "\u0d38\u0d57\u0d26\u0d3f \u0d35\u0d46\u0d33\u0d4d\u0d33\u0d15\u0d4d\u0d15",
+  "release_date": "2022-12-02",
+  "status": "Released",
+  "runtime": 146,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

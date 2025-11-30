@@ -1,0 +1,29 @@
+{
+  "id": 390847,
+  "title": "Ryusei-Kacho",
+  "original_title": "\u6d41\u661f\u8ab2\u9577",
+  "release_date": "2002-05-02",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

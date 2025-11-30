@@ -1,0 +1,26 @@
+{
+  "id": 208198,
+  "title": "Moses and Aaron",
+  "original_title": "Moses und Aron",
+  "release_date": "1975-05-09",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

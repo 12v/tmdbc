@@ -1,0 +1,37 @@
+{
+  "id": 17165,
+  "title": "Bleach the Movie: Fade to Black",
+  "original_title": "\u5287\u5834\u7248 BLEACH Fade to Black \u541b\u306e\u540d\u3092\u547c\u3076",
+  "release_date": "2008-12-13",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

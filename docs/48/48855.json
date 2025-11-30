@@ -1,0 +1,25 @@
+{
+  "id": 48855,
+  "title": "Four of the Apocalypse",
+  "original_title": "I quattro dell'apocalisse",
+  "release_date": "1975-08-12",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

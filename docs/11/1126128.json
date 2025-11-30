@@ -1,0 +1,34 @@
+{
+  "id": 1126128,
+  "title": "13 Bombs",
+  "original_title": "13 Bom di Jakarta",
+  "release_date": "2023-12-28",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID",
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

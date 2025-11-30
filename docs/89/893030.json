@@ -1,0 +1,25 @@
+{
+  "id": 893030,
+  "title": "Children of the Mist",
+  "original_title": "Nh\u1eefng \u0111\u1ee9a tr\u1ebb trong s\u01b0\u01a1ng",
+  "release_date": "2022-05-07",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

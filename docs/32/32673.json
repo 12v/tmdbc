@@ -1,0 +1,29 @@
+{
+  "id": 32673,
+  "title": "The Kingdom of the Fairies",
+  "original_title": "Le royaume des f\u00e9es",
+  "release_date": "1903-07-25",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

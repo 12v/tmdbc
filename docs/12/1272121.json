@@ -1,0 +1,33 @@
+{
+  "id": 1272121,
+  "title": "Maranamass",
+  "original_title": "\u0d2e\u0d30\u0d23\u0d2e\u0d3e\u0d38\u0d4d\u0d38\u0d4d\u200c",
+  "release_date": "2025-04-10",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

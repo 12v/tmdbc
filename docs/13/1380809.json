@@ -1,0 +1,25 @@
+{
+  "id": 1380809,
+  "title": "Harsh Couture",
+  "original_title": "Perrengue Fashion",
+  "release_date": "2025-10-09",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

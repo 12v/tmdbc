@@ -1,0 +1,39 @@
+{
+  "id": 186971,
+  "title": "Age of Uprising: The Legend of Michael Kohlhaas",
+  "original_title": "Michael Kohlhaas",
+  "release_date": "2013-08-14",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Occitan",
+      "iso_639_1": "oc",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

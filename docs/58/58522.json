@@ -1,0 +1,25 @@
+{
+  "id": 58522,
+  "title": "Boris: The Film",
+  "original_title": "Boris - Il film",
+  "release_date": "2011-04-01",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

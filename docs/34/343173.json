@@ -1,0 +1,26 @@
+{
+  "id": 343173,
+  "title": "The Rezort",
+  "original_title": "The Rezort",
+  "release_date": "2015-06-15",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

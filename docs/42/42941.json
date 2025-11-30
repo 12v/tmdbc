@@ -1,0 +1,29 @@
+{
+  "id": 42941,
+  "title": "30 Days of Night: Dark Days",
+  "original_title": "30 Days of Night: Dark Days",
+  "release_date": "2010-10-04",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9446,
+  "title": "Jungle 2 Jungle",
+  "original_title": "Jungle 2 Jungle",
+  "release_date": "1997-03-04",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

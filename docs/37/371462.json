@@ -1,0 +1,26 @@
+{
+  "id": 371462,
+  "title": "Mammal",
+  "original_title": "Mammal",
+  "release_date": "2016-04-01",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "IE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

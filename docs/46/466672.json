@@ -1,0 +1,29 @@
+{
+  "id": 466672,
+  "title": "Dear Nathan",
+  "original_title": "Dear Nathan",
+  "release_date": "2017-03-23",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

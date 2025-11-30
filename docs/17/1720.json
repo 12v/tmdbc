@@ -1,0 +1,30 @@
+{
+  "id": 1720,
+  "title": "Noi the Albino",
+  "original_title": "N\u00f3i alb\u00edn\u00f3i",
+  "release_date": "2003-02-28",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "IS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

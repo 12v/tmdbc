@@ -1,0 +1,36 @@
+{
+  "id": 493915,
+  "title": "Supa Modo",
+  "original_title": "Supa Modo",
+  "release_date": "2018-02-18",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "sw",
+  "spoken_languages": [
+    {
+      "english_name": "Kikuyu",
+      "iso_639_1": "ki",
+      "name": ""
+    },
+    {
+      "english_name": "Swahili",
+      "iso_639_1": "sw",
+      "name": "Kiswahili"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "KE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

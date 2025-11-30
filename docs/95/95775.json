@@ -1,0 +1,25 @@
+{
+  "id": 95775,
+  "title": "Clip",
+  "original_title": "Klip",
+  "release_date": "2012-01-27",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "RS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

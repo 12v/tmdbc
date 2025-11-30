@@ -1,0 +1,25 @@
+{
+  "id": 1315303,
+  "title": "Primate",
+  "original_title": "Primate",
+  "release_date": "2026-01-01",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

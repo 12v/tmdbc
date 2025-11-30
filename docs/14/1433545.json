@@ -1,0 +1,37 @@
+{
+  "id": 1433545,
+  "title": "House Mates",
+  "original_title": "\u0bb9\u0bb5\u0bc1\u0bb8\u0bcd \u0bae\u0bc7\u0b9f\u0bcd\u0bb8\u0bcd",
+  "release_date": "2025-08-01",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

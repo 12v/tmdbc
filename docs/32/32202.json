@@ -1,0 +1,27 @@
+{
+  "id": 32202,
+  "title": "Hey Good Lookin'",
+  "original_title": "Hey Good Lookin'",
+  "release_date": "1982-10-01",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

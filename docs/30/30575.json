@@ -1,0 +1,41 @@
+{
+  "id": 30575,
+  "title": "Sailor Moon S the Movie: Hearts in Ice",
+  "original_title": "\u5287\u5834\u7248 \u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3S \u301c\u304b\u3050\u3084\u59eb\u306e\u604b\u4eba\u301c",
+  "release_date": "1994-12-04",
+  "status": "Released",
+  "runtime": 59,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

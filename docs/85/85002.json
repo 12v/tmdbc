@@ -1,0 +1,25 @@
+{
+  "id": 85002,
+  "title": "Cemetery of Terror",
+  "original_title": "Cementerio del terror",
+  "release_date": "1985-12-12",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

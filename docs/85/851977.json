@@ -1,0 +1,37 @@
+{
+  "id": 851977,
+  "title": "Journey to the West",
+  "original_title": "\u5b87\u5b99\u63a2\u7d22\u7f16\u8f91\u90e8",
+  "release_date": "2023-04-01",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

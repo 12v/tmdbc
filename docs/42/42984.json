@@ -1,0 +1,25 @@
+{
+  "id": 42984,
+  "title": "The Insect Woman",
+  "original_title": "\u306b\u3063\u307d\u3093\u6606\u866b\u8a18",
+  "release_date": "1963-11-16",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

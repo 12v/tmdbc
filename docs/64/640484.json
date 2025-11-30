@@ -1,0 +1,33 @@
+{
+  "id": 640484,
+  "title": "Valimai",
+  "original_title": "\u0bb5\u0bb2\u0bbf\u0bae\u0bc8",
+  "release_date": "2022-02-24",
+  "status": "Released",
+  "runtime": 179,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

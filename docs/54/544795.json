@@ -1,0 +1,29 @@
+{
+  "id": 544795,
+  "title": "C/o Kancharapalem",
+  "original_title": "C/o \u0c15\u0c02\u0c1a\u0c30\u0c2a\u0c3e\u0c32\u0c46\u0c02",
+  "release_date": "2018-09-07",
+  "status": "Released",
+  "runtime": 152,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 60159,
+  "title": "Gamera 3: Revenge of Iris",
+  "original_title": "\u30ac\u30e1\u30e93 \u90aa\u795e\uff1c\u30a4\u30ea\u30b9\uff1e\u899a\u9192",
+  "release_date": "1999-03-06",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

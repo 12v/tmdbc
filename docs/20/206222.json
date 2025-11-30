@@ -1,0 +1,26 @@
+{
+  "id": 206222,
+  "title": "Riddles of the Sphinx",
+  "original_title": "Riddles of the Sphinx",
+  "release_date": "1977-09-02",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

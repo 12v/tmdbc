@@ -1,0 +1,29 @@
+{
+  "id": 104308,
+  "title": "The Spider Labyrinth",
+  "original_title": "Il nido del ragno",
+  "release_date": "1988-08-25",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

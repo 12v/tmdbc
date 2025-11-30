@@ -1,0 +1,29 @@
+{
+  "id": 195471,
+  "title": "Daughters of Fire",
+  "original_title": "As Filhas do Fogo",
+  "release_date": "1978-11-17",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

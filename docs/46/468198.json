@@ -1,0 +1,29 @@
+{
+  "id": 468198,
+  "title": "The Place",
+  "original_title": "The Place",
+  "release_date": "2017-11-04",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

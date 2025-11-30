@@ -1,0 +1,37 @@
+{
+  "id": 591120,
+  "title": "The Pirates: The Last Royal Treasure",
+  "original_title": "\ud574\uc801: \ub3c4\uae68\ube44 \uae43\ubc1c",
+  "release_date": "2022-01-26",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

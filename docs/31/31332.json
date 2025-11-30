@@ -1,0 +1,30 @@
+{
+  "id": 31332,
+  "title": "The Stranger",
+  "original_title": "Lo straniero",
+  "release_date": "1967-10-14",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

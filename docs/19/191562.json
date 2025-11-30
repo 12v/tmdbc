@@ -1,0 +1,29 @@
+{
+  "id": 191562,
+  "title": "Go Goa Gone",
+  "original_title": "\u0917\u094b \u0917\u094b\u0906 \u0917\u0949\u0928",
+  "release_date": "2013-05-10",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

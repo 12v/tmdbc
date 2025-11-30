@@ -1,0 +1,33 @@
+{
+  "id": 126597,
+  "title": "Down to the Cellar",
+  "original_title": "Do pivnice",
+  "release_date": "1983-10-31",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "sk",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

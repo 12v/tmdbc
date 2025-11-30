@@ -1,0 +1,25 @@
+{
+  "id": 1008003,
+  "title": "Under Therapy",
+  "original_title": "Bajo terapia",
+  "release_date": "2023-03-17",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

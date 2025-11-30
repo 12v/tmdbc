@@ -1,0 +1,30 @@
+{
+  "id": 31936,
+  "title": "Welcome Mr. Marshall!",
+  "original_title": "\u00a1Bienvenido, Mister Marshall!",
+  "release_date": "1953-04-04",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 42464,
+  "title": "O Lucky Man!",
+  "original_title": "O Lucky Man!",
+  "release_date": "1973-03-25",
+  "status": "Released",
+  "runtime": 184,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

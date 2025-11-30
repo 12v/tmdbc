@@ -1,0 +1,33 @@
+{
+  "id": 1323880,
+  "title": "Idli Kadai",
+  "original_title": "\u0b87\u0b9f\u0bcd\u0bb2\u0bbf \u0b95\u0b9f\u0bc8",
+  "release_date": "2025-10-01",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

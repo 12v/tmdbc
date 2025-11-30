@@ -1,0 +1,29 @@
+{
+  "id": 67440,
+  "title": "C\u0153ur fid\u00e8le",
+  "original_title": "C\u0153ur fid\u00e8le",
+  "release_date": "1923-11-23",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

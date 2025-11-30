@@ -1,0 +1,29 @@
+{
+  "id": 42699,
+  "title": "Yongary, Monster from the Deep",
+  "original_title": "\ub300\uad34\uc218 \uc6a9\uac00\ub9ac",
+  "release_date": "1967-08-13",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 977592,
+  "title": "Lost Sofia",
+  "original_title": "Perdida",
+  "release_date": "2023-07-13",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

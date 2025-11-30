@@ -1,0 +1,33 @@
+{
+  "id": 9742,
+  "title": "Werner and the Wizard of Booze",
+  "original_title": "Werner - Beinhart!",
+  "release_date": "1990-11-29",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

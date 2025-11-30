@@ -1,0 +1,33 @@
+{
+  "id": 54273,
+  "title": "Zatoichi's Revenge",
+  "original_title": "\u5ea7\u982d\u5e02\u4e8c\u6bb5\u65ac\u308a",
+  "release_date": "1965-04-03",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 26974,
+  "title": "Pulgasari",
+  "original_title": "\ubd88\uac00\uc0ac\ub9ac",
+  "release_date": "1985-12-01",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

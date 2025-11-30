@@ -1,0 +1,33 @@
+{
+  "id": 619154,
+  "title": "Alice J\u00fanior",
+  "original_title": "Alice J\u00fanior",
+  "release_date": "2020-09-11",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

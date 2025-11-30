@@ -1,0 +1,29 @@
+{
+  "id": 54755,
+  "title": "The Mysterious Castle in the Carpathians",
+  "original_title": "Tajemstv\u00ed hradu v Karpatech",
+  "release_date": "1981-10-02",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

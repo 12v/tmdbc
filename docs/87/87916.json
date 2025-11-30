@@ -1,0 +1,25 @@
+{
+  "id": 87916,
+  "title": "Vacation of Terror",
+  "original_title": "Vacaciones de terror",
+  "release_date": "1989-05-11",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 508802,
+  "title": "Penguins",
+  "original_title": "Penguins",
+  "release_date": "2019-04-17",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

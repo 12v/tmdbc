@@ -1,0 +1,29 @@
+{
+  "id": 946327,
+  "title": "Trust No One: The Hunt for the Crypto King",
+  "original_title": "Trust No One: The Hunt for the Crypto King",
+  "release_date": "2022-03-30",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

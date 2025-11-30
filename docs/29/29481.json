@@ -1,0 +1,29 @@
+{
+  "id": 29481,
+  "title": "Stranger on the Third Floor",
+  "original_title": "Stranger on the Third Floor",
+  "release_date": "1940-08-16",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

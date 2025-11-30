@@ -1,0 +1,25 @@
+{
+  "id": 36090,
+  "title": "Emperor Tomato Ketchup",
+  "original_title": "\u30c8\u30de\u30c8\u30b1\u30c1\u30e3\u30c3\u30d7\u7687\u5e1d",
+  "release_date": "1971-01-27",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

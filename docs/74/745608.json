@@ -1,0 +1,25 @@
+{
+  "id": 745608,
+  "title": "Employee of the Month",
+  "original_title": "Irr\u00e9ductible",
+  "release_date": "2022-06-29",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

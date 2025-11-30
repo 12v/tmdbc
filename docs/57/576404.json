@@ -1,0 +1,25 @@
+{
+  "id": 576404,
+  "title": "And Your Bird Can Sing",
+  "original_title": "\u304d\u307f\u306e\u9ce5\u306f\u3046\u305f\u3048\u308b",
+  "release_date": "2018-09-01",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

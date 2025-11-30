@@ -1,0 +1,26 @@
+{
+  "id": 1214457,
+  "title": "Gaucho Gaucho",
+  "original_title": "Gaucho Gaucho",
+  "release_date": "2024-10-25",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

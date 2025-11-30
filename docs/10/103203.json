@@ -1,0 +1,46 @@
+{
+  "id": 103203,
+  "title": "Camp de Thiaroye",
+  "original_title": "Camp de Thiaroye",
+  "release_date": "1988-09-06",
+  "status": "Released",
+  "runtime": 154,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Wolof",
+      "iso_639_1": "wo",
+      "name": "Wolof"
+    }
+  ],
+  "origin_country": [
+    "DZ",
+    "SN",
+    "TN"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

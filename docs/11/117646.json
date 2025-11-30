@@ -1,0 +1,34 @@
+{
+  "id": 117646,
+  "title": "Spring Fever",
+  "original_title": "\u6625\u98ce\u6c89\u9189\u7684\u591c\u665a",
+  "release_date": "2009-05-13",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

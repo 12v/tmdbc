@@ -1,0 +1,33 @@
+{
+  "id": 27316,
+  "title": "Into the Mirror",
+  "original_title": "\uac70\uc6b8 \uc18d\uc73c\ub85c",
+  "release_date": "2003-08-14",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

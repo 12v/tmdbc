@@ -1,0 +1,25 @@
+{
+  "id": 42260,
+  "title": "Mother K\u00fcsters Goes to Heaven",
+  "original_title": "Mutter K\u00fcsters' Fahrt zum Himmel",
+  "release_date": "1975-07-07",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

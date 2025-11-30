@@ -1,0 +1,29 @@
+{
+  "id": 105125,
+  "title": "A Night in Nude",
+  "original_title": "\u30cc\u30fc\u30c9\u306e\u591c",
+  "release_date": "1993-12-18",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

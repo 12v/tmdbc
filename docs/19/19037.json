@@ -1,0 +1,33 @@
+{
+  "id": 19037,
+  "title": "Virile Games",
+  "original_title": "Mu\u017en\u00e9 hry",
+  "release_date": "1988-01-01",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

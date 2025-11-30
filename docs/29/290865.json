@@ -1,0 +1,29 @@
+{
+  "id": 290865,
+  "title": "Tazza: The Hidden Card",
+  "original_title": "\ud0c0\uc9dc: \uc2e0\uc758 \uc190",
+  "release_date": "2014-09-03",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

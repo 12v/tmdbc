@@ -1,0 +1,25 @@
+{
+  "id": 175341,
+  "title": "Hamlet",
+  "original_title": "Hamlet",
+  "release_date": "1921-01-27",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

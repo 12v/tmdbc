@@ -1,0 +1,38 @@
+{
+  "id": 115929,
+  "title": "Cool Kids Don't Cry",
+  "original_title": "Achtste Groepers Huilen Niet",
+  "release_date": "2012-02-15",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

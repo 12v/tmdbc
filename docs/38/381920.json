@@ -1,0 +1,29 @@
+{
+  "id": 381920,
+  "title": "Touching the Skin of Eeriness",
+  "original_title": "\u4e0d\u6c17\u5473\u306a\u3082\u306e\u306e\u808c\u306b\u89e6\u308c\u308b",
+  "release_date": "2013-12-01",
+  "status": "Released",
+  "runtime": 55,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

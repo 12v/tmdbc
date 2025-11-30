@@ -1,0 +1,29 @@
+{
+  "id": 49277,
+  "title": "The Hilarious Posters",
+  "original_title": "Les affiches en goguette",
+  "release_date": "1906-04-20",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

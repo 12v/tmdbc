@@ -1,0 +1,25 @@
+{
+  "id": 156033,
+  "title": "O Di\u00e1rio de Tati",
+  "original_title": "O Di\u00e1rio de Tati",
+  "release_date": "2012-08-24",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

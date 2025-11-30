@@ -1,0 +1,29 @@
+{
+  "id": 27154,
+  "title": "Happy End",
+  "original_title": "\ud574\ud53c \uc5d4\ub4dc",
+  "release_date": "1999-12-11",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

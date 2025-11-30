@@ -1,0 +1,29 @@
+{
+  "id": 1353436,
+  "title": "KA",
+  "original_title": "\u0c15",
+  "release_date": "2024-10-31",
+  "status": "Released",
+  "runtime": 149,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

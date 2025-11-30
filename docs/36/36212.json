@@ -1,0 +1,41 @@
+{
+  "id": 36212,
+  "title": "Rebirth of Mothra II",
+  "original_title": "\u30e2\u30b9\u30e92 \u6d77\u5e95\u306e\u5927\u6c7a\u6226",
+  "release_date": "1997-12-13",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

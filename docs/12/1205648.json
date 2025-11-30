@@ -1,0 +1,29 @@
+{
+  "id": 1205648,
+  "title": "No One Will Know",
+  "original_title": "Le Roi Soleil",
+  "release_date": "2025-08-27",
+  "status": "Released",
+  "runtime": 0,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1115239,
+  "title": "Por Thozhil",
+  "original_title": "\u0baa\u0bcb\u0bb0\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd",
+  "release_date": "2023-06-09",
+  "status": "Released",
+  "runtime": 148,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

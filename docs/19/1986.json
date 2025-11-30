@@ -1,0 +1,35 @@
+{
+  "id": 1986,
+  "title": "Live and Become",
+  "original_title": "Va, vis et deviens",
+  "release_date": "2005-03-30",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Amharic",
+      "iso_639_1": "am",
+      "name": ""
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

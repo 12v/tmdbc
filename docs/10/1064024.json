@@ -1,0 +1,25 @@
+{
+  "id": 1064024,
+  "title": "Locked In",
+  "original_title": "Locked In",
+  "release_date": "2023-11-01",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

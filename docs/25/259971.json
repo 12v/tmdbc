@@ -1,0 +1,25 @@
+{
+  "id": 259971,
+  "title": "An Argentinian in New York",
+  "original_title": "Un argentino en New York",
+  "release_date": "1998-05-21",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

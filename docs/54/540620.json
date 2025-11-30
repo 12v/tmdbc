@@ -1,0 +1,29 @@
+{
+  "id": 540620,
+  "title": "Laila Majnu",
+  "original_title": "\u0932\u0948\u0932\u093e \u092e\u091c\u0928\u0942",
+  "release_date": "2018-09-07",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

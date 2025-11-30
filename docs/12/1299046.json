@@ -1,0 +1,29 @@
+{
+  "id": 1299046,
+  "title": "Diamonds",
+  "original_title": "Diamanti",
+  "release_date": "2024-12-19",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

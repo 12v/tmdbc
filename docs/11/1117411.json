@@ -1,0 +1,25 @@
+{
+  "id": 1117411,
+  "title": "The Kerala Story",
+  "original_title": "The Kerala Story",
+  "release_date": "2023-05-05",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

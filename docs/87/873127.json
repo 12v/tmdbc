@@ -1,0 +1,29 @@
+{
+  "id": 873127,
+  "title": "Under the Amalfi Sun",
+  "original_title": "Sotto il sole di Amalfi",
+  "release_date": "2022-07-13",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

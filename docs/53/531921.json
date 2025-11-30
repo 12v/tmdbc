@@ -1,0 +1,29 @@
+{
+  "id": 531921,
+  "title": "Who\u2019s Stopping Us",
+  "original_title": "Qui\u00e9n lo impide",
+  "release_date": "2021-09-22",
+  "status": "Released",
+  "runtime": 220,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

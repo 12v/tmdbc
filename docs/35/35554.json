@@ -1,0 +1,25 @@
+{
+  "id": 35554,
+  "title": "Cado dalle nubi",
+  "original_title": "Cado dalle nubi",
+  "release_date": "2009-11-27",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 828504,
+  "title": "The Gaze",
+  "original_title": "The Gaze",
+  "release_date": "2021-05-11",
+  "status": "Released",
+  "runtime": 52,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

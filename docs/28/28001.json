@@ -1,0 +1,25 @@
+{
+  "id": 28001,
+  "title": "It's a Gift",
+  "original_title": "It's a Gift",
+  "release_date": "1934-11-30",
+  "status": "Released",
+  "runtime": 68,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

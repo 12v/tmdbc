@@ -1,0 +1,25 @@
+{
+  "id": 28403,
+  "title": "The Werewolf Versus the Vampire Woman",
+  "original_title": "La noche de Walpurgis",
+  "release_date": "1971-05-17",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

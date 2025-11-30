@@ -1,0 +1,33 @@
+{
+  "id": 516716,
+  "title": "Milly & Mamet",
+  "original_title": "Milly & Mamet",
+  "release_date": "2018-12-20",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

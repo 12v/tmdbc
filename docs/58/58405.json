@@ -1,0 +1,25 @@
+{
+  "id": 58405,
+  "title": "Don't Look Up",
+  "original_title": "\u5973\u512a\u970a",
+  "release_date": "1996-03-22",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

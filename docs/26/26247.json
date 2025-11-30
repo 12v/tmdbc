@@ -1,0 +1,29 @@
+{
+  "id": 26247,
+  "title": "Bombay",
+  "original_title": "\u0baa\u0bae\u0bcd\u0baa\u0bbe\u0baf\u0bcd",
+  "release_date": "1995-03-10",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

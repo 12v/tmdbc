@@ -1,0 +1,29 @@
+{
+  "id": 574088,
+  "title": "The Weasel's Tale",
+  "original_title": "El cuento de las comadrejas",
+  "release_date": "2019-05-16",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

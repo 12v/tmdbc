@@ -1,0 +1,25 @@
+{
+  "id": 47903,
+  "title": "The Sun in a Net",
+  "original_title": "Slnko v sieti",
+  "release_date": "1963-02-15",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "sk",
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Sloven\u010dina"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 53123,
+  "title": "La boca del lobo",
+  "original_title": "La boca del lobo",
+  "release_date": "1988-12-08",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Quechua",
+      "iso_639_1": "qu",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

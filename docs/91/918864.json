@@ -1,0 +1,34 @@
+{
+  "id": 918864,
+  "title": "Vaathi",
+  "original_title": "\u0bb5\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf",
+  "release_date": "2023-02-16",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 127817,
+  "title": "Blinkity Blank",
+  "original_title": "Blinkity Blank",
+  "release_date": "1955-04-25",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

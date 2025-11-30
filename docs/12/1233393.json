@@ -1,0 +1,25 @@
+{
+  "id": 1233393,
+  "title": "An Odd Turn",
+  "original_title": "Un movimiento extra\u00f1o",
+  "release_date": "2024-11-08",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

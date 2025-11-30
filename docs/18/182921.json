@@ -1,0 +1,33 @@
+{
+  "id": 182921,
+  "title": "The Snake Girl and the Silver-Haired Witch",
+  "original_title": "\u86c7\u5a18\u3068\u767d\u9aea\u9b54",
+  "release_date": "1968-12-14",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

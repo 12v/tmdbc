@@ -1,0 +1,37 @@
+{
+  "id": 13679,
+  "title": "Kirikou and the Wild Beasts",
+  "original_title": "Kirikou et les b\u00eates sauvages",
+  "release_date": "2005-12-07",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

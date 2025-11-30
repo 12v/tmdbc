@@ -1,0 +1,29 @@
+{
+  "id": 1236018,
+  "title": "The Pee Pee Poo Poo Man",
+  "original_title": "The Pee Pee Poo Poo Man",
+  "release_date": "2024-11-28",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

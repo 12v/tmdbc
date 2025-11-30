@@ -1,0 +1,26 @@
+{
+  "id": 1115104,
+  "title": "Your Fat Friend",
+  "original_title": "Your Fat Friend",
+  "release_date": "2024-02-09",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

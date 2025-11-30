@@ -1,0 +1,29 @@
+{
+  "id": 107016,
+  "title": "The Strange World of Coffin Joe",
+  "original_title": "O Estranho Mundo de Z\u00e9 do Caix\u00e3o",
+  "release_date": "1968-11-25",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

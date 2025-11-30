@@ -1,0 +1,33 @@
+{
+  "id": 32722,
+  "title": "Alice or the Last Escapade",
+  "original_title": "Alice ou la Derni\u00e8re Fugue",
+  "release_date": "1977-01-19",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

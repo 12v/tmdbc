@@ -1,0 +1,29 @@
+{
+  "id": 487491,
+  "title": "Fala S\u00e9rio, M\u00e3e!",
+  "original_title": "Fala S\u00e9rio, M\u00e3e!",
+  "release_date": "2017-12-28",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

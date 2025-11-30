@@ -1,0 +1,25 @@
+{
+  "id": 38794,
+  "title": "Tosun Pasha",
+  "original_title": "Tosun Pa\u015fa",
+  "release_date": "1976-02-01",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

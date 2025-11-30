@@ -1,0 +1,29 @@
+{
+  "id": 116370,
+  "title": "Nothing but Time",
+  "original_title": "Rien que les heures",
+  "release_date": "1926-01-01",
+  "status": "Released",
+  "runtime": 46,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

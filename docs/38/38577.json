@@ -1,0 +1,38 @@
+{
+  "id": 38577,
+  "title": "The Old Man and the Sea",
+  "original_title": "\u0421\u0442\u0430\u0440\u0438\u043a \u0438 \u043c\u043e\u0440\u0435",
+  "release_date": "1999-07-03",
+  "status": "Released",
+  "runtime": 21,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

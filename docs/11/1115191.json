@@ -1,0 +1,29 @@
+{
+  "id": 1115191,
+  "title": "Poisoned: The Dirty Truth About Your Food",
+  "original_title": "Poisoned: The Dirty Truth About Your Food",
+  "release_date": "2023-06-09",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

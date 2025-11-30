@@ -1,0 +1,33 @@
+{
+  "id": 198436,
+  "title": "Antboy",
+  "original_title": "Antboy",
+  "release_date": "2013-09-07",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

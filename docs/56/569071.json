@@ -1,0 +1,33 @@
+{
+  "id": 569071,
+  "title": "Minha Fama de Mau",
+  "original_title": "Minha Fama de Mau",
+  "release_date": "2019-02-14",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

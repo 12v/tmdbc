@@ -1,0 +1,38 @@
+{
+  "id": 273854,
+  "title": "Leila and the Wolves",
+  "original_title": "\u0644\u064a\u0644\u0649 \u0648 \u0627\u0644\u0630\u0626\u0627\u0628",
+  "release_date": "1984-01-01",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "LB"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

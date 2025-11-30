@@ -1,0 +1,25 @@
+{
+  "id": 1170283,
+  "title": "The Visitor",
+  "original_title": "The Visitor",
+  "release_date": "2024-12-05",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

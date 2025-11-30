@@ -1,0 +1,29 @@
+{
+  "id": 68291,
+  "title": "Music in Darkness",
+  "original_title": "Musik i m\u00f6rker",
+  "release_date": "1948-01-17",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

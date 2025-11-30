@@ -1,0 +1,25 @@
+{
+  "id": 62437,
+  "title": "Land of Silence and Darkness",
+  "original_title": "Land des Schweigens und der Dunkelheit",
+  "release_date": "1971-10-08",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

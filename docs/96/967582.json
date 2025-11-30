@@ -1,0 +1,30 @@
+{
+  "id": 967582,
+  "title": "3 Days Max",
+  "original_title": "3 jours max",
+  "release_date": "2023-10-25",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

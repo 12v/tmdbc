@@ -1,0 +1,38 @@
+{
+  "id": 317198,
+  "title": "Bad Hair Day",
+  "original_title": "Bad Hair Day",
+  "release_date": "2015-02-13",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

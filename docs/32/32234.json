@@ -1,0 +1,33 @@
+{
+  "id": 32234,
+  "title": "Doppelganger",
+  "original_title": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc",
+  "release_date": "2003-09-27",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

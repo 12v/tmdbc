@@ -1,0 +1,25 @@
+{
+  "id": 10260,
+  "title": "My New Partner",
+  "original_title": "Les Ripoux",
+  "release_date": "1984-09-19",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

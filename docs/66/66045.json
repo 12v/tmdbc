@@ -1,0 +1,33 @@
+{
+  "id": 66045,
+  "title": "Black Magic M-66",
+  "original_title": "\u30d6\u30e9\u30c3\u30af\u30de\u30b8\u30c3\u30afM-66",
+  "release_date": "1987-06-28",
+  "status": "Released",
+  "runtime": 47,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

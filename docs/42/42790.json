@@ -1,0 +1,29 @@
+{
+  "id": 42790,
+  "title": "Seduced and Abandoned",
+  "original_title": "Sedotta e abbandonata",
+  "release_date": "1964-01-30",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

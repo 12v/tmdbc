@@ -1,0 +1,28 @@
+{
+  "id": 1012241,
+  "title": "The Village Next to Paradise",
+  "original_title": "Tuulada ku xigta Jannada",
+  "release_date": "2024-11-08",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "so",
+  "spoken_languages": [
+    {
+      "english_name": "Somali",
+      "iso_639_1": "so",
+      "name": "Somali"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "FR",
+    "DE",
+    "SO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

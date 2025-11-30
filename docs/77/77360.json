@@ -1,0 +1,25 @@
+{
+  "id": 77360,
+  "title": "The Place without Limits",
+  "original_title": "El lugar sin l\u00edmites",
+  "release_date": "1978-04-28",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

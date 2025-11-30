@@ -1,0 +1,25 @@
+{
+  "id": 115655,
+  "title": "The World is Ours",
+  "original_title": "El mundo es nuestro",
+  "release_date": "2012-06-22",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
