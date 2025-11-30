@@ -1,0 +1,31 @@
+{
+  "id": 1103501,
+  "title": "Confessions",
+  "original_title": "Confesiones",
+  "release_date": "2023-11-02",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

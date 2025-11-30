@@ -1,0 +1,29 @@
+{
+  "id": 47454,
+  "title": "Presentation, or Charlotte and Her Steak",
+  "original_title": "Pr\u00e9sentation ou Charlotte et son steak",
+  "release_date": "1951-11-20",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

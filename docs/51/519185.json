@@ -1,0 +1,40 @@
+{
+  "id": 519185,
+  "title": "Ayka",
+  "original_title": "\u0410\u0439\u043a\u0430",
+  "release_date": "2018-02-14",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Kazakh",
+      "iso_639_1": "kk",
+      "name": "\u049b\u0430\u0437\u0430\u049b"
+    },
+    {
+      "english_name": "Kirghiz",
+      "iso_639_1": "ky",
+      "name": "??????"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "FR",
+    "DE",
+    "KZ",
+    "PL",
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

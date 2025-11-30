@@ -1,0 +1,25 @@
+{
+  "id": 934323,
+  "title": "Mickey: The Story of a Mouse",
+  "original_title": "Mickey: The Story of a Mouse",
+  "release_date": "2022-03-19",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

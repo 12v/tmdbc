@@ -1,0 +1,44 @@
+{
+  "id": 457258,
+  "title": "Ali's Wedding",
+  "original_title": "Ali's Wedding",
+  "release_date": "2017-08-31",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

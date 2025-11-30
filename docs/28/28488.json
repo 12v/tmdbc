@@ -1,0 +1,42 @@
+{
+  "id": 28488,
+  "title": "Knife of Ice",
+  "original_title": "Il coltello di ghiaccio",
+  "release_date": "1972-08-24",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

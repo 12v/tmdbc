@@ -1,0 +1,33 @@
+{
+  "id": 1053993,
+  "title": "The Wait",
+  "original_title": "La espera",
+  "release_date": "2023-12-15",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 898308,
+  "title": "Darby and the Dead",
+  "original_title": "Darby and the Dead",
+  "release_date": "2022-12-02",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

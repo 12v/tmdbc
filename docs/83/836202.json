@@ -1,0 +1,30 @@
+{
+  "id": 836202,
+  "title": "Brother and Sister",
+  "original_title": "Fr\u00e8re et S\u0153ur",
+  "release_date": "2022-05-20",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

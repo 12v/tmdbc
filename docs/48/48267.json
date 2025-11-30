@@ -1,0 +1,29 @@
+{
+  "id": 48267,
+  "title": "The American Soldier",
+  "original_title": "Der amerikanische Soldat",
+  "release_date": "1976-10-14",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

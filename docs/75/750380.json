@@ -1,0 +1,29 @@
+{
+  "id": 750380,
+  "title": "P1H: A New World Begins",
+  "original_title": "\ud53c\uc6d0\uc5d0\uc774\uce58: \uc0c8\ub85c\uc6b4 \uc138\uacc4\uc758 \uc2dc\uc791",
+  "release_date": "2020-10-08",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

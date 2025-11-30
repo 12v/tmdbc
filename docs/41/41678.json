@@ -1,0 +1,29 @@
+{
+  "id": 41678,
+  "title": "The Oak",
+  "original_title": "Balan\u0163a",
+  "release_date": "1992-09-16",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

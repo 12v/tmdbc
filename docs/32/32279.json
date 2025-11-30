@@ -1,0 +1,37 @@
+{
+  "id": 32279,
+  "title": "Arabesque",
+  "original_title": "Arabesk",
+  "release_date": "1989-02-01",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

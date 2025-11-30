@@ -1,0 +1,25 @@
+{
+  "id": 88418,
+  "title": "Wolfsburg",
+  "original_title": "Wolfsburg",
+  "release_date": "2003-09-25",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1915,
+  "title": "Manta, Manta",
+  "original_title": "Manta, Manta",
+  "release_date": "1991-10-03",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

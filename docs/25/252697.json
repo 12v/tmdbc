@@ -1,0 +1,29 @@
+{
+  "id": 252697,
+  "title": "The Black Vampire",
+  "original_title": "El vampiro negro",
+  "release_date": "1953-10-14",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 108545,
+  "title": "Evil of Dracula",
+  "original_title": "\u8840\u3092\u5438\u3046\u8594\u8587",
+  "release_date": "1974-07-20",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

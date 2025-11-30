@@ -1,0 +1,25 @@
+{
+  "id": 69869,
+  "title": "The Dead Come Home",
+  "original_title": "The Dead Come Home",
+  "release_date": "1989-10-27",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

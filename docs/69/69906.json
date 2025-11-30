@@ -1,0 +1,26 @@
+{
+  "id": 69906,
+  "title": "A Girl's Own Story",
+  "original_title": "A Girl's Own Story",
+  "release_date": "1984-06-08",
+  "status": "Released",
+  "runtime": 27,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

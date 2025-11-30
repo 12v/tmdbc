@@ -1,0 +1,25 @@
+{
+  "id": 338914,
+  "title": "Diary of an African Nun",
+  "original_title": "Diary of an African Nun",
+  "release_date": "1977-03-01",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

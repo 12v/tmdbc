@@ -1,0 +1,33 @@
+{
+  "id": 293271,
+  "title": "Moomins on the Riviera",
+  "original_title": "Muumit Rivieralla",
+  "release_date": "2014-10-10",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

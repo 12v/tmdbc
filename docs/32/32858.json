@@ -1,0 +1,25 @@
+{
+  "id": 32858,
+  "title": "The Return of the Vampire",
+  "original_title": "The Return of the Vampire",
+  "release_date": "1943-11-11",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

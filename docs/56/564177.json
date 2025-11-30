@@ -1,0 +1,30 @@
+{
+  "id": 564177,
+  "title": "Njan Prakashan",
+  "original_title": "\u0d1e\u0d3e\u0d7b \u0d2a\u0d4d\u0d30\u0d15\u0d3e\u0d36\u0d7b",
+  "release_date": "2018-12-21",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

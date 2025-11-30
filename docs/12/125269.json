@@ -1,0 +1,33 @@
+{
+  "id": 125269,
+  "title": "Big Time Gambling Boss",
+  "original_title": "\u535a\u5955\u6253\u3061 \u7dcf\u9577\u8ced\u535a",
+  "release_date": "1968-01-14",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

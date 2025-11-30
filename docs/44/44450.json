@@ -1,0 +1,33 @@
+{
+  "id": 44450,
+  "title": "Angelique",
+  "original_title": "Ang\u00e9lique, marquise des anges",
+  "release_date": "1964-12-08",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

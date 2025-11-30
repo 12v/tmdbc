@@ -1,0 +1,33 @@
+{
+  "id": 53156,
+  "title": "Elena and Her Men",
+  "original_title": "Elena et les hommes",
+  "release_date": "1956-09-12",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

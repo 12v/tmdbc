@@ -1,0 +1,33 @@
+{
+  "id": 44662,
+  "title": "Ch\u00fbshingura",
+  "original_title": "\u5fe0\u81e3\u8535 \u82b1\u306e\u5dfb\u30fb\u96ea\u306e\u5dfb",
+  "release_date": "1962-11-03",
+  "status": "Released",
+  "runtime": 207,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

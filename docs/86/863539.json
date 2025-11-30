@@ -1,0 +1,29 @@
+{
+  "id": 863539,
+  "title": "Gold",
+  "original_title": "\u0d17\u0d4b\u0d7e\u0d21\u0d4d",
+  "release_date": "2022-12-01",
+  "status": "Released",
+  "runtime": 165,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

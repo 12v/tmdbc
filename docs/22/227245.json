@@ -1,0 +1,29 @@
+{
+  "id": 227245,
+  "title": "The Last Day of Summer",
+  "original_title": "Ostatni dzie\u0144 lata",
+  "release_date": "1958-08-04",
+  "status": "Released",
+  "runtime": 59,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

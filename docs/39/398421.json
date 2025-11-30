@@ -1,0 +1,49 @@
+{
+  "id": 398421,
+  "title": "My Stupid Boss",
+  "original_title": "My Stupid Boss",
+  "release_date": "2016-05-19",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    },
+    {
+      "english_name": "Malay",
+      "iso_639_1": "ms",
+      "name": "Bahasa melayu"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

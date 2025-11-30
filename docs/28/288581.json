@@ -1,0 +1,38 @@
+{
+  "id": 288581,
+  "title": "Rocks in My Pockets",
+  "original_title": "Akme\u0146i man\u0101s kabat\u0101s",
+  "release_date": "2014-08-21",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Latvian",
+      "iso_639_1": "lv",
+      "name": "Latvie\u0161u"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "LV"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

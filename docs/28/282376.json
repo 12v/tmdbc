@@ -1,0 +1,39 @@
+{
+  "id": 282376,
+  "title": "Corn Island",
+  "original_title": "\u10e1\u10d8\u10db\u10d8\u10dc\u10d3\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d8",
+  "release_date": "2014-09-17",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Abkhazian",
+      "iso_639_1": "ab",
+      "name": ""
+    },
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "GE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

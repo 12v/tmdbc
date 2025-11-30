@@ -1,0 +1,29 @@
+{
+  "id": 335462,
+  "title": "Wolf Warrior",
+  "original_title": "\u6218\u72fc",
+  "release_date": "2015-04-02",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

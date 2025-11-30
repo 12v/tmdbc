@@ -1,0 +1,35 @@
+{
+  "id": 464825,
+  "title": "The Cakemaker",
+  "original_title": "\u05d4\u05d0\u05d5\u05e4\u05d4 \u05de\u05d1\u05e8\u05dc\u05d9\u05df",
+  "release_date": "2017-12-28",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "he",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "IL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

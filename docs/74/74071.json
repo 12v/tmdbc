@@ -1,0 +1,33 @@
+{
+  "id": 74071,
+  "title": "In the Folds of the Flesh",
+  "original_title": "Nelle pieghe della carne",
+  "release_date": "1970-05-02",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

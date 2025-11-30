@@ -1,0 +1,29 @@
+{
+  "id": 28650,
+  "title": "The Thing with Two Heads",
+  "original_title": "The Thing with Two Heads",
+  "release_date": "1972-07-19",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

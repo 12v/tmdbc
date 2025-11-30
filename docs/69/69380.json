@@ -1,0 +1,29 @@
+{
+  "id": 69380,
+  "title": "A Wonderful World",
+  "original_title": "Un mundo maravilloso",
+  "release_date": "2006-03-17",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

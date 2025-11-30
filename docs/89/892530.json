@@ -1,0 +1,39 @@
+{
+  "id": 892530,
+  "title": "Julia(s)",
+  "original_title": "Le Tourbillon de la vie",
+  "release_date": "2022-12-21",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

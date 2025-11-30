@@ -1,0 +1,34 @@
+{
+  "id": 1389137,
+  "title": "Komang",
+  "original_title": "Komang",
+  "release_date": "2025-03-31",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

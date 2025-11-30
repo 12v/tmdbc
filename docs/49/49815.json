@@ -1,0 +1,25 @@
+{
+  "id": 49815,
+  "title": "The Whales of August",
+  "original_title": "The Whales of August",
+  "release_date": "1987-10-14",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

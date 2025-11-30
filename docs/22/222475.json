@@ -1,0 +1,25 @@
+{
+  "id": 222475,
+  "title": "Koro's Big Day Out",
+  "original_title": "\u30b3\u30ed\u306e\u5927\u3055\u3093\u307d",
+  "release_date": "2002-01-03",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 43596,
+  "title": "Liebelei",
+  "original_title": "Liebelei",
+  "release_date": "1933-03-10",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

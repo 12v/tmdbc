@@ -1,0 +1,33 @@
+{
+  "id": 39203,
+  "title": "Detective Conan: Magician of the Silver Sky",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u9280\u7ffc\u306e\u5947\u8853\u5e2b",
+  "release_date": "2004-04-17",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

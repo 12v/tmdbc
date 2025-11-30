@@ -1,0 +1,29 @@
+{
+  "id": 124597,
+  "title": "Genocide",
+  "original_title": "\u6606\u866b\u5927\u6226\u4e89",
+  "release_date": "1968-11-09",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

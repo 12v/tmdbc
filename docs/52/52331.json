@@ -1,0 +1,34 @@
+{
+  "id": 52331,
+  "title": "The Man from Majorca",
+  "original_title": "Mannen fr\u00e5n Mallorca",
+  "release_date": "1984-10-12",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

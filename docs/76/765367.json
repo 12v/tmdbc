@@ -1,0 +1,46 @@
+{
+  "id": 765367,
+  "title": "The Scariest Story Ever: A Mickey Mouse Halloween Spooktacular",
+  "original_title": "The Scariest Story Ever: A Mickey Mouse Halloween Spooktacular",
+  "release_date": "2017-10-08",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

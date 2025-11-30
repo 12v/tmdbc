@@ -1,0 +1,34 @@
+{
+  "id": 61560,
+  "title": "Smoking / No Smoking",
+  "original_title": "Smoking / No Smoking",
+  "release_date": "1993-12-15",
+  "status": "Released",
+  "runtime": 298,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

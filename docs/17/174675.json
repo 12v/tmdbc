@@ -1,0 +1,30 @@
+{
+  "id": 174675,
+  "title": "The Machine",
+  "original_title": "The Machine",
+  "release_date": "2013-04-25",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 212761,
+  "title": "A Case for a Rookie Hangman",
+  "original_title": "P\u0159\u00edpad pro za\u010d\u00ednaj\u00edc\u00edho kata",
+  "release_date": "1970-07-03",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

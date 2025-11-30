@@ -1,0 +1,29 @@
+{
+  "id": 449546,
+  "title": "For Both of Us",
+  "original_title": "\u0130kimizin Yerine",
+  "release_date": "2016-10-21",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

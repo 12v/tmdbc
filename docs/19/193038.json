@@ -1,0 +1,33 @@
+{
+  "id": 193038,
+  "title": "Dusty Stacks of Mom: The Poster Project",
+  "original_title": "Dusty Stacks of Mom: The Poster Project",
+  "release_date": "2013-04-19",
+  "status": "Released",
+  "runtime": 41,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

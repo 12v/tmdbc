@@ -1,0 +1,41 @@
+{
+  "id": 112826,
+  "title": "Talking Head",
+  "original_title": "\u30c8\u30fc\u30ad\u30f3\u30b0\u30fb\u30d8\u30c3\u30c9",
+  "release_date": "1992-10-10",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

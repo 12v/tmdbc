@@ -1,0 +1,34 @@
+{
+  "id": 156,
+  "title": "Wilbur Wants to Kill Himself",
+  "original_title": "Wilbur beg\u00e5r selvmord",
+  "release_date": "2002-11-08",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

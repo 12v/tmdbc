@@ -1,0 +1,29 @@
+{
+  "id": 66127,
+  "title": "Ferat Vampire",
+  "original_title": "Up\u00edr z Feratu",
+  "release_date": "1982-05-28",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

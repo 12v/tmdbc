@@ -1,0 +1,29 @@
+{
+  "id": 22557,
+  "title": "The Yellow Handkerchief",
+  "original_title": "\u5e78\u798f\u306e\u9ec4\u8272\u3044\u30cf\u30f3\u30ab\u30c1",
+  "release_date": "1977-09-30",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

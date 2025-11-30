@@ -1,0 +1,33 @@
+{
+  "id": 572667,
+  "title": "Too Handsome to Handle",
+  "original_title": "Terlalu Tampan",
+  "release_date": "2019-01-31",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

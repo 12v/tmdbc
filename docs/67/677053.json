@@ -1,0 +1,25 @@
+{
+  "id": 677053,
+  "title": "Between Two Dawns",
+  "original_title": "\u0130ki \u015eafak Aras\u0131nda",
+  "release_date": "2021-09-17",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

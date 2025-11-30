@@ -1,0 +1,26 @@
+{
+  "id": 50754,
+  "title": "7 Plus Seven",
+  "original_title": "7 Plus Seven",
+  "release_date": "1970-12-15",
+  "status": "Released",
+  "runtime": 52,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 22899,
+  "title": "Gamera vs. Barugon",
+  "original_title": "\u5927\u602a\u7363\u6c7a\u95d8 \u30ac\u30e1\u30e9\u5bfe\u30d0\u30eb\u30b4\u30f3",
+  "release_date": "1966-04-17",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

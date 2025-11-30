@@ -1,0 +1,37 @@
+{
+  "id": 62736,
+  "title": "Baoh: The Visitor",
+  "original_title": "\u30d0\u30aa\u30fc\u6765\u8a2a\u8005",
+  "release_date": "1989-11-01",
+  "status": "Released",
+  "runtime": 50,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

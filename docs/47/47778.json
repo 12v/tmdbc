@@ -1,0 +1,29 @@
+{
+  "id": 47778,
+  "title": "Stella",
+  "original_title": "\u03a3\u03c4\u03ad\u03bb\u03bb\u03b1",
+  "release_date": "1955-04-04",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 253380,
+  "title": "Saint Bernard",
+  "original_title": "S. Bernardo",
+  "release_date": "1972-06-01",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

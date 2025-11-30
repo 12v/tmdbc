@@ -1,0 +1,33 @@
+{
+  "id": 115232,
+  "title": "The Purple Ball",
+  "original_title": "\u041b\u0438\u043b\u043e\u0432\u044b\u0439 \u0448\u0430\u0440",
+  "release_date": "1988-01-01",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

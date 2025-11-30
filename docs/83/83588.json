@@ -1,0 +1,30 @@
+{
+  "id": 83588,
+  "title": "Middle of Nowhere",
+  "original_title": "Middle of Nowhere",
+  "release_date": "2012-10-12",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

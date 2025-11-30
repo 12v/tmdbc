@@ -1,0 +1,25 @@
+{
+  "id": 91094,
+  "title": "The Masseurs and a Woman",
+  "original_title": "\u6309\u6469\u3068\u5973",
+  "release_date": "1938-07-07",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 525894,
+  "title": "Treasure Island",
+  "original_title": "L'\u00cele au tr\u00e9sor",
+  "release_date": "2018-07-04",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

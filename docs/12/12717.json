@@ -1,0 +1,42 @@
+{
+  "id": 12717,
+  "title": "My Mother's Castle",
+  "original_title": "Le Ch\u00e2teau de ma m\u00e8re",
+  "release_date": "1990-10-26",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Occitan",
+      "iso_639_1": "oc",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

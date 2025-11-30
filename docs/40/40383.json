@@ -1,0 +1,25 @@
+{
+  "id": 40383,
+  "title": "The Last Shark",
+  "original_title": "L'ultimo squalo",
+  "release_date": "1981-04-02",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

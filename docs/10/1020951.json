@@ -1,0 +1,25 @@
+{
+  "id": 1020951,
+  "title": "Chandu Champion",
+  "original_title": "\u091a\u0902\u0926\u0942 \u091a\u0948\u0902\u092a\u093f\u092f\u0928",
+  "release_date": "2024-06-14",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

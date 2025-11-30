@@ -1,0 +1,37 @@
+{
+  "id": 33423,
+  "title": "The Scarlet Claw",
+  "original_title": "The Scarlet Claw",
+  "release_date": "1944-05-18",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

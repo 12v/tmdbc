@@ -1,0 +1,33 @@
+{
+  "id": 270668,
+  "title": "When Animals Dream",
+  "original_title": "N\u00e5r dyrene dr\u00f8mmer",
+  "release_date": "2014-06-12",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 71725,
+  "title": "Man Is Not a Bird",
+  "original_title": "\u010covek nije tica",
+  "release_date": "1965-03-06",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "sh",
+  "spoken_languages": [
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

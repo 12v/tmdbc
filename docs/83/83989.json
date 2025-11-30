@@ -1,0 +1,35 @@
+{
+  "id": 83989,
+  "title": "In Old Arizona",
+  "original_title": "In Old Arizona",
+  "release_date": "1928-12-25",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 535221,
+  "title": "Man in the Well",
+  "original_title": "\u4e95\u91cc\u7684\u4eba",
+  "release_date": "2016-07-26",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

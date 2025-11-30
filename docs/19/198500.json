@@ -1,0 +1,30 @@
+{
+  "id": 198500,
+  "title": "The Constant Factor",
+  "original_title": "Constans",
+  "release_date": "1980-06-04",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

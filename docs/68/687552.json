@@ -1,0 +1,29 @@
+{
+  "id": 687552,
+  "title": "T\u00f4 Ryca 2",
+  "original_title": "T\u00f4 Ryca 2",
+  "release_date": "2022-02-03",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

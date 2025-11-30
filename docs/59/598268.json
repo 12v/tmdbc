@@ -1,0 +1,30 @@
+{
+  "id": 598268,
+  "title": "The Whaler Boy",
+  "original_title": "\u041a\u0438\u0442\u043e\u0431\u043e\u0439",
+  "release_date": "2020-10-08",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

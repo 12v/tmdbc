@@ -1,0 +1,37 @@
+{
+  "id": 163060,
+  "title": "Harpy",
+  "original_title": "Harpya",
+  "release_date": "1979-05-01",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

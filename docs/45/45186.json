@@ -1,0 +1,37 @@
+{
+  "id": 45186,
+  "title": "Big Bad Mama",
+  "original_title": "Big Bad Mama",
+  "release_date": "1974-09-19",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 728113,
+  "title": "And Tomorrow the Entire World",
+  "original_title": "Und morgen die ganze Welt",
+  "release_date": "2021-10-07",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

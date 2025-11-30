@@ -1,0 +1,29 @@
+{
+  "id": 135141,
+  "title": "Doctor of Doom",
+  "original_title": "Doctor of Doom",
+  "release_date": "1979-07-10",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

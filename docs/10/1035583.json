@@ -1,0 +1,29 @@
+{
+  "id": 1035583,
+  "title": "Here for Blood",
+  "original_title": "Here for Blood",
+  "release_date": "2022-10-23",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

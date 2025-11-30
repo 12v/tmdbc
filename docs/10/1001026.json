@@ -1,0 +1,26 @@
+{
+  "id": 1001026,
+  "title": "Open Season",
+  "original_title": "Chasse gard\u00e9e",
+  "release_date": "2023-12-20",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

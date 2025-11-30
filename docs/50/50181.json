@@ -1,0 +1,25 @@
+{
+  "id": 50181,
+  "title": "L'Argent",
+  "original_title": "L'Argent",
+  "release_date": "1928-12-25",
+  "status": "Released",
+  "runtime": 165,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

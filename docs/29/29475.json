@@ -1,0 +1,29 @@
+{
+  "id": 29475,
+  "title": "The Five Heartbeats",
+  "original_title": "The Five Heartbeats",
+  "release_date": "1991-03-29",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 63670,
+  "title": "Vettaiyaadu Vilaiyaadu",
+  "original_title": "\u0bb5\u0bc7\u0b9f\u0bcd\u0b9f\u0bc8\u0baf\u0bbe\u0b9f\u0bc1 \u0bb5\u0bbf\u0bb3\u0bc8\u0baf\u0bbe\u0b9f\u0bc1",
+  "release_date": "2006-08-25",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

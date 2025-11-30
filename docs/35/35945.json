@@ -1,0 +1,36 @@
+{
+  "id": 35945,
+  "title": "Howling V: The Rebirth",
+  "original_title": "Howling V: The Rebirth",
+  "release_date": "1989-05-01",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

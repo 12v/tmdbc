@@ -1,0 +1,34 @@
+{
+  "id": 77561,
+  "title": "EVA",
+  "original_title": "EVA",
+  "release_date": "2011-10-06",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

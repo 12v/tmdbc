@@ -1,0 +1,25 @@
+{
+  "id": 29130,
+  "title": "The Demoniacs",
+  "original_title": "Les D\u00e9moniaques",
+  "release_date": "1974-12-05",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 82698,
+  "title": "Ladies VS. Ricky Bahl",
+  "original_title": "Ladies VS. Ricky Bahl",
+  "release_date": "2011-12-08",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

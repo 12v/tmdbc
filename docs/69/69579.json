@@ -1,0 +1,33 @@
+{
+  "id": 69579,
+  "title": "My Dear Killer",
+  "original_title": "Mio caro assassino",
+  "release_date": "1972-02-03",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

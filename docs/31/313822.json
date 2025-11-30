@@ -1,0 +1,29 @@
+{
+  "id": 313822,
+  "title": "Fig Jam 2",
+  "original_title": "\u0130ncir Re\u00e7eli 2",
+  "release_date": "2014-10-17",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

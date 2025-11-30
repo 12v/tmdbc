@@ -1,0 +1,25 @@
+{
+  "id": 160118,
+  "title": "Child's Pose",
+  "original_title": "Pozi\u0163ia copilului",
+  "release_date": "2013-03-08",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

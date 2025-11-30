@@ -1,0 +1,37 @@
+{
+  "id": 8332,
+  "title": "Antibodies",
+  "original_title": "Antik\u00f6rper",
+  "release_date": "2005-04-24",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

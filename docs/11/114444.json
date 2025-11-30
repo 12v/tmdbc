@@ -1,0 +1,25 @@
+{
+  "id": 114444,
+  "title": "My Childhood",
+  "original_title": "My Childhood",
+  "release_date": "1972-06-05",
+  "status": "Released",
+  "runtime": 47,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

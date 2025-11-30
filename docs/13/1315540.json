@@ -1,0 +1,29 @@
+{
+  "id": 1315540,
+  "title": "Stages of Love",
+  "original_title": "Le Beau R\u00f4le",
+  "release_date": "2024-12-18",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

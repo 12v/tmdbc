@@ -1,0 +1,33 @@
+{
+  "id": 50046,
+  "title": "Killing the Shadows",
+  "original_title": "Hacivat Karag\u00f6z Neden \u00d6ld\u00fcr\u00fcld\u00fc?",
+  "release_date": "2006-02-17",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

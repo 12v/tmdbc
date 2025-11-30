@@ -1,0 +1,29 @@
+{
+  "id": 66872,
+  "title": "Hawaiian Holiday",
+  "original_title": "Hawaiian Holiday",
+  "release_date": "1937-09-24",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 207036,
+  "title": "Filibus",
+  "original_title": "Filibus",
+  "release_date": "1915-03-12",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

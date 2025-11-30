@@ -1,0 +1,33 @@
+{
+  "id": 50135,
+  "title": "Animals United",
+  "original_title": "Konferenz der Tiere",
+  "release_date": "2010-10-07",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

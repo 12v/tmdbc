@@ -1,0 +1,25 @@
+{
+  "id": 175461,
+  "title": "Lichtspiel: Opus I",
+  "original_title": "Lichtspiel: Opus I",
+  "release_date": "1921-04-01",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

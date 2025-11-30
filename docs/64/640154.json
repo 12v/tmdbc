@@ -1,0 +1,29 @@
+{
+  "id": 640154,
+  "title": "Comidark Films: In Between",
+  "original_title": "Karakomik Filmler: 2 Arada",
+  "release_date": "2019-10-18",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 440038,
+  "title": "The Misandrists",
+  "original_title": "Die Misandristinnen",
+  "release_date": "2017-02-13",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

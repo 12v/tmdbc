@@ -1,0 +1,26 @@
+{
+  "id": 116393,
+  "title": "Histoire(s) du Cin\u00e9ma 1a: All the (Hi)stories",
+  "original_title": "Histoire(s) du cin\u00e9ma 1a : toutes les histoires",
+  "release_date": "1989-11-16",
+  "status": "Released",
+  "runtime": 51,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

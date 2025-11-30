@@ -1,0 +1,31 @@
+{
+  "id": 1164862,
+  "title": "Agent of Happiness",
+  "original_title": "\u0916\u0941\u0936\u0940 \u0915\u094b \u090f\u091c\u0947\u0928\u094d\u091f",
+  "release_date": "2024-07-12",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "dz",
+  "spoken_languages": [
+    {
+      "english_name": "Dzongkha",
+      "iso_639_1": "dz",
+      "name": ""
+    },
+    {
+      "english_name": "Nepali",
+      "iso_639_1": "ne",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "BT",
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 154556,
+  "title": "New Wave",
+  "original_title": "Onda Nova",
+  "release_date": "1984-08-30",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

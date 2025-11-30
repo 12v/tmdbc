@@ -1,0 +1,26 @@
+{
+  "id": 1025389,
+  "title": "Strange River",
+  "original_title": "Estrany Riu",
+  "release_date": "2025-10-03",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "ca",
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

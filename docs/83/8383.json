@@ -1,0 +1,25 @@
+{
+  "id": 8383,
+  "title": "Red Sun",
+  "original_title": "Rote Sonne",
+  "release_date": "1970-08-31",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

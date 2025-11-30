@@ -1,0 +1,37 @@
+{
+  "id": 124766,
+  "title": "Summer Vacation 1999",
+  "original_title": "1999\u5e74\u306e\u590f\u4f11\u307f",
+  "release_date": "1988-03-26",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

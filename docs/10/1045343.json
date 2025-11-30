@@ -1,0 +1,25 @@
+{
+  "id": 1045343,
+  "title": "Qorin",
+  "original_title": "Qorin",
+  "release_date": "2022-12-01",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

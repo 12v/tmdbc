@@ -1,0 +1,29 @@
+{
+  "id": 6547,
+  "title": "Schtonk!",
+  "original_title": "Schtonk!",
+  "release_date": "1992-03-12",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

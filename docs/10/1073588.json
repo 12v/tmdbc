@@ -1,0 +1,25 @@
+{
+  "id": 1073588,
+  "title": "Two Women",
+  "original_title": "Deux femmes en or",
+  "release_date": "2025-05-30",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

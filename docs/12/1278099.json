@@ -1,0 +1,25 @@
+{
+  "id": 1278099,
+  "title": "The Honest Candidate",
+  "original_title": "El candidato honesto",
+  "release_date": "2024-08-08",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

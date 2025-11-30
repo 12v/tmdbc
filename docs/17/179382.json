@@ -1,0 +1,25 @@
+{
+  "id": 179382,
+  "title": "The Arrival",
+  "original_title": "L'arriv\u00e9e",
+  "release_date": "1999-10-20",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1547831,
+  "title": "Gianmarco Soresi: Thief of Joy",
+  "original_title": "Gianmarco Soresi: Thief of Joy",
+  "release_date": "2025-09-19",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

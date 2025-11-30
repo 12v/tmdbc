@@ -1,0 +1,29 @@
+{
+  "id": 624484,
+  "title": "The Predators",
+  "original_title": "I predatori",
+  "release_date": "2020-10-22",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

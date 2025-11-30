@@ -1,0 +1,44 @@
+{
+  "id": 42712,
+  "title": "The X from Outer Space",
+  "original_title": "\u5b87\u5b99\u5927\u602a\u7363\u30ae\u30e9\u30e9",
+  "release_date": "1967-03-25",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

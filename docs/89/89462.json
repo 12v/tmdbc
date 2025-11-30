@@ -1,0 +1,25 @@
+{
+  "id": 89462,
+  "title": "An Inn in Tokyo",
+  "original_title": "\u6771\u4eac\u306e\u5bbf",
+  "release_date": "1935-11-21",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

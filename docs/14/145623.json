@@ -1,0 +1,25 @@
+{
+  "id": 145623,
+  "title": "The Games of Angels",
+  "original_title": "Les jeux des anges",
+  "release_date": "1967-01-15",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

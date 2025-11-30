@@ -1,0 +1,29 @@
+{
+  "id": 278193,
+  "title": "Detective Ujjwalan",
+  "original_title": "\u0d21\u0d3f\u0d31\u0d4d\u0d31\u0d15\u0d4d\u0d1f\u0d40\u0d35\u0d4d \u0d09\u0d1c\u0d4d\u0d1c\u0d4d\u0d35\u0d32\u0d7b",
+  "release_date": "2025-05-23",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

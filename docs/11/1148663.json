@@ -1,0 +1,34 @@
+{
+  "id": 1148663,
+  "title": "Sicilian Letters",
+  "original_title": "Iddu - L'ultimo padrino",
+  "release_date": "2024-10-10",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

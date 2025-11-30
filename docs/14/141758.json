@@ -1,0 +1,33 @@
+{
+  "id": 141758,
+  "title": "The Scapular",
+  "original_title": "El escapulario",
+  "release_date": "1968-01-18",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

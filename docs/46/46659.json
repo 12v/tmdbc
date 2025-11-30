@@ -1,0 +1,29 @@
+{
+  "id": 46659,
+  "title": "All My Good Countrymen",
+  "original_title": "V\u0161ichni dob\u0159\u00ed rod\u00e1ci",
+  "release_date": "1969-07-04",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

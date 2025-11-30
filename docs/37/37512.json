@@ -1,0 +1,29 @@
+{
+  "id": 37512,
+  "title": "Satan\u2019s Brew",
+  "original_title": "Satansbraten",
+  "release_date": "1976-10-07",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

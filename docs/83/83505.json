@@ -1,0 +1,29 @@
+{
+  "id": 83505,
+  "title": "El bonaerense",
+  "original_title": "El bonaerense",
+  "release_date": "2002-09-19",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

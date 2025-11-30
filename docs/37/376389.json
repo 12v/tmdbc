@@ -1,0 +1,35 @@
+{
+  "id": 376389,
+  "title": "Sky Ladder: The Art of Cai Guo-Qiang",
+  "original_title": "Sky Ladder: The Art of Cai Guo-Qiang",
+  "release_date": "2017-09-22",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

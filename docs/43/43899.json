@@ -1,0 +1,33 @@
+{
+  "id": 43899,
+  "title": "David Copperfield",
+  "original_title": "The Personal History, Adventures, Experience, & Observation of David Copperfield the Younger",
+  "release_date": "1935-01-18",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

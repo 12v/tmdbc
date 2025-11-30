@@ -1,0 +1,25 @@
+{
+  "id": 79084,
+  "title": "The Confession",
+  "original_title": "\u0130tiraf",
+  "release_date": "2001-12-01",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 944117,
+  "title": "Abb\u00e9 Pierre - A Century of Devotion",
+  "original_title": "L'Abb\u00e9 Pierre : Une vie de combats",
+  "release_date": "2023-11-08",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

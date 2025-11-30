@@ -1,0 +1,29 @@
+{
+  "id": 1564346,
+  "title": "Elo\u00e1 the Hostage: Live on TV",
+  "original_title": "Caso Elo\u00e1: Ref\u00e9m ao Vivo",
+  "release_date": "2025-11-12",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

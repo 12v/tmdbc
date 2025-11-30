@@ -1,0 +1,45 @@
+{
+  "id": 303903,
+  "title": "Pok\u00e9mon the Movie: Diancie and the Cocoon of Destruction",
+  "original_title": "\u30dd\u30b1\u30e2\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30d3\u30fcXY \u7834\u58ca\u306e\u7e6d\u3068\u30c7\u30a3\u30a2\u30f3\u30b7\u30fc",
+  "release_date": "2014-07-19",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

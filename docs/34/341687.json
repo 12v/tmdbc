@@ -1,0 +1,33 @@
+{
+  "id": 341687,
+  "title": "Waves '98",
+  "original_title": "Waves '98",
+  "release_date": "2015-05-23",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "SA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

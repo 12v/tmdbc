@@ -1,0 +1,31 @@
+{
+  "id": 1115,
+  "title": "Ghosts",
+  "original_title": "Gespenster",
+  "release_date": "2005-09-15",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

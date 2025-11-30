@@ -1,0 +1,26 @@
+{
+  "id": 574954,
+  "title": "The Prince",
+  "original_title": "El pr\u00edncipe",
+  "release_date": "2019-08-29",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CL",
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

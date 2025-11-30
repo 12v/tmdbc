@@ -1,0 +1,37 @@
+{
+  "id": 298504,
+  "title": "Vampire Sisters 2: Bats in the Belly",
+  "original_title": "Die Vampirschwestern 2 - Flederm\u00e4use im Bauch",
+  "release_date": "2014-10-16",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

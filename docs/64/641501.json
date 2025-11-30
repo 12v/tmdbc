@@ -1,0 +1,41 @@
+{
+  "id": 641501,
+  "title": "How I Became a Superhero",
+  "original_title": "Comment je suis devenu super-h\u00e9ros",
+  "release_date": "2020-11-19",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

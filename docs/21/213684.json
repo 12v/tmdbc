@@ -1,0 +1,30 @@
+{
+  "id": 213684,
+  "title": "Manakamana",
+  "original_title": "Manakamana",
+  "release_date": "2013-09-28",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "ne",
+  "spoken_languages": [
+    {
+      "english_name": "Nepali",
+      "iso_639_1": "ne",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "NE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 618435,
+  "title": "Thanneer Mathan Dinangal",
+  "original_title": "\u0d24\u0d23\u0d4d\u0d23\u0d40\u0d7c \u0d2e\u0d24\u0d4d\u0d24\u0d7b \u0d26\u0d3f\u0d28\u0d19\u0d4d\u0d19\u0d7e",
+  "release_date": "2019-07-26",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

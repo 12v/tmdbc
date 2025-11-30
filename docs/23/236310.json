@@ -1,0 +1,29 @@
+{
+  "id": 236310,
+  "title": "Sea of Roses",
+  "original_title": "Mar de Rosas",
+  "release_date": "1977-07-29",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

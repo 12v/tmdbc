@@ -1,0 +1,31 @@
+{
+  "id": 1155815,
+  "title": "Hate to Love: Nickelback",
+  "original_title": "Hate to Love: Nickelback",
+  "release_date": "2024-03-27",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

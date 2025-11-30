@@ -1,0 +1,37 @@
+{
+  "id": 51455,
+  "title": "Mutant Girls Squad",
+  "original_title": "\u6226\u95d8\u5c11\u5973 \u8840\u306e\u9244\u4eee\u9762\u4f1d\u8aac",
+  "release_date": "2010-05-22",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

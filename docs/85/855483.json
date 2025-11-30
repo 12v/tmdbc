@@ -1,0 +1,37 @@
+{
+  "id": 855483,
+  "title": "Hidden Blade",
+  "original_title": "\u65e0\u540d",
+  "release_date": "2023-01-22",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

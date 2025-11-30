@@ -1,0 +1,29 @@
+{
+  "id": 660033,
+  "title": "How I Became a Gangster",
+  "original_title": "Jak zosta\u0142em gangsterem. Historia prawdziwa",
+  "release_date": "2019-12-25",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 176656,
+  "title": "Growing Up",
+  "original_title": "\u5c0f\u7562\u7684\u6545\u4e8b",
+  "release_date": "1983-01-29",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

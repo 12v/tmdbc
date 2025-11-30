@@ -1,0 +1,30 @@
+{
+  "id": 594258,
+  "title": "Shakti",
+  "original_title": "Shakti",
+  "release_date": "2019-02-09",
+  "status": "Released",
+  "runtime": 19,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "CL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

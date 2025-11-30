@@ -1,0 +1,25 @@
+{
+  "id": 11626,
+  "title": "Pippi on the Run",
+  "original_title": "P\u00e5 rymmen med Pippi L\u00e5ngstrump",
+  "release_date": "1970-11-14",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

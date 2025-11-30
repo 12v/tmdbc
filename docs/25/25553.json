@@ -1,0 +1,33 @@
+{
+  "id": 25553,
+  "title": "Dark of the Sun",
+  "original_title": "Dark of the Sun",
+  "release_date": "1968-02-08",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

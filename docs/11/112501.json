@@ -1,0 +1,29 @@
+{
+  "id": 112501,
+  "title": "Tange Sazen and the Pot Worth a Million Ryo",
+  "original_title": "\u4e39\u4e0b\u5de6\u81b3\u9918\u8a71 \u767e\u842c\u5169\u306e\u58fa",
+  "release_date": "1935-06-15",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1327769,
+  "title": "27 Nights",
+  "original_title": "27 noches",
+  "release_date": "2025-09-19",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

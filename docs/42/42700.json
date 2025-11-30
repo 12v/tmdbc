@@ -1,0 +1,53 @@
+{
+  "id": 42700,
+  "title": "The Night of the Generals",
+  "original_title": "The Night of the Generals",
+  "release_date": "1967-01-29",
+  "status": "Released",
+  "runtime": 148,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

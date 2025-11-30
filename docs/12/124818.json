@@ -1,0 +1,29 @@
+{
+  "id": 124818,
+  "title": "Cosmos",
+  "original_title": "Cosmos",
+  "release_date": "1996-11-15",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

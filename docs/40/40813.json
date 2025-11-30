@@ -1,0 +1,42 @@
+{
+  "id": 40813,
+  "title": "The Street Fighter's Last Revenge",
+  "original_title": "\u9006\u8972\uff01\u6bba\u4eba\u62f3",
+  "release_date": "1974-11-22",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

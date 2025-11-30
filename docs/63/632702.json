@@ -1,0 +1,38 @@
+{
+  "id": 632702,
+  "title": "Kira & El Gen",
+  "original_title": "\u0643\u064a\u0631\u0629  \u0648\u0627\u0644\u062c\u0646",
+  "release_date": "2022-06-30",
+  "status": "Released",
+  "runtime": 175,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 94623,
+  "title": "Directed by John Ford",
+  "original_title": "Directed by John Ford",
+  "release_date": "1971-09-06",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

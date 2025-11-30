@@ -1,0 +1,25 @@
+{
+  "id": 25532,
+  "title": "Chronicle of an Escape",
+  "original_title": "Cr\u00f3nica de una fuga",
+  "release_date": "2006-04-27",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}
