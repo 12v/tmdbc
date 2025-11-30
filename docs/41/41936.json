@@ -1,0 +1,29 @@
+{
+  "id": 41936,
+  "title": "Life and Nothing But",
+  "original_title": "La Vie et rien d'autre",
+  "release_date": "1989-09-06",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

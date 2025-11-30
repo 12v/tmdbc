@@ -1,0 +1,30 @@
+{
+  "id": 37032,
+  "title": "Martial Arts of Shaolin",
+  "original_title": "\u5357\u5317\u5c11\u6797",
+  "release_date": "1986-02-01",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK",
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

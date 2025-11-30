@@ -1,0 +1,25 @@
+{
+  "id": 259233,
+  "title": "Ju-on: The Beginning of the End",
+  "original_title": "\u546a\u6028\uff0d\u7d42\u308f\u308a\u306e\u59cb\u307e\u308a\uff0d",
+  "release_date": "2014-06-28",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}
