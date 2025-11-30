@@ -1,0 +1,33 @@
+{
+  "id": 829424,
+  "title": "Perlimps",
+  "original_title": "Perlimps",
+  "release_date": "2023-01-18",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

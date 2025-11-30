@@ -1,0 +1,25 @@
+{
+  "id": 110040,
+  "title": "Salako",
+  "original_title": "Salako",
+  "release_date": "1974-12-01",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

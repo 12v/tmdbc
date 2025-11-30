@@ -1,0 +1,30 @@
+{
+  "id": 785554,
+  "title": "BLACKPINK: The Show",
+  "original_title": "BLACKPINK: The Show",
+  "release_date": "2021-01-31",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

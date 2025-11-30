@@ -1,0 +1,25 @@
+{
+  "id": 391804,
+  "title": "The Long Excuse",
+  "original_title": "\u6c38\u3044\u8a00\u3044\u8a33",
+  "release_date": "2016-10-14",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

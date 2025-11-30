@@ -1,0 +1,43 @@
+{
+  "id": 8939,
+  "title": "Tulpan",
+  "original_title": "\u0422\u044e\u043b\u044c\u043f\u0430\u043d",
+  "release_date": "2009-03-04",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "kk",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Kazakh",
+      "iso_639_1": "kk",
+      "name": "\u049b\u0430\u0437\u0430\u049b"
+    }
+  ],
+  "origin_country": [
+    "RU",
+    "KZ",
+    "DE",
+    "IT",
+    "PL",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

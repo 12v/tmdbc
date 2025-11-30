@@ -1,10 +1,10 @@
 {
-  "id": 701387,
-  "title": "Bugonia",
-  "original_title": "Bugonia",
-  "release_date": "2025-10-23",
+  "id": 378137,
+  "title": "Hannibal Buress: Comedy Camisado",
+  "original_title": "Hannibal Buress: Comedy Camisado",
+  "release_date": "2016-02-05",
   "status": "Released",
-  "runtime": 119,
+  "runtime": 67,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,12 +18,8 @@
   ],
   "genres": [
     {
-      "id": 80,
-      "name": "Crime"
-    },
-    {
-      "id": 878,
-      "name": "Science Fiction"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

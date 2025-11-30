@@ -1,0 +1,25 @@
+{
+  "id": 136052,
+  "title": "The Wind",
+  "original_title": "Finye",
+  "release_date": "1983-09-24",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "bm",
+  "spoken_languages": [
+    {
+      "english_name": "Bambara",
+      "iso_639_1": "bm",
+      "name": "Bamanankan"
+    }
+  ],
+  "origin_country": [
+    "BM"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
