@@ -1,0 +1,38 @@
+{
+  "id": 74458,
+  "title": "Mere Brother Ki Dulhan",
+  "original_title": "\u092e\u0947\u0930\u0947 \u092c\u094d\u0930\u0926\u0930 \u0915\u0940 \u0926\u0941\u0932\u094d\u0939\u0928",
+  "release_date": "2011-09-09",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

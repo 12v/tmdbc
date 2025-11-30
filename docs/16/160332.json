@@ -1,0 +1,26 @@
+{
+  "id": 160332,
+  "title": "When the Day Breaks",
+  "original_title": "When the Day Breaks",
+  "release_date": "1999-02-21",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

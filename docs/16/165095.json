@@ -1,0 +1,33 @@
+{
+  "id": 165095,
+  "title": "Wow! A Talking Fish!",
+  "original_title": "\u0423\u0445 \u0442\u044b, \u0433\u043e\u0432\u043e\u0440\u044f\u0449\u0430\u044f \u0440\u044b\u0431\u0430!",
+  "release_date": "1983-03-31",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

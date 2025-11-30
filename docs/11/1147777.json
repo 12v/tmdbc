@@ -1,0 +1,25 @@
+{
+  "id": 1147777,
+  "title": "Hostel Hudugaru Bekagiddare",
+  "original_title": "Hostel Hudugaru Bekagiddare",
+  "release_date": "2023-07-21",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "kn",
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

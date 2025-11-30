@@ -1,0 +1,33 @@
+{
+  "id": 573683,
+  "title": "The Wonderland",
+  "original_title": "\u30d0\u30fc\u30b9\u30c7\u30fc\u30fb\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9",
+  "release_date": "2019-04-26",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

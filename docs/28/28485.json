@@ -1,0 +1,29 @@
+{
+  "id": 28485,
+  "title": "Satan's Blood",
+  "original_title": "Escalofr\u00edo",
+  "release_date": "1978-08-12",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

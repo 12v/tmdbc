@@ -1,0 +1,35 @@
+{
+  "id": 656113,
+  "title": "Jagame Thandhiram",
+  "original_title": "\u0b9c\u0b95\u0bae\u0bc7 \u0ba4\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd",
+  "release_date": "2021-06-18",
+  "status": "Released",
+  "runtime": 158,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

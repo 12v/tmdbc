@@ -1,0 +1,29 @@
+{
+  "id": 922598,
+  "title": "Aavasavyuham: The Arbit Documentation of an Amphibian Hunt",
+  "original_title": "\u0d06\u0d35\u0d3e\u0d38 \u0d35\u0d4d\u0d2f\u0d42\u0d39\u0d02",
+  "release_date": "2022-03-19",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1026301,
+  "title": "REVOLUTION+1",
+  "original_title": "REVOLUTION\uff0b1",
+  "release_date": "2023-03-11",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

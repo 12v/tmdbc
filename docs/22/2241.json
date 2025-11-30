@@ -1,0 +1,25 @@
+{
+  "id": 2241,
+  "title": "Sonnenallee",
+  "original_title": "Sonnenallee",
+  "release_date": "1999-10-07",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

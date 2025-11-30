@@ -1,0 +1,33 @@
+{
+  "id": 833393,
+  "title": "La Civil",
+  "original_title": "La Civil",
+  "release_date": "2021-07-08",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

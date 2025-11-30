@@ -1,0 +1,25 @@
+{
+  "id": 88269,
+  "title": "I Flunked, But...",
+  "original_title": "\u843d\u7b2c\u306f\u3057\u305f\u3051\u308c\u3069",
+  "release_date": "1930-04-11",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

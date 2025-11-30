@@ -1,0 +1,33 @@
+{
+  "id": 81424,
+  "title": "The Cat Came Back",
+  "original_title": "The Cat Came Back",
+  "release_date": "1988-06-22",
+  "status": "Released",
+  "runtime": 7,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

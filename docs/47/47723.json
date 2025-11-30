@@ -1,0 +1,30 @@
+{
+  "id": 47723,
+  "title": "In the Presence of a Clown",
+  "original_title": "Larmar och g\u00f6r sig till",
+  "release_date": "1998-10-01",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

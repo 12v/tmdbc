@@ -1,0 +1,33 @@
+{
+  "id": 84774,
+  "title": "Alice in Wonderland",
+  "original_title": "\u0410\u043b\u0438\u0441\u0430 \u0432 \u0421\u0442\u0440\u0430\u043d\u0435 \u0447\u0443\u0434\u0435\u0441",
+  "release_date": "1981-01-31",
+  "status": "Released",
+  "runtime": 30,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

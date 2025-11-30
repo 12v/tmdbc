@@ -1,0 +1,33 @@
+{
+  "id": 20605,
+  "title": "The City of Violence",
+  "original_title": "\uc9dd\ud328",
+  "release_date": "2006-05-25",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

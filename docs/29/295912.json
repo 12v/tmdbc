@@ -1,0 +1,25 @@
+{
+  "id": 295912,
+  "title": "Repeated Absences",
+  "original_title": "Absences r\u00e9p\u00e9t\u00e9es",
+  "release_date": "1972-11-01",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

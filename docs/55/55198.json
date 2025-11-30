@@ -1,0 +1,25 @@
+{
+  "id": 55198,
+  "title": "The Munekata Sisters",
+  "original_title": "\u5b97\u65b9\u59c9\u59b9",
+  "release_date": "1950-08-08",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

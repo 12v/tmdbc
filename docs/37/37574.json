@@ -1,0 +1,34 @@
+{
+  "id": 37574,
+  "title": "On the Way to School",
+  "original_title": "\u0130ki Dil Bir Bavul",
+  "release_date": "2008-11-25",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

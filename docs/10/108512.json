@@ -1,0 +1,29 @@
+{
+  "id": 108512,
+  "title": "Three Resurrected Drunkards",
+  "original_title": "\u5e30\u3063\u3066\u6765\u305f\u30e8\u30c3\u30d1\u30e9\u30a4",
+  "release_date": "1968-03-30",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

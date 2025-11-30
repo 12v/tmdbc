@@ -1,0 +1,29 @@
+{
+  "id": 36260,
+  "title": "The Little Match Girl",
+  "original_title": "La Petite Marchande d'allumettes",
+  "release_date": "1928-06-07",
+  "status": "Released",
+  "runtime": 38,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

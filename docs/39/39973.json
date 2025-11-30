@@ -1,0 +1,29 @@
+{
+  "id": 39973,
+  "title": "Slave of the Cannibal God",
+  "original_title": "La montagna del dio cannibale",
+  "release_date": "1978-07-12",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

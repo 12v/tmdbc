@@ -1,0 +1,25 @@
+{
+  "id": 143730,
+  "title": "An Aria on Gazes",
+  "original_title": "\u6d6e\u6c17\u59bb \u6065\u8fb1\u8cac\u3081",
+  "release_date": "1992-09-12",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

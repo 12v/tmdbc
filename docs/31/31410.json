@@ -1,0 +1,30 @@
+{
+  "id": 31410,
+  "title": "My Sweet Little Village",
+  "original_title": "Vesni\u010dko m\u00e1 st\u0159ediskov\u00e1",
+  "release_date": "1985-08-01",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    },
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Sloven\u010dina"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

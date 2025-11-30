@@ -1,0 +1,36 @@
+{
+  "id": 3640,
+  "title": "Mostly Martha",
+  "original_title": "Bella Martha",
+  "release_date": "2001-09-09",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "AT",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

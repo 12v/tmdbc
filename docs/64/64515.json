@@ -1,0 +1,33 @@
+{
+  "id": 64515,
+  "title": "Love Stories Only Last 90 Minutes",
+  "original_title": "Hist\u00f3rias de Amor Duram Apenas 90 Minutos",
+  "release_date": "2009-09-25",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

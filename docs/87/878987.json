@@ -1,0 +1,30 @@
+{
+  "id": 878987,
+  "title": "American Girl",
+  "original_title": "\u7f8e\u570b\u5973\u5b69",
+  "release_date": "2021-12-03",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

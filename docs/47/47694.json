@@ -1,0 +1,30 @@
+{
+  "id": 47694,
+  "title": "Temptress Moon",
+  "original_title": "\u98a8\u6708",
+  "release_date": "1996-05-09",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

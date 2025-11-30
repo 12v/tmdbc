@@ -1,0 +1,37 @@
+{
+  "id": 89623,
+  "title": "Leafie, a Hen Into the Wild",
+  "original_title": "\ub9c8\ub2f9\uc744 \ub098\uc628 \uc554\ud0c9",
+  "release_date": "2011-07-28",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

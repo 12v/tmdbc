@@ -1,0 +1,30 @@
+{
+  "id": 263547,
+  "title": "A Season in Hakkari",
+  "original_title": "Hakk\u00e2ri'de Bir Mevsim",
+  "release_date": "1983-01-02",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    },
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

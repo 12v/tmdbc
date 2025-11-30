@@ -1,0 +1,33 @@
+{
+  "id": 33376,
+  "title": "Pikachu's Vacation",
+  "original_title": "\u30d4\u30ab\u30c1\u30e5\u30a6\u306e\u306a\u3064\u3084\u3059\u307f",
+  "release_date": "1998-07-18",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

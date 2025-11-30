@@ -1,0 +1,30 @@
+{
+  "id": 38638,
+  "title": "Divine Horsemen: The Living Gods of Haiti",
+  "original_title": "Divine Horsemen: The Living Gods of Haiti",
+  "release_date": "1993-03-20",
+  "status": "Released",
+  "runtime": 52,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Haitian; Haitian Creole",
+      "iso_639_1": "ht",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

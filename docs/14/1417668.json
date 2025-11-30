@@ -1,0 +1,29 @@
+{
+  "id": 1417668,
+  "title": "Star Wars: Starfighter",
+  "original_title": "Star Wars: Starfighter",
+  "release_date": "2027-05-26",
+  "status": "In Production",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

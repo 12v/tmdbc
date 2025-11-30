@@ -1,0 +1,25 @@
+{
+  "id": 10986,
+  "title": "The Taming of the Scoundrel",
+  "original_title": "Il bisbetico domato",
+  "release_date": "1980-12-20",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1293858,
+  "title": "Adam's Sake",
+  "original_title": "L'Int\u00e9r\u00eat d'Adam",
+  "release_date": "2025-09-17",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

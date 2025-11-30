@@ -1,0 +1,29 @@
+{
+  "id": 298982,
+  "title": "The Long Weekend (O' Despair)",
+  "original_title": "The Long Weekend (O' Despair)",
+  "release_date": "1989-11-01",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

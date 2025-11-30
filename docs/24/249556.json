@@ -1,0 +1,30 @@
+{
+  "id": 249556,
+  "title": "Memoirs of a Strangler of Blondes",
+  "original_title": "Mem\u00f3rias de um Estrangulador de Loiras",
+  "release_date": "1971-01-01",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

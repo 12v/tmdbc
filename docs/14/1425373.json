@@ -1,0 +1,26 @@
+{
+  "id": 1425373,
+  "title": "The Golden Spurtle",
+  "original_title": "The Golden Spurtle",
+  "release_date": "2025-09-12",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

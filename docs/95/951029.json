@@ -1,0 +1,25 @@
+{
+  "id": 951029,
+  "title": "Look Into My Eyes",
+  "original_title": "Look Into My Eyes",
+  "release_date": "2024-09-06",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

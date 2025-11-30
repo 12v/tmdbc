@@ -1,0 +1,25 @@
+{
+  "id": 144611,
+  "title": "Kino Eye",
+  "original_title": "\u041a\u0438\u043d\u043e\u0433\u043b\u0430\u0437",
+  "release_date": "1924-10-31",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 948184,
+  "title": "Stranger Eyes",
+  "original_title": "\u9ed8\u8996\u9304",
+  "release_date": "2024-11-14",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "FR",
+    "SG",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

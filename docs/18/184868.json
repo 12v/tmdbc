@@ -1,0 +1,29 @@
+{
+  "id": 184868,
+  "title": "The Red Detachment of Women",
+  "original_title": "\u7ea2\u8272\u5a18\u5b50\u519b",
+  "release_date": "1961-01-30",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

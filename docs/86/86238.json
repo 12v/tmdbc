@@ -1,0 +1,29 @@
+{
+  "id": 86238,
+  "title": "The Angel Was Born",
+  "original_title": "O Anjo Nasceu",
+  "release_date": "1969-02-12",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

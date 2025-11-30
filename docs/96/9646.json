@@ -1,0 +1,29 @@
+{
+  "id": 9646,
+  "title": "Here Is Your Life",
+  "original_title": "H\u00e4r har du ditt liv",
+  "release_date": "1966-12-26",
+  "status": "Released",
+  "runtime": 169,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

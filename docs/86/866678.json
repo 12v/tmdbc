@@ -1,0 +1,33 @@
+{
+  "id": 866678,
+  "title": "Furioza",
+  "original_title": "Furioza",
+  "release_date": "2021-10-22",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

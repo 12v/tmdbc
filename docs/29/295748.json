@@ -1,0 +1,33 @@
+{
+  "id": 295748,
+  "title": "Coming Soon",
+  "original_title": "Pek Yak\u0131nda",
+  "release_date": "2014-10-02",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

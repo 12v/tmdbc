@@ -1,0 +1,33 @@
+{
+  "id": 77165,
+  "title": "And God Said to Cain",
+  "original_title": "E Dio disse a Caino\u2026",
+  "release_date": "1970-02-05",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

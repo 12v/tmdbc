@@ -1,0 +1,29 @@
+{
+  "id": 16313,
+  "title": "Coming Soon",
+  "original_title": "\u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e2b\u0e19\u0e49\u0e32 \u0e27\u0e34\u0e0d\u0e0d\u0e32\u0e13\u0e2d\u0e32\u0e06\u0e32\u0e15",
+  "release_date": "2008-10-28",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

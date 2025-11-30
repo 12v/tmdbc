@@ -1,0 +1,37 @@
+{
+  "id": 1014214,
+  "title": "Singham Again",
+  "original_title": "\u0938\u093f\u0902\u0918\u092e \u0905\u0917\u0947\u0928",
+  "release_date": "2024-11-01",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

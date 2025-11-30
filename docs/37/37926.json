@@ -1,0 +1,26 @@
+{
+  "id": 37926,
+  "title": "Abraxas, Guardian of the Universe",
+  "original_title": "Abraxas, Guardian of the Universe",
+  "release_date": "1990-12-18",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

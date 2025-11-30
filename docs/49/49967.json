@@ -1,0 +1,38 @@
+{
+  "id": 49967,
+  "title": "One-Armed Boxer",
+  "original_title": "\u7368\u81c2\u62f3\u738b",
+  "release_date": "1972-08-02",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

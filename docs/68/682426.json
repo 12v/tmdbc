@@ -1,0 +1,29 @@
+{
+  "id": 682426,
+  "title": "One-Way to Tomorrow",
+  "original_title": "Yar\u0131na Tek Bilet",
+  "release_date": "2020-06-19",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

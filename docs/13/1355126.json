@@ -1,0 +1,34 @@
+{
+  "id": 1355126,
+  "title": "Sugar Mill",
+  "original_title": "Pabrik Gula",
+  "release_date": "2025-03-31",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    },
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

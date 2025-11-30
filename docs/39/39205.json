@@ -1,0 +1,33 @@
+{
+  "id": 39205,
+  "title": "Detective Conan: The Private Eyes' Requiem",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u63a2\u5075\u305f\u3061\u306e\u93ae\u9b42\u6b4c\uff08\u30ec\u30af\u30a4\u30a8\u30e0\uff09",
+  "release_date": "2006-04-15",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

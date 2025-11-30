@@ -1,0 +1,37 @@
+{
+  "id": 37556,
+  "title": "Charlie Brown's Christmas Tales",
+  "original_title": "Charlie Brown's Christmas Tales",
+  "release_date": "2002-12-08",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

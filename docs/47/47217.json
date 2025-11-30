@@ -1,0 +1,29 @@
+{
+  "id": 47217,
+  "title": "Jumping",
+  "original_title": "\u30b8\u30e3\u30f3\u30d4\u30f3\u30b0",
+  "release_date": "1984-08-12",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

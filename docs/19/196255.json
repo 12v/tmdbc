@@ -1,0 +1,23 @@
+{
+  "id": 196255,
+  "title": "Gregory Go Boom",
+  "original_title": "Gregory Go Boom",
+  "release_date": "2013-05-22",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

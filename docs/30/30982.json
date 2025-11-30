@@ -1,0 +1,25 @@
+{
+  "id": 30982,
+  "title": "The Tramp",
+  "original_title": "The Tramp",
+  "release_date": "1915-04-12",
+  "status": "Released",
+  "runtime": 26,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

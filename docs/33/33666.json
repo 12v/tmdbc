@@ -1,0 +1,29 @@
+{
+  "id": 33666,
+  "title": "The Glass Bottom Boat",
+  "original_title": "The Glass Bottom Boat",
+  "release_date": "1966-06-09",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

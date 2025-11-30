@@ -1,0 +1,26 @@
+{
+  "id": 687262,
+  "title": "Cold Meridian",
+  "original_title": "Cold Meridian",
+  "release_date": "2020-01-17",
+  "status": "Released",
+  "runtime": 7,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

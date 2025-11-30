@@ -1,0 +1,29 @@
+{
+  "id": 13828,
+  "title": "X-Cross",
+  "original_title": "\u30a8\u30af\u30b9\u30af\u30ed\u30b9 \u9b54\u5883\u4f1d\u8aac",
+  "release_date": "2007-10-11",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

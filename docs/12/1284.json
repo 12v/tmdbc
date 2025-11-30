@@ -1,0 +1,33 @@
+{
+  "id": 1284,
+  "title": "Torrente 2: Mission in Marbella",
+  "original_title": "Torrente 2: Misi\u00f3n en Marbella",
+  "release_date": "2001-03-30",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

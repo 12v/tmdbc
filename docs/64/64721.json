@@ -1,0 +1,37 @@
+{
+  "id": 64721,
+  "title": "Stray Cat Rock: Wild Jumbo",
+  "original_title": "\u91ce\u826f\u732b\u30ed\u30c3\u30af\u3000\u30ef\u30a4\u30eb\u30c9\u30b8\u30e3\u30f3\u30dc",
+  "release_date": "1970-08-01",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

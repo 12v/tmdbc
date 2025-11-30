@@ -1,0 +1,58 @@
+{
+  "id": 209419,
+  "title": "Neelakasham Pachakadal Chuvanna Bhoomi",
+  "original_title": "\u0d28\u0d40\u0d32\u0d3e\u0d15\u0d3e\u0d36\u0d02 \u0d2a\u0d1a\u0d4d\u0d1a\u0d15\u0d4d\u0d15\u0d1f\u0d7d \u0d1a\u0d41\u0d35\u0d28\u0d4d\u0d28 \u0d2d\u0d42\u0d2e\u0d3f",
+  "release_date": "2013-08-09",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Assamese",
+      "iso_639_1": "as",
+      "name": "\u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be"
+    },
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

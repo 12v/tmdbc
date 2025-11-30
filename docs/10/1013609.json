@@ -1,0 +1,29 @@
+{
+  "id": 1013609,
+  "title": "The Anthrax Attacks: In the Shadow of 9/11",
+  "original_title": "The Anthrax Attacks: In the Shadow of 9/11",
+  "release_date": "2022-09-08",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

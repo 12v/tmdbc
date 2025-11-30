@@ -1,0 +1,29 @@
+{
+  "id": 85715,
+  "title": "Arsenal",
+  "original_title": "\u0410\u0440\u0441\u0435\u043d\u0430\u043b",
+  "release_date": "1929-02-25",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

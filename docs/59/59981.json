@@ -1,0 +1,33 @@
+{
+  "id": 59981,
+  "title": "Legends of Oz: Dorothy's Return",
+  "original_title": "Legends of Oz: Dorothy's Return",
+  "release_date": "2014-05-08",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

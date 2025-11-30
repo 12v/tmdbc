@@ -1,0 +1,33 @@
+{
+  "id": 441875,
+  "title": "Toilet: A Love Story",
+  "original_title": "\u091f\u0949\u092f\u0932\u0947\u091f: \u090f\u0915 \u092a\u094d\u0930\u0947\u092e \u0915\u0925\u093e",
+  "release_date": "2017-08-11",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

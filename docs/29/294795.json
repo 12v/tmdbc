@@ -1,0 +1,31 @@
+{
+  "id": 294795,
+  "title": "The 9th Life of Louis Drax",
+  "original_title": "The 9th Life of Louis Drax",
+  "release_date": "2016-09-01",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

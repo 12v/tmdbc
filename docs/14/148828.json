@@ -1,0 +1,30 @@
+{
+  "id": 148828,
+  "title": "Duet for Cannibals",
+  "original_title": "Duett f\u00f6r kannibaler",
+  "release_date": "1969-09-24",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

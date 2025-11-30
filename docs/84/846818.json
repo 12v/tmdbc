@@ -1,0 +1,29 @@
+{
+  "id": 846818,
+  "title": "The Demons of Dorothy",
+  "original_title": "Les d\u00e9mons de Dorothy",
+  "release_date": "2022-01-14",
+  "status": "Released",
+  "runtime": 29,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

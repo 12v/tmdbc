@@ -1,0 +1,25 @@
+{
+  "id": 186361,
+  "title": "Elsa the Rose",
+  "original_title": "Elsa la rose",
+  "release_date": "1966-10-23",
+  "status": "Released",
+  "runtime": 20,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

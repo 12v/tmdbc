@@ -1,0 +1,33 @@
+{
+  "id": 755388,
+  "title": "Ayalaan",
+  "original_title": "\u0b85\u0baf\u0bb2\u0bbe\u0ba9\u0bcd",
+  "release_date": "2024-01-12",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

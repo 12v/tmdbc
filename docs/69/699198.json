@@ -1,0 +1,25 @@
+{
+  "id": 699198,
+  "title": "Jimmy O. Yang: Good Deal",
+  "original_title": "Jimmy O. Yang: Good Deal",
+  "release_date": "2020-05-08",
+  "status": "Released",
+  "runtime": 57,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 655720,
+  "title": "The Year of the Discovery",
+  "original_title": "El a\u00f1o del descubrimiento",
+  "release_date": "2020-11-13",
+  "status": "Released",
+  "runtime": 200,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CH",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

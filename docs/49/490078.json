@@ -1,0 +1,29 @@
+{
+  "id": 490078,
+  "title": "Ee.Ma.Yau.",
+  "original_title": "\u0d08.\u0d2e.\u0d2f\u0d57",
+  "release_date": "2018-05-04",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

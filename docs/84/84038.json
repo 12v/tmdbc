@@ -1,0 +1,33 @@
+{
+  "id": 84038,
+  "title": "Night at the Crossroads",
+  "original_title": "La nuit du carrefour",
+  "release_date": "1932-04-18",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

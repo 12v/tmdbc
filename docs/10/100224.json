@@ -1,0 +1,30 @@
+{
+  "id": 100224,
+  "title": "How Much Wood Would a Woodchuck Chuck",
+  "original_title": "How Much Wood Would a Woodchuck Chuck: Beobachtungen zu einer neuen Sprache",
+  "release_date": "1976-10-30",
+  "status": "Released",
+  "runtime": 44,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

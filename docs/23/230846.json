@@ -1,0 +1,29 @@
+{
+  "id": 230846,
+  "title": "Fandry",
+  "original_title": "\u092b\u0901\u0921\u094d\u0930\u0940",
+  "release_date": "2013-10-09",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "mr",
+  "spoken_languages": [
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

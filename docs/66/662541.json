@@ -1,0 +1,31 @@
+{
+  "id": 662541,
+  "title": "Ellie and Abbie (and Ellie's Dead Aunt)",
+  "original_title": "Ellie and Abbie (and Ellie's Dead Aunt)",
+  "release_date": "2020-07-31",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

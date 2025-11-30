@@ -1,0 +1,30 @@
+{
+  "id": 1116569,
+  "title": "Bol\u00e9ro",
+  "original_title": "Bol\u00e9ro",
+  "release_date": "2024-02-08",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

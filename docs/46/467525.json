@@ -1,0 +1,29 @@
+{
+  "id": 467525,
+  "title": "10 Days Without Mom",
+  "original_title": "Mam\u00e1 se fue de viaje",
+  "release_date": "2017-07-06",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

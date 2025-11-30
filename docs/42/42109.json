@@ -1,0 +1,29 @@
+{
+  "id": 42109,
+  "title": "Gabriela",
+  "original_title": "Gabriela",
+  "release_date": "1983-03-24",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

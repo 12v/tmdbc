@@ -1,0 +1,33 @@
+{
+  "id": 594139,
+  "title": "Darbar",
+  "original_title": "\u0ba4\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd",
+  "release_date": "2020-01-08",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

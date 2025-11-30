@@ -1,0 +1,29 @@
+{
+  "id": 38325,
+  "title": "How I Ended This Summer",
+  "original_title": "\u041a\u0430\u043a \u044f \u043f\u0440\u043e\u0432\u0451\u043b \u044d\u0442\u0438\u043c \u043b\u0435\u0442\u043e\u043c",
+  "release_date": "2010-04-01",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

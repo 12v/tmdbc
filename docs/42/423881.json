@@ -1,0 +1,29 @@
+{
+  "id": 423881,
+  "title": "Sanatorium Under the Sign of the Hourglass",
+  "original_title": "Sanatorium Under the Sign of the Hourglass",
+  "release_date": "2025-04-11",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

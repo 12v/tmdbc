@@ -1,0 +1,25 @@
+{
+  "id": 42029,
+  "title": "Th\u00e9r\u00e8se",
+  "original_title": "Th\u00e9r\u00e8se",
+  "release_date": "1986-06-21",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

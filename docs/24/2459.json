@@ -1,0 +1,29 @@
+{
+  "id": 2459,
+  "title": "Pardon Mon Affaire",
+  "original_title": "Un \u00e9l\u00e9phant \u00e7a trompe \u00e9norm\u00e9ment",
+  "release_date": "1976-09-22",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

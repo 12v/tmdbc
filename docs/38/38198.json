@@ -1,0 +1,29 @@
+{
+  "id": 38198,
+  "title": "Itinerary of a Spoiled Child",
+  "original_title": "Itin\u00e9raire d'un enfant g\u00e2t\u00e9",
+  "release_date": "1988-11-30",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

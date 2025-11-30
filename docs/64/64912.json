@@ -1,0 +1,33 @@
+{
+  "id": 64912,
+  "title": "Battles Without Honor and Humanity: Final Episode",
+  "original_title": "\u4ec1\u7fa9\u306a\u304d\u6226\u3044 \u5b8c\u7d50\u7bc7",
+  "release_date": "1974-06-29",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 850329,
+  "title": "Shiny_Flakes: The Teenage Drug Lord",
+  "original_title": "Shiny_Flakes: The Teenage Drug Lord",
+  "release_date": "2021-08-02",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

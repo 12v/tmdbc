@@ -1,0 +1,30 @@
+{
+  "id": 640155,
+  "title": "Comidark Films: The Getaway",
+  "original_title": "Karakomik Filmler: Ka\u00e7amak",
+  "release_date": "2019-10-18",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

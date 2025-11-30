@@ -1,0 +1,29 @@
+{
+  "id": 75311,
+  "title": "The People vs. George Lucas",
+  "original_title": "The People vs. George Lucas",
+  "release_date": "2010-03-14",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

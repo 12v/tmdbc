@@ -1,0 +1,38 @@
+{
+  "id": 158023,
+  "title": "Mayabazar",
+  "original_title": "\u0c2e\u0c3e\u0c2f\u0c3e\u0c2c\u0c1c\u0c3e\u0c30\u0c4d",
+  "release_date": "1957-03-27",
+  "status": "Released",
+  "runtime": 181,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

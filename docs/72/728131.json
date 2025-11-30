@@ -1,0 +1,26 @@
+{
+  "id": 728131,
+  "title": "Omelia Contadina",
+  "original_title": "Omelia Contadina",
+  "release_date": "2020-09-08",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

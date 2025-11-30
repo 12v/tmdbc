@@ -1,0 +1,42 @@
+{
+  "id": 215478,
+  "title": "The Little Mermaid",
+  "original_title": "\u0420\u0443\u0441\u0430\u043b\u043e\u0447\u043a\u0430",
+  "release_date": "1976-12-17",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Bulgarian",
+      "iso_639_1": "bg",
+      "name": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 135237,
+  "title": "Gushing Prayer",
+  "original_title": "\u5674\u51fa\u7948\u9858 \u5341\u4e94\u4ee3\u306e\u58f2\u6625\u5a66",
+  "release_date": "1971-08-04",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 62564,
+  "title": "Turn Me On, Dammit!",
+  "original_title": "F\u00e5 meg p\u00e5, for faen",
+  "release_date": "2011-08-19",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

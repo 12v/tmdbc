@@ -1,0 +1,25 @@
+{
+  "id": 12278,
+  "title": "Soul Man",
+  "original_title": "Soul Man",
+  "release_date": "1986-10-24",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

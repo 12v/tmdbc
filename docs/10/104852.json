@@ -1,0 +1,25 @@
+{
+  "id": 104852,
+  "title": "Newark Athlete",
+  "original_title": "Newark Athlete",
+  "release_date": "1891-05-01",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

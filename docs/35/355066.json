@@ -1,0 +1,33 @@
+{
+  "id": 355066,
+  "title": "Bad Cat",
+  "original_title": "K\u00f6t\u00fc Kedi \u015eerafettin",
+  "release_date": "2016-02-05",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 340884,
+  "title": "Scooby-Doo! and the Beach Beastie",
+  "original_title": "Scooby-Doo! and the Beach Beastie",
+  "release_date": "2015-05-05",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

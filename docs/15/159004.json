@@ -1,0 +1,48 @@
+{
+  "id": 159004,
+  "title": "Dirty Wars",
+  "original_title": "Dirty Wars",
+  "release_date": "2013-01-18",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Pushto",
+      "iso_639_1": "ps",
+      "name": "\u067e\u069a\u062a\u0648"
+    },
+    {
+      "english_name": "Somali",
+      "iso_639_1": "so",
+      "name": "Somali"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

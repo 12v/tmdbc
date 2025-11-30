@@ -1,0 +1,29 @@
+{
+  "id": 916401,
+  "title": "Watch the Skies",
+  "original_title": "UFO Sweden",
+  "release_date": "2022-12-25",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

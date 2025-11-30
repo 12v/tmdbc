@@ -1,0 +1,25 @@
+{
+  "id": 30997,
+  "title": "Ghosthouse",
+  "original_title": "La casa 3",
+  "release_date": "1988-05-21",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 41954,
+  "title": "H\u00f4tel Terminus: The Life and Times of Klaus Barbie",
+  "original_title": "H\u00f4tel Terminus: The Life and Times of Klaus Barbie",
+  "release_date": "1988-11-01",
+  "status": "Released",
+  "runtime": 268,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

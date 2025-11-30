@@ -1,0 +1,29 @@
+{
+  "id": 45948,
+  "title": "A Story of Water",
+  "original_title": "Une histoire d'eau",
+  "release_date": "1961-03-03",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

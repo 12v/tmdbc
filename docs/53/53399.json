@@ -1,0 +1,25 @@
+{
+  "id": 53399,
+  "title": "The Solitude of Prime Numbers",
+  "original_title": "La solitudine dei numeri primi",
+  "release_date": "2010-09-10",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

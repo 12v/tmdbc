@@ -1,0 +1,30 @@
+{
+  "id": 196035,
+  "title": "10/65: Self-Mutilation",
+  "original_title": "10/65: Selbstverst\u00fcmmelung",
+  "release_date": "1965-04-01",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

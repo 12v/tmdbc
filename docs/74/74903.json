@@ -1,0 +1,25 @@
+{
+  "id": 74903,
+  "title": "Autumn Almanac",
+  "original_title": "\u0150szi almanach",
+  "release_date": "1984-08-15",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

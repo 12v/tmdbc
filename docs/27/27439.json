@@ -1,0 +1,33 @@
+{
+  "id": 27439,
+  "title": "Slaughter Hotel",
+  "original_title": "La bestia uccide a sangue freddo",
+  "release_date": "1971-08-02",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

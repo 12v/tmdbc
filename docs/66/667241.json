@@ -1,0 +1,25 @@
+{
+  "id": 667241,
+  "title": "A Bruddah's Mind",
+  "original_title": "Cabe\u00e7a de N\u00eago",
+  "release_date": "2021-10-21",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

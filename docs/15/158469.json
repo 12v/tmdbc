@@ -1,0 +1,29 @@
+{
+  "id": 158469,
+  "title": "What They Don't Talk About When They Talk About Love",
+  "original_title": "Yang Tidak Dibicarakan Ketika Membicarakan Cinta",
+  "release_date": "2013-05-02",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

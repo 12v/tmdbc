@@ -1,0 +1,29 @@
+{
+  "id": 1290213,
+  "title": "404 Run Run",
+  "original_title": "404 \u0e2a\u0e38\u0e02\u0e35\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c..Run Run",
+  "release_date": "2024-11-28",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

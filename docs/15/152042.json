@@ -1,0 +1,33 @@
+{
+  "id": 152042,
+  "title": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
+  "original_title": "\u5287\u5834\u7248 \u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab [\u524d\u7de8] \u59cb\u307e\u308a\u306e\u7269\u8a9e",
+  "release_date": "2012-10-05",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

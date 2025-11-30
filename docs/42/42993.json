@@ -1,0 +1,25 @@
+{
+  "id": 42993,
+  "title": "The Witch's Mirror",
+  "original_title": "El espejo de la bruja",
+  "release_date": "1962-07-12",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 352431,
+  "title": "Carrossel 2: O Sumi\u00e7o de Maria Joaquina",
+  "original_title": "Carrossel 2: O Sumi\u00e7o de Maria Joaquina",
+  "release_date": "2016-07-14",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

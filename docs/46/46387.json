@@ -1,0 +1,29 @@
+{
+  "id": 46387,
+  "title": "Hum Aapke Hain Koun..!",
+  "original_title": "\u0939\u092e \u0906\u092a\u0915\u0947 \u0939\u0948\u0902 \u0915\u094c\u0928...!",
+  "release_date": "1994-08-05",
+  "status": "Released",
+  "runtime": 207,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

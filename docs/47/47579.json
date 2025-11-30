@@ -1,0 +1,29 @@
+{
+  "id": 47579,
+  "title": "The Crazy Ray",
+  "original_title": "Paris qui dort",
+  "release_date": "1925-01-01",
+  "status": "Released",
+  "runtime": 59,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

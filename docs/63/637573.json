@@ -1,0 +1,26 @@
+{
+  "id": 637573,
+  "title": "Daniel Sloss: X",
+  "original_title": "Daniel Sloss: X",
+  "release_date": "2019-11-02",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

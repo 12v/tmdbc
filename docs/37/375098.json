@@ -1,0 +1,25 @@
+{
+  "id": 375098,
+  "title": "The Show",
+  "original_title": "The Show",
+  "release_date": "2017-09-21",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

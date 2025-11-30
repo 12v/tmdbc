@@ -1,0 +1,25 @@
+{
+  "id": 545426,
+  "title": "Varathan",
+  "original_title": "\u0d35\u0d30\u0d24\u0d4d\u0d24\u0d7b",
+  "release_date": "2018-09-20",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

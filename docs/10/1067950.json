@@ -1,0 +1,43 @@
+{
+  "id": 1067950,
+  "title": "Girl You Know It's True",
+  "original_title": "Girl You Know It's True",
+  "release_date": "2023-12-06",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

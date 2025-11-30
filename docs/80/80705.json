@@ -1,0 +1,34 @@
+{
+  "id": 80705,
+  "title": "Westfront 1918",
+  "original_title": "Westfront 1918: Vier von der Infanterie",
+  "release_date": "1930-05-23",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

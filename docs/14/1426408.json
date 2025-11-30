@@ -1,0 +1,29 @@
+{
+  "id": 1426408,
+  "title": "Larissa: The Other Side of Anitta",
+  "original_title": "Larissa: O Outro Lado de Anitta",
+  "release_date": "2025-03-06",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

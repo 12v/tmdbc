@@ -1,0 +1,25 @@
+{
+  "id": 1284878,
+  "title": "The Quilters",
+  "original_title": "The Quilters",
+  "release_date": "2024-06-15",
+  "status": "Released",
+  "runtime": 34,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

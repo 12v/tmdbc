@@ -1,0 +1,25 @@
+{
+  "id": 125217,
+  "title": "A Sun-Tribe Myth from the Bakumatsu Era",
+  "original_title": "\u5e55\u672b\u592a\u967d\u50b3",
+  "release_date": "1957-07-14",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 98154,
+  "title": "Satan's Slave",
+  "original_title": "Pengabdi Setan",
+  "release_date": "1980-01-31",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

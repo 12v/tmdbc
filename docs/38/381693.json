@@ -1,0 +1,33 @@
+{
+  "id": 381693,
+  "title": "Kung Fu Panda: Secrets of the Scroll",
+  "original_title": "Kung Fu Panda: Secrets of the Scroll",
+  "release_date": "2016-01-05",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

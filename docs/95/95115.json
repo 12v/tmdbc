@@ -1,0 +1,29 @@
+{
+  "id": 95115,
+  "title": "Linnea Quigley's Horror Workout",
+  "original_title": "Linnea Quigley's Horror Workout",
+  "release_date": "1990-02-01",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

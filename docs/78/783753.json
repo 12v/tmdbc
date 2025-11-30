@@ -1,0 +1,33 @@
+{
+  "id": 783753,
+  "title": "Wish You",
+  "original_title": "\uc704\uc2dc\uc720",
+  "release_date": "2021-01-15",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

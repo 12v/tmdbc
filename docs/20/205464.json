@@ -1,0 +1,33 @@
+{
+  "id": 205464,
+  "title": "Dust of Angels",
+  "original_title": "\u5c11\u5e74\u5414\uff0c\u5b89\u5566\uff01",
+  "release_date": "1992-07-03",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

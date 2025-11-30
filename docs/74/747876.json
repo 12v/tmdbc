@@ -1,0 +1,29 @@
+{
+  "id": 747876,
+  "title": "Savage X Fenty Show Vol. 2",
+  "original_title": "Savage X Fenty Show Vol. 2",
+  "release_date": "2020-10-01",
+  "status": "Released",
+  "runtime": 56,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

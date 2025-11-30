@@ -1,0 +1,30 @@
+{
+  "id": 1131443,
+  "title": "All the Silence",
+  "original_title": "Todo el silencio",
+  "release_date": "2023-10-06",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

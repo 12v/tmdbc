@@ -1,0 +1,29 @@
+{
+  "id": 37265,
+  "title": "All Ladies Do It",
+  "original_title": "Cos\u00ec fan tutte",
+  "release_date": "1992-02-21",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

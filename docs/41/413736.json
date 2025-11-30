@@ -1,0 +1,29 @@
+{
+  "id": 413736,
+  "title": "Monster High: Welcome to Monster High",
+  "original_title": "Monster High: Welcome to Monster High",
+  "release_date": "2016-08-27",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 382217,
+  "title": "Vanishing Time: A Boy Who Returned",
+  "original_title": "\uac00\ub824\uc9c4 \uc2dc\uac04",
+  "release_date": "2016-11-10",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

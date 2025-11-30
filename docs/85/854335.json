@@ -1,0 +1,25 @@
+{
+  "id": 854335,
+  "title": "Senritsu Kaiki File Kowasugi! File 02: Shivering Ghost",
+  "original_title": "\u6226\u6144\u602a\u5947\u30d5\u30a1\u30a4\u30eb \u30b3\u30ef\u3059\u304e\uff01 FILE-02 \u9707\u3048\u308b\u5e7d\u970a",
+  "release_date": "2012-08-03",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

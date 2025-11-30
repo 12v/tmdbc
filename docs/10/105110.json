@@ -1,0 +1,25 @@
+{
+  "id": 105110,
+  "title": "Murder Mansion",
+  "original_title": "La mansi\u00f3n de la niebla",
+  "release_date": "1972-08-05",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

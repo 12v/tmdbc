@@ -1,0 +1,33 @@
+{
+  "id": 173732,
+  "title": "Bang Bang",
+  "original_title": "Bang Bang",
+  "release_date": "1971-02-11",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

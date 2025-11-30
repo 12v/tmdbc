@@ -1,0 +1,25 @@
+{
+  "id": 149092,
+  "title": "Finis Terr\u00e6",
+  "original_title": "Finis Terr\u00e6",
+  "release_date": "1929-04-19",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

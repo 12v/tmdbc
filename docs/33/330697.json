@@ -1,0 +1,32 @@
+{
+  "id": 330697,
+  "title": "Belgica",
+  "original_title": "Belgica",
+  "release_date": "2016-03-02",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

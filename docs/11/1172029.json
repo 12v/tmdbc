@@ -1,0 +1,25 @@
+{
+  "id": 1172029,
+  "title": "Sobreviviendo mis XV",
+  "original_title": "Sobreviviendo mis XV",
+  "release_date": "2023-09-21",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 55257,
+  "title": "Juha",
+  "original_title": "Juha",
+  "release_date": "1999-02-26",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

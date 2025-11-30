@@ -1,0 +1,29 @@
+{
+  "id": 830938,
+  "title": "Love Will Tear Us Apart",
+  "original_title": "\u6211\u8981\u6211\u4eec\u5728\u4e00\u8d77",
+  "release_date": "2021-05-20",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

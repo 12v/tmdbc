@@ -1,0 +1,35 @@
+{
+  "id": 1400789,
+  "title": "2000 Meters to Andriivka",
+  "original_title": "2000 Meters to Andriivka",
+  "release_date": "2025-07-23",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "uk",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "UA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

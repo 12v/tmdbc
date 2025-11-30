@@ -1,0 +1,25 @@
+{
+  "id": 88922,
+  "title": "The Oily Maniac",
+  "original_title": "\u6cb9\u9b3c\u5b50",
+  "release_date": "1976-09-18",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

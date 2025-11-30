@@ -1,0 +1,25 @@
+{
+  "id": 222226,
+  "title": "Sea Countrymen",
+  "original_title": "Contadini del mare",
+  "release_date": "1955-11-01",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

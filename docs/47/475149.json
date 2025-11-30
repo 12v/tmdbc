@@ -1,0 +1,29 @@
+{
+  "id": 475149,
+  "title": "The Great Buddha+",
+  "original_title": "\u5927\u4f5b\u666e\u62c9\u65af",
+  "release_date": "2017-10-13",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

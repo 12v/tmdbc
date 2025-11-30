@@ -1,0 +1,29 @@
+{
+  "id": 1180620,
+  "title": "Nunakkuzhi",
+  "original_title": "\u0d28\u0d41\u0d23\u0d15\u0d4d\u0d15\u0d41\u0d34\u0d3f",
+  "release_date": "2024-08-15",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

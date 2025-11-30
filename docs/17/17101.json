@@ -1,0 +1,33 @@
+{
+  "id": 17101,
+  "title": "Bleach the Movie: The DiamondDust Rebellion",
+  "original_title": "\u5287\u5834\u7248 BLEACH The DiamondDust Rebellion \u3082\u3046\u4e00\u3064\u306e\u6c37\u8f2a\u4e38",
+  "release_date": "2007-12-22",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

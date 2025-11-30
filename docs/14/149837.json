@@ -1,0 +1,33 @@
+{
+  "id": 149837,
+  "title": "Ruslan and Ludmila",
+  "original_title": "\u0420\u0443\u0441\u043b\u0430\u043d \u0438 \u041b\u044e\u0434\u043c\u0438\u043b\u0430",
+  "release_date": "1972-10-12",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

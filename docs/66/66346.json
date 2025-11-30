@@ -1,0 +1,30 @@
+{
+  "id": 66346,
+  "title": "Aalavandhan",
+  "original_title": "\u0b86\u0bb3\u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+  "release_date": "2001-11-14",
+  "status": "Released",
+  "runtime": 178,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}
