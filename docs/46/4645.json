@@ -1,0 +1,30 @@
+{
+  "id": 4645,
+  "title": "\u00d6dipussi",
+  "original_title": "\u00d6dipussi",
+  "release_date": "1988-03-10",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

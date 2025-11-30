@@ -1,0 +1,26 @@
+{
+  "id": 1357759,
+  "title": "Girl",
+  "original_title": "\u5973\u5b69",
+  "release_date": "2025-10-31",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW",
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

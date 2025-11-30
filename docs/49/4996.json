@@ -1,0 +1,25 @@
+{
+  "id": 4996,
+  "title": "Afternoon",
+  "original_title": "Nachmittag",
+  "release_date": "2007-02-13",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

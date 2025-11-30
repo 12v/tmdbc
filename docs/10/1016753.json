@@ -1,0 +1,31 @@
+{
+  "id": 1016753,
+  "title": "Werner Herzog: Radical Dreamer",
+  "original_title": "Werner Herzog - Radikaler Tr\u00e4umer",
+  "release_date": "2022-10-27",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

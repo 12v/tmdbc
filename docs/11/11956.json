@@ -1,0 +1,25 @@
+{
+  "id": 11956,
+  "title": "When the Cat's Away",
+  "original_title": "Chacun cherche son chat",
+  "release_date": "1996-04-03",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

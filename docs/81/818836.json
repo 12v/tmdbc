@@ -1,0 +1,29 @@
+{
+  "id": 818836,
+  "title": "Capitu and the Chapter",
+  "original_title": "Capitu e o Cap\u00edtulo",
+  "release_date": "2023-07-27",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

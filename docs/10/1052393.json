@@ -1,10 +1,10 @@
 {
-  "id": 40156,
-  "title": "Priest",
-  "original_title": "Priest",
-  "release_date": "1995-03-24",
+  "id": 1052393,
+  "title": "Atsuko Okatsuka: The Intruder",
+  "original_title": "Atsuko Okatsuka: The Intruder",
+  "release_date": "2022-12-10",
   "status": "Released",
-  "runtime": 98,
+  "runtime": 60,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,16 +14,12 @@
     }
   ],
   "origin_country": [
-    "GB"
+    "US"
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "id": 350725,
+  "title": "The Virgin Psychics",
+  "original_title": "\u307f\u3093\u306a\uff01\u30a8\u30b9\u30d1\u30fc\u3060\u3088\uff01",
+  "release_date": "2015-09-04",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}
