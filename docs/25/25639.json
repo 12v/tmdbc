@@ -1,0 +1,23 @@
+{
+  "id": 25639,
+  "title": "Xenogenesis",
+  "original_title": "Xenogenesis",
+  "release_date": "1978-01-01",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

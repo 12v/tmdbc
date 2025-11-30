@@ -1,0 +1,29 @@
+{
+  "id": 344341,
+  "title": "The Most Dangerous Game",
+  "original_title": "\u6700\u3082\u5371\u967a\u306a\u904a\u622f",
+  "release_date": "1978-04-07",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

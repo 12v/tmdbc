@@ -1,0 +1,33 @@
+{
+  "id": 540189,
+  "title": "Goodachari",
+  "original_title": "\u0c17\u0c42\u0c22\u0c1a\u0c3e\u0c30\u0c3f",
+  "release_date": "2018-08-03",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}
