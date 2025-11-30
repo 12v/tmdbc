@@ -1,0 +1,33 @@
+{
+  "id": 244265,
+  "title": "Heroic Times",
+  "original_title": "Dali\u00e1s id\u0151k",
+  "release_date": "1984-08-30",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

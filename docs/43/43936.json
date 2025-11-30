@@ -1,0 +1,38 @@
+{
+  "id": 43936,
+  "title": "S21: The Khmer Rouge Killing Machine",
+  "original_title": "S-21, la machine de mort Khm\u00e8re rouge",
+  "release_date": "2003-05-17",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Khmer",
+      "iso_639_1": "km",
+      "name": ""
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

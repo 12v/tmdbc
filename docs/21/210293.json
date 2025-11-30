@@ -1,0 +1,23 @@
+{
+  "id": 210293,
+  "title": "The Smile Man",
+  "original_title": "The Smile Man",
+  "release_date": "2013-06-15",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
