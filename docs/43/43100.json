@@ -1,0 +1,34 @@
+{
+  "id": 43100,
+  "title": "General Della Rovere",
+  "original_title": "Il generale Della Rovere",
+  "release_date": "1959-10-07",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

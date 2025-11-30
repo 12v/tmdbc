@@ -1,0 +1,25 @@
+{
+  "id": 1280941,
+  "title": "The Boy with Pink Pants",
+  "original_title": "Il ragazzo dai pantaloni rosa",
+  "release_date": "2024-10-10",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1216452,
+  "title": "Lucky Winners",
+  "original_title": "Heureux Gagnants",
+  "release_date": "2024-03-13",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

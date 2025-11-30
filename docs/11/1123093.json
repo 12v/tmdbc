@@ -1,0 +1,33 @@
+{
+  "id": 1123093,
+  "title": "Diary of a Wimpy Kid Christmas: Cabin Fever",
+  "original_title": "Diary of a Wimpy Kid Christmas: Cabin Fever",
+  "release_date": "2023-12-07",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

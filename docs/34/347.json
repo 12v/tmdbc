@@ -1,0 +1,25 @@
+{
+  "id": 347,
+  "title": "People on Sunday",
+  "original_title": "Menschen am Sonntag",
+  "release_date": "1930-02-04",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

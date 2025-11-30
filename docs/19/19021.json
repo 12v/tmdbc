@@ -1,0 +1,25 @@
+{
+  "id": 19021,
+  "title": "Jabberwocky",
+  "original_title": "Jabberwocky",
+  "release_date": "1971-01-01",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

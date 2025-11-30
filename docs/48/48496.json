@@ -1,0 +1,25 @@
+{
+  "id": 48496,
+  "title": "Tango",
+  "original_title": "Tango",
+  "release_date": "1985-12-04",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

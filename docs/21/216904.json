@@ -1,0 +1,30 @@
+{
+  "id": 216904,
+  "title": "Days of Vinyl",
+  "original_title": "D\u00edas de vinilo",
+  "release_date": "2012-09-26",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "CO"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

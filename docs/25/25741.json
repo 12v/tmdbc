@@ -1,0 +1,49 @@
+{
+  "id": 25741,
+  "title": "The Flight Before Christmas",
+  "original_title": "Niko: Lent\u00e4j\u00e4n poika",
+  "release_date": "2008-09-22",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "DK",
+    "FI",
+    "IE"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

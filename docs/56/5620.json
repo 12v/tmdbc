@@ -1,0 +1,31 @@
+{
+  "id": 5620,
+  "title": "Count Dracula",
+  "original_title": "Nachts, wenn Dracula erwacht",
+  "release_date": "1970-04-03",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

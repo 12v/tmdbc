@@ -1,0 +1,33 @@
+{
+  "id": 266229,
+  "title": "The Eve of Ivan Kupalo",
+  "original_title": "\u0412\u0435\u0447\u0456\u0440 \u043d\u0430 \u0406\u0432\u0430\u043d\u0430 \u041a\u0443\u043f\u0430\u043b\u0430",
+  "release_date": "1968-12-25",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "uk",
+  "spoken_languages": [
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

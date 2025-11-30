@@ -1,0 +1,35 @@
+{
+  "id": 263358,
+  "title": "American Stories: Food, Family and Philosophy",
+  "original_title": "Histoires d'Am\u00e9rique: Food, Family and Philosophy",
+  "release_date": "1989-10-04",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

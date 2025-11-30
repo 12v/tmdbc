@@ -1,0 +1,25 @@
+{
+  "id": 265929,
+  "title": "Art and Craft",
+  "original_title": "Art and Craft",
+  "release_date": "2014-09-19",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

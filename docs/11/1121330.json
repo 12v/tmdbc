@@ -1,0 +1,30 @@
+{
+  "id": 1121330,
+  "title": "8 A.M. Metro",
+  "original_title": "8 A.M. Metro",
+  "release_date": "2023-05-19",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1086888,
+  "title": "Sweet Dreams",
+  "original_title": "Sweet Dreams",
+  "release_date": "2023-09-28",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "ID",
+    "RE",
+    "NL",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

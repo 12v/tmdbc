@@ -1,0 +1,33 @@
+{
+  "id": 11123,
+  "title": "Earthquake",
+  "original_title": "Earthquake",
+  "release_date": "1974-11-15",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

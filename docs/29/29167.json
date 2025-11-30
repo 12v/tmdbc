@@ -1,0 +1,33 @@
+{
+  "id": 29167,
+  "title": "The Case of the Bloody Iris",
+  "original_title": "Perch\u00e9 quelle strane gocce di sangue sul corpo di Jennifer?",
+  "release_date": "1972-08-04",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

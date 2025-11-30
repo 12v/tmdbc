@@ -1,0 +1,25 @@
+{
+  "id": 1297467,
+  "title": "Untitled The Exorcist Film",
+  "original_title": "Untitled The Exorcist Film",
+  "release_date": "",
+  "status": "Planned",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

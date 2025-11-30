@@ -1,0 +1,26 @@
+{
+  "id": 958496,
+  "title": "My Imaginary Country",
+  "original_title": "Mi pa\u00eds imaginario",
+  "release_date": "2022-05-20",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CL"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

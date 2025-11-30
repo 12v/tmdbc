@@ -1,0 +1,33 @@
+{
+  "id": 47900,
+  "title": "Birds, Orphans and Fools",
+  "original_title": "Vt\u00e1\u010dkovia, siroty a bl\u00e1zni",
+  "release_date": "1969-09-27",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "sk",
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Sloven\u010dina"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

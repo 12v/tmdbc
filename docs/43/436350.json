@@ -1,0 +1,40 @@
+{
+  "id": 436350,
+  "title": "Mr. Long",
+  "original_title": "\u30df\u30b9\u30bf\u30fc\u30fb\u30ed\u30f3",
+  "release_date": "2017-04-22",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "HK",
+    "TW",
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 342927,
+  "title": "3-Headed Shark Attack",
+  "original_title": "3-Headed Shark Attack",
+  "release_date": "2015-07-20",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 773998,
+  "title": "Double Dad",
+  "original_title": "Pai em Dobro",
+  "release_date": "2021-01-15",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "pt",
+  "spoken_languages": [],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 19670,
+  "title": "Golmaal \u2013 Fun Unlimited",
+  "original_title": "\u0917\u094b\u0932\u092e\u093e\u0932",
+  "release_date": "2006-07-14",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

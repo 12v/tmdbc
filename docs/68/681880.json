@@ -1,0 +1,38 @@
+{
+  "id": 681880,
+  "title": "Sweetie, You Won't Believe It",
+  "original_title": "\u0416\u0430\u043d\u044b\u043c, \u0442\u044b \u043d\u0435 \u043f\u043e\u0432\u0435\u0440\u0438\u0448\u044c!",
+  "release_date": "2020-03-05",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "kk",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Kazakh",
+      "iso_639_1": "kk",
+      "name": "\u049b\u0430\u0437\u0430\u049b"
+    }
+  ],
+  "origin_country": [
+    "KZ"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

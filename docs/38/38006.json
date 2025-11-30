@@ -1,0 +1,29 @@
+{
+  "id": 38006,
+  "title": "The Abominable Snowman",
+  "original_title": "The Abominable Snowman",
+  "release_date": "1957-08-26",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

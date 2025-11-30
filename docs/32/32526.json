@@ -1,0 +1,37 @@
+{
+  "id": 32526,
+  "title": "Soldier's Girl",
+  "original_title": "Soldier's Girl",
+  "release_date": "2003-05-10",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

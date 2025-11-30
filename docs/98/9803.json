@@ -1,0 +1,29 @@
+{
+  "id": 9803,
+  "title": "7 Zwerge - M\u00e4nner allein im Wald",
+  "original_title": "7 Zwerge - M\u00e4nner allein im Wald",
+  "release_date": "2004-10-28",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

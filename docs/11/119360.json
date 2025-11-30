@@ -1,0 +1,25 @@
+{
+  "id": 119360,
+  "title": "Me & You",
+  "original_title": "Io e te",
+  "release_date": "2012-10-24",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

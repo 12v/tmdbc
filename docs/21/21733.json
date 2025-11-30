@@ -1,0 +1,33 @@
+{
+  "id": 21733,
+  "title": "Dragons Forever",
+  "original_title": "\u98db\u9f8d\u731b\u5c07",
+  "release_date": "1988-02-11",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

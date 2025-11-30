@@ -1,0 +1,29 @@
+{
+  "id": 412090,
+  "title": "Jolly LLB 2",
+  "original_title": "\u091c\u0949\u0932\u0940 \u090f\u0932\u090f\u0932\u092c\u0940 2",
+  "release_date": "2017-02-09",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

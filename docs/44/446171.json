@@ -1,0 +1,29 @@
+{
+  "id": 446171,
+  "title": "Mrs. Hyde",
+  "original_title": "Madame Hyde",
+  "release_date": "2018-03-28",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

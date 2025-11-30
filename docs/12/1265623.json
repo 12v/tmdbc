@@ -1,0 +1,29 @@
+{
+  "id": 1265623,
+  "title": "Banger",
+  "original_title": "Banger",
+  "release_date": "2025-04-01",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

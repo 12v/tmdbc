@@ -1,0 +1,25 @@
+{
+  "id": 15802,
+  "title": "Tokyo Decadence",
+  "original_title": "\u30c8\u30d1\u30fc\u30ba",
+  "release_date": "1992-01-06",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

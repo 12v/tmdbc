@@ -1,0 +1,29 @@
+{
+  "id": 22124,
+  "title": "Executioners from Shaolin",
+  "original_title": "\u6d2a\u7199\u5b98",
+  "release_date": "1977-02-16",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

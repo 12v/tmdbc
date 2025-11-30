@@ -1,0 +1,31 @@
+{
+  "id": 356500,
+  "title": "Detour",
+  "original_title": "Detour",
+  "release_date": "2017-01-20",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AE",
+    "GB",
+    "ZA"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

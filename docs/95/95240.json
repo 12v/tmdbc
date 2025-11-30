@@ -1,0 +1,33 @@
+{
+  "id": 95240,
+  "title": "My God, My God, Why Hast Thou Forsaken Me?",
+  "original_title": "\u30a8\u30ea\u30fb\u30a8\u30ea\u30fb\u30ec\u30de\u30fb\u30b5\u30d0\u30af\u30bf\u30cb",
+  "release_date": "2005-05-18",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

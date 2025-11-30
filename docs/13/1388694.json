@@ -1,0 +1,29 @@
+{
+  "id": 1388694,
+  "title": "The Calendar Killer",
+  "original_title": "Sebastian Fitzeks Der Heimweg",
+  "release_date": "2025-01-15",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

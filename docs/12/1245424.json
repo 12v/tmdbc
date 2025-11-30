@@ -1,0 +1,25 @@
+{
+  "id": 1245424,
+  "title": "Nightless Night",
+  "original_title": "Y\u00f6t\u00f6n Y\u00f6",
+  "release_date": "2023-10-27",
+  "status": "Released",
+  "runtime": 20,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

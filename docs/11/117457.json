@@ -1,0 +1,29 @@
+{
+  "id": 117457,
+  "title": "Salon Mexico",
+  "original_title": "Sal\u00f3n M\u00e9xico",
+  "release_date": "1949-02-25",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

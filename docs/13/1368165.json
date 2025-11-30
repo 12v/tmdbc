@@ -1,0 +1,25 @@
+{
+  "id": 1368165,
+  "title": "Fate",
+  "original_title": "Mukadderat",
+  "release_date": "2024-11-28",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

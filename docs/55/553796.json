@@ -1,0 +1,29 @@
+{
+  "id": 553796,
+  "title": "Perfectos desconocidos",
+  "original_title": "Perfectos desconocidos",
+  "release_date": "2018-12-25",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

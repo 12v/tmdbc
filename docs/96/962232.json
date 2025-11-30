@@ -1,0 +1,33 @@
+{
+  "id": 962232,
+  "title": "Beyond the Universe",
+  "original_title": "Depois do Universo",
+  "release_date": "2022-10-26",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

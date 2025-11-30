@@ -1,0 +1,29 @@
+{
+  "id": 16130,
+  "title": "La Classe am\u00e9ricaine",
+  "original_title": "La Classe am\u00e9ricaine",
+  "release_date": "1993-12-31",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

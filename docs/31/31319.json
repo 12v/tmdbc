@@ -1,0 +1,33 @@
+{
+  "id": 31319,
+  "title": "The Embryo Hunts in Secret",
+  "original_title": "\u80ce\u5150\u304c\u5bc6\u731f\u3059\u308b\u6642",
+  "release_date": "1966-07-01",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

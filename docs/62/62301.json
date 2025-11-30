@@ -1,0 +1,30 @@
+{
+  "id": 62301,
+  "title": "Stray Dog: Kerberos Panzer Cops",
+  "original_title": "\u30b1\u30eb\u30d9\u30ed\u30b9 \u5730\u7344\u306e\u756a\u72ac",
+  "release_date": "1991-03-23",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "TW",
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

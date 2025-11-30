@@ -1,0 +1,29 @@
+{
+  "id": 1426674,
+  "title": "A Copenhagen Love Story",
+  "original_title": "Sult",
+  "release_date": "2025-02-25",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

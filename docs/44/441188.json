@@ -1,0 +1,25 @@
+{
+  "id": 441188,
+  "title": "Chavela",
+  "original_title": "Chavela",
+  "release_date": "2017-06-16",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

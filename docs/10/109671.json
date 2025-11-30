@@ -1,0 +1,25 @@
+{
+  "id": 109671,
+  "title": "The Masked Gang",
+  "original_title": "Maskeli Be\u015fler: \u0130ntikam Pe\u015finde",
+  "release_date": "2005-10-28",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 44449,
+  "title": "The Monster",
+  "original_title": "Le monstre",
+  "release_date": "1903-05-26",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

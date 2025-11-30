@@ -1,0 +1,33 @@
+{
+  "id": 269660,
+  "title": "Diary ng Panget",
+  "original_title": "Diary ng Panget",
+  "release_date": "2014-04-02",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 29972,
+  "title": "24 City",
+  "original_title": "\u4e8c\u5341\u56db\u57ce\u8bb0",
+  "release_date": "2008-09-27",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

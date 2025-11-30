@@ -1,0 +1,25 @@
+{
+  "id": 135318,
+  "title": "Emak-Bakia",
+  "original_title": "Emak-Bakia",
+  "release_date": "1926-07-26",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

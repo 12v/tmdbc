@@ -1,0 +1,37 @@
+{
+  "id": 32022,
+  "title": "Case Closed: Countdown to Heaven",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u5929\u56fd\u3078\u306e\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3",
+  "release_date": "2001-04-21",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

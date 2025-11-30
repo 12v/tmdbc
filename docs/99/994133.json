@@ -1,0 +1,29 @@
+{
+  "id": 994133,
+  "title": "Relax, I'm from the Future",
+  "original_title": "Relax, I'm from the Future",
+  "release_date": "2023-09-22",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

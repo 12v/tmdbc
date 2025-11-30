@@ -1,0 +1,29 @@
+{
+  "id": 259918,
+  "title": "Fiction.",
+  "original_title": "Fiksi.",
+  "release_date": "2008-06-19",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

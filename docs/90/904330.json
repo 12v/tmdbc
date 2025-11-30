@@ -1,0 +1,25 @@
+{
+  "id": 904330,
+  "title": "Plastic Dream",
+  "original_title": "Plastik R\u00fcya",
+  "release_date": "2021-11-05",
+  "status": "Released",
+  "runtime": 21,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

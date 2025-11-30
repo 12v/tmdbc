@@ -1,0 +1,30 @@
+{
+  "id": 1156649,
+  "title": "Mountain Queen: The Summits of Lhakpa Sherpa",
+  "original_title": "Mountain Queen: The Summits of Lhakpa Sherpa",
+  "release_date": "2024-07-26",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Nepali",
+      "iso_639_1": "ne",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

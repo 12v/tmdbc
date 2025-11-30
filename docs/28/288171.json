@@ -1,0 +1,25 @@
+{
+  "id": 288171,
+  "title": "Blue Mountain State: The Rise of Thadland",
+  "original_title": "Blue Mountain State: The Rise of Thadland",
+  "release_date": "2016-02-02",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

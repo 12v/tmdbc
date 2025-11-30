@@ -1,0 +1,25 @@
+{
+  "id": 44328,
+  "title": "The Mermaid",
+  "original_title": "La sir\u00e8ne",
+  "release_date": "1904-05-26",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

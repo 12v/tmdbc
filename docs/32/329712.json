@@ -1,0 +1,25 @@
+{
+  "id": 329712,
+  "title": "The Measure of a Man",
+  "original_title": "La Loi du march\u00e9",
+  "release_date": "2015-03-16",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

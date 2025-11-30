@@ -1,0 +1,29 @@
+{
+  "id": 997659,
+  "title": "Safe Place",
+  "original_title": "Sigurno mjesto",
+  "release_date": "2023-08-24",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "hr",
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    }
+  ],
+  "origin_country": [
+    "HR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

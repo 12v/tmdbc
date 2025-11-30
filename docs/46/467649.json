@@ -1,0 +1,33 @@
+{
+  "id": 467649,
+  "title": "Fidaa",
+  "original_title": "\u0c2b\u0c3f\u0c26\u0c3e",
+  "release_date": "2017-07-20",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

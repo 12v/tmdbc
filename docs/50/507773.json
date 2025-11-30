@@ -1,0 +1,33 @@
+{
+  "id": 507773,
+  "title": "Bring Me Home",
+  "original_title": "\ub098\ub97c \ucc3e\uc544\uc918",
+  "release_date": "2019-11-27",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

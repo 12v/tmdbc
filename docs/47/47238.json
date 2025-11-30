@@ -1,0 +1,25 @@
+{
+  "id": 47238,
+  "title": "The Corridor",
+  "original_title": "Koridorius",
+  "release_date": "1995-10-18",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "lt",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "LT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

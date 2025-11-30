@@ -1,0 +1,25 @@
+{
+  "id": 833971,
+  "title": "The House of Flowers: The Movie",
+  "original_title": "La casa de las flores: La pel\u00edcula",
+  "release_date": "2021-06-22",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

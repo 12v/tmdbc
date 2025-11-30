@@ -1,0 +1,25 @@
+{
+  "id": 622845,
+  "title": "Kalel, 15",
+  "original_title": "Kalel, 15",
+  "release_date": "2019-12-18",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

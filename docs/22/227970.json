@@ -1,0 +1,25 @@
+{
+  "id": 227970,
+  "title": "Men Are from Mars... And That's Where I'm Going!",
+  "original_title": "Os Homens S\u00e3o de Marte... E \u00e9 pra L\u00e1 Que Eu Vou!",
+  "release_date": "2014-05-02",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

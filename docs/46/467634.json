@@ -1,0 +1,33 @@
+{
+  "id": 467634,
+  "title": "Football or Me",
+  "original_title": "El f\u00fatbol o yo",
+  "release_date": "2017-08-10",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 125165,
+  "title": "Haunted School",
+  "original_title": "\u5b66\u6821\u306e\u602a\u8ac7",
+  "release_date": "1995-07-08",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

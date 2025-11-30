@@ -1,0 +1,26 @@
+{
+  "id": 155052,
+  "title": "Whispering Pages",
+  "original_title": "\u0422\u0438\u0445\u0438\u0435 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b",
+  "release_date": "1994-02-11",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 11367,
+  "title": "Odds and Evens",
+  "original_title": "Pari e dispari",
+  "release_date": "1978-10-28",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

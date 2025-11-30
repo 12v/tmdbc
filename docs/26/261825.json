@@ -1,0 +1,29 @@
+{
+  "id": 261825,
+  "title": "Zero Motivation",
+  "original_title": "\u05d0\u05e4\u05e1 \u05d1\u05d9\u05d7\u05e1\u05d9 \u05d0\u05e0\u05d5\u05e9",
+  "release_date": "2014-06-26",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "he",
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+    }
+  ],
+  "origin_country": [
+    "IL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

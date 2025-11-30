@@ -1,0 +1,41 @@
+{
+  "id": 1147400,
+  "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+  "original_title": "Miraculous World : Paris, Les Aventures de Toxinelle et Griffe Noire",
+  "release_date": "2023-10-21",
+  "status": "Released",
+  "runtime": 46,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

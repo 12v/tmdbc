@@ -1,0 +1,29 @@
+{
+  "id": 606740,
+  "title": "Voice of Silence",
+  "original_title": "\uc18c\ub9ac\ub3c4 \uc5c6\uc774",
+  "release_date": "2020-10-15",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

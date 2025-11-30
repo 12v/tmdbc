@@ -1,0 +1,37 @@
+{
+  "id": 25964,
+  "title": "L.A. Takedown",
+  "original_title": "L.A. Takedown",
+  "release_date": "1989-08-27",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

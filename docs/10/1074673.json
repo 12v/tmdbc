@@ -1,0 +1,33 @@
+{
+  "id": 1074673,
+  "title": "Irugapatru",
+  "original_title": "\u0b87\u0bb1\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bc1",
+  "release_date": "2023-10-06",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

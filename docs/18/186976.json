@@ -1,0 +1,25 @@
+{
+  "id": 186976,
+  "title": "The Golden Dream",
+  "original_title": "La jaula de oro",
+  "release_date": "2013-10-25",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

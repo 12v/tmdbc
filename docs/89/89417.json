@@ -1,0 +1,25 @@
+{
+  "id": 89417,
+  "title": "Get to Know Your Rabbit",
+  "original_title": "Get to Know Your Rabbit",
+  "release_date": "1972-06-07",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

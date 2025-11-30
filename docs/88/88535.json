@@ -1,0 +1,29 @@
+{
+  "id": 88535,
+  "title": "Detective Bureau 2-3: Go to Hell, Bastards!",
+  "original_title": "\u63a2\u5075\u4e8b\u52d9\u6240\uff12\uff13 \u304f\u305f\u3070\u308c\u60aa\u515a\u3069\u3082",
+  "release_date": "1963-01-27",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

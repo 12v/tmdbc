@@ -1,0 +1,25 @@
+{
+  "id": 50270,
+  "title": "Paprika",
+  "original_title": "Paprika",
+  "release_date": "1991-02-13",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

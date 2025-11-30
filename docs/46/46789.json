@@ -1,0 +1,25 @@
+{
+  "id": 46789,
+  "title": "Submarino",
+  "original_title": "Submarino",
+  "release_date": "2010-03-25",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 539186,
+  "title": "A Tale of Three Sisters",
+  "original_title": "K\u0131z Karde\u015fler",
+  "release_date": "2019-08-30",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "GR",
+    "NL",
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

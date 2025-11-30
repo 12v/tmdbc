@@ -1,0 +1,29 @@
+{
+  "id": 104239,
+  "title": "Eden and After",
+  "original_title": "L'\u00c9den et apr\u00e8s",
+  "release_date": "1970-04-20",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

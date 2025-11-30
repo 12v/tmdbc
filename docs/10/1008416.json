@@ -1,0 +1,31 @@
+{
+  "id": 1008416,
+  "title": "Unicorns",
+  "original_title": "Unicorns",
+  "release_date": "2024-07-05",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "SE",
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

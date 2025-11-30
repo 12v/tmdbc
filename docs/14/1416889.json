@@ -1,0 +1,25 @@
+{
+  "id": 1416889,
+  "title": "Perusu",
+  "original_title": "\u0baa\u0bc6\u0bb0\u0bc1\u0b9a\u0bc1",
+  "release_date": "2025-03-14",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

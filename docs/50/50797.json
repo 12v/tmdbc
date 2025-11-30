@@ -1,0 +1,25 @@
+{
+  "id": 50797,
+  "title": "Burnt by the Sun",
+  "original_title": "\u0423\u0442\u043e\u043c\u043b\u0451\u043d\u043d\u044b\u0435 \u0441\u043e\u043b\u043d\u0446\u0435\u043c",
+  "release_date": "1994-05-01",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

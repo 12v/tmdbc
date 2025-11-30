@@ -1,0 +1,37 @@
+{
+  "id": 24102,
+  "title": "The Land Before Time VII: The Stone of Cold Fire",
+  "original_title": "The Land Before Time VII: The Stone of Cold Fire",
+  "release_date": "2000-12-05",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 500853,
+  "title": "Styx",
+  "original_title": "Styx",
+  "release_date": "2018-09-13",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

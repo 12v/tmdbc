@@ -1,0 +1,29 @@
+{
+  "id": 1232889,
+  "title": "Malta",
+  "original_title": "Malta",
+  "release_date": "2024-03-08",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

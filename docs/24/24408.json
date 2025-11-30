@@ -1,0 +1,33 @@
+{
+  "id": 24408,
+  "title": "C.S.A.: The Confederate States of America",
+  "original_title": "C.S.A.: The Confederate States of America",
+  "release_date": "2005-06-24",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

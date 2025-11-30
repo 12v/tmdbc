@@ -1,0 +1,29 @@
+{
+  "id": 1128836,
+  "title": "Till Death Do Us Part",
+  "original_title": "Sehidup Semati",
+  "release_date": "2024-01-11",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

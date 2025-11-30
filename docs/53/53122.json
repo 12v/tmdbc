@@ -1,0 +1,38 @@
+{
+  "id": 53122,
+  "title": "Chandramukhi",
+  "original_title": "\u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bc1\u0b95\u0bbf",
+  "release_date": "2005-04-14",
+  "status": "Released",
+  "runtime": 164,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

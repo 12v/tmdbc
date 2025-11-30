@@ -1,0 +1,29 @@
+{
+  "id": 183678,
+  "title": "The Margin",
+  "original_title": "A Margem",
+  "release_date": "1967-01-01",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

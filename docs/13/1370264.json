@@ -1,0 +1,25 @@
+{
+  "id": 1370264,
+  "title": "Crazxy",
+  "original_title": "Crazxy",
+  "release_date": "2025-02-28",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

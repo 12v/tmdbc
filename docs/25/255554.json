@@ -1,0 +1,30 @@
+{
+  "id": 255554,
+  "title": "Journey to the West",
+  "original_title": "\u897f\u904a",
+  "release_date": "2014-04-24",
+  "status": "Released",
+  "runtime": 56,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 386303,
+  "title": "I Like Bats",
+  "original_title": "Lubi\u0119 nietoperze",
+  "release_date": "1986-07-14",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

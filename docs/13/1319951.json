@@ -1,0 +1,42 @@
+{
+  "id": 1319951,
+  "title": "40 Acres",
+  "original_title": "40 Acres",
+  "release_date": "2025-07-02",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Cree",
+      "iso_639_1": "cr",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

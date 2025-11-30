@@ -1,0 +1,29 @@
+{
+  "id": 1252542,
+  "title": "Swag",
+  "original_title": "\u0c36\u0c4d\u0c35\u0c3e\u0c17\u0c4d",
+  "release_date": "2024-10-04",
+  "status": "Released",
+  "runtime": 157,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

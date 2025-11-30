@@ -1,0 +1,29 @@
+{
+  "id": 500259,
+  "title": "Mario",
+  "original_title": "Mario",
+  "release_date": "2018-02-22",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

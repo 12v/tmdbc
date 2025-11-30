@@ -1,0 +1,39 @@
+{
+  "id": 1232781,
+  "title": "Dying",
+  "original_title": "Sterben",
+  "release_date": "2024-04-25",
+  "status": "Released",
+  "runtime": 182,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Latvian",
+      "iso_639_1": "lv",
+      "name": "Latvie\u0161u"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

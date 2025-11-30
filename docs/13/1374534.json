@@ -1,0 +1,37 @@
+{
+  "id": 1374534,
+  "title": "Almost Cops",
+  "original_title": "Bad Boa's",
+  "release_date": "2025-07-10",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

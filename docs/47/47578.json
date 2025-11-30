@@ -1,0 +1,37 @@
+{
+  "id": 47578,
+  "title": "Legend of the Eight Samurai",
+  "original_title": "\u91cc\u898b\u516b\u72ac\u4f1d",
+  "release_date": "1983-12-10",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 13345,
+  "title": "A Chinese Odyssey Part One: Pandora's Box",
+  "original_title": "\u897f\u904a\u8a18\u7b2c\u58f9\u4f70\u96f6\u58f9\u56de\u4e4b\u6708\u5149\u5bf6\u76d2",
+  "release_date": "1995-01-21",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

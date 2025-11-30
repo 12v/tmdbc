@@ -1,0 +1,31 @@
+{
+  "id": 1390382,
+  "title": "Coutures",
+  "original_title": "Coutures",
+  "release_date": "2026-02-18",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1311073,
+  "title": "Bloody Beggar",
+  "original_title": "\u0baa\u0bcd\u0bb3\u0b9f\u0bbf \u0baa\u0bc6\u0b95\u0bcd\u0b95\u0bb0\u0bcd",
+  "release_date": "2024-10-31",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

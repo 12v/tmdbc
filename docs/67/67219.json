@@ -1,0 +1,29 @@
+{
+  "id": 67219,
+  "title": "The Great Alligator",
+  "original_title": "Il fiume del grande caimano",
+  "release_date": "1979-11-03",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1485839,
+  "title": "Elden Ring",
+  "original_title": "Elden Ring",
+  "release_date": "",
+  "status": "Planned",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

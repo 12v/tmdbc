@@ -1,0 +1,25 @@
+{
+  "id": 1212755,
+  "title": "No Guilt",
+  "original_title": "Culpa cero",
+  "release_date": "2024-08-08",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

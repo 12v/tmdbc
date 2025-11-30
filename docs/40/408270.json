@@ -1,0 +1,29 @@
+{
+  "id": 408270,
+  "title": "Wet Woman in the Wind",
+  "original_title": "\u98a8\u306b\u6fe1\u308c\u305f\u5973",
+  "release_date": "2016-12-17",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 35703,
+  "title": "Holiday in the Sun",
+  "original_title": "Holiday in the Sun",
+  "release_date": "2001-11-10",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

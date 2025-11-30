@@ -1,0 +1,25 @@
+{
+  "id": 274096,
+  "title": "Confession",
+  "original_title": "\u9059\u304b\u306a\u308b\u61a7\u308c\u30ae\u30ed\u30c1\u30f3\u604b\u306e\u65c5",
+  "release_date": "1968-01-01",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

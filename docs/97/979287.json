@@ -1,0 +1,29 @@
+{
+  "id": 979287,
+  "title": "Nandor Fodor and the Talking Mongoose",
+  "original_title": "Nandor Fodor and the Talking Mongoose",
+  "release_date": "2023-09-01",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 195455,
+  "title": "The Palace of Angels",
+  "original_title": "O Pal\u00e1cio dos Anjos",
+  "release_date": "1970-05-25",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

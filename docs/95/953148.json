@@ -1,0 +1,25 @@
+{
+  "id": 953148,
+  "title": "A Night in Four Parts",
+  "original_title": "\u00c7ilingir Sofras\u0131",
+  "release_date": "2022-04-16",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

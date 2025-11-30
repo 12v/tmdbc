@@ -1,0 +1,25 @@
+{
+  "id": 883126,
+  "title": "I'm Not Everything I Want to Be",
+  "original_title": "Je\u0161t\u011b nejsem, k\u00fdm chci b\u00fdt",
+  "release_date": "2024-10-03",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

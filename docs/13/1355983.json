@@ -1,0 +1,25 @@
+{
+  "id": 1355983,
+  "title": "Scarecrow",
+  "original_title": "Espantaho",
+  "release_date": "2025-02-07",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

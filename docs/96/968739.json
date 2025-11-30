@@ -1,0 +1,34 @@
+{
+  "id": 968739,
+  "title": "Dangerous Liaisons",
+  "original_title": "Les liaisons dangereuses",
+  "release_date": "2022-07-08",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

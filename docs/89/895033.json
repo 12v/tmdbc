@@ -1,0 +1,34 @@
+{
+  "id": 895033,
+  "title": "Don",
+  "original_title": "\u0b9f\u0bbe\u0ba9\u0bcd",
+  "release_date": "2022-05-12",
+  "status": "Released",
+  "runtime": 164,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

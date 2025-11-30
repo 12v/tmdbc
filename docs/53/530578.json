@@ -1,0 +1,29 @@
+{
+  "id": 530578,
+  "title": "The Legend of the Stardust Brothers",
+  "original_title": "\u661f\u304f\u305a\u5144\u5f1f\u306e\u4f1d\u8aac",
+  "release_date": "1985-06-15",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7736,
+  "title": "Katzelmacher",
+  "original_title": "Katzelmacher",
+  "release_date": "1969-11-22",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

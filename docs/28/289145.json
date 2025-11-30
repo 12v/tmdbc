@@ -1,0 +1,25 @@
+{
+  "id": 289145,
+  "title": "Date Wine",
+  "original_title": "\u0639\u0631\u0642 \u0627\u0644\u0628\u0644\u062d",
+  "release_date": "1998-06-23",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

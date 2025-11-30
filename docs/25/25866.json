@@ -1,0 +1,29 @@
+{
+  "id": 25866,
+  "title": "The Sucker",
+  "original_title": "Le Corniaud",
+  "release_date": "1965-03-24",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

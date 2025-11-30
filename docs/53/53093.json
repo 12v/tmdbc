@@ -1,0 +1,33 @@
+{
+  "id": 53093,
+  "title": "West and Soda",
+  "original_title": "West and Soda",
+  "release_date": "1965-10-01",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

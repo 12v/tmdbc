@@ -1,0 +1,29 @@
+{
+  "id": 148866,
+  "title": "The Cat",
+  "original_title": "Die Katze",
+  "release_date": "1988-01-21",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 18839,
+  "title": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
+  "original_title": "\u653b\u6bbb\u6a5f\u52d5\u968a Stand Alone Complex The Laughing Man",
+  "release_date": "2005-09-23",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

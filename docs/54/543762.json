@@ -1,0 +1,34 @@
+{
+  "id": 543762,
+  "title": "The Crossing",
+  "original_title": "\u8fc7\u6625\u5929",
+  "release_date": "2018-09-07",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

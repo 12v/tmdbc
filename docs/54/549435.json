@@ -1,0 +1,29 @@
+{
+  "id": 549435,
+  "title": "Tailgate",
+  "original_title": "Bumperkleef",
+  "release_date": "2019-10-31",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 127453,
+  "title": "Casting Blossoms to the Sky",
+  "original_title": "\u3053\u306e\u7a7a\u306e\u82b1 \u9577\u5ca1\u82b1\u706b\u7269\u8a9e",
+  "release_date": "2012-05-12",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

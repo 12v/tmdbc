@@ -1,0 +1,30 @@
+{
+  "id": 566367,
+  "title": "Midnight Family",
+  "original_title": "Midnight Family",
+  "release_date": "2019-03-29",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

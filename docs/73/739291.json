@@ -1,0 +1,26 @@
+{
+  "id": 739291,
+  "title": "The Last Matinee",
+  "original_title": "Al morir la matin\u00e9e",
+  "release_date": "2020-09-03",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "UY"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

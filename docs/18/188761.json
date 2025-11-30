@@ -1,0 +1,44 @@
+{
+  "id": 188761,
+  "title": "The German Doctor",
+  "original_title": "Wakolda",
+  "release_date": "2013-05-19",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 221437,
+  "title": "Miss ZOMBIE",
+  "original_title": "Miss ZOMBIE",
+  "release_date": "2013-09-14",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

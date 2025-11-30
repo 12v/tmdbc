@@ -1,0 +1,33 @@
+{
+  "id": 425233,
+  "title": "Cute Devil",
+  "original_title": "\u53ef\u611b\u3044\u60aa\u9b54",
+  "release_date": "1982-08-10",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

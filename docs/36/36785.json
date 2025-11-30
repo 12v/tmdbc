@@ -1,0 +1,25 @@
+{
+  "id": 36785,
+  "title": "The Dependent",
+  "original_title": "El dependiente",
+  "release_date": "1969-03-01",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

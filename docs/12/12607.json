@@ -1,0 +1,29 @@
+{
+  "id": 12607,
+  "title": "Kamikaze '89",
+  "original_title": "Kamikaze 1989",
+  "release_date": "1982-07-16",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

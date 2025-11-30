@@ -1,0 +1,25 @@
+{
+  "id": 778660,
+  "title": "Pebbles",
+  "original_title": "\u0b95\u0bc2\u0bb4\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd",
+  "release_date": "2021-02-04",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

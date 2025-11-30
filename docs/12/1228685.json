@@ -1,0 +1,29 @@
+{
+  "id": 1228685,
+  "title": "Love",
+  "original_title": "Kj\u00e6rlighet",
+  "release_date": "2024-11-10",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

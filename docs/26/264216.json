@@ -1,0 +1,25 @@
+{
+  "id": 264216,
+  "title": "Bilocation",
+  "original_title": "\u30d0\u30a4\u30ed\u30b1\u30fc\u30b7\u30e7\u30f3",
+  "release_date": "2013-10-21",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 678870,
+  "title": "Zillion",
+  "original_title": "Zillion",
+  "release_date": "2022-10-26",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

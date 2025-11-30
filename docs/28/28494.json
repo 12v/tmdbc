@@ -1,0 +1,29 @@
+{
+  "id": 28494,
+  "title": "The Wax Mask",
+  "original_title": "M.D.C. - Maschera di cera",
+  "release_date": "1997-04-04",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 17460,
+  "title": "Blame It on Fidel!",
+  "original_title": "La faute \u00e0 Fidel!",
+  "release_date": "2006-11-29",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

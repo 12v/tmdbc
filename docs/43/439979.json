@@ -1,0 +1,33 @@
+{
+  "id": 439979,
+  "title": "Rift",
+  "original_title": "R\u00f6kkur",
+  "release_date": "2017-02-04",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "IS"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

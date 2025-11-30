@@ -1,0 +1,33 @@
+{
+  "id": 25649,
+  "title": "Bad Guy",
+  "original_title": "\ub098\uc05c \ub0a8\uc790",
+  "release_date": "2002-01-11",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

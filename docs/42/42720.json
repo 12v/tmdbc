@@ -1,0 +1,25 @@
+{
+  "id": 42720,
+  "title": "Violence at Noon",
+  "original_title": "\u767d\u663c\u306e\u901a\u308a\u9b54",
+  "release_date": "1966-07-15",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

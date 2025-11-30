@@ -1,0 +1,38 @@
+{
+  "id": 39103,
+  "title": "Dragon Ball Z: The Return of Cooler",
+  "original_title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebZ \u6fc0\u7a81!!100\u5104\u30d1\u30ef\u30fc\u306e\u6226\u58eb\u305f\u3061",
+  "release_date": "1992-03-07",
+  "status": "Released",
+  "runtime": 46,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

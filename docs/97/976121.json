@@ -1,0 +1,29 @@
+{
+  "id": 976121,
+  "title": "Romancham",
+  "original_title": "\u0d30\u0d4b\u0d2e\u0d3e\u0d1e\u0d4d\u0d1a\u0d02",
+  "release_date": "2023-02-03",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 51378,
+  "title": "Intimate Stories",
+  "original_title": "Historias m\u00ednimas",
+  "release_date": "2002-10-24",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

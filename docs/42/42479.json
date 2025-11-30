@@ -1,0 +1,29 @@
+{
+  "id": 42479,
+  "title": "Ciao! Manhattan",
+  "original_title": "Ciao! Manhattan",
+  "release_date": "1973-04-19",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

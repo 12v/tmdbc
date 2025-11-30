@@ -1,0 +1,29 @@
+{
+  "id": 1191611,
+  "title": "Camp Crasher",
+  "original_title": "Campamento con mam\u00e1",
+  "release_date": "2024-12-05",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

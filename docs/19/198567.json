@@ -1,0 +1,27 @@
+{
+  "id": 198567,
+  "title": "The Holy Man",
+  "original_title": "\u09ae\u09b9\u09be\u09aa\u09c1\u09b0\u09c1\u09b7",
+  "release_date": "1965-05-06",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

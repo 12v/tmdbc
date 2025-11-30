@@ -1,0 +1,25 @@
+{
+  "id": 32027,
+  "title": "Carny",
+  "original_title": "Carny",
+  "release_date": "1980-05-23",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

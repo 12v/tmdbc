@@ -1,0 +1,33 @@
+{
+  "id": 265351,
+  "title": "Let's Sin",
+  "original_title": "\u0130tiraz\u0131m Var",
+  "release_date": "2014-04-18",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

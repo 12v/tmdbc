@@ -1,0 +1,25 @@
+{
+  "id": 104466,
+  "title": "The Vanishing Lady",
+  "original_title": "Escamotage d'une dame chez Robert-Houdin",
+  "release_date": "1896-01-01",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

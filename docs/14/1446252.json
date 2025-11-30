@@ -1,0 +1,27 @@
+{
+  "id": 1446252,
+  "title": "SuperTurn\u00ea: The First and Last Night",
+  "original_title": "SuperTurn\u00ea: A Primeira e A \u00daltima Noite",
+  "release_date": "2025-03-21",
+  "status": "Released",
+  "runtime": 158,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 948031,
+  "title": "The Resistance",
+  "original_title": "Mukavemet",
+  "release_date": "2022-04-17",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

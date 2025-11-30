@@ -1,0 +1,25 @@
+{
+  "id": 666175,
+  "title": "Wake Up",
+  "original_title": "Wake Up",
+  "release_date": "2020-01-24",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

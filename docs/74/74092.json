@@ -1,0 +1,25 @@
+{
+  "id": 74092,
+  "title": "Bleak Night",
+  "original_title": "\ud30c\uc218\uafbc",
+  "release_date": "2011-03-03",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

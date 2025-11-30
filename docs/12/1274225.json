@@ -1,0 +1,29 @@
+{
+  "id": 1274225,
+  "title": "Bromance",
+  "original_title": "\u0d2c\u0d4d\u0d30\u0d4b\u0d2e\u0d3e\u0d7b\u0d38\u0d4d",
+  "release_date": "2025-02-14",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

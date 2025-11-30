@@ -1,0 +1,25 @@
+{
+  "id": 582878,
+  "title": "Workforce",
+  "original_title": "Mano de obra",
+  "release_date": "2020-08-19",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

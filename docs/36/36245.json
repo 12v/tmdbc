@@ -1,0 +1,29 @@
+{
+  "id": 36245,
+  "title": "Diary of a Chambermaid",
+  "original_title": "Le Journal d'une femme de chambre",
+  "release_date": "1964-03-04",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

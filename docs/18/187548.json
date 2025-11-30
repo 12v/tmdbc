@@ -1,0 +1,26 @@
+{
+  "id": 187548,
+  "title": "Age of Bloom",
+  "original_title": "\u82b1\u6a23\u7684\u5e74\u83ef",
+  "release_date": "2001-02-12",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

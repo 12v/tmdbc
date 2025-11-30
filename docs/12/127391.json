@@ -1,0 +1,33 @@
+{
+  "id": 127391,
+  "title": "The Dancing Skeleton",
+  "original_title": "Le squelette joyeux",
+  "release_date": "1898-03-20",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

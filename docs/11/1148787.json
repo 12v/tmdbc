@@ -1,0 +1,32 @@
+{
+  "id": 1148787,
+  "title": "Eight Eyes",
+  "original_title": "Eight Eyes",
+  "release_date": "2023-08-04",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "MK",
+    "RS",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

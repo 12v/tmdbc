@@ -1,0 +1,25 @@
+{
+  "id": 1254864,
+  "title": "Two Blue Hearts",
+  "original_title": "Dua Hati Biru",
+  "release_date": "2024-04-17",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

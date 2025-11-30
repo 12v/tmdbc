@@ -1,0 +1,26 @@
+{
+  "id": 638706,
+  "title": "Hannah Gadsby: Douglas",
+  "original_title": "Hannah Gadsby: Douglas",
+  "release_date": "2020-05-25",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

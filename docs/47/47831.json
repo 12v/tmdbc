@@ -1,0 +1,25 @@
+{
+  "id": 47831,
+  "title": "\u00c0 propos de Nice",
+  "original_title": "\u00c0 propos de Nice",
+  "release_date": "1930-05-28",
+  "status": "Released",
+  "runtime": 24,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

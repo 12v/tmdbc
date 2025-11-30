@@ -1,0 +1,25 @@
+{
+  "id": 85265,
+  "title": "Anak",
+  "original_title": "Anak",
+  "release_date": "2000-05-10",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

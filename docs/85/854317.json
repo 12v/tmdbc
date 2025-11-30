@@ -1,0 +1,29 @@
+{
+  "id": 854317,
+  "title": "Atlantide",
+  "original_title": "Atlantide",
+  "release_date": "2022-09-08",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 620498,
+  "title": "Fabian: Going to the Dogs",
+  "original_title": "Fabian oder der Gang vor die Hunde",
+  "release_date": "2021-08-05",
+  "status": "Released",
+  "runtime": 176,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

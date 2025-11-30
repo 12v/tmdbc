@@ -1,0 +1,33 @@
+{
+  "id": 294161,
+  "title": "Tain\u00e1: An Amazon Adventure",
+  "original_title": "Tain\u00e1: Uma Aventura na Amaz\u00f4nia",
+  "release_date": "2001-01-12",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

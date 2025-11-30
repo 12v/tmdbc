@@ -1,0 +1,38 @@
+{
+  "id": 476631,
+  "title": "Barbie: Dolphin Magic",
+  "original_title": "Barbie: Dolphin Magic",
+  "release_date": "2017-09-20",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

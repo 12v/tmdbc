@@ -1,0 +1,29 @@
+{
+  "id": 382143,
+  "title": "I, Olga Hepnarova",
+  "original_title": "J\u00e1, Olga Hepnarov\u00e1",
+  "release_date": "2016-03-24",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31415,
+  "title": "Mr. Muhsin",
+  "original_title": "Muhsin Bey",
+  "release_date": "1987-05-01",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

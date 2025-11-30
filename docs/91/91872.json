@@ -1,0 +1,33 @@
+{
+  "id": 91872,
+  "title": "Cops vs. Thugs",
+  "original_title": "\u770c\u8b66\u5bfe\u7d44\u7e54\u66b4\u529b",
+  "release_date": "1975-04-26",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

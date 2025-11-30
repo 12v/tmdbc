@@ -1,0 +1,33 @@
+{
+  "id": 1016661,
+  "title": "The Courtship",
+  "original_title": "Ida reg\u00e9nye",
+  "release_date": "2022-07-11",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

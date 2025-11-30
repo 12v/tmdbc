@@ -1,0 +1,29 @@
+{
+  "id": 974792,
+  "title": "Gulmohar",
+  "original_title": "\u0917\u0941\u0932\u092e\u094b\u0939\u0930",
+  "release_date": "2023-03-03",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

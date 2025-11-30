@@ -1,0 +1,29 @@
+{
+  "id": 42992,
+  "title": "The Brainiac",
+  "original_title": "El bar\u00f3n del terror",
+  "release_date": "1962-11-09",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

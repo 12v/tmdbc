@@ -1,0 +1,34 @@
+{
+  "id": 457985,
+  "title": "Flores",
+  "original_title": "Flores",
+  "release_date": "2017-05-10",
+  "status": "Released",
+  "runtime": 26,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

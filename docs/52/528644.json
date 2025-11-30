@@ -1,0 +1,37 @@
+{
+  "id": 528644,
+  "title": "Bilby",
+  "original_title": "Bilby",
+  "release_date": "2019-02-22",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

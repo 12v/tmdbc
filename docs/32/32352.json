@@ -1,0 +1,33 @@
+{
+  "id": 32352,
+  "title": "The Howl",
+  "original_title": "L'urlo",
+  "release_date": "1970-05-01",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

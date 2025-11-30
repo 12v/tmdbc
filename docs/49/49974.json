@@ -1,0 +1,30 @@
+{
+  "id": 49974,
+  "title": "God's Comedy",
+  "original_title": "A Com\u00e9dia de Deus",
+  "release_date": "1996-01-20",
+  "status": "Released",
+  "runtime": 162,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

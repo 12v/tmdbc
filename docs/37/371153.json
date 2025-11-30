@@ -1,0 +1,25 @@
+{
+  "id": 371153,
+  "title": "Wedding Association 2: Circumcision",
+  "original_title": "D\u00fc\u011f\u00fcn Dernek 2: S\u00fcnnet",
+  "release_date": "2015-12-04",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

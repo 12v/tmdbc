@@ -1,0 +1,25 @@
+{
+  "id": 488689,
+  "title": "Uma Quase Dupla",
+  "original_title": "Uma Quase Dupla",
+  "release_date": "2018-07-19",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

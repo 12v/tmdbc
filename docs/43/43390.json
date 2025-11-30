@@ -1,0 +1,29 @@
+{
+  "id": 43390,
+  "title": "Summer Stock",
+  "original_title": "Summer Stock",
+  "release_date": "1950-08-31",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

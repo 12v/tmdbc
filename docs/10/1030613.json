@@ -1,0 +1,29 @@
+{
+  "id": 1030613,
+  "title": "Faithfully Yours",
+  "original_title": "Faithfully Yours",
+  "release_date": "2022-12-22",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

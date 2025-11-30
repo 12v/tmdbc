@@ -1,0 +1,29 @@
+{
+  "id": 42837,
+  "title": "The 3 Penny Opera",
+  "original_title": "Die 3 Groschen-Oper",
+  "release_date": "1931-02-18",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

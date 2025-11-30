@@ -1,0 +1,29 @@
+{
+  "id": 135624,
+  "title": "Memories of Prison",
+  "original_title": "Mem\u00f3rias do C\u00e1rcere",
+  "release_date": "1984-06-18",
+  "status": "Released",
+  "runtime": 190,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

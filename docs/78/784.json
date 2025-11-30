@@ -1,0 +1,39 @@
+{
+  "id": 784,
+  "title": "Kolya",
+  "original_title": "Kolja",
+  "release_date": "1996-05-15",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Sloven\u010dina"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

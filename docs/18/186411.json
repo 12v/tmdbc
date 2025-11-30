@@ -1,0 +1,33 @@
+{
+  "id": 186411,
+  "title": "The Seven Kittens",
+  "original_title": "Os Sete Gatinhos",
+  "release_date": "1980-04-17",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 11829,
+  "title": "Trinity Is Still My Name",
+  "original_title": "...continuavano a chiamarlo Trinit\u00e0",
+  "release_date": "1971-10-21",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

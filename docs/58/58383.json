@@ -1,0 +1,25 @@
+{
+  "id": 58383,
+  "title": "Hands Over the City",
+  "original_title": "Le mani sulla citt\u00e0",
+  "release_date": "1963-10-11",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

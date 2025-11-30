@@ -1,0 +1,29 @@
+{
+  "id": 42744,
+  "title": "The Knack... and How to Get It",
+  "original_title": "The Knack... and How to Get It",
+  "release_date": "1965-06-03",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

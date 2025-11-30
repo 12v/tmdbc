@@ -1,0 +1,25 @@
+{
+  "id": 1233620,
+  "title": "Winner Takes the Cake",
+  "original_title": "\u00a1Qu\u00e9 Huevos, Sof\u00eda!",
+  "release_date": "2025-02-27",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

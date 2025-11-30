@@ -1,0 +1,25 @@
+{
+  "id": 236881,
+  "title": "Eletrodom\u00e9stica",
+  "original_title": "Eletrodom\u00e9stica",
+  "release_date": "2005-08-24",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

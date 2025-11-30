@@ -1,0 +1,28 @@
+{
+  "id": 37696,
+  "title": "Fear X",
+  "original_title": "Fear X",
+  "release_date": "2003-01-13",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "CA",
+    "DK",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 15077,
+  "title": "Election 2",
+  "original_title": "\u9ed1\u793e\u67032\uff1a\u4ee5\u548c\u70ba\u8cb4",
+  "release_date": "2006-04-27",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

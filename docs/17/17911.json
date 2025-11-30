@@ -1,0 +1,29 @@
+{
+  "id": 17911,
+  "title": "Mega Shark vs. Giant Octopus",
+  "original_title": "Mega Shark vs. Giant Octopus",
+  "release_date": "2009-05-19",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

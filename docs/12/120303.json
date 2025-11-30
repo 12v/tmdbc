@@ -1,0 +1,25 @@
+{
+  "id": 120303,
+  "title": "The Vampire",
+  "original_title": "El vampiro",
+  "release_date": "1957-10-04",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 741528,
+  "title": "Totally Under Control",
+  "original_title": "Totally Under Control",
+  "release_date": "2021-05-05",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

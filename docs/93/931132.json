@@ -1,0 +1,33 @@
+{
+  "id": 931132,
+  "title": "Jaya Jaya Jaya Jaya Hey",
+  "original_title": "\u0d1c\u0d2f \u0d1c\u0d2f \u0d1c\u0d2f \u0d1c\u0d2f \u0d39\u0d47",
+  "release_date": "2022-10-28",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

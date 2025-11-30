@@ -1,0 +1,34 @@
+{
+  "id": 1001270,
+  "title": "The Things You Kill",
+  "original_title": "\u00d6ld\u00fcrd\u00fc\u011f\u00fcn \u015eeyler",
+  "release_date": "2025-04-25",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

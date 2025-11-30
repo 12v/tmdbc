@@ -1,0 +1,30 @@
+{
+  "id": 803688,
+  "title": "Ama Gloria",
+  "original_title": "\u00c0ma Gloria",
+  "release_date": "2023-08-30",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

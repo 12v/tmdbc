@@ -1,0 +1,37 @@
+{
+  "id": 32389,
+  "title": "Logorama",
+  "original_title": "Logorama",
+  "release_date": "2009-05-16",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

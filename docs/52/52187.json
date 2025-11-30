@@ -1,0 +1,25 @@
+{
+  "id": 52187,
+  "title": "Block C",
+  "original_title": "C Blok",
+  "release_date": "1994-08-26",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1032627,
+  "title": "Love Today",
+  "original_title": "\u0bb2\u0bb5\u0bcd \u0b9f\u0bc1\u0b9f\u0bc7",
+  "release_date": "2022-11-04",
+  "status": "Released",
+  "runtime": 154,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

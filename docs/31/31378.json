@@ -1,0 +1,41 @@
+{
+  "id": 31378,
+  "title": "Samurai III: Duel at Ganryu Island",
+  "original_title": "\u5bae\u672c\u6b66\u8535\u5b8c\u7d50\u7de8\u3000\u6c7a\u95d8\u5dcc\u6d41\u5cf6",
+  "release_date": "1956-01-03",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

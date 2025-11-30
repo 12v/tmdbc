@@ -1,0 +1,29 @@
+{
+  "id": 811944,
+  "title": "Game Changer",
+  "original_title": "\u0c17\u0c47\u0c2e\u0c4d\u200c \u0c1b\u0c47\u0c02\u0c1c\u0c30\u0c4d\u200c",
+  "release_date": "2025-01-09",
+  "status": "Released",
+  "runtime": 164,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

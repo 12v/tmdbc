@@ -1,0 +1,29 @@
+{
+  "id": 36075,
+  "title": "Splatter: Naked Blood",
+  "original_title": "\u5973\u8650 \u60aa\u9b54\u306e\u60a6\u3073",
+  "release_date": "1996-02-20",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

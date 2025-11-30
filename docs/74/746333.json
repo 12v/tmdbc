@@ -1,0 +1,38 @@
+{
+  "id": 746333,
+  "title": "Superwho?",
+  "original_title": "Super-h\u00e9ros malgr\u00e9 lui",
+  "release_date": "2022-02-02",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

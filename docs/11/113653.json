@@ -1,0 +1,25 @@
+{
+  "id": 113653,
+  "title": "Prison",
+  "original_title": "F\u00e4ngelse",
+  "release_date": "1949-03-19",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 776544,
+  "title": "Luzzu",
+  "original_title": "Luzzu",
+  "release_date": "2021-10-15",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "mt",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Maltese",
+      "iso_639_1": "mt",
+      "name": "Malti"
+    }
+  ],
+  "origin_country": [
+    "MT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

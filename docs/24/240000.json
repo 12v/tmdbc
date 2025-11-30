@@ -1,0 +1,33 @@
+{
+  "id": 240000,
+  "title": "Lady Gaga & the Muppets Holiday Spectacular",
+  "original_title": "Lady Gaga & the Muppets Holiday Spectacular",
+  "release_date": "2013-11-29",
+  "status": "Released",
+  "runtime": 58,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

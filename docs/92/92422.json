@@ -1,0 +1,25 @@
+{
+  "id": 92422,
+  "title": "Strawberry Shortcakes",
+  "original_title": "\u30b9\u30c8\u30ed\u30d9\u30ea\u30fc\u30b7\u30e7\u30fc\u30c8\u30b1\u30a4\u30af\u30b9",
+  "release_date": "2006-09-23",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

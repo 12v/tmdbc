@@ -1,0 +1,25 @@
+{
+  "id": 776556,
+  "title": "Taming the Garden",
+  "original_title": "\u10db\u10dd\u10d7\u10d5\u10d8\u10dc\u10d8\u10d4\u10e0\u10d4\u10d1\u10d0",
+  "release_date": "2022-01-28",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    }
+  ],
+  "origin_country": [
+    "GE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

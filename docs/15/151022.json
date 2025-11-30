@@ -1,0 +1,33 @@
+{
+  "id": 151022,
+  "title": "Gerorisuto",
+  "original_title": "Gerorisuto",
+  "release_date": "1986-01-01",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

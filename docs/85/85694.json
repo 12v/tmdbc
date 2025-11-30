@@ -1,0 +1,33 @@
+{
+  "id": 85694,
+  "title": "Piano Piano Kid",
+  "original_title": "Piano Piano Bacaks\u0131z",
+  "release_date": "1991-10-25",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

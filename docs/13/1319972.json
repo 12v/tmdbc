@@ -1,0 +1,30 @@
+{
+  "id": 1319972,
+  "title": "Don't Let's Go to the Dogs Tonight",
+  "original_title": "Don't Let's Go to the Dogs Tonight",
+  "release_date": "2025-07-11",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Shona",
+      "iso_639_1": "sn",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ZA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

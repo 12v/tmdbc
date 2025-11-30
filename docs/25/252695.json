@@ -1,0 +1,29 @@
+{
+  "id": 252695,
+  "title": "Never Open That Door",
+  "original_title": "No abras nunca esa puerta",
+  "release_date": "1952-05-23",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 322994,
+  "title": "T\u00f4 Ryca!",
+  "original_title": "T\u00f4 Ryca!",
+  "release_date": "2016-09-22",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

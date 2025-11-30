@@ -1,0 +1,33 @@
+{
+  "id": 147405,
+  "title": "Dabangg 2",
+  "original_title": "\u0926\u092c\u0902\u0917\u094d\u0917 2",
+  "release_date": "2012-12-21",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

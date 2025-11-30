@@ -1,0 +1,29 @@
+{
+  "id": 13245,
+  "title": "Atanarjuat: The Fast Runner",
+  "original_title": "\u140a\u1455\u14c8\u1550\u152a\u140a\u1466",
+  "release_date": "2002-02-01",
+  "status": "Released",
+  "runtime": 172,
+  "original_language": "iu",
+  "spoken_languages": [
+    {
+      "english_name": "Inuktitut",
+      "iso_639_1": "iu",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

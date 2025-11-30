@@ -1,0 +1,37 @@
+{
+  "id": 92233,
+  "title": "The Forbidden Photos of a Lady Above Suspicion",
+  "original_title": "Le foto proibite di una signora per bene",
+  "release_date": "1970-11-27",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

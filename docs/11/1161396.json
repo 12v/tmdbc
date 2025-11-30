@@ -1,0 +1,27 @@
+{
+  "id": 1161396,
+  "title": "KIX",
+  "original_title": "KIX",
+  "release_date": "2024-11-21",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HR",
+    "FR",
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

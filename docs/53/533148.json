@@ -1,0 +1,29 @@
+{
+  "id": 533148,
+  "title": "Ek Ladki Ko Dekha Toh Aisa Laga",
+  "original_title": "\u090f\u0915 \u0932\u095c\u0915\u0940 \u0915\u094b \u0926\u0947\u0916\u093e \u0924\u094b\u0939 \u0910\u0938\u093e \u0932\u0917\u093e",
+  "release_date": "2019-02-01",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

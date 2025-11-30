@@ -1,0 +1,33 @@
+{
+  "id": 1080252,
+  "title": "Major Grom: The Game",
+  "original_title": "\u041c\u0430\u0439\u043e\u0440 \u0413\u0440\u043e\u043c: \u0418\u0433\u0440\u0430",
+  "release_date": "2024-05-23",
+  "status": "Released",
+  "runtime": 166,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

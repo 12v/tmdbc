@@ -1,0 +1,25 @@
+{
+  "id": 334175,
+  "title": "Sijjin",
+  "original_title": "Sicc\u00een",
+  "release_date": "2014-09-26",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

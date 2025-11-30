@@ -1,0 +1,29 @@
+{
+  "id": 108433,
+  "title": "A New Love in Tokyo",
+  "original_title": "\u611b\u306e\u65b0\u4e16\u754c",
+  "release_date": "1994-12-17",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

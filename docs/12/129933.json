@@ -1,0 +1,26 @@
+{
+  "id": 129933,
+  "title": "Paraguayan Hammock",
+  "original_title": "Hamaca paraguaya",
+  "release_date": "2006-11-02",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Guarani",
+      "iso_639_1": "gn",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "PY"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

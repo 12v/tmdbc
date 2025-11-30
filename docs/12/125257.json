@@ -1,0 +1,25 @@
+{
+  "id": 125257,
+  "title": "Muddy River",
+  "original_title": "\u6ce5\u306e\u6cb3",
+  "release_date": "1981-01-30",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

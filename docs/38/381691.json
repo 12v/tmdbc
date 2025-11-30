@@ -1,0 +1,29 @@
+{
+  "id": 381691,
+  "title": "Maheshinte Prathikaaram",
+  "original_title": "\u0d2e\u0d39\u0d47\u0d37\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d15\u0d3e\u0d30\u0d02",
+  "release_date": "2016-02-05",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

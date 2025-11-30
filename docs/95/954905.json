@@ -1,0 +1,29 @@
+{
+  "id": 954905,
+  "title": "Art College 1994",
+  "original_title": "\u827a\u672f\u5b66\u96621994",
+  "release_date": "2025-06-21",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

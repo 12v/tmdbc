@@ -1,0 +1,29 @@
+{
+  "id": 100888,
+  "title": "Closed Circuit",
+  "original_title": "Circuito chiuso",
+  "release_date": "1978-02-22",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 20087,
+  "title": "Adela Has Not Had Supper Yet",
+  "original_title": "Ad\u00e9la je\u0161t\u011b neve\u010de\u0159ela",
+  "release_date": "1978-08-04",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

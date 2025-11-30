@@ -1,0 +1,29 @@
+{
+  "id": 1164370,
+  "title": "Neru",
+  "original_title": "\u0d28\u0d47\u0d30\u0d4d",
+  "release_date": "2023-12-21",
+  "status": "Released",
+  "runtime": 152,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

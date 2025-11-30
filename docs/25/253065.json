@@ -1,0 +1,38 @@
+{
+  "id": 253065,
+  "title": "Miss Granny",
+  "original_title": "\uc218\uc0c1\ud55c \uadf8\ub140",
+  "release_date": "2014-01-22",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

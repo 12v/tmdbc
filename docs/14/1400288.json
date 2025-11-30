@@ -1,0 +1,25 @@
+{
+  "id": 1400288,
+  "title": "Deaf President Now!",
+  "original_title": "Deaf President Now!",
+  "release_date": "2025-01-28",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

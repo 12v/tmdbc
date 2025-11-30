@@ -1,0 +1,25 @@
+{
+  "id": 250696,
+  "title": "The Year of the Cannibals",
+  "original_title": "I cannibali",
+  "release_date": "1969-08-23",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

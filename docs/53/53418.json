@@ -1,0 +1,25 @@
+{
+  "id": 53418,
+  "title": "One A.M.",
+  "original_title": "One A.M.",
+  "release_date": "1916-08-07",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

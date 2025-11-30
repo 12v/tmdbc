@@ -1,0 +1,29 @@
+{
+  "id": 539504,
+  "title": "Consequences",
+  "original_title": "Posledice",
+  "release_date": "2018-10-18",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "sl",
+  "spoken_languages": [
+    {
+      "english_name": "Slovenian",
+      "iso_639_1": "sl",
+      "name": "Sloven\u0161\u010dina"
+    }
+  ],
+  "origin_country": [
+    "SI"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

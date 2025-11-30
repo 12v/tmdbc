@@ -1,0 +1,33 @@
+{
+  "id": 71723,
+  "title": "Take Aim at the Police Van",
+  "original_title": "\uff11\uff13\u53f7\u5f85\u907f\u7dda\u3088\u308a\u3000\u305d\u306e\u8b77\u9001\u8eca\u3092\u72d9\u3048",
+  "release_date": "1960-01-27",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

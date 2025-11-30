@@ -1,0 +1,29 @@
+{
+  "id": 581791,
+  "title": "The Blonde One",
+  "original_title": "Un rubio",
+  "release_date": "2019-07-11",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

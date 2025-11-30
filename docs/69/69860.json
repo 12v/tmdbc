@@ -1,0 +1,29 @@
+{
+  "id": 69860,
+  "title": "Guinea Pig Part 3: He Never Dies",
+  "original_title": "\u30ae\u30cb\u30fc\u30d4\u30c3\u30b03 \u6226\u6144! \u6b7b\u306a\u306a\u3044\u7537",
+  "release_date": "1986-04-10",
+  "status": "Released",
+  "runtime": 41,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

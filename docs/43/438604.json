@@ -1,0 +1,29 @@
+{
+  "id": 438604,
+  "title": "Varan",
+  "original_title": "\u5927\u602a\u7363\u30d0\u30e9\u30f3",
+  "release_date": "1958-10-14",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

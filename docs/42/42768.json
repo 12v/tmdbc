@@ -1,0 +1,33 @@
+{
+  "id": 42768,
+  "title": "Lost Soul",
+  "original_title": "Anima Persa",
+  "release_date": "1977-01-20",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

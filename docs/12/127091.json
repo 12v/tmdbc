@@ -1,0 +1,33 @@
+{
+  "id": 127091,
+  "title": "Shoot First, Die Later",
+  "original_title": "Il poliziotto \u00e8 marcio",
+  "release_date": "1974-07-12",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

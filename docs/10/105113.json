@@ -1,0 +1,33 @@
+{
+  "id": 105113,
+  "title": "Smile Before Death",
+  "original_title": "Il sorriso della iena",
+  "release_date": "1972-05-03",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

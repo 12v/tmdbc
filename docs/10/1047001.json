@@ -1,0 +1,30 @@
+{
+  "id": 1047001,
+  "title": "About Us But Not About Us",
+  "original_title": "About Us But Not About Us",
+  "release_date": "2023-04-08",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

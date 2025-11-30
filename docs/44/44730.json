@@ -1,0 +1,45 @@
+{
+  "id": 44730,
+  "title": "One Piece: Giant Mecha Soldier of Karakuri Castle",
+  "original_title": "\u30ef\u30f3\u30d4\u30fc\u30b9 \u30ab\u30e9\u30af\u30ea\u57ce\u306e\u30e1\u30ab\u5de8\u5175",
+  "release_date": "2006-03-04",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

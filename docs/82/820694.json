@@ -1,0 +1,26 @@
+{
+  "id": 820694,
+  "title": "The Beast in the Jungle",
+  "original_title": "La B\u00eate dans la jungle",
+  "release_date": "2023-08-16",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

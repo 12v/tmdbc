@@ -1,0 +1,25 @@
+{
+  "id": 1043816,
+  "title": "Panayotis Pascot: Almost",
+  "original_title": "Panayotis Pascot : Presque",
+  "release_date": "2022-11-03",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

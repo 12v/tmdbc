@@ -1,0 +1,29 @@
+{
+  "id": 228148,
+  "title": "Bald Mountain",
+  "original_title": "Serra Pelada",
+  "release_date": "2013-10-18",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

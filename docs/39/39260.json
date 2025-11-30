@@ -1,0 +1,37 @@
+{
+  "id": 39260,
+  "title": "RoboGeisha",
+  "original_title": "\u30ed\u30dc\u30b2\u30a4\u30b7\u30e3",
+  "release_date": "2009-10-03",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 44658,
+  "title": "Dark Eyes",
+  "original_title": "\u041e\u0447\u0438 \u0447\u0435\u0440\u043d\u044b\u0435",
+  "release_date": "1987-02-01",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 582944,
+  "title": "The Cordillera of Dreams",
+  "original_title": "La cordillera de los sue\u00f1os",
+  "release_date": "2019-10-10",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CL"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

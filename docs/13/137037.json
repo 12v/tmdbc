@@ -1,0 +1,29 @@
+{
+  "id": 137037,
+  "title": "The Death of Maria Malibran",
+  "original_title": "Der Tod der Maria Malibran",
+  "release_date": "1972-03-02",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

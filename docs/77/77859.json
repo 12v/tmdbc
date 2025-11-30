@@ -1,0 +1,33 @@
+{
+  "id": 77859,
+  "title": "Ringing Bell",
+  "original_title": "\u30c1\u30ea\u30f3\u306e\u9234",
+  "release_date": "1978-03-11",
+  "status": "Released",
+  "runtime": 46,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

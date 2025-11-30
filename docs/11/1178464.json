@@ -1,0 +1,25 @@
+{
+  "id": 1178464,
+  "title": "Cassandre",
+  "original_title": "Cassandre",
+  "release_date": "2025-04-02",
+  "status": "Released",
+  "runtime": 0,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

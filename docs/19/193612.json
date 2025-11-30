@@ -1,0 +1,26 @@
+{
+  "id": 193612,
+  "title": "The Quiet Ones",
+  "original_title": "The Quiet Ones",
+  "release_date": "2014-04-25",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

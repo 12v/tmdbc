@@ -1,0 +1,25 @@
+{
+  "id": 986355,
+  "title": "Girls State",
+  "original_title": "Girls State",
+  "release_date": "2024-01-18",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 25472,
+  "title": "Merry Madagascar",
+  "original_title": "Merry Madagascar",
+  "release_date": "2009-11-16",
+  "status": "Released",
+  "runtime": 30,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}
