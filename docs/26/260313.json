@@ -1,0 +1,30 @@
+{
+  "id": 260313,
+  "title": "Flowers",
+  "original_title": "Loreak",
+  "release_date": "2014-10-10",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "eu",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Basque",
+      "iso_639_1": "eu",
+      "name": "euskera"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "id": 1193501,
-  "title": "Whistle",
-  "original_title": "Whistle",
-  "release_date": "2026-02-05",
+  "id": 84087,
+  "title": "Blossoms in the Dust",
+  "original_title": "Blossoms in the Dust",
+  "release_date": "1941-08-15",
   "status": "Released",
-  "runtime": 85,
+  "runtime": 99,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,17 +14,16 @@
     }
   ],
   "origin_country": [
-    "CA",
-    "IE"
+    "US"
   ],
   "genres": [
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 18,
+      "name": "Drama"
     },
     {
-      "id": 9648,
-      "name": "Mystery"
+      "id": 10749,
+      "name": "Romance"
     }
   ]
 }

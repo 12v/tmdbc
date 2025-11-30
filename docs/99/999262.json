@@ -1,0 +1,29 @@
+{
+  "id": 999262,
+  "title": "Shania Twain: Not Just a Girl",
+  "original_title": "Shania Twain: Not Just a Girl",
+  "release_date": "2022-07-26",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

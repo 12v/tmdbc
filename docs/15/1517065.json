@@ -1,17 +1,12 @@
 {
-  "id": 48110,
-  "title": "Phaedra",
-  "original_title": "Phaedra",
-  "release_date": "1962-05-25",
+  "id": 1517065,
+  "title": "How to Shoot a Ghost",
+  "original_title": "How to Shoot a Ghost",
+  "release_date": "2025-09-01",
   "status": "Released",
-  "runtime": 116,
+  "runtime": 27,
   "original_language": "en",
   "spoken_languages": [
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
     {
       "english_name": "Greek",
       "iso_639_1": "el",
@@ -28,8 +23,8 @@
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 14,
+      "name": "Fantasy"
     },
     {
       "id": 10749,

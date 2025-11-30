@@ -1,10 +1,10 @@
 {
-  "id": 1193501,
-  "title": "Whistle",
-  "original_title": "Whistle",
-  "release_date": "2026-02-05",
+  "id": 159734,
+  "title": "Suits",
+  "original_title": "Suits",
+  "release_date": "1999-01-10",
   "status": "Released",
-  "runtime": 85,
+  "runtime": 88,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,17 +14,12 @@
     }
   ],
   "origin_country": [
-    "CA",
-    "IE"
+    "US"
   ],
   "genres": [
     {
-      "id": 27,
-      "name": "Horror"
-    },
-    {
-      "id": 9648,
-      "name": "Mystery"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

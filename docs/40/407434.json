@@ -1,0 +1,29 @@
+{
+  "id": 407434,
+  "title": "The Three Maidens",
+  "original_title": "Tiga Dara",
+  "release_date": "1956-08-24",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

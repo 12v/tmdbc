@@ -1,10 +1,10 @@
 {
-  "id": 531219,
-  "title": "Roald Dahl's The Witches",
-  "original_title": "Roald Dahl's The Witches",
-  "release_date": "2020-10-26",
+  "id": 26537,
+  "title": "Nestor, the Long-Eared Christmas Donkey",
+  "original_title": "Nestor, the Long-Eared Christmas Donkey",
+  "release_date": "1977-12-03",
   "status": "Released",
-  "runtime": 104,
+  "runtime": 25,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,20 +18,12 @@
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
-    },
-    {
-      "id": 14,
-      "name": "Fantasy"
+      "id": 16,
+      "name": "Animation"
     },
     {
       "id": 10751,
       "name": "Family"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
     }
   ]
 }
