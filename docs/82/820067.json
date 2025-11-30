@@ -1,0 +1,33 @@
+{
+  "id": 820067,
+  "title": "The Quintessential Quintuplets Movie",
+  "original_title": "\u6620\u753b \u4e94\u7b49\u5206\u306e\u82b1\u5ac1",
+  "release_date": "2022-05-20",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

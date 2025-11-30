@@ -1,0 +1,25 @@
+{
+  "id": 1019297,
+  "title": "RSVP (Please Respond)",
+  "original_title": "LCV (L\u00fctfen Cevap Veriniz)",
+  "release_date": "2022-10-01",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 126045,
+  "title": "Carlota Joaquina, Princess of Brazil",
+  "original_title": "Carlota Joaquina, Princesa do Brazil",
+  "release_date": "1995-01-06",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

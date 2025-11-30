@@ -1,0 +1,26 @@
+{
+  "id": 150897,
+  "title": "Paradise: Hope",
+  "original_title": "Paradies: Hoffnung",
+  "release_date": "2013-02-22",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

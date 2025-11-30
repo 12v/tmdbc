@@ -1,0 +1,29 @@
+{
+  "id": 383367,
+  "title": "Sairat",
+  "original_title": "\u0938\u0948\u0930\u093e\u091f",
+  "release_date": "2016-04-29",
+  "status": "Released",
+  "runtime": 170,
+  "original_language": "mr",
+  "spoken_languages": [
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

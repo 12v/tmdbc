@@ -1,0 +1,33 @@
+{
+  "id": 132702,
+  "title": "To Sleep So as to Dream",
+  "original_title": "\u5922\u307f\u308b\u3088\u3046\u306b\u7720\u308a\u305f\u3044",
+  "release_date": "1986-05-18",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

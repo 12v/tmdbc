@@ -1,0 +1,29 @@
+{
+  "id": 315865,
+  "title": "In the Shadow of Women",
+  "original_title": "L'Ombre des femmes",
+  "release_date": "2015-05-27",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 722798,
+  "title": "The Door into Summer",
+  "original_title": "\u590f\u3078\u306e\u6249 \u2015\u30ad\u30df\u306e\u3044\u308b\u672a\u6765\u3078\u2015",
+  "release_date": "2021-06-25",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

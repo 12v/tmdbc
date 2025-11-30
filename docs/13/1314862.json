@@ -1,0 +1,29 @@
+{
+  "id": 1314862,
+  "title": "Lilith Fair: Building a Mystery",
+  "original_title": "Lilith Fair: Building a Mystery",
+  "release_date": "2025-09-13",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

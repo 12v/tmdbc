@@ -1,0 +1,45 @@
+{
+  "id": 310799,
+  "title": "Flowers of Taipei: Taiwan New Cinema",
+  "original_title": "\u5149\u9670\u7684\u6545\u4e8b\uff0d\u53f0\u7063\u65b0\u96fb\u5f71",
+  "release_date": "2014-10-01",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

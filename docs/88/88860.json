@@ -1,0 +1,25 @@
+{
+  "id": 88860,
+  "title": "Three Days",
+  "original_title": "Trys dienos",
+  "release_date": "1992-12-12",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "lt",
+  "spoken_languages": [
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvi\u0173"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

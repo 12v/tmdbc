@@ -1,0 +1,29 @@
+{
+  "id": 46645,
+  "title": "Quer\u00f4",
+  "original_title": "Quer\u00f4",
+  "release_date": "2007-03-17",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

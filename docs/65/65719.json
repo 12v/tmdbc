@@ -1,0 +1,29 @@
+{
+  "id": 65719,
+  "title": "Baxter, Vera Baxter",
+  "original_title": "Baxter, Vera Baxter",
+  "release_date": "1977-06-08",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

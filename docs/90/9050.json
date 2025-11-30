@@ -1,0 +1,38 @@
+{
+  "id": 9050,
+  "title": "A Chinese Ghost Story II",
+  "original_title": "\u5029\u5973\u5e7d\u9b42II\u4eba\u9593\u9053",
+  "release_date": "1990-07-13",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

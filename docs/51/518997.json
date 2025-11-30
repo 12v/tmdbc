@@ -1,0 +1,25 @@
+{
+  "id": 518997,
+  "title": "The Daughters of Fire",
+  "original_title": "Las Hijas del Fuego",
+  "release_date": "2018-10-28",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 532753,
+  "title": "Dying to Survive",
+  "original_title": "\u6211\u4e0d\u662f\u836f\u795e",
+  "release_date": "2018-07-06",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

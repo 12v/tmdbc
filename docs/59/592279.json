@@ -1,0 +1,38 @@
+{
+  "id": 592279,
+  "title": "Kalashnikov AK-47",
+  "original_title": "\u041a\u0430\u043b\u0430\u0448\u043d\u0438\u043a\u043e\u0432",
+  "release_date": "2020-02-20",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

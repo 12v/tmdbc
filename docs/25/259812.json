@@ -1,0 +1,29 @@
+{
+  "id": 259812,
+  "title": "Twins",
+  "original_title": "G\u00eameas",
+  "release_date": "1999-04-30",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

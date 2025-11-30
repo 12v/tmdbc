@@ -1,0 +1,29 @@
+{
+  "id": 100033,
+  "title": "Mr. Thank You",
+  "original_title": "\u6709\u308a\u304c\u305f\u3046\u3055\u3093",
+  "release_date": "1936-02-27",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

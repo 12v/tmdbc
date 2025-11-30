@@ -1,0 +1,25 @@
+{
+  "id": 22936,
+  "title": "Mabel's Strange Predicament",
+  "original_title": "Mabel's Strange Predicament",
+  "release_date": "1914-02-09",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

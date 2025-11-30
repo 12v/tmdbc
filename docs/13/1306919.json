@@ -1,0 +1,30 @@
+{
+  "id": 1306919,
+  "title": "My Annoying Brother",
+  "original_title": "My Annoying Brother",
+  "release_date": "2024-10-24",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID",
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

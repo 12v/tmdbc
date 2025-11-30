@@ -1,0 +1,25 @@
+{
+  "id": 86003,
+  "title": "Girl Hell 1999",
+  "original_title": "\u5c11\u5973\u5730\u7344\u4e00\u4e5d\u4e5d\u4e5d",
+  "release_date": "1999-10-08",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

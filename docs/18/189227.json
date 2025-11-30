@@ -1,0 +1,33 @@
+{
+  "id": 189227,
+  "title": "Soodhu Kavvum",
+  "original_title": "\u0b9a\u0bc2\u0ba4\u0bc1 \u0b95\u0bb5\u0bcd\u0bb5\u0bc1\u0bae\u0bcd",
+  "release_date": "2013-05-01",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

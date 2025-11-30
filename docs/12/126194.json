@@ -1,0 +1,25 @@
+{
+  "id": 126194,
+  "title": "The Dante Quartet",
+  "original_title": "The Dante Quartet",
+  "release_date": "1987-03-26",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

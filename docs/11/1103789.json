@@ -1,0 +1,37 @@
+{
+  "id": 1103789,
+  "title": "Hardcore Never Dies",
+  "original_title": "Hardcore Never Dies",
+  "release_date": "2023-11-09",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

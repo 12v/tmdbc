@@ -1,0 +1,29 @@
+{
+  "id": 156314,
+  "title": "A.K.A. Serial Killer",
+  "original_title": "\u7565\u79f0\u9023\u7d9a\u5c04\u6bba\u9b54",
+  "release_date": "1975-01-31",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

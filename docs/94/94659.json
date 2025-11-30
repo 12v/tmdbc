@@ -1,0 +1,25 @@
+{
+  "id": 94659,
+  "title": "Brothers and Sisters of the Toda Family",
+  "original_title": "\u6238\u7530\u5bb6\u306e\u5144\u59b9",
+  "release_date": "1941-03-01",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

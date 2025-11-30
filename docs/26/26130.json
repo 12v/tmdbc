@@ -1,0 +1,29 @@
+{
+  "id": 26130,
+  "title": "Summer Time Machine Blues",
+  "original_title": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30de\u30b7\u30f3\u30fb\u30d6\u30eb\u30fc\u30b9",
+  "release_date": "2005-09-03",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

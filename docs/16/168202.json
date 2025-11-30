@@ -1,0 +1,29 @@
+{
+  "id": 168202,
+  "title": "Hen, His Wife",
+  "original_title": "\u0415\u0433\u043e \u0436\u0435\u043d\u0430 \u043a\u0443\u0440\u0438\u0446\u0430",
+  "release_date": "1990-05-01",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

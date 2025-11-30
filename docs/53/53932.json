@@ -1,0 +1,25 @@
+{
+  "id": 53932,
+  "title": "The Ages of Lulu",
+  "original_title": "Las edades de Lul\u00fa",
+  "release_date": "1990-12-03",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

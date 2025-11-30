@@ -1,0 +1,26 @@
+{
+  "id": 43001,
+  "title": "Sundays and Cybele",
+  "original_title": "Cyb\u00e8le ou les dimanches de ville d'Avray",
+  "release_date": "1962-11-12",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

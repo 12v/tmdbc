@@ -1,0 +1,30 @@
+{
+  "id": 13777,
+  "title": "He Died with a Felafel in His Hand",
+  "original_title": "He Died with a Felafel in His Hand",
+  "release_date": "2001-08-30",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

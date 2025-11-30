@@ -1,0 +1,29 @@
+{
+  "id": 34529,
+  "title": "Cholera Street",
+  "original_title": "A\u011f\u0131r Roman",
+  "release_date": "1997-11-28",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

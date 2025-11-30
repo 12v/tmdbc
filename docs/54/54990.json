@@ -1,0 +1,35 @@
+{
+  "id": 54990,
+  "title": "The Legend of the Holy Drinker",
+  "original_title": "La leggenda del santo bevitore",
+  "release_date": "1988-09-02",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

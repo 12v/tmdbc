@@ -1,0 +1,29 @@
+{
+  "id": 64728,
+  "title": "Japanese Girls at the Harbor",
+  "original_title": "\u6e2f\u306e\u65e5\u672c\u5a18",
+  "release_date": "1933-06-01",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

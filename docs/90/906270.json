@@ -1,0 +1,25 @@
+{
+  "id": 906270,
+  "title": "The Cow Who Sang a Song into the Future",
+  "original_title": "La vaca que canto una cancion sobre el futuro",
+  "release_date": "2023-03-24",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

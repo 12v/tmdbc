@@ -1,0 +1,29 @@
+{
+  "id": 728882,
+  "title": "Under the Open Sky",
+  "original_title": "\u3059\u3070\u3089\u3057\u304d\u4e16\u754c",
+  "release_date": "2021-02-11",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

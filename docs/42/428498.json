@@ -1,0 +1,35 @@
+{
+  "id": 428498,
+  "title": "The Wound",
+  "original_title": "Inxeba",
+  "release_date": "2017-04-19",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "xh",
+  "spoken_languages": [
+    {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Xhosa",
+      "iso_639_1": "xh",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ZA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

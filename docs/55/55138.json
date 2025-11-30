@@ -1,0 +1,29 @@
+{
+  "id": 55138,
+  "title": "Barking at the Stars",
+  "original_title": "Lajanje na zvezde",
+  "release_date": "1998-06-01",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

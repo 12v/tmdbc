@@ -1,0 +1,25 @@
+{
+  "id": 132141,
+  "title": "The Noose",
+  "original_title": "P\u0119tla",
+  "release_date": "1958-01-20",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

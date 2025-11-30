@@ -1,0 +1,37 @@
+{
+  "id": 10797,
+  "title": "Terkel in Trouble",
+  "original_title": "Terkel i knibe",
+  "release_date": "2004-04-02",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 255769,
+  "title": "The Death of Empedocles",
+  "original_title": "Der Tod des Empedokles",
+  "release_date": "1987-10-14",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 12550,
+  "title": "Attack of the Blind Dead",
+  "original_title": "El ataque de los muertos sin ojos",
+  "release_date": "1973-05-17",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

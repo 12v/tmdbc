@@ -1,0 +1,33 @@
+{
+  "id": 2527,
+  "title": "This Man Must Die",
+  "original_title": "Que la b\u00eate meure",
+  "release_date": "1969-09-04",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

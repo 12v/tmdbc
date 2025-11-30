@@ -1,0 +1,34 @@
+{
+  "id": 42626,
+  "title": "Isadora",
+  "original_title": "Isadora",
+  "release_date": "1968-09-14",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

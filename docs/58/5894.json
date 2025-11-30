@@ -1,0 +1,25 @@
+{
+  "id": 5894,
+  "title": "Blue in the Face",
+  "original_title": "Blue in the Face",
+  "release_date": "1995-09-15",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

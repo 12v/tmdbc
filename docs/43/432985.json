@@ -1,0 +1,33 @@
+{
+  "id": 432985,
+  "title": "Gintama",
+  "original_title": "\u9280\u9b42",
+  "release_date": "2017-07-14",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

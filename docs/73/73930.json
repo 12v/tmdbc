@@ -1,0 +1,29 @@
+{
+  "id": 73930,
+  "title": "Recollections of the Yellow House",
+  "original_title": "Recorda\u00e7\u00f5es da Casa Amarela",
+  "release_date": "1989-10-12",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

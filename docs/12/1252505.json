@@ -1,0 +1,29 @@
+{
+  "id": 1252505,
+  "title": "We Shall Not Be Moved",
+  "original_title": "No Nos Mover\u00e1n",
+  "release_date": "2024-12-11",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

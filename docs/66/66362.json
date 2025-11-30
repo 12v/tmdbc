@@ -1,0 +1,25 @@
+{
+  "id": 66362,
+  "title": "Thevar Magan",
+  "original_title": "\u0ba4\u0bc7\u0bb5\u0bb0\u0bcd \u0bae\u0b95\u0ba9\u0bcd",
+  "release_date": "1992-10-25",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 17099,
+  "title": "Hanzo the Razor: Sword of Justice",
+  "original_title": "\u5fa1\u7528\u7259",
+  "release_date": "1972-12-30",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

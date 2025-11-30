@@ -1,0 +1,41 @@
+{
+  "id": 382190,
+  "title": "Pok\u00e9mon the Movie: Volcanion and the Mechanical Marvel",
+  "original_title": "\u30dd\u30b1\u30e2\u30f3\u30fb\u30b6\u30fb\u30e0\u30fc\u30d3\u30fcXY&Z \u30dc\u30eb\u30b1\u30cb\u30aa\u30f3\u3068\u6a5f\u5de7\u306e\u30de\u30ae\u30a2\u30ca",
+  "release_date": "2016-07-16",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

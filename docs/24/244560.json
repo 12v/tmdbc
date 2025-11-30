@@ -1,0 +1,25 @@
+{
+  "id": 244560,
+  "title": "The Stone Wedding",
+  "original_title": "Nunta de piatr\u0103",
+  "release_date": "1973-01-15",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

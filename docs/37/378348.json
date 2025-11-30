@@ -1,0 +1,33 @@
+{
+  "id": 378348,
+  "title": "A Violent Prosecutor",
+  "original_title": "\uac80\uc0ac\uc678\uc804",
+  "release_date": "2016-02-03",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

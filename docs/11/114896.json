@@ -1,0 +1,33 @@
+{
+  "id": 114896,
+  "title": "Aventurera",
+  "original_title": "Aventurera",
+  "release_date": "1950-10-18",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

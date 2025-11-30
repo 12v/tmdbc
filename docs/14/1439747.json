@@ -1,0 +1,37 @@
+{
+  "id": 1439747,
+  "title": "Kishkindhapuri",
+  "original_title": "\u0c15\u0c3f\u0c37\u0c4d\u0c15\u0c3f\u0c02\u0c26\u0c2a\u0c41\u0c30\u0c3f",
+  "release_date": "2025-09-12",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

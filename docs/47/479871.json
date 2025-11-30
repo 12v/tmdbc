@@ -1,0 +1,25 @@
+{
+  "id": 479871,
+  "title": "Liquid Truth",
+  "original_title": "Aos Teus Olhos",
+  "release_date": "2017-10-19",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 99657,
+  "title": "Wings of Hope",
+  "original_title": "Julianes Sturz in den Dschungel",
+  "release_date": "1999-10-20",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 495356,
+  "title": "Kaybedenler Kul\u00fcb\u00fc Yolda",
+  "original_title": "Kaybedenler Kul\u00fcb\u00fc Yolda",
+  "release_date": "2018-03-16",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3427,
+  "title": "Max and the Junkmen",
+  "original_title": "Max et les ferrailleurs",
+  "release_date": "1971-02-17",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

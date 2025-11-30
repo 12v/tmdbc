@@ -1,0 +1,25 @@
+{
+  "id": 1106049,
+  "title": "Rest in Peace",
+  "original_title": "Descansar en paz",
+  "release_date": "2024-03-21",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

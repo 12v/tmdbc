@@ -1,0 +1,25 @@
+{
+  "id": 33365,
+  "title": "The Night Before the Exams",
+  "original_title": "Notte prima degli esami",
+  "release_date": "2006-02-17",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

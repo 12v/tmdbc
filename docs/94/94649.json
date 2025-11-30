@@ -1,0 +1,25 @@
+{
+  "id": 94649,
+  "title": "La Libertad",
+  "original_title": "La libertad",
+  "release_date": "2001-06-28",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

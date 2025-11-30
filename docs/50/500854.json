@@ -1,0 +1,25 @@
+{
+  "id": 500854,
+  "title": "Hard Paint",
+  "original_title": "Tinta Bruta",
+  "release_date": "2019-01-03",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

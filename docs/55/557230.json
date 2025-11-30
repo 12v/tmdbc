@@ -1,0 +1,25 @@
+{
+  "id": 557230,
+  "title": "Nudo Mixteco",
+  "original_title": "Nudo Mixteco",
+  "release_date": "2021-12-08",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

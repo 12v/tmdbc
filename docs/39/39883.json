@@ -1,0 +1,30 @@
+{
+  "id": 39883,
+  "title": "Schramm",
+  "original_title": "Schramm",
+  "release_date": "1993-01-01",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

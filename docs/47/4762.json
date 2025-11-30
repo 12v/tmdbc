@@ -1,0 +1,25 @@
+{
+  "id": 4762,
+  "title": "The Lost Honor of Katharina Blum",
+  "original_title": "Die verlorene Ehre der Katharina Blum",
+  "release_date": "1975-01-10",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

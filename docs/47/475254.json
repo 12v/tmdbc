@@ -1,0 +1,29 @@
+{
+  "id": 475254,
+  "title": "Cerulia",
+  "original_title": "Cerulia",
+  "release_date": "2017-10-27",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

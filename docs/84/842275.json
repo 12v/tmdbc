@@ -1,0 +1,43 @@
+{
+  "id": 842275,
+  "title": "Bro Daddy",
+  "original_title": "\u0d2c\u0d4d\u0d30\u0d4b \u0d21\u0d3e\u0d21\u0d3f",
+  "release_date": "2022-01-26",
+  "status": "Released",
+  "runtime": 159,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

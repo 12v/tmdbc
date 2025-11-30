@@ -1,0 +1,33 @@
+{
+  "id": 159898,
+  "title": "The Boxing Cats",
+  "original_title": "Prof. Welton's Boxing Cats",
+  "release_date": "1894-07-16",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

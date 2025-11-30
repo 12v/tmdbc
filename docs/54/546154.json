@@ -1,0 +1,25 @@
+{
+  "id": 546154,
+  "title": "Blue",
+  "original_title": "\u0e15\u0e30\u0e27\u0e31\u0e19\u0e14\u0e31\u0e1a",
+  "release_date": "2018-09-07",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

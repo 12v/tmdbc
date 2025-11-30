@@ -1,0 +1,29 @@
+{
+  "id": 12652,
+  "title": "Nelly and Monsieur Arnaud",
+  "original_title": "Nelly et Mr. Arnaud",
+  "release_date": "1995-10-18",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 64578,
+  "title": "Yakuza Graveyard",
+  "original_title": "\u3084\u304f\u3056\u306e\u5893\u5834\u3000\u304f\u3061\u306a\u3057\u306e\u82b1",
+  "release_date": "1976-10-30",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

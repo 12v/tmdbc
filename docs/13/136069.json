@@ -1,0 +1,29 @@
+{
+  "id": 136069,
+  "title": "Yokai Monsters: Spook Warfare",
+  "original_title": "\u5996\u602a\u5927\u6226\u4e89",
+  "release_date": "1968-12-01",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

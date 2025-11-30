@@ -1,0 +1,33 @@
+{
+  "id": 103931,
+  "title": "Duvidha",
+  "original_title": "\u0926\u0941\u0935\u093f\u0927\u093e",
+  "release_date": "1973-06-30",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

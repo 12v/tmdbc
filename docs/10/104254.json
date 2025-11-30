@@ -1,0 +1,25 @@
+{
+  "id": 104254,
+  "title": "Silence Has No Wings",
+  "original_title": "\u3068\u3079\u306a\u3044\u6c88\u9ed9",
+  "release_date": "1966-02-11",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

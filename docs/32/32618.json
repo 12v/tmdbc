@@ -1,0 +1,33 @@
+{
+  "id": 32618,
+  "title": "A Midsummer's Night Dream",
+  "original_title": "Sen noci svatoj\u00e1nsk\u00e9",
+  "release_date": "1959-09-25",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

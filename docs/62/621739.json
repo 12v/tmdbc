@@ -1,0 +1,25 @@
+{
+  "id": 621739,
+  "title": "The Good Intentions",
+  "original_title": "Las buenas intenciones",
+  "release_date": "2019-07-04",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

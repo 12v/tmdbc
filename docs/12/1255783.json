@@ -1,0 +1,25 @@
+{
+  "id": 1255783,
+  "title": "Black to the Future",
+  "original_title": "Le Grand d\u00e9placement",
+  "release_date": "2025-06-25",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

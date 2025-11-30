@@ -1,0 +1,25 @@
+{
+  "id": 846892,
+  "title": "The Balcony Movie",
+  "original_title": "Film balkonowy",
+  "release_date": "2021-08-07",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

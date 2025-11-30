@@ -1,0 +1,38 @@
+{
+  "id": 293982,
+  "title": "Warsaw 44",
+  "original_title": "Miasto 44",
+  "release_date": "2014-09-19",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

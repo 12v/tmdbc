@@ -1,0 +1,34 @@
+{
+  "id": 436340,
+  "title": "F\u00e9licit\u00e9",
+  "original_title": "F\u00e9licit\u00e9",
+  "release_date": "2017-03-29",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "ln",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Lingala",
+      "iso_639_1": "ln",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

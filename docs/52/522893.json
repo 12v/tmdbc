@@ -1,0 +1,33 @@
+{
+  "id": 522893,
+  "title": "Wildland",
+  "original_title": "K\u00f8d og blod",
+  "release_date": "2020-05-28",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

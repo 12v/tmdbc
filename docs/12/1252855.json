@@ -1,0 +1,25 @@
+{
+  "id": 1252855,
+  "title": "Southern Chronicles",
+  "original_title": "Pietinia Kronikas",
+  "release_date": "2025-01-24",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "lt",
+  "spoken_languages": [
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvi\u0173"
+    }
+  ],
+  "origin_country": [
+    "LT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

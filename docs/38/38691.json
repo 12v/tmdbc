@@ -1,0 +1,25 @@
+{
+  "id": 38691,
+  "title": "Coney Island",
+  "original_title": "Coney Island",
+  "release_date": "1917-10-29",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

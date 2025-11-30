@@ -1,0 +1,33 @@
+{
+  "id": 656770,
+  "title": "The Columnist",
+  "original_title": "De Kuthoer",
+  "release_date": "2019-12-20",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

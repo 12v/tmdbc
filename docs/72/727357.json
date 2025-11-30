@@ -1,0 +1,26 @@
+{
+  "id": 727357,
+  "title": "Fauna",
+  "original_title": "Fauna",
+  "release_date": "2021-07-30",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

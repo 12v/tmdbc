@@ -1,0 +1,33 @@
+{
+  "id": 945836,
+  "title": "Odum Kuthira Chadum Kuthira",
+  "original_title": "\u0d13\u0d1f\u0d41\u0d02 \u0d15\u0d41\u0d24\u0d3f\u0d30 \u0d1a\u0d3e\u0d1f\u0d41\u0d02 \u0d15\u0d41\u0d24\u0d3f\u0d30",
+  "release_date": "2025-08-28",
+  "status": "Released",
+  "runtime": 153,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

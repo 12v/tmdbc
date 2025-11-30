@@ -1,0 +1,29 @@
+{
+  "id": 129564,
+  "title": "Property Is No Longer a Theft",
+  "original_title": "La propriet\u00e0 non \u00e8 pi\u00f9 un furto",
+  "release_date": "1973-10-03",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

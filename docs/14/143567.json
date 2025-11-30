@@ -1,0 +1,25 @@
+{
+  "id": 143567,
+  "title": "Just Like Brothers",
+  "original_title": "Comme des fr\u00e8res",
+  "release_date": "2012-11-21",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

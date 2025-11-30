@@ -1,0 +1,26 @@
+{
+  "id": 85001,
+  "title": "Blood Tracks",
+  "original_title": "Blood Tracks",
+  "release_date": "1985-11-01",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "SE",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

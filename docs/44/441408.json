@@ -1,0 +1,29 @@
+{
+  "id": 441408,
+  "title": "Senritsu Kaiki File Kowasugi! File 01: Operation Capture the Slit-Mouthed Woman",
+  "original_title": "\u6226\u6144\u602a\u5947\u30d5\u30a1\u30a4\u30eb \u30b3\u30ef\u3059\u304e\uff01 FILE-01 \u53e3\u88c2\u3051\u5973\u6355\u7372\u4f5c\u6226",
+  "release_date": "2012-07-04",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

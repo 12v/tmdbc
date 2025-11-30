@@ -1,0 +1,33 @@
+{
+  "id": 151239,
+  "title": "Bluebeard's Castle",
+  "original_title": "Herzog Blaubarts Burg",
+  "release_date": "1963-12-15",
+  "status": "Released",
+  "runtime": 61,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

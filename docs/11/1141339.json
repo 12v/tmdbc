@@ -1,0 +1,25 @@
+{
+  "id": 1141339,
+  "title": "Nun or Never!",
+  "original_title": "Nun or Never!",
+  "release_date": "2023-06-12",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

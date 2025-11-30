@@ -1,0 +1,29 @@
+{
+  "id": 329063,
+  "title": "We Can't Live Without Cosmos",
+  "original_title": "\u041c\u044b \u043d\u0435 \u043c\u043e\u0436\u0435\u043c \u0436\u0438\u0442\u044c \u0431\u0435\u0437 \u043a\u043e\u0441\u043c\u043e\u0441\u0430",
+  "release_date": "2014-08-21",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

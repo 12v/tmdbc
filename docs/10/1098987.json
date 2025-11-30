@@ -1,0 +1,25 @@
+{
+  "id": 1098987,
+  "title": "Les SEGPA au ski",
+  "original_title": "Les SEGPA au ski",
+  "release_date": "2023-12-27",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1228322,
+  "title": "The Divine Sarah Bernhardt",
+  "original_title": "Sarah Bernhardt, La Divine",
+  "release_date": "2024-12-18",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

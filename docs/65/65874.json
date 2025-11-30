@@ -1,0 +1,26 @@
+{
+  "id": 65874,
+  "title": "Borderline",
+  "original_title": "Borderline",
+  "release_date": "1930-10-13",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

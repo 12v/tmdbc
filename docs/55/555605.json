@@ -1,0 +1,36 @@
+{
+  "id": 555605,
+  "title": "The Burial of Kojo",
+  "original_title": "The Burial of Kojo",
+  "release_date": "2018-11-02",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ak",
+  "spoken_languages": [
+    {
+      "english_name": "Akan",
+      "iso_639_1": "ak",
+      "name": "\u00c1k\u00e1n"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

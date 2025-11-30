@@ -1,0 +1,29 @@
+{
+  "id": 102,
+  "title": "Open Hearts",
+  "original_title": "Elsker dig for evigt",
+  "release_date": "2002-09-06",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1103551,
+  "title": "I Only Rest in the Storm",
+  "original_title": "O Riso e a Faca",
+  "release_date": "2025-07-09",
+  "status": "Released",
+  "runtime": 211,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "FR",
+    "RO",
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

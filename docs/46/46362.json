@@ -1,0 +1,35 @@
+{
+  "id": 46362,
+  "title": "Malpertuis",
+  "original_title": "Malpertuis",
+  "release_date": "1972-06-02",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

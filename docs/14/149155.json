@@ -1,0 +1,30 @@
+{
+  "id": 149155,
+  "title": "Harvest: 3,000 Years",
+  "original_title": "\u121d\u122d\u1275 \u1226\u1235\u1275 \u123a\u1205 \u12d3\u1218\u1275",
+  "release_date": "1975-09-01",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "am",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Amharic",
+      "iso_639_1": "am",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "AM"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

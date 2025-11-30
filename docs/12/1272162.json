@@ -1,0 +1,25 @@
+{
+  "id": 1272162,
+  "title": "Poetic License",
+  "original_title": "Poetic License",
+  "release_date": "2026-05-15",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

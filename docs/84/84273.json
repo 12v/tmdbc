@@ -1,0 +1,33 @@
+{
+  "id": 84273,
+  "title": "Storm Over Asia",
+  "original_title": "\u041f\u043e\u0442\u043e\u043c\u043e\u043a \u0427\u0438\u043d\u0433\u0438\u0441\u0445\u0430\u043d\u0430",
+  "release_date": "1928-11-10",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

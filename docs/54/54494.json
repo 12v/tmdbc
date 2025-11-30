@@ -1,0 +1,29 @@
+{
+  "id": 54494,
+  "title": "The Sterile Cuckoo",
+  "original_title": "The Sterile Cuckoo",
+  "release_date": "1969-10-22",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

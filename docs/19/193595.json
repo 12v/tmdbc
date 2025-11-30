@@ -1,0 +1,30 @@
+{
+  "id": 193595,
+  "title": "The Parallel Street",
+  "original_title": "Die Parallelstra\u00dfe",
+  "release_date": "1962-06-01",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 945664,
+  "title": "Lighting Up the Stars",
+  "original_title": "\u4eba\u751f\u5927\u4e8b",
+  "release_date": "2022-06-24",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

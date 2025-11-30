@@ -1,0 +1,30 @@
+{
+  "id": 820707,
+  "title": "Red Island",
+  "original_title": "L'\u00cele rouge",
+  "release_date": "2023-05-31",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Malagasy",
+      "iso_639_1": "mg",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

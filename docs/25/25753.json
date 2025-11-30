@@ -1,0 +1,26 @@
+{
+  "id": 25753,
+  "title": "Children of the Corn: Revelation",
+  "original_title": "Children of the Corn: Revelation",
+  "release_date": "2001-10-09",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

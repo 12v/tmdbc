@@ -1,0 +1,30 @@
+{
+  "id": 643557,
+  "title": "Aswang",
+  "original_title": "Aswang",
+  "release_date": "2019-11-21",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

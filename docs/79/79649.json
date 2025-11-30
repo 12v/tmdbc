@@ -1,0 +1,29 @@
+{
+  "id": 79649,
+  "title": "Eyes of a Stranger",
+  "original_title": "Eyes of a Stranger",
+  "release_date": "1981-02-11",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

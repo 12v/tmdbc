@@ -1,0 +1,33 @@
+{
+  "id": 109157,
+  "title": "A Warning to the Curious",
+  "original_title": "A Warning to the Curious",
+  "release_date": "1972-12-24",
+  "status": "Released",
+  "runtime": 50,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

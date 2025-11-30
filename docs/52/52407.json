@@ -1,0 +1,25 @@
+{
+  "id": 52407,
+  "title": "Tomie: Forbidden Fruit",
+  "original_title": "\u5bcc\u6c5f \u6700\u7d42\u7ae0\uff5e\u7981\u65ad\u306e\u679c\u5b9f\uff5e",
+  "release_date": "2002-06-29",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

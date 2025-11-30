@@ -1,0 +1,29 @@
+{
+  "id": 66788,
+  "title": "Sailor Suit and Machine Gun",
+  "original_title": "\u30bb\u30fc\u30e9\u30fc\u670d\u3068\u6a5f\u95a2\u9283",
+  "release_date": "1981-12-19",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

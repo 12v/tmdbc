@@ -1,0 +1,33 @@
+{
+  "id": 27351,
+  "title": "Meatball Machine",
+  "original_title": "\u30df\u30fc\u30c8\u30dc\u30fc\u30eb\u30de\u30b7\u30f3",
+  "release_date": "2006-09-23",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

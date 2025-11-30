@@ -1,0 +1,40 @@
+{
+  "id": 539685,
+  "title": "Rojo",
+  "original_title": "Rojo",
+  "release_date": "2018-10-26",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "BE",
+    "BR",
+    "FR",
+    "DE",
+    "NL",
+    "ES",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

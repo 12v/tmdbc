@@ -1,0 +1,33 @@
+{
+  "id": 22460,
+  "title": "Deewaar",
+  "original_title": "\u0926\u0940\u0935\u093e\u0930",
+  "release_date": "1975-01-14",
+  "status": "Released",
+  "runtime": 174,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

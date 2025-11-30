@@ -1,0 +1,29 @@
+{
+  "id": 27816,
+  "title": "Basket Case 3: The Progeny",
+  "original_title": "Basket Case 3: The Progeny",
+  "release_date": "1992-02-21",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 53218,
+  "title": "An Occurrence at Owl Creek Bridge",
+  "original_title": "La Rivi\u00e8re du hibou",
+  "release_date": "1961-12-14",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

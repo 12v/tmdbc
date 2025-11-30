@@ -1,0 +1,25 @@
+{
+  "id": 951305,
+  "title": "Bury Your Dead",
+  "original_title": "Enterre Seus Mortos",
+  "release_date": "2025-10-30",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

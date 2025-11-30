@@ -1,0 +1,29 @@
+{
+  "id": 461762,
+  "title": "Haikyu!! The Movie: Talent and Sense",
+  "original_title": "\u30cf\u30a4\u30ad\u30e5\u30fc!! \u624d\u80fd\u3068\u30bb\u30f3\u30b9",
+  "release_date": "2017-09-15",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

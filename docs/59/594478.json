@@ -1,0 +1,33 @@
+{
+  "id": 594478,
+  "title": "Sert\u00e2nia",
+  "original_title": "Sert\u00e2nia",
+  "release_date": "2020-01-26",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

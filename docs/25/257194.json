@@ -1,0 +1,34 @@
+{
+  "id": 257194,
+  "title": "The Sinking of Van Der Wijck",
+  "original_title": "Tenggelamnya Kapal Van Der Wijck",
+  "release_date": "2013-12-19",
+  "status": "Released",
+  "runtime": 163,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

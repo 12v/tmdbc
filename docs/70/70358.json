@@ -1,0 +1,33 @@
+{
+  "id": 70358,
+  "title": "Gamera: Super Monster",
+  "original_title": "\u5b87\u5b99\u602a\u7363\u30ac\u30e1\u30e9",
+  "release_date": "1980-03-20",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

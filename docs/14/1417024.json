@@ -1,0 +1,29 @@
+{
+  "id": 1417024,
+  "title": "Balloonerism",
+  "original_title": "Balloonerism",
+  "release_date": "2025-01-17",
+  "status": "Released",
+  "runtime": 24,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

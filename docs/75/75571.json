@@ -1,0 +1,37 @@
+{
+  "id": 75571,
+  "title": "Our War Game",
+  "original_title": "\u30c7\u30b8\u30e2\u30f3\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc \u307c\u304f\u3089\u306e\u30a6\u30a9\u30fc\u30b2\u30fc\u30e0!",
+  "release_date": "2000-03-04",
+  "status": "Released",
+  "runtime": 41,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

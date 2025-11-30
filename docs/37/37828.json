@@ -1,0 +1,35 @@
+{
+  "id": 37828,
+  "title": "Armadillo",
+  "original_title": "Armadillo",
+  "release_date": "2010-05-27",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

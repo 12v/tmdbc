@@ -1,0 +1,33 @@
+{
+  "id": 1128872,
+  "title": "Shrooms",
+  "original_title": "Shrooms",
+  "release_date": "2023-09-08",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

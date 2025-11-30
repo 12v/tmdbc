@@ -1,0 +1,25 @@
+{
+  "id": 42715,
+  "title": "Father",
+  "original_title": "Apa",
+  "release_date": "1966-12-08",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

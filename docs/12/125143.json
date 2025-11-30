@@ -1,0 +1,33 @@
+{
+  "id": 125143,
+  "title": "The Demon Within",
+  "original_title": "\u9913\u9b3c\u9b42",
+  "release_date": "1985-12-27",
+  "status": "Released",
+  "runtime": 54,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

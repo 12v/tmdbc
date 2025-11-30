@@ -1,0 +1,34 @@
+{
+  "id": 66556,
+  "title": "Noro\u00eet",
+  "original_title": "Noro\u00eet",
+  "release_date": "1976-11-17",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

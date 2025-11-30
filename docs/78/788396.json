@@ -1,0 +1,30 @@
+{
+  "id": 788396,
+  "title": "The Real Charlie Chaplin",
+  "original_title": "The Real Charlie Chaplin",
+  "release_date": "2021-11-19",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

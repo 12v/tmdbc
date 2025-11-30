@@ -1,0 +1,25 @@
+{
+  "id": 1027253,
+  "title": "The Clown's Daughter",
+  "original_title": "A Filha do Palha\u00e7o",
+  "release_date": "2024-05-30",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

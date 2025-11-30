@@ -1,0 +1,25 @@
+{
+  "id": 256212,
+  "title": "Vidheyan",
+  "original_title": "\u0d35\u0d3f\u0d27\u0d47\u0d2f\u0d7b",
+  "release_date": "1994-01-27",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

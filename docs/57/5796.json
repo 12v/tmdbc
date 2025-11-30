@@ -1,0 +1,35 @@
+{
+  "id": 5796,
+  "title": "After Death",
+  "original_title": "After Death - Oltre la morte",
+  "release_date": "1990-07-27",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

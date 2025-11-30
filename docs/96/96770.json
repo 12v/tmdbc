@@ -1,0 +1,33 @@
+{
+  "id": 96770,
+  "title": "Control Tower",
+  "original_title": "\u7ba1\u5236\u5854",
+  "release_date": "2011-04-09",
+  "status": "Released",
+  "runtime": 68,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 50482,
+  "title": "Lupin the Third: The Fuma Conspiracy",
+  "original_title": "\u30eb\u30d1\u30f3\u4e09\u4e16 \u98a8\u9b54\u4e00\u65cf\u306e\u9670\u8b00",
+  "release_date": "1987-12-26",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

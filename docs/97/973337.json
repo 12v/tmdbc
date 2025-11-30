@@ -1,0 +1,25 @@
+{
+  "id": 973337,
+  "title": "Pier Paolo Pasolini - Agn\u00e8s Varda - New York - 1967",
+  "original_title": "Pier Paolo Pasolini - Agn\u00e8s Varda - New York - 1967",
+  "release_date": "2022-06-24",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 846993,
+  "title": "Goodbye, Don Glees!",
+  "original_title": "\u30b0\u30c3\u30d0\u30a4\u3001\u30c9\u30f3\u30fb\u30b0\u30ea\u30fc\u30ba\uff01",
+  "release_date": "2022-02-18",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

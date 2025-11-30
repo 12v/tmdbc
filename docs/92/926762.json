@@ -1,0 +1,29 @@
+{
+  "id": 926762,
+  "title": "Living with Chucky",
+  "original_title": "Living with Chucky",
+  "release_date": "2022-08-13",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

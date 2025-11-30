@@ -1,0 +1,29 @@
+{
+  "id": 21468,
+  "title": "There's No Business Like Show Business",
+  "original_title": "There's No Business Like Show Business",
+  "release_date": "1954-12-16",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

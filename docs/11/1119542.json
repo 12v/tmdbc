@@ -1,0 +1,34 @@
+{
+  "id": 1119542,
+  "title": "Zion",
+  "original_title": "Zion",
+  "release_date": "2025-04-09",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ht",
+  "spoken_languages": [
+    {
+      "english_name": "Haitian; Haitian Creole",
+      "iso_639_1": "ht",
+      "name": ""
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "GP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

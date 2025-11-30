@@ -1,0 +1,25 @@
+{
+  "id": 45993,
+  "title": "The Woman in the Rumor",
+  "original_title": "\u5642\u306e\u5973",
+  "release_date": "1954-06-20",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

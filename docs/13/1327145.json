@@ -1,0 +1,33 @@
+{
+  "id": 1327145,
+  "title": "Graduation Heist",
+  "original_title": "100 dni do matury",
+  "release_date": "2025-02-28",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

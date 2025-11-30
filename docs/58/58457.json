@@ -1,0 +1,33 @@
+{
+  "id": 58457,
+  "title": "Burning Paradise",
+  "original_title": "\u706b\u71d2\u7d05\u84ee\u5bfa",
+  "release_date": "1994-01-23",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

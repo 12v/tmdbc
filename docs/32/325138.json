@@ -1,0 +1,33 @@
+{
+  "id": 325138,
+  "title": "Dum Laga Ke Haisha",
+  "original_title": "\u0926\u092e \u0932\u0917\u093e \u0915\u0947 \u0939\u0908\u0936\u093e",
+  "release_date": "2015-02-27",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 574094,
+  "title": "The Salt of Tears",
+  "original_title": "Le Sel des larmes",
+  "release_date": "2020-10-14",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

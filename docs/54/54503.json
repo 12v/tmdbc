@@ -1,0 +1,30 @@
+{
+  "id": 54503,
+  "title": "The Mystery of Chess Boxing",
+  "original_title": "\u96d9\u99ac\u9023\u74b0",
+  "release_date": "1979-01-01",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

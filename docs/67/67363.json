@@ -1,0 +1,25 @@
+{
+  "id": 67363,
+  "title": "The Love Goddesses",
+  "original_title": "The Love Goddesses",
+  "release_date": "1965-03-03",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

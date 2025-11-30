@@ -1,0 +1,25 @@
+{
+  "id": 1503451,
+  "title": "Marc Maron: Panicked",
+  "original_title": "Marc Maron: Panicked",
+  "release_date": "2025-07-31",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

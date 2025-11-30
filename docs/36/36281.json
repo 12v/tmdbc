@@ -1,0 +1,25 @@
+{
+  "id": 36281,
+  "title": "Shara",
+  "original_title": "\u6c99\u7f85\u53cc\u6a39",
+  "release_date": "2003-07-12",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

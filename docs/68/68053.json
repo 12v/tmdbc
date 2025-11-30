@@ -1,0 +1,30 @@
+{
+  "id": 68053,
+  "title": "Slap the Monster on Page One",
+  "original_title": "Sbatti il mostro in prima pagina",
+  "release_date": "1972-10-19",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

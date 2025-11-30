@@ -1,0 +1,29 @@
+{
+  "id": 90092,
+  "title": "Street Law",
+  "original_title": "Il cittadino si ribella",
+  "release_date": "1974-09-17",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

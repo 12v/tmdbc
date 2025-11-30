@@ -1,0 +1,29 @@
+{
+  "id": 56126,
+  "title": "Batch '81",
+  "original_title": "\u0391\u039a\u03a9 81",
+  "release_date": "1982-11-18",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

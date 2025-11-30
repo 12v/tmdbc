@@ -1,0 +1,33 @@
+{
+  "id": 752721,
+  "title": "The Evil Next Door",
+  "original_title": "Andra sidan",
+  "release_date": "2020-10-23",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

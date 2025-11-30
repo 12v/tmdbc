@@ -1,0 +1,25 @@
+{
+  "id": 89065,
+  "title": "Beautiful City",
+  "original_title": "\u0634\u0647\u0631 \u0632\u06cc\u0628\u0627",
+  "release_date": "2004-06-09",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

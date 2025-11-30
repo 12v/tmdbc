@@ -1,0 +1,38 @@
+{
+  "id": 506763,
+  "title": "Detective Dee: The Four Heavenly Kings",
+  "original_title": "\u72c4\u4ec1\u6770\u4e4b\u56db\u5927\u5929\u738b",
+  "release_date": "2018-07-27",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

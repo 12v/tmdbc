@@ -1,0 +1,33 @@
+{
+  "id": 741335,
+  "title": "Sing a Bit of Harmony",
+  "original_title": "\u30a2\u30a4\u306e\u6b4c\u58f0\u3092\u8074\u304b\u305b\u3066",
+  "release_date": "2021-10-29",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

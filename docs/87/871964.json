@@ -1,0 +1,33 @@
+{
+  "id": 871964,
+  "title": "Nobody Sleeps in the Woods Tonight 2",
+  "original_title": "W lesie dzi\u015b nie za\u015bnie nikt II",
+  "release_date": "2021-10-27",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

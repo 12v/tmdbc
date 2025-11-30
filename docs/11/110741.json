@@ -1,0 +1,25 @@
+{
+  "id": 110741,
+  "title": "The General Line",
+  "original_title": "\u0421\u0442\u0430\u0440\u043e\u0435 \u0438 \u043d\u043e\u0432\u043e\u0435",
+  "release_date": "1929-09-25",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
