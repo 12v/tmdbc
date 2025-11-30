@@ -1,0 +1,29 @@
+{
+  "id": 88271,
+  "title": "Where Now Are the Dreams of Youth?",
+  "original_title": "\u9752\u6625\u306e\u5922\u3044\u307e\u3044\u3065\u3053",
+  "release_date": "1932-10-13",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

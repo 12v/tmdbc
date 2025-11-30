@@ -1,0 +1,33 @@
+{
+  "id": 168069,
+  "title": "Madhumati",
+  "original_title": "\u092e\u0927\u0941\u092e\u0924\u0940",
+  "release_date": "1958-09-12",
+  "status": "Released",
+  "runtime": 171,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

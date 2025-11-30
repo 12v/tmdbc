@@ -1,0 +1,37 @@
+{
+  "id": 62961,
+  "title": "Metal Skin Panic MADOX-01",
+  "original_title": "\u30e1\u30bf\u30eb \u30b9\u30ad\u30f3 \u30d1\u30cb\u30c3\u30af MADOX-01",
+  "release_date": "1987-12-16",
+  "status": "Released",
+  "runtime": 41,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

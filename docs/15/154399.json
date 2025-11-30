@@ -1,0 +1,25 @@
+{
+  "id": 154399,
+  "title": "Hands Up!",
+  "original_title": "R\u0119ce do g\u00f3ry",
+  "release_date": "1985-01-21",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

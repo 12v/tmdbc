@@ -1,0 +1,25 @@
+{
+  "id": 842050,
+  "title": "The In-Laws",
+  "original_title": "Te\u015bciowie",
+  "release_date": "2021-09-10",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

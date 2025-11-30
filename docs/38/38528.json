@@ -1,0 +1,25 @@
+{
+  "id": 38528,
+  "title": "Horse Fever",
+  "original_title": "Febbre da cavallo",
+  "release_date": "1976-10-29",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
