@@ -1,0 +1,29 @@
+{
+  "id": 112936,
+  "title": "Bol Bachchan",
+  "original_title": "Bol Bachchan",
+  "release_date": "2012-07-06",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

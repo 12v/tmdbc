@@ -1,0 +1,29 @@
+{
+  "id": 82221,
+  "title": "The Libertine",
+  "original_title": "La matriarca",
+  "release_date": "1968-12-23",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

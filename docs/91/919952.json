@@ -1,0 +1,30 @@
+{
+  "id": 919952,
+  "title": "The Great Day",
+  "original_title": "Il grande giorno",
+  "release_date": "2022-12-22",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 24169,
+  "title": "The Cosmos on the Commode",
+  "original_title": "Il cosmo sul com\u00f2",
+  "release_date": "2008-12-19",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 36247,
+  "title": "Rebirth of Mothra III",
+  "original_title": "\u30e2\u30b9\u30e9 3 \u30ad\u30f3\u30b0\u30ae\u30c9\u30e9\u6765\u8972",
+  "release_date": "1998-12-12",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

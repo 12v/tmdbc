@@ -1,0 +1,29 @@
+{
+  "id": 813808,
+  "title": "Kuruthi",
+  "original_title": "\u0d15\u0d41\u0d30\u0d41\u0d24\u0d3f",
+  "release_date": "2021-08-11",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

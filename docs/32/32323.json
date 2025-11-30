@@ -1,0 +1,25 @@
+{
+  "id": 32323,
+  "title": "The Railrodder",
+  "original_title": "The Railrodder",
+  "release_date": "1965-06-20",
+  "status": "Released",
+  "runtime": 24,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

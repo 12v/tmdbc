@@ -1,0 +1,29 @@
+{
+  "id": 72309,
+  "title": "Marquis de Sade: Justine",
+  "original_title": "Marquis de Sade: Justine",
+  "release_date": "1969-04-03",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

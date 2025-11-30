@@ -1,0 +1,33 @@
+{
+  "id": 149193,
+  "title": "The Pink Phink",
+  "original_title": "The Pink Phink",
+  "release_date": "1964-12-18",
+  "status": "Released",
+  "runtime": 7,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

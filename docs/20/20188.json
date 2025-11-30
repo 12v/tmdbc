@@ -1,0 +1,29 @@
+{
+  "id": 20188,
+  "title": "Buddha's Palm",
+  "original_title": "\u5982\u4f86\u795e\u638c",
+  "release_date": "1982-08-20",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

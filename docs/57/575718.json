@@ -1,0 +1,29 @@
+{
+  "id": 575718,
+  "title": "Secret Zoo",
+  "original_title": "\ud574\uce58\uc9c0\uc54a\uc544",
+  "release_date": "2020-01-15",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

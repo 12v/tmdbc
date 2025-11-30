@@ -1,0 +1,35 @@
+{
+  "id": 78363,
+  "title": "My Little Princess",
+  "original_title": "My Little Princess",
+  "release_date": "2011-06-29",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

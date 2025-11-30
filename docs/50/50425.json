@@ -1,0 +1,29 @@
+{
+  "id": 50425,
+  "title": "Murder Obsession",
+  "original_title": "Murder Obsession",
+  "release_date": "1981-02-24",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

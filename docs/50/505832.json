@@ -1,0 +1,38 @@
+{
+  "id": 505832,
+  "title": "My Little Pony: Equestria Girls - Forgotten Friendship",
+  "original_title": "My Little Pony: Equestria Girls - Forgotten Friendship",
+  "release_date": "2018-02-17",
+  "status": "Released",
+  "runtime": 44,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

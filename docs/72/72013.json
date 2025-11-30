@@ -1,0 +1,29 @@
+{
+  "id": 72013,
+  "title": "Yu-Gi-Oh!: Bonds Beyond Time",
+  "original_title": "\u5287\u5834\u7248 \u904a\u2606\u622f\u2606\u738b \uff5e\u8d85\u878d\u5408\uff01\u6642\u7a7a\u3092\u8d8a\u3048\u305f\u7d46\uff5e",
+  "release_date": "2010-01-23",
+  "status": "Released",
+  "runtime": 50,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

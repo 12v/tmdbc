@@ -1,10 +1,10 @@
 {
-  "id": 459414,
-  "title": "Never-Ending Man: Hayao Miyazaki",
-  "original_title": "\u7d42\u308f\u3089\u306a\u3044\u4eba \u5bae\ufa11\u99ff",
-  "release_date": "2017-11-14",
+  "id": 71057,
+  "title": "Eko Eko Azarak: Wizard of Darkness",
+  "original_title": "\u30a8\u30b3\u30a8\u30b3\u30a2\u30b6\u30e9\u30af -WIZARD OF DARKNESS-",
+  "release_date": "1995-04-08",
   "status": "Released",
-  "runtime": 70,
+  "runtime": 80,
   "original_language": "ja",
   "spoken_languages": [
     {
@@ -18,8 +18,8 @@
   ],
   "genres": [
     {
-      "id": 99,
-      "name": "Documentary"
+      "id": 27,
+      "name": "Horror"
     }
   ]
 }

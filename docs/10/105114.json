@@ -1,0 +1,45 @@
+{
+  "id": 105114,
+  "title": "So Sweet, So Dead",
+  "original_title": "Rivelazioni di un maniaco sessuale al capo della squadra mobile",
+  "release_date": "1972-07-18",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

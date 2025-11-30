@@ -1,0 +1,30 @@
+{
+  "id": 924175,
+  "title": "Becoming Male in the Middle Ages",
+  "original_title": "Tornar-se um Homem na Idade M\u00e9dia",
+  "release_date": "2022-01-26",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

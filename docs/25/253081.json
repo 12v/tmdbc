@@ -1,0 +1,29 @@
+{
+  "id": 253081,
+  "title": "Of the Flesh",
+  "original_title": "Karnal",
+  "release_date": "1983-12-25",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

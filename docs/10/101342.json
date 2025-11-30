@@ -1,0 +1,25 @@
+{
+  "id": 101342,
+  "title": "The Spousals of God",
+  "original_title": "As Bodas de Deus",
+  "release_date": "1999-10-15",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

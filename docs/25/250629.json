@@ -1,0 +1,33 @@
+{
+  "id": 250629,
+  "title": "Visitors from the Galaxy",
+  "original_title": "Gosti iz galaksije",
+  "release_date": "1981-07-02",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "sh",
+  "spoken_languages": [
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

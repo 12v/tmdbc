@@ -1,0 +1,29 @@
+{
+  "id": 1058063,
+  "title": "Hell Torture",
+  "original_title": "Siksa Neraka",
+  "release_date": "2023-12-14",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

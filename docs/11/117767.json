@@ -1,0 +1,34 @@
+{
+  "id": 117767,
+  "title": "Eroica",
+  "original_title": "Eroica. Symfonia bohaterska w dw\u00f3ch cz\u0119\u015bciach",
+  "release_date": "1958-01-04",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

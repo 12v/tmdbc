@@ -1,0 +1,29 @@
+{
+  "id": 963923,
+  "title": "The Daughters of Fire",
+  "original_title": "As Filhas do Fogo",
+  "release_date": "2023-05-22",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

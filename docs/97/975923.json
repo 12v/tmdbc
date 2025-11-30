@@ -1,0 +1,30 @@
+{
+  "id": 975923,
+  "title": "Gladbeck: The Hostage Crisis",
+  "original_title": "Gladbeck: Das Geiseldrama",
+  "release_date": "2022-06-08",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

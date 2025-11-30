@@ -1,0 +1,33 @@
+{
+  "id": 14922,
+  "title": "Happy Endings",
+  "original_title": "Happy Endings",
+  "release_date": "2005-01-20",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

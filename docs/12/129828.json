@@ -1,0 +1,33 @@
+{
+  "id": 129828,
+  "title": "Variola Vera",
+  "original_title": "\u0412\u0430\u0440\u0438\u043e\u043b\u0430 \u0432\u0435\u0440\u0430",
+  "release_date": "1982-07-09",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "sh",
+  "spoken_languages": [
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

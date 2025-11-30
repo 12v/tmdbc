@@ -1,0 +1,37 @@
+{
+  "id": 402672,
+  "title": "Mohenjo Daro",
+  "original_title": "\u092e\u094b\u0939\u0947\u0902\u091c\u094b \u0921\u0930\u094b",
+  "release_date": "2016-08-11",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

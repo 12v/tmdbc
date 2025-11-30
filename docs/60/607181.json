@@ -1,0 +1,30 @@
+{
+  "id": 607181,
+  "title": "Kinky Boots: The Musical",
+  "original_title": "Kinky Boots: The Musical",
+  "release_date": "2019-06-25",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

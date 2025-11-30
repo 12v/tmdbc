@@ -1,0 +1,35 @@
+{
+  "id": 441498,
+  "title": "In the Intense Now",
+  "original_title": "No Intenso Agora",
+  "release_date": "2017-11-09",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

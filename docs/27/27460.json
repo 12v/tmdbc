@@ -1,0 +1,33 @@
+{
+  "id": 27460,
+  "title": "Nick Fury: Agent of S.H.I.E.L.D.",
+  "original_title": "Nick Fury: Agent of S.H.I.E.L.D.",
+  "release_date": "1998-05-26",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

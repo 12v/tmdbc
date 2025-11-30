@@ -1,0 +1,43 @@
+{
+  "id": 755836,
+  "title": "Chandigarh Kare Aashiqui",
+  "original_title": "\u091a\u0902\u0921\u0940\u0917\u0922\u093c \u0915\u0930\u0947 \u0906\u0936\u093f\u0915\u0940",
+  "release_date": "2021-12-10",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Punjabi",
+      "iso_639_1": "pa",
+      "name": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

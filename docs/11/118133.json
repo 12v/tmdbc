@@ -1,0 +1,29 @@
+{
+  "id": 118133,
+  "title": "Ijaazat",
+  "original_title": "\u0907\u091c\u093e\u091c\u093c\u0924",
+  "release_date": "1987-10-24",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 826241,
+  "title": "The Perfect Family",
+  "original_title": "La familia perfecta",
+  "release_date": "2021-12-03",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

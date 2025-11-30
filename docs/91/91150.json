@@ -1,0 +1,25 @@
+{
+  "id": 91150,
+  "title": "Apart from You",
+  "original_title": "\u541b\u3068\u5225\u308c\u3066",
+  "release_date": "1933-04-01",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

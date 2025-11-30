@@ -1,0 +1,35 @@
+{
+  "id": 254005,
+  "title": "Land of Storms",
+  "original_title": "Viharsarok",
+  "release_date": "2014-02-08",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
