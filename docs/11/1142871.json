@@ -1,0 +1,33 @@
+{
+  "id": 1142871,
+  "title": "Centaur",
+  "original_title": "\u041a\u0435\u043d\u0442\u0430\u0432\u0440",
+  "release_date": "2023-07-13",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

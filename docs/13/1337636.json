@@ -1,0 +1,29 @@
+{
+  "id": 1337636,
+  "title": "Autos, Mota y Rocanrol",
+  "original_title": "Autos, Mota y Rocanrol",
+  "release_date": "2025-09-11",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 481762,
+  "title": "Neuilly sa m\u00e8re, sa m\u00e8re !",
+  "original_title": "Neuilly sa m\u00e8re, sa m\u00e8re !",
+  "release_date": "2018-08-08",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

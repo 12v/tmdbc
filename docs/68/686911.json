@@ -1,0 +1,25 @@
+{
+  "id": 686911,
+  "title": "Modern Family",
+  "original_title": "\uac00\uc871\uc2dc\ub124\ub9c8",
+  "release_date": "2012-11-08",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

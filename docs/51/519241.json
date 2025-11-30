@@ -1,0 +1,31 @@
+{
+  "id": 519241,
+  "title": "The Dead and the Others",
+  "original_title": "Chuva \u00c9 Cantoria na Aldeia dos Mortos",
+  "release_date": "2019-03-14",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Guarani",
+      "iso_639_1": "gn",
+      "name": ""
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

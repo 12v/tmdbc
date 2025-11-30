@@ -1,0 +1,25 @@
+{
+  "id": 370178,
+  "title": "Scare Campaign",
+  "original_title": "Scare Campaign",
+  "release_date": "2016-03-17",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1021643,
+  "title": "A Missing Part",
+  "original_title": "Une part manquante",
+  "release_date": "2024-11-13",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR",
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

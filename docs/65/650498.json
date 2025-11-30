@@ -1,0 +1,29 @@
+{
+  "id": 650498,
+  "title": "Twittering Birds Never Fly: The Clouds Gather",
+  "original_title": "\u56c0\u308b\u9ce5\u306f\u7fbd\u3070\u305f\u304b\u306a\u3044 The clouds gather",
+  "release_date": "2020-02-27",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

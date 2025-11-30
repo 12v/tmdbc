@@ -1,0 +1,29 @@
+{
+  "id": 83195,
+  "title": "Tropical Fish",
+  "original_title": "\u71b1\u5e36\u9b5a",
+  "release_date": "1995-08-01",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

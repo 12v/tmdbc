@@ -1,0 +1,29 @@
+{
+  "id": 1140905,
+  "title": "Aranmanai 4",
+  "original_title": "\u0b85\u0bb0\u0ba3\u0bcd\u0bae\u0ba9\u0bc8 4",
+  "release_date": "2024-04-11",
+  "status": "Released",
+  "runtime": 148,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

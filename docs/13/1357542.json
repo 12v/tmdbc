@@ -1,0 +1,36 @@
+{
+  "id": 1357542,
+  "title": "La Joia: Bad Gyal",
+  "original_title": "La Joia: Bad Gyal",
+  "release_date": "2024-10-24",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

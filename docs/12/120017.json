@@ -1,0 +1,25 @@
+{
+  "id": 120017,
+  "title": "Madame's Cravings",
+  "original_title": "Madame a des envies",
+  "release_date": "1906-08-02",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

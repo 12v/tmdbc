@@ -1,0 +1,33 @@
+{
+  "id": 25797,
+  "title": "Miss Minoes",
+  "original_title": "Minoes",
+  "release_date": "2001-12-06",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 613013,
+  "title": "Ok, It's Fine",
+  "original_title": "Ok, est\u00e1 bien...",
+  "release_date": "2020-11-24",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 389113,
+  "title": "The Bacchus Lady",
+  "original_title": "\uc8fd\uc5ec\uc8fc\ub294 \uc5ec\uc790",
+  "release_date": "2016-10-06",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

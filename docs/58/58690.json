@@ -1,0 +1,24 @@
+{
+  "id": 58690,
+  "title": "The Vineyard",
+  "original_title": "The Vineyard",
+  "release_date": "1989-07-01",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US",
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

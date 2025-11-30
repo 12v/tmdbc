@@ -1,0 +1,41 @@
+{
+  "id": 428288,
+  "title": "Napping Princess",
+  "original_title": "\u3072\u308b\u306d\u59eb \uff5e\u77e5\u3089\u306a\u3044\u30ef\u30bf\u30b7\u306e\u7269\u8a9e\uff5e",
+  "release_date": "2017-03-18",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

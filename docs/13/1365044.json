@@ -1,0 +1,37 @@
+{
+  "id": 1365044,
+  "title": "The Snow Sister",
+  "original_title": "Sn\u00f8s\u00f8steren",
+  "release_date": "2024-11-28",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

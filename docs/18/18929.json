@@ -1,0 +1,26 @@
+{
+  "id": 18929,
+  "title": "The Entertainer",
+  "original_title": "The Entertainer",
+  "release_date": "1960-07-25",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 35138,
+  "title": "Little Big Soldier",
+  "original_title": "\u5927\u5175\u5c0f\u5c06",
+  "release_date": "2010-02-14",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

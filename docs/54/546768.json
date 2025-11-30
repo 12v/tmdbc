@@ -1,0 +1,29 @@
+{
+  "id": 546768,
+  "title": "Maggie",
+  "original_title": "\uba54\uae30",
+  "release_date": "2019-09-26",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

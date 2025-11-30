@@ -1,0 +1,41 @@
+{
+  "id": 125835,
+  "title": "Julayi",
+  "original_title": "\u0c1c\u0c41\u0c32\u0c3e\u0c2f\u0c3f",
+  "release_date": "2012-08-09",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

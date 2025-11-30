@@ -1,0 +1,29 @@
+{
+  "id": 42938,
+  "title": "The Clone Returns Home",
+  "original_title": "\u30af\u30ed\u30fc\u30f3\u306f\u6545\u90f7\u3092\u3081\u3056\u3059",
+  "release_date": "2008-10-19",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 28526,
+  "title": "Sir Arne's Treasure",
+  "original_title": "Herr Arnes pengar",
+  "release_date": "1919-09-18",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

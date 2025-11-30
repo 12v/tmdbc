@@ -1,0 +1,25 @@
+{
+  "id": 24160,
+  "title": "My Friends Act II",
+  "original_title": "Amici miei - Atto II\u00b0",
+  "release_date": "1982-12-22",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

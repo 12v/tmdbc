@@ -1,0 +1,36 @@
+{
+  "id": 501738,
+  "title": "Charlatan",
+  "original_title": "\u0160arlat\u00e1n",
+  "release_date": "2020-08-20",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Sloven\u010dina"
+    }
+  ],
+  "origin_country": [
+    "CZ",
+    "IE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 25660,
+  "title": "Nowhere to Hide",
+  "original_title": "\uc778\uc815\uc0ac\uc815 \ubcfc \uac83 \uc5c6\ub2e4",
+  "release_date": "1999-07-31",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1453422,
+  "title": "Lucky Lu",
+  "original_title": "Lucky Lu",
+  "release_date": "2026-01-07",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

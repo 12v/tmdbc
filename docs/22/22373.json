@@ -1,0 +1,32 @@
+{
+  "id": 22373,
+  "title": "Saturn in Opposition",
+  "original_title": "Saturno contro",
+  "release_date": "2007-02-23",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "TR",
+    "IT",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

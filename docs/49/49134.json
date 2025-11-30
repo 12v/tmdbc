@@ -1,0 +1,25 @@
+{
+  "id": 49134,
+  "title": "The Scar",
+  "original_title": "Blizna",
+  "release_date": "1976-12-06",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

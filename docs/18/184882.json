@@ -1,0 +1,25 @@
+{
+  "id": 184882,
+  "title": "Film Study",
+  "original_title": "Filmstudie",
+  "release_date": "1926-05-21",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

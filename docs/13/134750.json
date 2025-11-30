@@ -1,0 +1,29 @@
+{
+  "id": 134750,
+  "title": "Humorous Phases of Funny Faces",
+  "original_title": "Humorous Phases of Funny Faces",
+  "release_date": "1906-04-05",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

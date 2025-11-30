@@ -1,0 +1,37 @@
+{
+  "id": 369860,
+  "title": "Bibi & Tina: Girls vs. Boys",
+  "original_title": "Bibi & Tina - M\u00e4dchen gegen Jungs",
+  "release_date": "2016-01-21",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 47144,
+  "title": "Cabaret Balkan",
+  "original_title": "\u0411\u0443\u0440\u0435 \u0431\u0430\u0440\u0443\u0442\u0430",
+  "release_date": "1998-08-01",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "CS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

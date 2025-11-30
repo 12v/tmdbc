@@ -1,0 +1,29 @@
+{
+  "id": 43845,
+  "title": "La Marseillaise",
+  "original_title": "La Marseillaise",
+  "release_date": "1938-02-10",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

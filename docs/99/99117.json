@@ -1,0 +1,33 @@
+{
+  "id": 99117,
+  "title": "Adam Chaplin",
+  "original_title": "Adam Chaplin",
+  "release_date": "2011-08-11",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

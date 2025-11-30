@@ -1,0 +1,33 @@
+{
+  "id": 988667,
+  "title": "Furies",
+  "original_title": "Thanh S\u00f3i: C\u00fac D\u1ea1i Trong \u0110\u00eam",
+  "release_date": "2022-12-30",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 90015,
+  "title": "Bandidos",
+  "original_title": "Bandidos",
+  "release_date": "1967-10-15",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

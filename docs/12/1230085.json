@@ -1,0 +1,33 @@
+{
+  "id": 1230085,
+  "title": "Ashes",
+  "original_title": "K\u00fcl",
+  "release_date": "2024-02-09",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

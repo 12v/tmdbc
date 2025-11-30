@@ -1,0 +1,29 @@
+{
+  "id": 19371,
+  "title": "Mr. Nanny",
+  "original_title": "Mr. Nanny",
+  "release_date": "1993-04-02",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

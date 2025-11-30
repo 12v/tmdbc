@@ -1,0 +1,33 @@
+{
+  "id": 434376,
+  "title": "Birdshot",
+  "original_title": "Birdshot",
+  "release_date": "2017-08-16",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

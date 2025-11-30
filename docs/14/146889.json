@@ -1,0 +1,25 @@
+{
+  "id": 146889,
+  "title": "The Factory",
+  "original_title": "A F\u00e1brica",
+  "release_date": "2011-09-19",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

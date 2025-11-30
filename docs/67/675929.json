@@ -1,0 +1,23 @@
+{
+  "id": 675929,
+  "title": "Whitmer Thomas: The Golden One",
+  "original_title": "Whitmer Thomas: The Golden One",
+  "release_date": "2020-02-22",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

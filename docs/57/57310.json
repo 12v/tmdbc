@@ -1,0 +1,30 @@
+{
+  "id": 57310,
+  "title": "The Sunday Woman",
+  "original_title": "La donna della domenica",
+  "release_date": "1975-12-23",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

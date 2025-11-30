@@ -1,0 +1,33 @@
+{
+  "id": 308572,
+  "title": "Bloody Flesh",
+  "original_title": "Carne de tu carne",
+  "release_date": "1983-12-25",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

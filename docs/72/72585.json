@@ -1,0 +1,29 @@
+{
+  "id": 72585,
+  "title": "Why Man Creates",
+  "original_title": "Why Man Creates",
+  "release_date": "1968-09-24",
+  "status": "Released",
+  "runtime": 29,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

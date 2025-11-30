@@ -1,0 +1,25 @@
+{
+  "id": 936716,
+  "title": "The Galaxy",
+  "original_title": "Galaxia",
+  "release_date": "1973-01-01",
+  "status": "Released",
+  "runtime": 7,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

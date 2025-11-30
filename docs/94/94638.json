@@ -1,0 +1,38 @@
+{
+  "id": 94638,
+  "title": "Outskirts",
+  "original_title": "\u041e\u043a\u0440\u0430\u0438\u043d\u0430",
+  "release_date": "1933-03-25",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

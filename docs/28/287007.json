@@ -1,0 +1,33 @@
+{
+  "id": 287007,
+  "title": "How to Save Asiye",
+  "original_title": "Asiye Nas\u0131l Kurtulur",
+  "release_date": "1986-01-01",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

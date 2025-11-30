@@ -1,0 +1,26 @@
+{
+  "id": 212231,
+  "title": "Kid Cannabis",
+  "original_title": "Kid Cannabis",
+  "release_date": "2014-04-18",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 563710,
+  "title": "Angela's Christmas",
+  "original_title": "Angela's Christmas",
+  "release_date": "2017-12-02",
+  "status": "Released",
+  "runtime": 30,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "IE"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

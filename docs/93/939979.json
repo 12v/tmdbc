@@ -1,0 +1,40 @@
+{
+  "id": 939979,
+  "title": "Paradise Highway",
+  "original_title": "Paradise Highway",
+  "release_date": "2022-07-29",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "DE",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 816586,
+  "title": "Malayankunju",
+  "original_title": "\u0d2e\u0d32\u0d2f\u0d7b\u0d15\u0d41\u0d1e\u0d4d\u0d1e\u0d4d",
+  "release_date": "2022-07-22",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

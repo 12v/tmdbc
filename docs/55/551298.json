@@ -1,0 +1,33 @@
+{
+  "id": 551298,
+  "title": "Under the Sea: A Descendants Story",
+  "original_title": "Under the Sea: A Descendants Story",
+  "release_date": "2018-09-28",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 241172,
+  "title": "Samba Traor\u00e9",
+  "original_title": "Samba Traor\u00e9",
+  "release_date": "1993-03-03",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "bm",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BM",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

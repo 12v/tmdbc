@@ -1,0 +1,25 @@
+{
+  "id": 147622,
+  "title": "Ingeborg Holm",
+  "original_title": "Ingeborg Holm",
+  "release_date": "1913-10-27",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

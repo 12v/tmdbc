@@ -1,0 +1,29 @@
+{
+  "id": 189312,
+  "title": "I, 'The Heifer'",
+  "original_title": "Yo, 'El Vaquilla'",
+  "release_date": "1985-11-08",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 11945,
+  "title": "Emil i L\u00f6nneberga",
+  "original_title": "Emil i L\u00f6nneberga",
+  "release_date": "1971-12-04",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

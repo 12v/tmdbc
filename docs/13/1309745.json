@@ -1,0 +1,25 @@
+{
+  "id": 1309745,
+  "title": "Lesson Learned",
+  "original_title": "Fekete pont",
+  "release_date": "2024-09-19",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

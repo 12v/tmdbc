@@ -1,0 +1,29 @@
+{
+  "id": 1073337,
+  "title": "10 Days of a Good Man",
+  "original_title": "\u0130yi Adam\u0131n 10 G\u00fcn\u00fc",
+  "release_date": "2023-02-10",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

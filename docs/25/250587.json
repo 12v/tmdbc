@@ -1,0 +1,29 @@
+{
+  "id": 250587,
+  "title": "Evil Demon Golfball from Hell!!!",
+  "original_title": "Evil Demon Golfball from Hell!!!",
+  "release_date": "1997-06-04",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

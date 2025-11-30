@@ -1,0 +1,42 @@
+{
+  "id": 452773,
+  "title": "Tad, the Lost Explorer, and the Secret of King Midas",
+  "original_title": "Tadeo Jones 2: El secreto del rey Midas",
+  "release_date": "2017-03-25",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

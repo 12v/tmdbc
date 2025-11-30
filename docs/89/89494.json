@@ -1,0 +1,25 @@
+{
+  "id": 89494,
+  "title": "Vladimir and Rosa",
+  "original_title": "Vladimir et Rosa",
+  "release_date": "1971-04-16",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

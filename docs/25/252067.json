@@ -1,0 +1,33 @@
+{
+  "id": 252067,
+  "title": "Hot Young Bloods",
+  "original_title": "\ud53c\ub053\ub294 \uccad\ucd98",
+  "release_date": "2014-01-22",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

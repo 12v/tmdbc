@@ -1,0 +1,25 @@
+{
+  "id": 1039280,
+  "title": "Senritsu Kaiki World Kowasugi!",
+  "original_title": "\u6226\u6144\u602a\u5947\u30ef\u30fc\u30eb\u30c9 \u30b3\u30ef\u3059\u304e\uff01",
+  "release_date": "2023-09-08",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

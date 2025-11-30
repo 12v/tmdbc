@@ -1,0 +1,29 @@
+{
+  "id": 494373,
+  "title": "Fanatyk",
+  "original_title": "Fanatyk",
+  "release_date": "2017-12-24",
+  "status": "Released",
+  "runtime": 33,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

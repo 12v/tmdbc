@@ -1,0 +1,25 @@
+{
+  "id": 43294,
+  "title": "An American in Rome",
+  "original_title": "Un americano a Roma",
+  "release_date": "1954-12-10",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

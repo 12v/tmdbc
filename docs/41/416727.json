@@ -1,0 +1,25 @@
+{
+  "id": 416727,
+  "title": "A Quiet Dream",
+  "original_title": "\ucd98\ubabd",
+  "release_date": "2016-10-13",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

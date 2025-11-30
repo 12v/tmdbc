@@ -1,0 +1,44 @@
+{
+  "id": 16176,
+  "title": "The Slipper and the Rose",
+  "original_title": "The Slipper and the Rose",
+  "release_date": "1976-03-25",
+  "status": "Released",
+  "runtime": 146,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

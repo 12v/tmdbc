@@ -1,0 +1,25 @@
+{
+  "id": 119975,
+  "title": "Pierrette's Escapades",
+  "original_title": "Le d\u00e9part d'Arlequin et de Pierrette",
+  "release_date": "1900-01-01",
+  "status": "Released",
+  "runtime": 2,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

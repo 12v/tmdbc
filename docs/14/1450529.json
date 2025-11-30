@@ -1,0 +1,29 @@
+{
+  "id": 1450529,
+  "title": "Gunman",
+  "original_title": "Gatillero",
+  "release_date": "2025-06-12",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

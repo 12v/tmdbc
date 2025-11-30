@@ -1,0 +1,33 @@
+{
+  "id": 936362,
+  "title": "Eismayer",
+  "original_title": "Eismayer",
+  "release_date": "2022-10-28",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

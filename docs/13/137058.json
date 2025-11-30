@@ -1,0 +1,30 @@
+{
+  "id": 137058,
+  "title": "Willow Springs",
+  "original_title": "Willow Springs",
+  "release_date": "1973-06-12",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

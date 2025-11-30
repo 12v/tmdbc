@@ -1,0 +1,29 @@
+{
+  "id": 60971,
+  "title": "Underworld Beauty",
+  "original_title": "\u6697\u9ed2\u8857\u306e\u7f8e\u5973",
+  "release_date": "1958-03-25",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

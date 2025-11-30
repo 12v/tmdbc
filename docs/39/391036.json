@@ -1,0 +1,29 @@
+{
+  "id": 391036,
+  "title": "Kali",
+  "original_title": "\u0d15\u0d32\u0d3f",
+  "release_date": "2016-03-26",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

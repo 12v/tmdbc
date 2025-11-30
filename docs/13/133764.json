@@ -1,0 +1,45 @@
+{
+  "id": 133764,
+  "title": "Vanishing Waves",
+  "original_title": "Aurora",
+  "release_date": "2012-06-01",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "lt",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvi\u0173"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR",
+    "LT"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1179664,
+  "title": "A Deadly Invitation",
+  "original_title": "Invitaci\u00f3n a un Asesinato",
+  "release_date": "2023-10-06",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

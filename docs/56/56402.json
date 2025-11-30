@@ -1,0 +1,29 @@
+{
+  "id": 56402,
+  "title": "Bread, Love and Dreams",
+  "original_title": "Pane, amore e fantasia",
+  "release_date": "1953-12-22",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

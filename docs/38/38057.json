@@ -1,0 +1,33 @@
+{
+  "id": 38057,
+  "title": "The Secret of the Magic Gourd",
+  "original_title": "\u5b9d\u846b\u82a6\u7684\u79d8\u5bc6",
+  "release_date": "2007-06-29",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

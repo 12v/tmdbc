@@ -1,0 +1,29 @@
+{
+  "id": 193348,
+  "title": "Salto",
+  "original_title": "Salto",
+  "release_date": "1965-06-10",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

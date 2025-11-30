@@ -1,0 +1,33 @@
+{
+  "id": 46443,
+  "title": "Django, Prepare a Coffin",
+  "original_title": "Preparati la bara!",
+  "release_date": "1968-01-27",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

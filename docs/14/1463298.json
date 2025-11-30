@@ -1,0 +1,37 @@
+{
+  "id": 1463298,
+  "title": "Vengeance in the Dreary Night",
+  "original_title": "Dendam Malam Kelam",
+  "release_date": "2025-05-28",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

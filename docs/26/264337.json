@@ -1,0 +1,25 @@
+{
+  "id": 264337,
+  "title": "Spare Parts",
+  "original_title": "Spare Parts",
+  "release_date": "2015-01-16",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

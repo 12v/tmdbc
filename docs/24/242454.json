@@ -1,0 +1,29 @@
+{
+  "id": 242454,
+  "title": "The Suspect",
+  "original_title": "\uc6a9\uc758\uc790",
+  "release_date": "2013-12-24",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

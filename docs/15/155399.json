@@ -1,0 +1,35 @@
+{
+  "id": 155399,
+  "title": "The Day the Earth Froze",
+  "original_title": "Sampo",
+  "release_date": "1959-08-24",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "FI",
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

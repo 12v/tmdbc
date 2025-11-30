@@ -1,0 +1,25 @@
+{
+  "id": 1024961,
+  "title": "Kate Berlant: Cinnamon in the Wind",
+  "original_title": "Kate Berlant: Cinnamon in the Wind",
+  "release_date": "2022-09-15",
+  "status": "Released",
+  "runtime": 44,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

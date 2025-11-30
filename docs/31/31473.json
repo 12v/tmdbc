@@ -1,0 +1,38 @@
+{
+  "id": 31473,
+  "title": "An American Tail: The Treasure of Manhattan Island",
+  "original_title": "An American Tail: The Treasure of Manhattan Island",
+  "release_date": "1998-02-15",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

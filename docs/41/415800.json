@@ -1,0 +1,34 @@
+{
+  "id": 415800,
+  "title": "Barcelona: A Love Untold",
+  "original_title": "Barcelona: A Love Untold",
+  "release_date": "2016-09-14",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

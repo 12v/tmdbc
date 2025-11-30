@@ -1,0 +1,25 @@
+{
+  "id": 44560,
+  "title": "Aftershock",
+  "original_title": "\u5510\u5c71\u5927\u5730\u9707",
+  "release_date": "2010-07-22",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

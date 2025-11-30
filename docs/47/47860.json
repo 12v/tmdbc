@@ -1,0 +1,25 @@
+{
+  "id": 47860,
+  "title": "Things I Like, Things I Don't Like",
+  "original_title": "Foutaises",
+  "release_date": "1990-03-07",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 16029,
+  "title": "Tree of Knowledge",
+  "original_title": "Kundskabens tr\u00e6",
+  "release_date": "1981-11-13",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

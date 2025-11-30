@@ -1,0 +1,37 @@
+{
+  "id": 493006,
+  "title": "Case Closed: Zero the Enforcer",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u30bc\u30ed\u306e\u57f7\u884c\u4eba",
+  "release_date": "2018-04-13",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

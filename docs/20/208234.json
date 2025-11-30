@@ -1,0 +1,25 @@
+{
+  "id": 208234,
+  "title": "The Photographical Congress Arrives in Lyon",
+  "original_title": "Le d\u00e9barquement du congr\u00e8s de photographie \u00e0 Lyon",
+  "release_date": "1895-06-12",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

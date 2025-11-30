@@ -1,0 +1,29 @@
+{
+  "id": 42610,
+  "title": "Night of the Bloody Apes",
+  "original_title": "La horripilante bestia humana",
+  "release_date": "1969-02-05",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

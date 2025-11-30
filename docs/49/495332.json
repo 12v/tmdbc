@@ -1,0 +1,38 @@
+{
+  "id": 495332,
+  "title": "Pelican Blood",
+  "original_title": "Pelikanblut",
+  "release_date": "2020-09-24",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

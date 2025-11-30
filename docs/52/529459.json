@@ -1,0 +1,33 @@
+{
+  "id": 529459,
+  "title": "Varia\u00e7\u00f5es: Guardian Angel",
+  "original_title": "Varia\u00e7\u00f5es",
+  "release_date": "2019-08-22",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

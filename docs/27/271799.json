@@ -1,0 +1,35 @@
+{
+  "id": 271799,
+  "title": "Rise and Fall of a Small Film Company",
+  "original_title": "Grandeur et d\u00e9cadence d'un petit commerce de cin\u00e9ma",
+  "release_date": "1986-08-28",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

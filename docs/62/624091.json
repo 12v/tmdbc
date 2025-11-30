@@ -1,0 +1,42 @@
+{
+  "id": 624091,
+  "title": "Sri Asih",
+  "original_title": "Sri Asih",
+  "release_date": "2022-11-17",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

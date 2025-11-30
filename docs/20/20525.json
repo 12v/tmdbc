@@ -1,0 +1,37 @@
+{
+  "id": 20525,
+  "title": "Hana",
+  "original_title": "\u82b1\u3088\u308a\u3082\u306a\u307b",
+  "release_date": "2006-06-03",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

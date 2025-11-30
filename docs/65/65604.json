@@ -1,0 +1,31 @@
+{
+  "id": 65604,
+  "title": "Candy Mountain",
+  "original_title": "Candy Mountain",
+  "release_date": "1988-01-20",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "CH",
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

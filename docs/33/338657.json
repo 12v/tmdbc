@@ -1,0 +1,29 @@
+{
+  "id": 338657,
+  "title": "Heart and Guts",
+  "original_title": "Das Tripas Cora\u00e7\u00e3o",
+  "release_date": "1982-11-09",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

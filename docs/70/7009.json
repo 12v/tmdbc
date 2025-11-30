@@ -1,0 +1,29 @@
+{
+  "id": 7009,
+  "title": "The Wild Chicks",
+  "original_title": "Die Wilden H\u00fchner",
+  "release_date": "2006-02-09",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

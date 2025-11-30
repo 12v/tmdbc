@@ -1,0 +1,25 @@
+{
+  "id": 62762,
+  "title": "The Chinese Boxer",
+  "original_title": "\uf9c4\u864e\u9b2a",
+  "release_date": "1970-11-27",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

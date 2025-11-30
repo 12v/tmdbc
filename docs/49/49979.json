@@ -1,0 +1,25 @@
+{
+  "id": 49979,
+  "title": "Fidelity",
+  "original_title": "La Fid\u00e9lit\u00e9",
+  "release_date": "2000-04-05",
+  "status": "Released",
+  "runtime": 166,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

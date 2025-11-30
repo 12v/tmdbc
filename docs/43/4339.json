@@ -1,0 +1,29 @@
+{
+  "id": 4339,
+  "title": "The Nasty Girl",
+  "original_title": "Das schreckliche M\u00e4dchen",
+  "release_date": "1990-02-15",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

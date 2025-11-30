@@ -1,0 +1,29 @@
+{
+  "id": 47189,
+  "title": "Capricious Summer",
+  "original_title": "Rozmarn\u00e9 l\u00e9to",
+  "release_date": "1968-05-24",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

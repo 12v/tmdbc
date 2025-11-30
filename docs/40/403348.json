@@ -1,0 +1,29 @@
+{
+  "id": 403348,
+  "title": "Welcome to Hartmanns",
+  "original_title": "Willkommen bei den Hartmanns",
+  "release_date": "2016-11-03",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

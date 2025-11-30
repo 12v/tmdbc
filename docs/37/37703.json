@@ -1,0 +1,34 @@
+{
+  "id": 37703,
+  "title": "Flirting Scholar",
+  "original_title": "\u5510\u4f2f\u864e\u9ede\u79cb\u9999",
+  "release_date": "1993-07-01",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK",
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

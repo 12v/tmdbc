@@ -1,0 +1,30 @@
+{
+  "id": 33604,
+  "title": "We Are Not Angels",
+  "original_title": "\u041c\u0438 \u043d\u0438\u0441\u043c\u043e \u0430\u043d\u0452\u0435\u043b\u0438",
+  "release_date": "1992-05-30",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "RS",
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 112355,
+  "title": "What the Peeper Saw",
+  "original_title": "La tua presenza nuda!",
+  "release_date": "1972-10-14",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "ES",
+    "GB",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

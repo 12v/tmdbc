@@ -1,0 +1,25 @@
+{
+  "id": 114090,
+  "title": "Danz\u00f3n",
+  "original_title": "Danz\u00f3n",
+  "release_date": "1991-06-27",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

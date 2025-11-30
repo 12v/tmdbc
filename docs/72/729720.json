@@ -1,0 +1,29 @@
+{
+  "id": 729720,
+  "title": "The Last Mercenary",
+  "original_title": "Le Dernier Mercenaire",
+  "release_date": "2021-07-30",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

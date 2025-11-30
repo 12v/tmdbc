@@ -1,0 +1,37 @@
+{
+  "id": 980431,
+  "title": "The Legend of Aang: The Last Airbender",
+  "original_title": "The Legend of Aang: The Last Airbender",
+  "release_date": "2026-10-07",
+  "status": "Post Production",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

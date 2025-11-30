@@ -1,0 +1,29 @@
+{
+  "id": 413764,
+  "title": "Playground",
+  "original_title": "Plac zabaw",
+  "release_date": "2016-09-19",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

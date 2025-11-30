@@ -1,0 +1,29 @@
+{
+  "id": 76806,
+  "title": "Andromedia",
+  "original_title": "\u30a2\u30f3\u30c9\u30ed\u30e1\u30c7\u30a4\u30a2",
+  "release_date": "1998-07-11",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

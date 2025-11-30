@@ -1,0 +1,25 @@
+{
+  "id": 55135,
+  "title": "When I Grow Up, I'll Be a Kangaroo",
+  "original_title": "Kad porastem bi\u0107u kengur",
+  "release_date": "2004-03-25",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "CS"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
