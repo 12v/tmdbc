@@ -1,0 +1,29 @@
+{
+  "id": 52980,
+  "title": "Battles Without Honor and Humanity: Deadly Fight in Hiroshima",
+  "original_title": "\u4ec1\u7fa9\u306a\u304d\u6226\u3044 \u5e83\u5cf6\u6b7b\u95d8\u7bc7",
+  "release_date": "1973-04-28",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

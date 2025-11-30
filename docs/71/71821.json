@@ -1,0 +1,29 @@
+{
+  "id": 71821,
+  "title": "Mystics in Bali",
+  "original_title": "Le\u00e1k",
+  "release_date": "1981-01-01",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

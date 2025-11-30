@@ -1,0 +1,38 @@
+{
+  "id": 51022,
+  "title": "The Wounds",
+  "original_title": "\u0420\u0430\u043d\u0435",
+  "release_date": "1998-05-27",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "RS",
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

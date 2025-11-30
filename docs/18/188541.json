@@ -1,0 +1,37 @@
+{
+  "id": 188541,
+  "title": "Giant God Warrior Appears in Tokyo",
+  "original_title": "\u5de8\u795e\u5175\u6771\u4eac\u306b\u73fe\u308f\u308b",
+  "release_date": "2012-07-10",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7216,
+  "title": "Doctor Butcher M.D.",
+  "original_title": "Zombi Holocaust",
+  "release_date": "1980-03-28",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

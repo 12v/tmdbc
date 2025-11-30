@@ -1,0 +1,39 @@
+{
+  "id": 1403843,
+  "title": "Fiume o morte!",
+  "original_title": "Fiume o morte!",
+  "release_date": "2025-02-13",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "hr",
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "HR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

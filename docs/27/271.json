@@ -1,0 +1,37 @@
+{
+  "id": 271,
+  "title": "Ronia: The Robber's Daughter",
+  "original_title": "Ronja R\u00f6vardotter",
+  "release_date": "1984-12-14",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

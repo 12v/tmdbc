@@ -1,0 +1,41 @@
+{
+  "id": 413594,
+  "title": "Sword Art Online: The Movie \u2013 Ordinal Scale",
+  "original_title": "\u5287\u5834\u7248 \u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 -\u30aa\u30fc\u30c7\u30a3\u30ca\u30eb\u30fb\u30b9\u30b1\u30fc\u30eb-",
+  "release_date": "2017-02-18",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

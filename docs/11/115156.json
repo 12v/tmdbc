@@ -1,0 +1,29 @@
+{
+  "id": 115156,
+  "title": "He's a Woman, She's a Man",
+  "original_title": "\u91d1\u679d\u7389\u8449",
+  "release_date": "1994-07-23",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

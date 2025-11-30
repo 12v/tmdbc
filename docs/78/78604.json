@@ -1,0 +1,26 @@
+{
+  "id": 78604,
+  "title": "Michael",
+  "original_title": "Michael",
+  "release_date": "2011-09-14",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 14646,
+  "title": "Family Resemblances",
+  "original_title": "Un air de famille",
+  "release_date": "1996-09-07",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

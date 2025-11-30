@@ -1,0 +1,31 @@
+{
+  "id": 516700,
+  "title": "Gundala",
+  "original_title": "Gundala",
+  "release_date": "2019-08-29",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

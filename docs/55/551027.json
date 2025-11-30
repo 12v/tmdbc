@@ -1,0 +1,29 @@
+{
+  "id": 551027,
+  "title": "Ave Maryam",
+  "original_title": "Ave Maryam",
+  "release_date": "2019-04-11",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

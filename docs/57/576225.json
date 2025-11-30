@@ -1,0 +1,29 @@
+{
+  "id": 576225,
+  "title": "Alone/Together",
+  "original_title": "Alone/Together",
+  "release_date": "2019-02-13",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

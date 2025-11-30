@@ -1,0 +1,38 @@
+{
+  "id": 726620,
+  "title": "Hold Me Back",
+  "original_title": "\u79c1\u3092\u304f\u3044\u3068\u3081\u3066",
+  "release_date": "2020-12-18",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

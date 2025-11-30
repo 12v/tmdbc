@@ -1,0 +1,26 @@
+{
+  "id": 320508,
+  "title": "There Are Monsters",
+  "original_title": "There Are Monsters",
+  "release_date": "2013-09-13",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

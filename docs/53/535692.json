@@ -1,0 +1,26 @@
+{
+  "id": 535692,
+  "title": "My Masterpiece",
+  "original_title": "Mi obra maestra",
+  "release_date": "2018-08-14",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

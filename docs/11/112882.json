@@ -1,0 +1,29 @@
+{
+  "id": 112882,
+  "title": "Tokyo Chorus",
+  "original_title": "\u6771\u4eac\u306e\u5408\u5531",
+  "release_date": "1931-08-15",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

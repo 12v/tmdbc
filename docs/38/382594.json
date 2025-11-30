@@ -1,0 +1,29 @@
+{
+  "id": 382594,
+  "title": "Fragile as the World",
+  "original_title": "Fr\u00e1gil Como o Mundo",
+  "release_date": "2001-07-20",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

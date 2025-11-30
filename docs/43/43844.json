@@ -1,0 +1,34 @@
+{
+  "id": 43844,
+  "title": "The Baker's Wife",
+  "original_title": "La Femme du boulanger",
+  "release_date": "1938-09-07",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 5485,
+  "title": "Baron Blood",
+  "original_title": "Gli orrori del castello di Norimberga",
+  "release_date": "1972-02-25",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

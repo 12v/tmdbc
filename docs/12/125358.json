@@ -1,0 +1,25 @@
+{
+  "id": 125358,
+  "title": "Lightning",
+  "original_title": "\u7a32\u59bb",
+  "release_date": "1952-10-09",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

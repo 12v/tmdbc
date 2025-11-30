@@ -1,0 +1,25 @@
+{
+  "id": 115799,
+  "title": "Kaza-hana",
+  "original_title": "\u98a8\u82b1",
+  "release_date": "2001-01-27",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

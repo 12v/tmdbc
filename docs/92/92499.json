@@ -1,0 +1,37 @@
+{
+  "id": 92499,
+  "title": "Spellbound",
+  "original_title": "\uc624\uc2f9\ud55c \uc5f0\uc560",
+  "release_date": "2011-12-01",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 376530,
+  "title": "The Eagle Huntress",
+  "original_title": "The Eagle Huntress",
+  "release_date": "2016-11-02",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Kazakh",
+      "iso_639_1": "kk",
+      "name": "\u049b\u0430\u0437\u0430\u049b"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "KZ",
+    "MN"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

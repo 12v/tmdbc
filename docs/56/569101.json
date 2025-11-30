@@ -1,0 +1,35 @@
+{
+  "id": 569101,
+  "title": "Unda",
+  "original_title": "\u0d09\u0d23\u0d4d\u0d1f",
+  "release_date": "2019-06-14",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

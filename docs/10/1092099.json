@@ -1,0 +1,26 @@
+{
+  "id": 1092099,
+  "title": "Bad Living",
+  "original_title": "Mal Viver",
+  "release_date": "2023-05-07",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

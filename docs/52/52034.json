@@ -1,0 +1,33 @@
+{
+  "id": 52034,
+  "title": "Tetsuo: The Bullet Man",
+  "original_title": "\u9244\u7537 THE BULLET MAN",
+  "release_date": "2010-02-27",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

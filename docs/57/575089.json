@@ -1,0 +1,30 @@
+{
+  "id": 575089,
+  "title": "One Second",
+  "original_title": "\u4e00\u79d2\u949f",
+  "release_date": "2020-11-27",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

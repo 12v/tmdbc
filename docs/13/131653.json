@@ -1,0 +1,25 @@
+{
+  "id": 131653,
+  "title": "Euridice BA 2037",
+  "original_title": "\u0395\u03c5\u03c1\u03b9\u03b4\u03af\u03ba\u03b7 \u0392\u0391 2037",
+  "release_date": "1975-09-23",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10686,
+  "title": "Samurai Fiction",
+  "original_title": "SF \u30b5\u30e0\u30e9\u30a4\u30fb\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+  "release_date": "1998-10-27",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

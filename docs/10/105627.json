@@ -1,0 +1,29 @@
+{
+  "id": 105627,
+  "title": "The Joke",
+  "original_title": "\u017dert",
+  "release_date": "1969-02-28",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

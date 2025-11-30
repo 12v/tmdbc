@@ -1,0 +1,25 @@
+{
+  "id": 639564,
+  "title": "The Kangaroo Chronicles",
+  "original_title": "Die K\u00e4nguru-Chroniken",
+  "release_date": "2020-03-05",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

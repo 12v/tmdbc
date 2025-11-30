@@ -1,0 +1,25 @@
+{
+  "id": 396227,
+  "title": "National Theatre Live: Hamlet",
+  "original_title": "National Theatre Live: Hamlet",
+  "release_date": "2015-10-15",
+  "status": "Released",
+  "runtime": 217,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

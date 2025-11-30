@@ -1,0 +1,33 @@
+{
+  "id": 74289,
+  "title": "Samurai Reincarnation",
+  "original_title": "\u9b54\u754c\u8ee2\u751f",
+  "release_date": "1981-06-06",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

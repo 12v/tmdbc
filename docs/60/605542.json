@@ -1,0 +1,35 @@
+{
+  "id": 605542,
+  "title": "Lost in the Night",
+  "original_title": "Perdidos en la noche",
+  "release_date": "2023-10-04",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX",
+    "DE",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

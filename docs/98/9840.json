@@ -1,0 +1,25 @@
+{
+  "id": 9840,
+  "title": "The Dreamlife of Angels",
+  "original_title": "La Vie r\u00eav\u00e9e des anges",
+  "release_date": "1998-10-16",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

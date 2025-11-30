@@ -1,0 +1,25 @@
+{
+  "id": 32237,
+  "title": "Wishing Stairs",
+  "original_title": "\uc5ec\uace0\uad34\ub2f4 3: \uc5ec\uc6b0\uacc4\ub2e8",
+  "release_date": "2003-08-01",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

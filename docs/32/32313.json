@@ -1,0 +1,25 @@
+{
+  "id": 32313,
+  "title": "The Chaos Class in the Military",
+  "original_title": "Hababam S\u0131n\u0131f\u0131 Askerde",
+  "release_date": "2005-01-14",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

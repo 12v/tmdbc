@@ -1,0 +1,25 @@
+{
+  "id": 493659,
+  "title": "Bixa Travesty",
+  "original_title": "Bixa Travesty",
+  "release_date": "2019-06-26",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

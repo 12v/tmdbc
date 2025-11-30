@@ -1,0 +1,25 @@
+{
+  "id": 1242397,
+  "title": "The Truth vs. Alex Jones",
+  "original_title": "The Truth vs. Alex Jones",
+  "release_date": "2024-03-11",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 49992,
+  "title": "Lucky and Zorba",
+  "original_title": "La gabbianella e il gatto",
+  "release_date": "1998-12-22",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 553837,
+  "title": "Code Geass: Lelouch of the Re;surrection",
+  "original_title": "\u30b3\u30fc\u30c9\u30ae\u30a2\u30b9 \u5fa9\u6d3b\u306e\u30eb\u30eb\u30fc\u30b7\u30e5",
+  "release_date": "2019-02-09",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

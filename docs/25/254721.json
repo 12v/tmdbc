@@ -1,0 +1,35 @@
+{
+  "id": 254721,
+  "title": "Stations of the Cross",
+  "original_title": "Kreuzweg",
+  "release_date": "2014-03-20",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

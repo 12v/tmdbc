@@ -1,0 +1,38 @@
+{
+  "id": 32617,
+  "title": "Bite the Bullet",
+  "original_title": "Bite the Bullet",
+  "release_date": "1975-09-26",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

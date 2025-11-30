@@ -1,0 +1,29 @@
+{
+  "id": 1119774,
+  "title": "Chantal in Fairyland",
+  "original_title": "Chantal im M\u00e4rchenland",
+  "release_date": "2024-03-28",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

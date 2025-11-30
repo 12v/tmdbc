@@ -1,0 +1,25 @@
+{
+  "id": 1000603,
+  "title": "The Small Victories",
+  "original_title": "Les Petites Victoires",
+  "release_date": "2023-03-01",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

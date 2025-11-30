@@ -1,0 +1,25 @@
+{
+  "id": 574674,
+  "title": "Waiting for the Carnival",
+  "original_title": "Estou Me Guardando para Quando o Carnaval Chegar",
+  "release_date": "2019-02-17",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

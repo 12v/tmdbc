@@ -1,0 +1,29 @@
+{
+  "id": 60234,
+  "title": "The Silent World",
+  "original_title": "Le Monde du silence",
+  "release_date": "1956-02-15",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 95503,
+  "title": "Thirst for Love",
+  "original_title": "\u611b\u306e\u6e07\u304d",
+  "release_date": "1967-02-18",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

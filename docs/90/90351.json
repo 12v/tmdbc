@@ -1,0 +1,33 @@
+{
+  "id": 90351,
+  "title": "Sympathy for the Underdog",
+  "original_title": "\u535a\u5f92\u5916\u4eba\u90e8\u968a",
+  "release_date": "1971-01-12",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

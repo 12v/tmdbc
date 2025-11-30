@@ -1,0 +1,25 @@
+{
+  "id": 19095,
+  "title": "A Virgin Among the Living Dead",
+  "original_title": "Une vierge chez les morts-vivants",
+  "release_date": "1973-11-15",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

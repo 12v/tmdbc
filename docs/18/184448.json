@@ -1,0 +1,25 @@
+{
+  "id": 184448,
+  "title": "The Mystic",
+  "original_title": "The Mystic",
+  "release_date": "1925-09-26",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 52251,
+  "title": "Hotel",
+  "original_title": "Hotel",
+  "release_date": "2004-12-10",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

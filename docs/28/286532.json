@@ -1,0 +1,25 @@
+{
+  "id": 286532,
+  "title": "A Merry Friggin' Christmas",
+  "original_title": "A Merry Friggin' Christmas",
+  "release_date": "2014-11-07",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

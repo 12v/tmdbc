@@ -1,0 +1,29 @@
+{
+  "id": 54408,
+  "title": "Spookley the Square Pumpkin",
+  "original_title": "Spookley the Square Pumpkin",
+  "release_date": "2004-10-30",
+  "status": "Released",
+  "runtime": 47,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

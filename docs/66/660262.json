@@ -1,0 +1,29 @@
+{
+  "id": 660262,
+  "title": "Three Wishes for Cinderella",
+  "original_title": "Tre n\u00f8tter til Askepott",
+  "release_date": "2021-11-12",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 889741,
+  "title": "Fast & Feel Love",
+  "original_title": "\u0e40\u0e23\u0e47\u0e27\u0e42\u0e2b\u0e14..\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e42\u0e01\u0e23\u0e18\u0e40\u0e18\u0e2d",
+  "release_date": "2022-04-06",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 730256,
+  "title": "City of Wind",
+  "original_title": "\u0421\u044d\u0440 \u0441\u044d\u0440 \u0441\u0430\u043b\u0445\u0438",
+  "release_date": "2024-04-24",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "mn",
+  "spoken_languages": [
+    {
+      "english_name": "Mongolian",
+      "iso_639_1": "mn",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "QA",
+    "DE",
+    "FR",
+    "NL",
+    "PT",
+    "MN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

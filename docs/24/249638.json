@@ -1,0 +1,29 @@
+{
+  "id": 249638,
+  "title": "Something Must Break",
+  "original_title": "N\u00e5nting m\u00e5ste g\u00e5 s\u00f6nder",
+  "release_date": "2014-03-28",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

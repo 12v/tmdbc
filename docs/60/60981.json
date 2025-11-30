@@ -1,0 +1,32 @@
+{
+  "id": 60981,
+  "title": "My Joy",
+  "original_title": "\u0421\u0447\u0430\u0441\u0442\u044c\u0435 \u043c\u043e\u0451",
+  "release_date": "2010-09-30",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "UA",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

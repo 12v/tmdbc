@@ -1,0 +1,35 @@
+{
+  "id": 528089,
+  "title": "Buoyancy",
+  "original_title": "Buoyancy",
+  "release_date": "2019-02-08",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Khmer",
+      "iso_639_1": "km",
+      "name": ""
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

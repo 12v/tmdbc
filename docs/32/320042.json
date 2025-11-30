@@ -1,0 +1,30 @@
+{
+  "id": 320042,
+  "title": "Beijing Watermelon",
+  "original_title": "\u5317\u4eac\u7684\u897f\u74dc",
+  "release_date": "1989-11-18",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

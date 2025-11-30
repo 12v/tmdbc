@@ -1,0 +1,37 @@
+{
+  "id": 903939,
+  "title": "Detective Conan: The Bride of Halloween",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u30cf\u30ed\u30a6\u30a3\u30f3\u306e\u82b1\u5ac1",
+  "release_date": "2022-04-15",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

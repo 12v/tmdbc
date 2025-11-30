@@ -1,0 +1,34 @@
+{
+  "id": 176668,
+  "title": "Hill of No Return",
+  "original_title": "\u7121\u8a00\u7684\u5c71\u4e18",
+  "release_date": "1992-12-05",
+  "status": "Released",
+  "runtime": 175,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

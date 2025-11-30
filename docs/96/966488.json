@@ -1,0 +1,25 @@
+{
+  "id": 966488,
+  "title": "All to Play For",
+  "original_title": "Rien \u00e0 perdre",
+  "release_date": "2023-11-21",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

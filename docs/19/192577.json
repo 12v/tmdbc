@@ -1,0 +1,29 @@
+{
+  "id": 192577,
+  "title": "Space Pirate Captain Harlock",
+  "original_title": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30cf\u30fc\u30ed\u30c3\u30af",
+  "release_date": "2013-09-07",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

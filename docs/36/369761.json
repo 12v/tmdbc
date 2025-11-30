@@ -1,0 +1,27 @@
+{
+  "id": 369761,
+  "title": "There's a Man in the Woods",
+  "original_title": "There's a Man in the Woods",
+  "release_date": "2014-04-21",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

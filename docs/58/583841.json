@@ -1,0 +1,29 @@
+{
+  "id": 583841,
+  "title": "Truth and Justice",
+  "original_title": "T\u00f5de ja \u00f5igus",
+  "release_date": "2019-02-22",
+  "status": "Released",
+  "runtime": 165,
+  "original_language": "et",
+  "spoken_languages": [
+    {
+      "english_name": "Estonian",
+      "iso_639_1": "et",
+      "name": "Eesti"
+    }
+  ],
+  "origin_country": [
+    "EE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

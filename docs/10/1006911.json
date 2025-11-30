@@ -1,0 +1,29 @@
+{
+  "id": 1006911,
+  "title": "Make Me Believe",
+  "original_title": "Sen \u0130nand\u0131r",
+  "release_date": "2023-06-23",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

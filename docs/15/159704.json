@@ -1,0 +1,37 @@
+{
+  "id": 159704,
+  "title": "The Cave of the Golden Rose",
+  "original_title": "Fantaghir\u00f2",
+  "release_date": "1991-12-22",
+  "status": "Released",
+  "runtime": 200,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

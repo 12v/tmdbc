@@ -1,0 +1,25 @@
+{
+  "id": 31605,
+  "title": "The Last American Hero",
+  "original_title": "The Last American Hero",
+  "release_date": "1973-07-27",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

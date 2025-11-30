@@ -1,0 +1,33 @@
+{
+  "id": 29871,
+  "title": "Santo vs. the Vampire Women",
+  "original_title": "Santo vs. las mujeres vampiro",
+  "release_date": "1962-10-11",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

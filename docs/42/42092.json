@@ -1,0 +1,30 @@
+{
+  "id": 42092,
+  "title": "The Home and the World",
+  "original_title": "\u0998\u09b0\u09c7 \u09ac\u09be\u0987\u09b0\u09c7",
+  "release_date": "1985-01-04",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

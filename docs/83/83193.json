@@ -1,0 +1,33 @@
+{
+  "id": 83193,
+  "title": "Lokis: A Manuscript of Professor Wittembach",
+  "original_title": "Lokis: R\u0119kopis profesora Wittembacha",
+  "release_date": "1970-09-25",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

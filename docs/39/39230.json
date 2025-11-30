@@ -1,0 +1,33 @@
+{
+  "id": 39230,
+  "title": "Mobile Suit Gundam III: Encounters in Space",
+  "original_title": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 III \u3081\u3050\u308a\u3042\u3044\u5b87\u5b99\u7de8",
+  "release_date": "1982-03-13",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 43338,
+  "title": "Illusion Travels by Streetcar",
+  "original_title": "La ilusi\u00f3n viaja en tranv\u00eda",
+  "release_date": "1954-03-10",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

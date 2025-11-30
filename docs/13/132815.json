@@ -1,0 +1,29 @@
+{
+  "id": 132815,
+  "title": "She-Wolf",
+  "original_title": "Wilczyca",
+  "release_date": "1983-04-11",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

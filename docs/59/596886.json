@@ -1,0 +1,29 @@
+{
+  "id": 596886,
+  "title": "Please Speak Continuously and Describe Your Experiences as They Come to You",
+  "original_title": "Please Speak Continuously and Describe Your Experiences as They Come to You",
+  "release_date": "2019-05-16",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

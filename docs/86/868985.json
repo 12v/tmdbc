@@ -1,0 +1,29 @@
+{
+  "id": 868985,
+  "title": "\u00a1Que viva M\u00e9xico!",
+  "original_title": "\u00a1Que viva M\u00e9xico!",
+  "release_date": "2023-03-23",
+  "status": "Released",
+  "runtime": 192,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

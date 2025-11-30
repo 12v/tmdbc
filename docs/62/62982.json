@@ -1,0 +1,29 @@
+{
+  "id": 62982,
+  "title": "The Parson's Widow",
+  "original_title": "Pr\u00e4st\u00e4nkan",
+  "release_date": "1920-10-04",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

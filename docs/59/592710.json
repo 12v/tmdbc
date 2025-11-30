@@ -1,0 +1,31 @@
+{
+  "id": 592710,
+  "title": "Nomad: In the Footsteps of Bruce Chatwin",
+  "original_title": "Nomad: In the Footsteps of Bruce Chatwin",
+  "release_date": "2019-04-28",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

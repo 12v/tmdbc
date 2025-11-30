@@ -1,0 +1,29 @@
+{
+  "id": 163924,
+  "title": "Invasion",
+  "original_title": "Invasi\u00f3n",
+  "release_date": "1969-10-16",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

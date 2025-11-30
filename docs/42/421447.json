@@ -1,0 +1,48 @@
+{
+  "id": 421447,
+  "title": "The Climb",
+  "original_title": "L'Ascension",
+  "release_date": "2017-01-25",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Nepali",
+      "iso_639_1": "ne",
+      "name": ""
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 57084,
+  "title": "Satanic Pandemonium",
+  "original_title": "Sat\u00e1nico pandemonium: la sexorcista",
+  "release_date": "1975-06-26",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

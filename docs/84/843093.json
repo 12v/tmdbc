@@ -1,0 +1,42 @@
+{
+  "id": 843093,
+  "title": "More Than Ever",
+  "original_title": "Plus que jamais",
+  "release_date": "2022-11-16",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "NO",
+    "FR",
+    "LU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

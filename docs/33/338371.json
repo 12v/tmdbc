@@ -1,0 +1,29 @@
+{
+  "id": 338371,
+  "title": "Afternoon Breezes",
+  "original_title": "\u98a8\u305f\u3061\u306e\u5348\u5f8c",
+  "release_date": "1980-12-11",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

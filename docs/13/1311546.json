@@ -1,0 +1,30 @@
+{
+  "id": 1311546,
+  "title": "Paris 2024 Olympic Opening Ceremony",
+  "original_title": "C\u00e9r\u00e9monie d'ouverture des Jeux Olympiques de Paris 2024",
+  "release_date": "2024-07-26",
+  "status": "Released",
+  "runtime": 239,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

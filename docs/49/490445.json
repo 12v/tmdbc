@@ -1,0 +1,25 @@
+{
+  "id": 490445,
+  "title": "Dumped",
+  "original_title": "Largu\u00e9es",
+  "release_date": "2018-04-18",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

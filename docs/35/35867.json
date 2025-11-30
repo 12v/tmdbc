@@ -1,0 +1,29 @@
+{
+  "id": 35867,
+  "title": "Days and Nights in the Forest",
+  "original_title": "\u0985\u09b0\u09a3\u09cd\u09af\u09c7\u09b0 \u09a6\u09bf\u09a8\u09b0\u09be\u09a4\u09cd\u09b0\u09bf",
+  "release_date": "1970-01-16",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

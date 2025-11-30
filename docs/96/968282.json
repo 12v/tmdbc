@@ -1,0 +1,25 @@
+{
+  "id": 968282,
+  "title": "The Potemkinists",
+  "original_title": "Potemkinistii",
+  "release_date": "2022-05-25",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

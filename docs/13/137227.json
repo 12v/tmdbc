@@ -1,0 +1,37 @@
+{
+  "id": 137227,
+  "title": "Doraemon: Nobita and the New Steel Troops: Winged Angels",
+  "original_title": "\u6620\u753b\u30c9\u30e9\u3048\u3082\u3093 \u65b0\u30fb\u306e\u3073\u592a\u3068\u9244\u4eba\u5175\u56e3 \uff5e\u306f\u3070\u305f\u3051 \u5929\u4f7f\u305f\u3061\uff5e",
+  "release_date": "2011-03-05",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

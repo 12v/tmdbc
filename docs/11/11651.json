@@ -1,0 +1,37 @@
+{
+  "id": 11651,
+  "title": "Hui Buh: The Castle Ghost",
+  "original_title": "Hui Buh, das Schlossgespenst",
+  "release_date": "2006-07-20",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

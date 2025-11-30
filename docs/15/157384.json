@@ -1,0 +1,31 @@
+{
+  "id": 157384,
+  "title": "Mother of George",
+  "original_title": "Mother of George",
+  "release_date": "2013-08-26",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Yoruba",
+      "iso_639_1": "yo",
+      "name": "\u00c8d\u00e8 Yor\u00f9b\u00e1"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "NG",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

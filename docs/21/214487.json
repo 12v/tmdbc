@@ -1,0 +1,29 @@
+{
+  "id": 214487,
+  "title": "The Romance of Aniceto and Francisca",
+  "original_title": "Este es el romance del Aniceto y la Francisca, de c\u00f3mo qued\u00f3 trunco, comenz\u00f3 la tristeza y unas pocas cosas m\u00e1s\u2026",
+  "release_date": "1967-06-01",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

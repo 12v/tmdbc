@@ -1,0 +1,29 @@
+{
+  "id": 11376,
+  "title": "The Pool",
+  "original_title": "Swimming Pool - Der Tod feiert mit",
+  "release_date": "2001-10-04",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

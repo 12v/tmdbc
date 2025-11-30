@@ -1,0 +1,26 @@
+{
+  "id": 390053,
+  "title": "Crash Pad",
+  "original_title": "Crash Pad",
+  "release_date": "2017-10-27",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

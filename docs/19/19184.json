@@ -1,0 +1,25 @@
+{
+  "id": 19184,
+  "title": "The Last Battle",
+  "original_title": "Le Dernier Combat",
+  "release_date": "1983-04-06",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

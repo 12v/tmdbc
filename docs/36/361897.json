@@ -1,0 +1,25 @@
+{
+  "id": 361897,
+  "title": "Nausea",
+  "original_title": "Bulant\u0131",
+  "release_date": "2015-10-02",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

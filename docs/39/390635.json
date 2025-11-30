@@ -1,0 +1,41 @@
+{
+  "id": 390635,
+  "title": "Fate/stay night: Heaven's Feel III. Spring Song",
+  "original_title": "\u5287\u5834\u7248\u300cFate/stay night [Heaven\u2019s Feel]\u300d\u2162.spring song",
+  "release_date": "2020-08-15",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 121960,
+  "title": "A Slightly Pregnant Man",
+  "original_title": "L'\u00c9v\u00e9nement le plus important depuis que l'homme a march\u00e9 sur la lune",
+  "release_date": "1973-09-20",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

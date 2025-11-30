@@ -1,0 +1,30 @@
+{
+  "id": 764541,
+  "title": "River of Desire",
+  "original_title": "O Rio do Desejo",
+  "release_date": "2023-03-23",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

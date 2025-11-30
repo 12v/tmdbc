@@ -1,0 +1,41 @@
+{
+  "id": 26840,
+  "title": "Shrek in the Swamp Karaoke Dance Party",
+  "original_title": "Shrek in the Swamp Karaoke Dance Party",
+  "release_date": "2001-11-02",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

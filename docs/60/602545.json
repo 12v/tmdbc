@@ -1,0 +1,29 @@
+{
+  "id": 602545,
+  "title": "Into the Labyrinth",
+  "original_title": "L'uomo del labirinto",
+  "release_date": "2019-10-30",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

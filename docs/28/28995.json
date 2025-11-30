@@ -1,0 +1,33 @@
+{
+  "id": 28995,
+  "title": "Wild Chicks in Love",
+  "original_title": "Die Wilden H\u00fchner und die Liebe",
+  "release_date": "2007-04-05",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
