@@ -1,0 +1,39 @@
+{
+  "id": 59230,
+  "title": "Lucky Luciano",
+  "original_title": "Lucky Luciano",
+  "release_date": "1973-10-19",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

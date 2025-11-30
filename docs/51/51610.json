@@ -1,0 +1,33 @@
+{
+  "id": 51610,
+  "title": "The Wild Soccer Bunch 5",
+  "original_title": "Die Wilden Kerle 5",
+  "release_date": "2008-02-20",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

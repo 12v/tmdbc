@@ -1,0 +1,33 @@
+{
+  "id": 698840,
+  "title": "My Blood and Bones in a Flowing Galaxy",
+  "original_title": "\u7815\u3051\u6563\u308b\u3068\u3053\u308d\u3092\u898b\u305b\u3066\u3042\u3052\u308b",
+  "release_date": "2021-04-09",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

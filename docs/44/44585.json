@@ -1,0 +1,29 @@
+{
+  "id": 44585,
+  "title": "Attack of the Puppet People",
+  "original_title": "Attack of the Puppet People",
+  "release_date": "1958-04-01",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}
