@@ -1,17 +1,12 @@
 {
-  "id": 46770,
-  "title": "The South",
-  "original_title": "Sur",
-  "release_date": "1988-03-05",
+  "id": 664572,
+  "title": "Los Conductos",
+  "original_title": "Los conductos",
+  "release_date": "2020-02-22",
   "status": "Released",
-  "runtime": 127,
+  "runtime": 70,
   "original_language": "es",
   "spoken_languages": [
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
     {
       "english_name": "Spanish",
       "iso_639_1": "es",
@@ -19,16 +14,13 @@
     }
   ],
   "origin_country": [
-    "AR"
+    "BR",
+    "ES"
   ],
   "genres": [
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 10402,
-      "name": "Music"
     }
   ]
 }

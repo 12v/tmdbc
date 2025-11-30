@@ -1,17 +1,12 @@
 {
-  "id": 52710,
-  "title": "Detective",
-  "original_title": "D\u00e9tective",
-  "release_date": "1985-08-23",
+  "id": 958736,
+  "title": "The Mountain",
+  "original_title": "La Montagne",
+  "release_date": "2023-02-01",
   "status": "Released",
-  "runtime": 95,
+  "runtime": 115,
   "original_language": "fr",
   "spoken_languages": [
-    {
-      "english_name": "Italian",
-      "iso_639_1": "it",
-      "name": "Italiano"
-    },
     {
       "english_name": "French",
       "iso_639_1": "fr",
@@ -24,21 +19,16 @@
     }
   ],
   "origin_country": [
-    "FR",
-    "CH"
+    "FR"
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
-    },
-    {
-      "id": 80,
-      "name": "Crime"
-    },
-    {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
     }
   ]
 }

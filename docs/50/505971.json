@@ -1,0 +1,33 @@
+{
+  "id": 505971,
+  "title": "Thadam",
+  "original_title": "\u0ba4\u0b9f\u0bae\u0bcd",
+  "release_date": "2019-03-01",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

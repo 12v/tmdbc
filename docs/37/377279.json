@@ -1,34 +1,31 @@
 {
-  "id": 46770,
-  "title": "The South",
-  "original_title": "Sur",
-  "release_date": "1988-03-05",
+  "id": 377279,
+  "title": "Hermia & Helena",
+  "original_title": "Hermia & Helena",
+  "release_date": "2016-09-09",
   "status": "Released",
-  "runtime": 127,
+  "runtime": 87,
   "original_language": "es",
   "spoken_languages": [
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
     {
       "english_name": "Spanish",
       "iso_639_1": "es",
       "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
+    "US",
     "AR"
   ],
   "genres": [
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 10402,
-      "name": "Music"
     }
   ]
 }

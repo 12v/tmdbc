@@ -1,19 +1,25 @@
 {
-  "id": 18174,
-  "title": "An Inspector Calls",
-  "original_title": "An Inspector Calls",
-  "release_date": "1954-03-16",
+  "id": 37342,
+  "title": "Maniac",
+  "original_title": "Maniac",
+  "release_date": "1963-05-20",
   "status": "Released",
-  "runtime": 80,
+  "runtime": 86,
   "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
+    "US",
     "GB"
   ],
   "genres": [
@@ -22,12 +28,16 @@
       "name": "Crime"
     },
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
       "id": 9648,
       "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }

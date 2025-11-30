@@ -1,8 +1,8 @@
 {
-  "id": 497814,
-  "title": "Breaking In",
-  "original_title": "Breaking In",
-  "release_date": "2018-05-05",
+  "id": 47178,
+  "title": "Aloha Bobby and Rose",
+  "original_title": "Aloha Bobby and Rose",
+  "release_date": "1975-04-29",
   "status": "Released",
   "runtime": 88,
   "original_language": "en",
@@ -18,16 +18,16 @@
   ],
   "genres": [
     {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
       "id": 28,
       "name": "Action"
-    },
-    {
-      "id": 80,
-      "name": "Crime"
-    },
-    {
-      "id": 53,
-      "name": "Thriller"
     }
   ]
 }

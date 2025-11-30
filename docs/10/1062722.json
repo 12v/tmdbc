@@ -32,12 +32,12 @@
       "name": "Drama"
     },
     {
-      "id": 27,
-      "name": "Horror"
-    },
-    {
       "id": 14,
       "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
     }
   ]
 }

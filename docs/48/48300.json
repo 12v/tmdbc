@@ -1,0 +1,29 @@
+{
+  "id": 48300,
+  "title": "Return of the One-Armed Swordsman",
+  "original_title": "\u7368\u81c2\u5200\u738b",
+  "release_date": "1969-02-28",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

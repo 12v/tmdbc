@@ -1,16 +1,21 @@
 {
-  "id": 396774,
-  "title": "Bomb City",
-  "original_title": "Bomb City",
-  "release_date": "2017-03-31",
+  "id": 1882,
+  "title": "The Men",
+  "original_title": "The Men",
+  "release_date": "1950-08-25",
   "status": "Released",
-  "runtime": 98,
+  "runtime": 85,
   "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
@@ -20,10 +25,6 @@
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 80,
-      "name": "Crime"
     }
   ]
 }

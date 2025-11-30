@@ -1,0 +1,25 @@
+{
+  "id": 42287,
+  "title": "Once Upon a Time in China V",
+  "original_title": "\u9ec3\u98db\u9d3b\u4e4b\u4e94\u9f8d\u57ce\u6bb2\u9738",
+  "release_date": "1994-06-18",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}
