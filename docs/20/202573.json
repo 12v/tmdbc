@@ -1,0 +1,25 @@
+{
+  "id": 202573,
+  "title": "The Reunion",
+  "original_title": "\u00c5tertr\u00e4ffen",
+  "release_date": "2013-11-15",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 182651,
+  "title": "Panelstory or Birth of a Community",
+  "original_title": "Panelstory aneb Jak se rod\u00ed s\u00eddli\u0161t\u011b",
+  "release_date": "1981-12-25",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

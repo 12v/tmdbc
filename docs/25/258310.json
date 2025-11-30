@@ -1,0 +1,29 @@
+{
+  "id": 258310,
+  "title": "Boss Wants a Happy Ending",
+  "original_title": "Patron Mutlu Son \u0130stiyor",
+  "release_date": "2014-01-01",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 49273,
+  "title": "The Melomaniac",
+  "original_title": "Le M\u00e9lomane",
+  "release_date": "1903-05-18",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

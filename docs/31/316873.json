@@ -1,0 +1,37 @@
+{
+  "id": 316873,
+  "title": "Detective Conan: Sunflowers of Inferno",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u696d\u706b\u306e\u5411\u65e5\u8475",
+  "release_date": "2015-04-18",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

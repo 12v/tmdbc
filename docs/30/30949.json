@@ -1,10 +1,10 @@
 {
-  "id": 642885,
-  "title": "Hocus Pocus 2",
-  "original_title": "Hocus Pocus 2",
-  "release_date": "2022-09-27",
+  "id": 30949,
+  "title": "Palmetto",
+  "original_title": "Palmetto",
+  "release_date": "1998-02-20",
   "status": "Released",
-  "runtime": 104,
+  "runtime": 114,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,20 +14,21 @@
     }
   ],
   "origin_country": [
+    "DE",
     "US"
   ],
   "genres": [
     {
-      "id": 14,
-      "name": "Fantasy"
+      "id": 80,
+      "name": "Crime"
     },
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 9648,
+      "name": "Mystery"
     },
     {
-      "id": 10751,
-      "name": "Family"
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }

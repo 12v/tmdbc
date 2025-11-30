@@ -1,10 +1,10 @@
 {
-  "id": 463272,
-  "title": "Johnny English Strikes Again",
-  "original_title": "Johnny English Strikes Again",
-  "release_date": "2018-09-13",
+  "id": 49160,
+  "title": "The Time Travelers",
+  "original_title": "The Time Travelers",
+  "release_date": "1964-10-29",
   "status": "Released",
-  "runtime": 88,
+  "runtime": 82,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,20 +14,20 @@
     }
   ],
   "origin_country": [
-    "GB"
+    "US"
   ],
   "genres": [
     {
-      "id": 28,
-      "name": "Action"
+      "id": 878,
+      "name": "Science Fiction"
     },
     {
       "id": 12,
       "name": "Adventure"
     },
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

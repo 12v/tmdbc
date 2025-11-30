@@ -1,0 +1,30 @@
+{
+  "id": 95448,
+  "title": "The Minister",
+  "original_title": "L'Exercice de l'\u00c9tat",
+  "release_date": "2011-10-26",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

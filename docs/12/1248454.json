@@ -1,0 +1,29 @@
+{
+  "id": 1248454,
+  "title": "Sunny Sanskari Ki Tulsi Kumari",
+  "original_title": "\u0938\u0928\u094d\u0928\u0940 \u0938\u0902\u0938\u094d\u0915\u093e\u0930\u0940 \u0915\u0940 \u0924\u0941\u0932\u0938\u0940 \u0915\u0941\u092e\u093e\u0930\u0940",
+  "release_date": "2025-10-02",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
