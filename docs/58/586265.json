@@ -1,0 +1,30 @@
+{
+  "id": 586265,
+  "title": "The Devil's Mark",
+  "original_title": "La marca del demonio",
+  "release_date": "2020-01-03",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

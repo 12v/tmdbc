@@ -1,0 +1,33 @@
+{
+  "id": 34825,
+  "title": "Ang Tanging Ina",
+  "original_title": "Ang Tanging Ina",
+  "release_date": "2003-05-28",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

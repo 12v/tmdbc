@@ -1,0 +1,30 @@
+{
+  "id": 653753,
+  "title": "The Earth Is Blue as an Orange",
+  "original_title": "\u0417\u0435\u043c\u043b\u044f \u0431\u043b\u0430\u043a\u0438\u0442\u043d\u0430, \u043d\u0456\u0431\u0438 \u0430\u043f\u0435\u043b\u044c\u0441\u0438\u043d",
+  "release_date": "2020-11-26",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "uk",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "UA"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

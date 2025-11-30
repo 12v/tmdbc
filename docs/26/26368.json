@@ -1,0 +1,33 @@
+{
+  "id": 26368,
+  "title": "Spring and Chaos",
+  "original_title": "\u30a4\u30fc\u30cf\u30c8\u30fc\u30d6\u5e7b\u60f3 Kenji\u306e\u6625",
+  "release_date": "1996-12-14",
+  "status": "Released",
+  "runtime": 56,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

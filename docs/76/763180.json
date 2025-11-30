@@ -1,0 +1,25 @@
+{
+  "id": 763180,
+  "title": "Splinters",
+  "original_title": "Esquirlas",
+  "release_date": "2020-11-23",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 146582,
+  "title": "Naduvula Konjam Pakkatha Kaanom",
+  "original_title": "\u0ba8\u0b9f\u0bc1\u0bb5\u0bc1\u0bb2 \u0b95\u0bca\u0b9e\u0bcd\u0b9a\u0bae\u0bcd \u0baa\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b95\u0bbe\u0ba3\u0bcb\u0bae\u0bcd",
+  "release_date": "2012-11-30",
+  "status": "Released",
+  "runtime": 161,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

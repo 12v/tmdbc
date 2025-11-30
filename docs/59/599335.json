@@ -1,0 +1,29 @@
+{
+  "id": 599335,
+  "title": "Okay! Madam",
+  "original_title": "\uc624\ucf00\uc774 \ub9c8\ub2f4",
+  "release_date": "2020-08-12",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

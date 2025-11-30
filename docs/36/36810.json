@@ -1,0 +1,33 @@
+{
+  "id": 36810,
+  "title": "Pushpaka Vimana",
+  "original_title": "\u0caa\u0cc1\u0cb7\u0ccd\u0caa\u0c95 \u0cb5\u0cbf\u0cae\u0cbe\u0ca8",
+  "release_date": "1987-11-17",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "kn",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}
