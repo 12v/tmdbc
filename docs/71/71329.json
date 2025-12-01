@@ -8,14 +8,14 @@
   "original_language": "bm",
   "spoken_languages": [
     {
-      "english_name": "Bambara",
-      "iso_639_1": "bm",
-      "name": "Bamanankan"
-    },
-    {
       "english_name": "Fulah",
       "iso_639_1": "ff",
       "name": "Fulfulde"
+    },
+    {
+      "english_name": "Bambara",
+      "iso_639_1": "bm",
+      "name": "Bamanankan"
     }
   ],
   "origin_country": [
