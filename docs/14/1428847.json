@@ -1,21 +1,16 @@
 {
-  "id": 836485,
-  "title": "Jane by Charlotte",
-  "original_title": "Jane par Charlotte",
-  "release_date": "2022-01-12",
+  "id": 1428847,
+  "title": "F*ckin' Fred : Comme un L\u00e9opard",
+  "original_title": "F*ckin' Fred : Comme un L\u00e9opard",
+  "release_date": "2025-02-27",
   "status": "Released",
-  "runtime": 92,
+  "runtime": 65,
   "original_language": "fr",
   "spoken_languages": [
     {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
     }
   ],
   "origin_country": [
@@ -23,8 +18,16 @@
   ],
   "genres": [
     {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
       "id": 99,
       "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "id": 199194,
+  "title": "The House of the Angel",
+  "original_title": "La casa del \u00e1ngel",
+  "release_date": "1957-06-25",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

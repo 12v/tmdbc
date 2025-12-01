@@ -1,0 +1,32 @@
+{
+  "id": 561318,
+  "title": "Santiago, Italia",
+  "original_title": "Santiago, Italia",
+  "release_date": "2018-12-06",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "CL",
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

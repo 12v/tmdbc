@@ -1,0 +1,25 @@
+{
+  "id": 63064,
+  "title": "Buddha Mountain",
+  "original_title": "\u89c2\u97f3\u5c71",
+  "release_date": "2011-03-03",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

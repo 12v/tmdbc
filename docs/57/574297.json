@@ -1,0 +1,25 @@
+{
+  "id": 574297,
+  "title": "Birthday",
+  "original_title": "\uc0dd\uc77c",
+  "release_date": "2019-04-03",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

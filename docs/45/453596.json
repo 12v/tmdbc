@@ -1,0 +1,25 @@
+{
+  "id": 453596,
+  "title": "Overnight Republic",
+  "original_title": "Kolonya Cumhuriyeti",
+  "release_date": "2017-04-20",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

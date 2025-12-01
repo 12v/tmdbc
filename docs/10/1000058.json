@@ -1,10 +1,10 @@
 {
-  "id": 786977,
-  "title": "The Origin of Evil",
-  "original_title": "L'Origine du mal",
-  "release_date": "2022-10-05",
+  "id": 1000058,
+  "title": "Homecoming",
+  "original_title": "Le retour",
+  "release_date": "2023-07-12",
   "status": "Released",
-  "runtime": 123,
+  "runtime": 110,
   "original_language": "fr",
   "spoken_languages": [
     {
@@ -14,14 +14,9 @@
     }
   ],
   "origin_country": [
-    "CA",
     "FR"
   ],
   "genres": [
-    {
-      "id": 53,
-      "name": "Thriller"
-    },
     {
       "id": 18,
       "name": "Drama"

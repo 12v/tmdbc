@@ -1,0 +1,29 @@
+{
+  "id": 566466,
+  "title": "Laid-Back Camp the Movie",
+  "original_title": "\u6620\u753b \u3086\u308b\u30ad\u30e3\u30f3\u25b3",
+  "release_date": "2022-07-01",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

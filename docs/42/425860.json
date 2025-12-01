@@ -1,0 +1,29 @@
+{
+  "id": 425860,
+  "title": "Baka Bukas",
+  "original_title": "Baka Bukas",
+  "release_date": "2016-11-16",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

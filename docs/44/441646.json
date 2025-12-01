@@ -1,0 +1,31 @@
+{
+  "id": 441646,
+  "title": "In Syria",
+  "original_title": "In syriated",
+  "release_date": "2017-06-22",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR",
+    "LB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

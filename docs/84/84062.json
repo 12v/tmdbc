@@ -1,10 +1,10 @@
 {
-  "id": 1260649,
-  "title": "Jumanji 3",
-  "original_title": "Jumanji 3",
-  "release_date": "2026-12-09",
-  "status": "In Production",
-  "runtime": 0,
+  "id": 84062,
+  "title": "Darktown Strutters",
+  "original_title": "Darktown Strutters",
+  "release_date": "1975-10-07",
+  "status": "Released",
+  "runtime": 90,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,12 +18,8 @@
   ],
   "genres": [
     {
-      "id": 14,
-      "name": "Fantasy"
-    },
-    {
-      "id": 12,
-      "name": "Adventure"
+      "id": 28,
+      "name": "Action"
     },
     {
       "id": 35,
