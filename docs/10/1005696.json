@@ -1,0 +1,25 @@
+{
+  "id": 1005696,
+  "title": "Wolf and Dog",
+  "original_title": "Lobo e C\u00e3o",
+  "release_date": "2022-12-08",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

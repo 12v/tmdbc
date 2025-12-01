@@ -1,10 +1,10 @@
 {
-  "id": 1128719,
-  "title": "Unknown: Cosmic Time Machine",
-  "original_title": "Unknown: Cosmic Time Machine",
-  "release_date": "2023-07-23",
+  "id": 28437,
+  "title": "The Black Sleep",
+  "original_title": "The Black Sleep",
+  "release_date": "1956-06-15",
   "status": "Released",
-  "runtime": 64,
+  "runtime": 82,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,12 @@
   ],
   "genres": [
     {
-      "id": 99,
-      "name": "Documentary"
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
     }
   ]
 }

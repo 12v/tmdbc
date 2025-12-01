@@ -1,10 +1,10 @@
 {
-  "id": 582913,
-  "title": "The Room",
-  "original_title": "The Room",
-  "release_date": "2019-09-12",
+  "id": 14689,
+  "title": "Hawaii",
+  "original_title": "Hawaii",
+  "release_date": "1966-10-10",
   "status": "Released",
-  "runtime": 99,
+  "runtime": 189,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,26 +14,24 @@
     }
   ],
   "origin_country": [
-    "BE",
-    "FR",
-    "LU"
+    "US"
   ],
   "genres": [
-    {
-      "id": 27,
-      "name": "Horror"
-    },
     {
       "id": 18,
       "name": "Drama"
     },
     {
-      "id": 9648,
-      "name": "Mystery"
+      "id": 12,
+      "name": "Adventure"
     },
     {
-      "id": 878,
-      "name": "Science Fiction"
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
     }
   ]
 }

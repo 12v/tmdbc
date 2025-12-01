@@ -1,0 +1,27 @@
+{
+  "id": 224746,
+  "title": "Bekas",
+  "original_title": "Bekas",
+  "release_date": "2012-11-30",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ku",
+  "spoken_languages": [
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "FI",
+    "IQ",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

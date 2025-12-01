@@ -1,21 +1,16 @@
 {
-  "id": 42631,
-  "title": "Partner",
-  "original_title": "Partner",
-  "release_date": "1968-10-25",
+  "id": 520736,
+  "title": "Loro 2",
+  "original_title": "Loro 2",
+  "release_date": "2018-05-10",
   "status": "Released",
-  "runtime": 105,
+  "runtime": 100,
   "original_language": "it",
   "spoken_languages": [
     {
       "english_name": "Italian",
       "iso_639_1": "it",
       "name": "Italiano"
-    },
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [

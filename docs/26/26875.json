@@ -1,0 +1,29 @@
+{
+  "id": 26875,
+  "title": "The Magic Blade",
+  "original_title": "\u5929\u6daf\u660e\u6708\u5200",
+  "release_date": "1976-07-10",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

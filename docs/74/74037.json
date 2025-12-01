@@ -1,0 +1,37 @@
+{
+  "id": 74037,
+  "title": "Nezha Conquers the Dragon King",
+  "original_title": "\u54ea\u5412\u95f9\u6d77",
+  "release_date": "1979-05-19",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

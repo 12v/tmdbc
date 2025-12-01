@@ -1,10 +1,10 @@
 {
-  "id": 1128719,
-  "title": "Unknown: Cosmic Time Machine",
-  "original_title": "Unknown: Cosmic Time Machine",
-  "release_date": "2023-07-23",
+  "id": 29399,
+  "title": "Shanks",
+  "original_title": "Shanks",
+  "release_date": "1974-10-09",
   "status": "Released",
-  "runtime": 64,
+  "runtime": 93,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,12 @@
   ],
   "genres": [
     {
-      "id": 99,
-      "name": "Documentary"
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
     }
   ]
 }

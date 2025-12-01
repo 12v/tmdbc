@@ -1,0 +1,25 @@
+{
+  "id": 122126,
+  "title": "The Concubine",
+  "original_title": "\ud6c4\uad81: \uc81c\uc655\uc758 \ucca9",
+  "release_date": "2012-06-06",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
