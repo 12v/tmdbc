@@ -1,0 +1,37 @@
+{
+  "id": 1361184,
+  "title": "Dragon Ball DAIMA",
+  "original_title": "Dragon Ball DAIMA",
+  "release_date": "2024-11-10",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

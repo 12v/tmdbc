@@ -1,0 +1,29 @@
+{
+  "id": 554733,
+  "title": "Newly Rich",
+  "original_title": "Orang Kaya Baru",
+  "release_date": "2019-01-24",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "id": 1247606,
-  "title": "The Beatles: Ringo",
-  "original_title": "The Beatles: Ringo",
-  "release_date": "",
-  "status": "In Production",
-  "runtime": 0,
+  "id": 829503,
+  "title": "Gigi & Nate",
+  "original_title": "Gigi & Nate",
+  "release_date": "2022-09-02",
+  "status": "Released",
+  "runtime": 114,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,16 +14,13 @@
     }
   ],
   "origin_country": [
-    "US"
+    "US",
+    "GB"
   ],
   "genres": [
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 10402,
-      "name": "Music"
     }
   ]
 }

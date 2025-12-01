@@ -1,10 +1,10 @@
 {
-  "id": 1588,
-  "title": "Bring It On",
-  "original_title": "Bring It On",
-  "release_date": "2000-08-25",
+  "id": 411135,
+  "title": "Future World",
+  "original_title": "Future World",
+  "release_date": "2018-05-25",
   "status": "Released",
-  "runtime": 99,
+  "runtime": 88,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,8 @@
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 878,
+      "name": "Science Fiction"
     }
   ]
 }

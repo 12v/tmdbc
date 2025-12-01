@@ -1,0 +1,25 @@
+{
+  "id": 84954,
+  "title": "Secrets of a Soul",
+  "original_title": "Geheimnisse einer Seele",
+  "release_date": "1926-03-24",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

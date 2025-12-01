@@ -1,10 +1,10 @@
 {
-  "id": 1247606,
-  "title": "The Beatles: Ringo",
-  "original_title": "The Beatles: Ringo",
-  "release_date": "",
-  "status": "In Production",
-  "runtime": 0,
+  "id": 773709,
+  "title": "A Recipe for Seduction",
+  "original_title": "A Recipe for Seduction",
+  "release_date": "2020-12-13",
+  "status": "Released",
+  "runtime": 16,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,12 +18,16 @@
   ],
   "genres": [
     {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
       "id": 18,
       "name": "Drama"
     },
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 10770,
+      "name": "TV Movie"
     }
   ]
 }

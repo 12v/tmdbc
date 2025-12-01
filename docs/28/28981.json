@@ -1,10 +1,10 @@
 {
-  "id": 1588,
-  "title": "Bring It On",
-  "original_title": "Bring It On",
-  "release_date": "2000-08-25",
+  "id": 28981,
+  "title": "Escape to Athena",
+  "original_title": "Escape to Athena",
+  "release_date": "1979-05-21",
   "status": "Released",
-  "runtime": 99,
+  "runtime": 125,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,12 +14,21 @@
     }
   ],
   "origin_country": [
-    "US"
+    "US",
+    "GB"
   ],
   "genres": [
     {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
       "id": 35,
       "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
     }
   ]
 }
