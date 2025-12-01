@@ -8,9 +8,9 @@
   "original_language": "nl",
   "spoken_languages": [
     {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
     },
     {
       "english_name": "English",
@@ -18,12 +18,15 @@
       "name": "English"
     },
     {
-      "english_name": "Dutch",
-      "iso_639_1": "nl",
-      "name": "Nederlands"
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
     }
   ],
-  "origin_country": [],
+  "origin_country": [
+    "BE",
+    "NL"
+  ],
   "genres": [
     {
       "id": 18,

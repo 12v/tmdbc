@@ -1,0 +1,30 @@
+{
+  "id": 767896,
+  "title": "The Claus Family",
+  "original_title": "De Familie Claus",
+  "release_date": "2020-12-07",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

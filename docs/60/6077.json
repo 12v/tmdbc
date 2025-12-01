@@ -13,14 +13,14 @@
       "name": "Deutsch"
     },
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
       "english_name": "Georgian",
       "iso_639_1": "ka",
       "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [

@@ -13,14 +13,14 @@
       "name": "\u09ac\u09be\u0982\u09b2\u09be"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Sanskrit",
       "iso_639_1": "sa",
       "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [

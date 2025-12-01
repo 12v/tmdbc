@@ -8,14 +8,14 @@
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "Danish",
-      "iso_639_1": "da",
-      "name": "Dansk"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
     },
     {
       "english_name": "Finnish",
