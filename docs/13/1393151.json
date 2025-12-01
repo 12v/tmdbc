@@ -5,7 +5,7 @@
   "release_date": "2025-06-06",
   "status": "Released",
   "runtime": 90,
-  "original_language": "da",
+  "original_language": "ru",
   "spoken_languages": [
     {
       "english_name": "English",
@@ -19,8 +19,9 @@
     }
   ],
   "origin_country": [
+    "CZ",
     "DK",
-    "CZ"
+    "DE"
   ],
   "genres": [
     {
