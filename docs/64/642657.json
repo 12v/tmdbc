@@ -1,0 +1,29 @@
+{
+  "id": 642657,
+  "title": "Milea",
+  "original_title": "Milea: Suara dari Dilan",
+  "release_date": "2020-02-13",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

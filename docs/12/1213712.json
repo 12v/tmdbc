@@ -1,0 +1,25 @@
+{
+  "id": 1213712,
+  "title": "Vicky Vidya Ka Woh Wala Video",
+  "original_title": "\u0935\u093f\u0915\u094d\u0915\u0940 \u0935\u093f\u0926\u094d\u092f\u093e \u0915\u093e \u0935\u094b \u0935\u093e\u0932\u093e \u0935\u0940\u0921\u093f\u092f\u094b",
+  "release_date": "2024-10-10",
+  "status": "Released",
+  "runtime": 152,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

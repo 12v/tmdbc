@@ -1,0 +1,33 @@
+{
+  "id": 136986,
+  "title": "Diamond Flash",
+  "original_title": "Diamond Flash",
+  "release_date": "2012-06-26",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

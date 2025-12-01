@@ -1,10 +1,10 @@
 {
-  "id": 18890,
-  "title": "We're Back! A Dinosaur's Story",
-  "original_title": "We're Back! A Dinosaur's Story",
-  "release_date": "1993-11-24",
+  "id": 1359227,
+  "title": "LEGO Marvel Avengers: Mission Demolition",
+  "original_title": "LEGO Marvel Avengers: Mission Demolition",
+  "release_date": "2024-10-17",
   "status": "Released",
-  "runtime": 71,
+  "runtime": 44,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -22,12 +22,12 @@
       "name": "Animation"
     },
     {
-      "id": 878,
-      "name": "Science Fiction"
+      "id": 35,
+      "name": "Comedy"
     },
     {
-      "id": 10751,
-      "name": "Family"
+      "id": 878,
+      "name": "Science Fiction"
     }
   ]
 }

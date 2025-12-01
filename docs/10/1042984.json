@@ -1,0 +1,29 @@
+{
+  "id": 1042984,
+  "title": "Christmas Full of Grace",
+  "original_title": "Um Natal Cheio de Gra\u00e7a",
+  "release_date": "2022-11-30",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

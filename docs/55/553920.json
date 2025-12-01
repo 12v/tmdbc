@@ -1,0 +1,29 @@
+{
+  "id": 553920,
+  "title": "Heaven's Waiting",
+  "original_title": "Hintayan ng Langit",
+  "release_date": "2018-11-21",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
