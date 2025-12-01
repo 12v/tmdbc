@@ -1,10 +1,10 @@
 {
-  "id": 586707,
-  "title": "Life Like",
-  "original_title": "Life Like",
-  "release_date": "2019-05-14",
+  "id": 80468,
+  "title": "Some Guy Who Kills People",
+  "original_title": "Some Guy Who Kills People",
+  "release_date": "2011-04-14",
   "status": "Released",
-  "runtime": 95,
+  "runtime": 97,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,12 +18,16 @@
   ],
   "genres": [
     {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
       "id": 53,
       "name": "Thriller"
     },
     {
-      "id": 878,
-      "name": "Science Fiction"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

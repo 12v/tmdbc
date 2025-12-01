@@ -1,0 +1,37 @@
+{
+  "id": 77617,
+  "title": "Detective Conan: Quarter of Silence",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u6c88\u9ed9\u306e15\u5206\uff08\u30af\u30a9\u30fc\u30bf\u30fc\uff09",
+  "release_date": "2011-04-16",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

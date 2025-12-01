@@ -1,17 +1,12 @@
 {
-  "id": 43466,
-  "title": "The Farmer's Daughter",
-  "original_title": "The Farmer's Daughter",
-  "release_date": "1947-03-26",
+  "id": 20927,
+  "title": "Bed of Roses",
+  "original_title": "Bed of Roses",
+  "release_date": "1996-01-26",
   "status": "Released",
-  "runtime": 97,
+  "runtime": 87,
   "original_language": "en",
   "spoken_languages": [
-    {
-      "english_name": "Swedish",
-      "iso_639_1": "sv",
-      "name": "svenska"
-    },
     {
       "english_name": "English",
       "iso_639_1": "en",
@@ -23,8 +18,8 @@
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 18,
+      "name": "Drama"
     },
     {
       "id": 10749,

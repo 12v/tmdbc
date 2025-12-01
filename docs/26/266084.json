@@ -1,10 +1,10 @@
 {
-  "id": 586707,
-  "title": "Life Like",
-  "original_title": "Life Like",
-  "release_date": "2019-05-14",
+  "id": 266084,
+  "title": "Queen & Country",
+  "original_title": "Queen & Country",
+  "release_date": "2014-09-14",
   "status": "Released",
-  "runtime": 95,
+  "runtime": 114,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,16 +14,12 @@
     }
   ],
   "origin_country": [
-    "US"
+    "GB"
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
-      "id": 878,
-      "name": "Science Fiction"
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

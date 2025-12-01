@@ -1,21 +1,21 @@
 {
-  "id": 1291659,
-  "title": "The Wizard of the Kremlin",
-  "original_title": "Le Mage du Kremlin",
-  "release_date": "2026-01-21",
+  "id": 471858,
+  "title": "Maya",
+  "original_title": "Maya",
+  "release_date": "2018-12-19",
   "status": "Released",
-  "runtime": 156,
+  "runtime": 107,
   "original_language": "fr",
   "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Russian",
-      "iso_639_1": "ru",
-      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
     }
   ],
   "origin_country": [

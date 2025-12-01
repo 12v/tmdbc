@@ -1,10 +1,10 @@
 {
-  "id": 586707,
-  "title": "Life Like",
-  "original_title": "Life Like",
-  "release_date": "2019-05-14",
+  "id": 1114738,
+  "title": "Boneyard",
+  "original_title": "Boneyard",
+  "release_date": "2024-07-05",
   "status": "Released",
-  "runtime": 95,
+  "runtime": 96,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -20,10 +20,6 @@
     {
       "id": 53,
       "name": "Thriller"
-    },
-    {
-      "id": 878,
-      "name": "Science Fiction"
     }
   ]
 }

@@ -1,17 +1,12 @@
 {
-  "id": 61564,
-  "title": "The Bravados",
-  "original_title": "The Bravados",
-  "release_date": "1958-06-25",
+  "id": 43380,
+  "title": "Rawhide",
+  "original_title": "Rawhide",
+  "release_date": "1951-03-25",
   "status": "Released",
-  "runtime": 98,
+  "runtime": 89,
   "original_language": "en",
   "spoken_languages": [
-    {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
-    },
     {
       "english_name": "English",
       "iso_639_1": "en",

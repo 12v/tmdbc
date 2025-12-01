@@ -1,10 +1,10 @@
 {
-  "id": 586707,
-  "title": "Life Like",
-  "original_title": "Life Like",
-  "release_date": "2019-05-14",
+  "id": 110130,
+  "title": "Hologram Man",
+  "original_title": "Hologram Man",
+  "release_date": "1995-06-27",
   "status": "Released",
-  "runtime": 95,
+  "runtime": 101,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,8 @@
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
+      "id": 28,
+      "name": "Action"
     },
     {
       "id": 878,

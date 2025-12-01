@@ -1,17 +1,12 @@
 {
-  "id": 61564,
-  "title": "The Bravados",
-  "original_title": "The Bravados",
-  "release_date": "1958-06-25",
+  "id": 50356,
+  "title": "Susan Slept Here",
+  "original_title": "Susan Slept Here",
+  "release_date": "1954-07-28",
   "status": "Released",
   "runtime": 98,
   "original_language": "en",
   "spoken_languages": [
-    {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
-    },
     {
       "english_name": "English",
       "iso_639_1": "en",
@@ -23,8 +18,12 @@
   ],
   "genres": [
     {
-      "id": 37,
-      "name": "Western"
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

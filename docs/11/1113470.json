@@ -1,0 +1,33 @@
+{
+  "id": 1113470,
+  "title": "Garudan",
+  "original_title": "\u0d17\u0d30\u0d41\u0d21\u0d7b",
+  "release_date": "2023-11-03",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

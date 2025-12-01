@@ -1,10 +1,10 @@
 {
-  "id": 586707,
-  "title": "Life Like",
-  "original_title": "Life Like",
-  "release_date": "2019-05-14",
+  "id": 931461,
+  "title": "American Dreamer",
+  "original_title": "American Dreamer",
+  "release_date": "2022-11-04",
   "status": "Released",
-  "runtime": 95,
+  "runtime": 106,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,12 +18,8 @@
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
-      "id": 878,
-      "name": "Science Fiction"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

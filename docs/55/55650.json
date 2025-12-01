@@ -8,11 +8,6 @@
   "original_language": "sv",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "German",
       "iso_639_1": "de",
       "name": "Deutsch"
@@ -21,11 +16,16 @@
       "english_name": "Swedish",
       "iso_639_1": "sv",
       "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
-    "AT",
     "DK",
+    "AT",
     "SE"
   ],
   "genres": [
