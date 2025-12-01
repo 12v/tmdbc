@@ -1,10 +1,10 @@
 {
-  "id": 542713,
-  "title": "Starfish",
-  "original_title": "Starfish",
-  "release_date": "2019-03-14",
+  "id": 28035,
+  "title": "Lurkers",
+  "original_title": "Lurkers",
+  "release_date": "1988-03-01",
   "status": "Released",
-  "runtime": 100,
+  "runtime": 90,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,16 +18,16 @@
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
       "id": 27,
       "name": "Horror"
     },
     {
-      "id": 878,
-      "name": "Science Fiction"
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
     }
   ]
 }

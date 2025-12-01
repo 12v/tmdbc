@@ -1,0 +1,33 @@
+{
+  "id": 67344,
+  "title": "Mr. Vampire III",
+  "original_title": "\u9748\u5e7b\u5148\u751f",
+  "release_date": "1987-12-17",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

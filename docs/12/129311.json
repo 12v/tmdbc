@@ -1,10 +1,10 @@
 {
-  "id": 542713,
-  "title": "Starfish",
-  "original_title": "Starfish",
-  "release_date": "2019-03-14",
+  "id": 129311,
+  "title": "A Gun for Jennifer",
+  "original_title": "A Gun for Jennifer",
+  "release_date": "1997-07-01",
   "status": "Released",
-  "runtime": 100,
+  "runtime": 88,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -22,12 +22,12 @@
       "name": "Drama"
     },
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 53,
+      "name": "Thriller"
     },
     {
-      "id": 878,
-      "name": "Science Fiction"
+      "id": 80,
+      "name": "Crime"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "id": 1128720,
-  "title": "Unknown: Cave of Bones",
-  "original_title": "Unknown: Cave of Bones",
-  "release_date": "2023-07-16",
+  "id": 1336415,
+  "title": "D(e)AD",
+  "original_title": "D(e)AD",
+  "release_date": "2025-09-10",
   "status": "Released",
-  "runtime": 93,
+  "runtime": 82,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,12 @@
   ],
   "genres": [
     {
-      "id": 99,
-      "name": "Documentary"
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

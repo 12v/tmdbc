@@ -1,21 +1,16 @@
 {
-  "id": 877817,
-  "title": "Wolfs",
-  "original_title": "Wolfs",
-  "release_date": "2024-09-20",
+  "id": 100269,
+  "title": "Enemy Territory",
+  "original_title": "Enemy Territory",
+  "release_date": "1987-05-22",
   "status": "Released",
-  "runtime": 108,
+  "runtime": 89,
   "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Croatian",
-      "iso_639_1": "hr",
-      "name": "Hrvatski"
     }
   ],
   "origin_country": [
@@ -23,12 +18,20 @@
   ],
   "genres": [
     {
+      "id": 28,
+      "name": "Action"
+    },
+    {
       "id": 80,
       "name": "Crime"
     },
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }

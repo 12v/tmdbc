@@ -1,0 +1,25 @@
+{
+  "id": 187425,
+  "title": "Sink & Rise",
+  "original_title": "\uc2f1\ud06c \uc564 \ub77c\uc774\uc988",
+  "release_date": "2004-01-01",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

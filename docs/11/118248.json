@@ -1,21 +1,16 @@
 {
-  "id": 877817,
-  "title": "Wolfs",
-  "original_title": "Wolfs",
-  "release_date": "2024-09-20",
+  "id": 118248,
+  "title": "Night of the Living Carrots",
+  "original_title": "Night of the Living Carrots",
+  "release_date": "2011-10-13",
   "status": "Released",
-  "runtime": 108,
+  "runtime": 13,
   "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Croatian",
-      "iso_639_1": "hr",
-      "name": "Hrvatski"
     }
   ],
   "origin_country": [
@@ -23,12 +18,16 @@
   ],
   "genres": [
     {
-      "id": 80,
-      "name": "Crime"
+      "id": 16,
+      "name": "Animation"
     },
     {
       "id": 35,
       "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "id": 38759,
+  "title": "The Saga of G\u00f6sta Berling",
+  "original_title": "G\u00f6sta Berlings saga",
+  "release_date": "1924-03-09",
+  "status": "Released",
+  "runtime": 206,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}
