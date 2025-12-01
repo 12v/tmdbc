@@ -1,0 +1,33 @@
+{
+  "id": 303323,
+  "title": "The Fetist",
+  "original_title": "\u71b1\u3044\u5410\u606f",
+  "release_date": "1998-03-02",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "id": 17692,
-  "title": "Jaws 3-D",
-  "original_title": "Jaws 3-D",
-  "release_date": "1983-07-22",
+  "id": 931034,
+  "title": "Cat Burglar",
+  "original_title": "Cat Burglar",
+  "release_date": "2022-02-22",
   "status": "Released",
-  "runtime": 98,
+  "runtime": 12,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,16 +14,16 @@
     }
   ],
   "origin_country": [
-    "US"
+    "GB"
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
+      "id": 16,
+      "name": "Animation"
     },
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

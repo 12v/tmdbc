@@ -1,0 +1,23 @@
+{
+  "id": 598400,
+  "title": "Missing Halloween",
+  "original_title": "Missing Halloween",
+  "release_date": "2015-10-30",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

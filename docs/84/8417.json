@@ -1,21 +1,16 @@
 {
-  "id": 575659,
-  "title": "Berlin Alexanderplatz",
-  "original_title": "Berlin Alexanderplatz",
-  "release_date": "2020-06-25",
+  "id": 8417,
+  "title": "S\u00fcss, the Jew",
+  "original_title": "Jud S\u00fc\u00df",
+  "release_date": "1940-09-24",
   "status": "Released",
-  "runtime": 184,
+  "runtime": 95,
   "original_language": "de",
   "spoken_languages": [
     {
       "english_name": "German",
       "iso_639_1": "de",
       "name": "Deutsch"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
     }
   ],
   "origin_country": [
@@ -27,8 +22,8 @@
       "name": "Drama"
     },
     {
-      "id": 80,
-      "name": "Crime"
+      "id": 36,
+      "name": "History"
     }
   ]
 }

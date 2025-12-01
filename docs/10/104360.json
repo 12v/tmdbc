@@ -1,0 +1,29 @@
+{
+  "id": 104360,
+  "title": "A White Dress for Marial\u00e9",
+  "original_title": "Un bianco vestito per Marial\u00e9",
+  "release_date": "1972-11-30",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

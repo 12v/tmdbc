@@ -1,0 +1,33 @@
+{
+  "id": 75317,
+  "title": "D@bbe",
+  "original_title": "D@bbe",
+  "release_date": "2006-02-10",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

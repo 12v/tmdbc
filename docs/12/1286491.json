@@ -1,10 +1,10 @@
 {
-  "id": 17692,
-  "title": "Jaws 3-D",
-  "original_title": "Jaws 3-D",
-  "release_date": "1983-07-22",
+  "id": 1286491,
+  "title": "Jimpa",
+  "original_title": "Jimpa",
+  "release_date": "2025-11-06",
   "status": "Released",
-  "runtime": 98,
+  "runtime": 123,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,16 +14,14 @@
     }
   ],
   "origin_country": [
-    "US"
+    "NL",
+    "FI",
+    "AU"
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

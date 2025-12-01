@@ -1,0 +1,25 @@
+{
+  "id": 612368,
+  "title": "In the Name of the Land",
+  "original_title": "Au nom de la terre",
+  "release_date": "2019-09-25",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

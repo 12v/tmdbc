@@ -1,10 +1,10 @@
 {
-  "id": 17692,
-  "title": "Jaws 3-D",
-  "original_title": "Jaws 3-D",
-  "release_date": "1983-07-22",
+  "id": 350556,
+  "title": "Broomshakalaka",
+  "original_title": "Broomshakalaka",
+  "release_date": "2013-12-10",
   "status": "Released",
-  "runtime": 98,
+  "runtime": 11,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,12 +18,8 @@
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }
