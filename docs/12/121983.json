@@ -4,7 +4,7 @@
   "original_title": "Free Angela and All Political Prisoners",
   "release_date": "2012-09-09",
   "status": "Released",
-  "runtime": 101,
+  "runtime": 102,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,12 +14,17 @@
     }
   ],
   "origin_country": [
+    "FR",
     "US"
   ],
   "genres": [
     {
       "id": 99,
       "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
     }
   ]
 }
