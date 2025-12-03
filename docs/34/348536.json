@@ -1,0 +1,27 @@
+{
+  "id": 348536,
+  "title": "Locke & Key",
+  "original_title": "Locke & Key",
+  "release_date": "2011-01-01",
+  "status": "Released",
+  "runtime": 54,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

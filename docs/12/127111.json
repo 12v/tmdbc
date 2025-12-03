@@ -1,0 +1,37 @@
+{
+  "id": 127111,
+  "title": "The Girl and Her Trust",
+  "original_title": "The Girl and Her Trust",
+  "release_date": "1912-03-28",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

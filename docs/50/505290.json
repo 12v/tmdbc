@@ -1,0 +1,30 @@
+{
+  "id": 505290,
+  "title": "Transexual Menace",
+  "original_title": "Vor Transsexuellen wird gewarnt",
+  "release_date": "1996-06-24",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

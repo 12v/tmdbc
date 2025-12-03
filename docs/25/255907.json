@@ -1,0 +1,29 @@
+{
+  "id": 255907,
+  "title": "Twilights",
+  "original_title": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c4",
+  "release_date": "1994-08-20",
+  "status": "Released",
+  "runtime": 33,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

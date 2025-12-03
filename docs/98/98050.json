@@ -1,0 +1,29 @@
+{
+  "id": 98050,
+  "title": "Business Is Business",
+  "original_title": "Wat zien ik",
+  "release_date": "1971-09-10",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

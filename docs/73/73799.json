@@ -1,0 +1,33 @@
+{
+  "id": 73799,
+  "title": "Other Worlds",
+  "original_title": "\u9060\u3044\u4e16\u754c - OTHER WORLDS",
+  "release_date": "1999-01-02",
+  "status": "Released",
+  "runtime": 2,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

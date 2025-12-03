@@ -1,0 +1,29 @@
+{
+  "id": 144586,
+  "title": "The Assassination of the Duke de Guise",
+  "original_title": "L'assassinat du duc de Guise",
+  "release_date": "1908-11-17",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

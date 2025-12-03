@@ -1,0 +1,38 @@
+{
+  "id": 4966,
+  "title": "The Last Days",
+  "original_title": "Pan Tadeusz",
+  "release_date": "1999-10-18",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

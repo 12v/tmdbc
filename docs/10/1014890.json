@@ -1,0 +1,25 @@
+{
+  "id": 1014890,
+  "title": "Louis Armstrong's Black & Blues",
+  "original_title": "Louis Armstrong's Black & Blues",
+  "release_date": "2022-09-08",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

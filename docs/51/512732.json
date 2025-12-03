@@ -1,0 +1,43 @@
+{
+  "id": 512732,
+  "title": "Brother of the Year",
+  "original_title": "\u0e19\u0e49\u0e2d\u0e07\u0e1e\u0e35\u0e48\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01",
+  "release_date": "2018-05-10",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

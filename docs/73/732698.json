@@ -1,0 +1,33 @@
+{
+  "id": 732698,
+  "title": "Guest from the Future",
+  "original_title": "\u0421\u0442\u043e \u043b\u0435\u0442 \u0442\u043e\u043c\u0443 \u0432\u043f\u0435\u0440\u0451\u0434",
+  "release_date": "2024-04-18",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

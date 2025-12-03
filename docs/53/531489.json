@@ -1,0 +1,30 @@
+{
+  "id": 531489,
+  "title": "Cutterhead",
+  "original_title": "Cutterhead",
+  "release_date": "2019-03-21",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 255156,
+  "title": "Government Woman 2",
+  "original_title": "H\u00fck\u00fcmet Kad\u0131n 2",
+  "release_date": "2013-11-07",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

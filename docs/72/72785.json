@@ -1,0 +1,39 @@
+{
+  "id": 72785,
+  "title": "The Flight of the Eagle",
+  "original_title": "Ingenj\u00f6r Andr\u00e9es luftf\u00e4rd",
+  "release_date": "1982-08-26",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

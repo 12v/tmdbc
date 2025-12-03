@@ -1,0 +1,41 @@
+{
+  "id": 45288,
+  "title": "Fighting Spirit - Mashiba vs. Kimura",
+  "original_title": "\u306f\u3058\u3081\u306e\u4e00\u6b69 \u9593\u67f4vs\u6728\u6751 \u6b7b\u5211\u57f7\u884c",
+  "release_date": "2003-09-05",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

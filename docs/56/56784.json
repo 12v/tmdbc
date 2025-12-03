@@ -1,0 +1,25 @@
+{
+  "id": 56784,
+  "title": "Sorry for the Delay",
+  "original_title": "Scusate il ritardo",
+  "release_date": "1983-03-10",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 162503,
+  "title": "Black Rider",
+  "original_title": "Schwarzfahrer",
+  "release_date": "1993-02-10",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 35075,
+  "title": "Leaves from Satan's Book",
+  "original_title": "Blade af Satans Bog",
+  "release_date": "1920-11-15",
+  "status": "Released",
+  "runtime": 157,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

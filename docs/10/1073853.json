@@ -1,0 +1,25 @@
+{
+  "id": 1073853,
+  "title": "Remembering Every Night",
+  "original_title": "\u3059\u3079\u3066\u306e\u591c\u3092\u601d\u3044\u3060\u3059",
+  "release_date": "2024-03-02",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

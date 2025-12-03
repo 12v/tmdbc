@@ -1,0 +1,25 @@
+{
+  "id": 1279863,
+  "title": "The Doomsday Cult of Antares de la Luz",
+  "original_title": "Antares de la Luz: La secta del fin del mundo",
+  "release_date": "2024-04-25",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CL"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

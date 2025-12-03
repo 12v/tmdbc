@@ -1,0 +1,29 @@
+{
+  "id": 504588,
+  "title": "Mektoub, My Love: Intermezzo",
+  "original_title": "Mektoub, My Love: Intermezzo",
+  "release_date": "2019-05-23",
+  "status": "Released",
+  "runtime": 212,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

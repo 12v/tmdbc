@@ -1,0 +1,25 @@
+{
+  "id": 850982,
+  "title": "Stay Awake",
+  "original_title": "Stay Awake",
+  "release_date": "2023-05-19",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

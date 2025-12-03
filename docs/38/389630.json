@@ -1,0 +1,25 @@
+{
+  "id": 389630,
+  "title": "All We Had",
+  "original_title": "All We Had",
+  "release_date": "2016-12-09",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

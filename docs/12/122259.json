@@ -1,0 +1,41 @@
+{
+  "id": 122259,
+  "title": "A Woman After a Killer Butterfly",
+  "original_title": "\uc0b4\uc778\ub098\ube44\ub97c \ucad3\ub294 \uc5ec\uc790",
+  "release_date": "1978-12-02",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

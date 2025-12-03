@@ -1,0 +1,25 @@
+{
+  "id": 56340,
+  "title": "The Widower",
+  "original_title": "Il vedovo",
+  "release_date": "1959-11-20",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

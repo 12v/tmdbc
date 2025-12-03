@@ -1,0 +1,25 @@
+{
+  "id": 353898,
+  "title": "Manjhi: The Mountain Man",
+  "original_title": "Manjhi: The Mountain Man",
+  "release_date": "2015-08-21",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

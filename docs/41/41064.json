@@ -1,0 +1,29 @@
+{
+  "id": 41064,
+  "title": "The Boys of Paul Street",
+  "original_title": "A P\u00e1l utcai fi\u00fak",
+  "release_date": "1969-04-03",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

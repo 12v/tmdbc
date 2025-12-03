@@ -1,0 +1,25 @@
+{
+  "id": 82027,
+  "title": "Crows",
+  "original_title": "Wrony",
+  "release_date": "1995-01-06",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

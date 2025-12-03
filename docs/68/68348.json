@@ -1,0 +1,30 @@
+{
+  "id": 68348,
+  "title": "The Architecture of Doom",
+  "original_title": "Underg\u00e5ngens arkitektur",
+  "release_date": "1989-10-13",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

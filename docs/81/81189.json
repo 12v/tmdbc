@@ -1,0 +1,26 @@
+{
+  "id": 81189,
+  "title": "Love Letters of a Portuguese Nun",
+  "original_title": "Die Liebesbriefe einer portugiesischen Nonne",
+  "release_date": "1977-03-10",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

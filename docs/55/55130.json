@@ -1,0 +1,29 @@
+{
+  "id": 55130,
+  "title": "The Professional",
+  "original_title": "Profesionalac",
+  "release_date": "2003-05-21",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

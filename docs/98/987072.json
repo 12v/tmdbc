@@ -1,0 +1,33 @@
+{
+  "id": 987072,
+  "title": "New Normal",
+  "original_title": "\ub274 \ub178\uba40",
+  "release_date": "2023-11-08",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

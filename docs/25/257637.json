@@ -1,0 +1,25 @@
+{
+  "id": 257637,
+  "title": "Poem of the Sea",
+  "original_title": "\u041f\u043e\u044d\u043c\u0430 \u043e \u043c\u043e\u0440\u0435",
+  "release_date": "1958-11-04",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

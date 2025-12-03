@@ -1,0 +1,30 @@
+{
+  "id": 437926,
+  "title": "Francis Bacon: A Brush with Violence",
+  "original_title": "Francis Bacon: A Brush with Violence",
+  "release_date": "2017-01-28",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

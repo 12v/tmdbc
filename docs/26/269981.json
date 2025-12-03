@@ -1,0 +1,29 @@
+{
+  "id": 269981,
+  "title": "Twelve Angry Men",
+  "original_title": "Twelve Angry Men",
+  "release_date": "1954-09-20",
+  "status": "Released",
+  "runtime": 51,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

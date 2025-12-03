@@ -1,0 +1,25 @@
+{
+  "id": 422052,
+  "title": "Dayveon",
+  "original_title": "Dayveon",
+  "release_date": "2017-09-13",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

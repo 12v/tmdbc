@@ -1,0 +1,25 @@
+{
+  "id": 575817,
+  "title": "Your Turn",
+  "original_title": "Espero Tua (Re)volta",
+  "release_date": "2019-08-15",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

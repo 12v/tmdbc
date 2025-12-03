@@ -1,0 +1,30 @@
+{
+  "id": 46067,
+  "title": "Mary, Queen of Scots",
+  "original_title": "Mary, Queen of Scots",
+  "release_date": "1971-12-22",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

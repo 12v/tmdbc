@@ -1,0 +1,25 @@
+{
+  "id": 1050281,
+  "title": "Elton John Live: Farewell from Dodger Stadium",
+  "original_title": "Elton John Live: Farewell from Dodger Stadium",
+  "release_date": "2022-11-20",
+  "status": "Released",
+  "runtime": 175,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

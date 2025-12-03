@@ -1,0 +1,29 @@
+{
+  "id": 91893,
+  "title": "The Spiders: Part 1 - The Golden Sea",
+  "original_title": "Die Spinnen, 1. Teil - Der Goldene See",
+  "release_date": "1919-10-03",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

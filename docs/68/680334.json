@@ -1,0 +1,38 @@
+{
+  "id": 680334,
+  "title": "Vikrant Rona",
+  "original_title": "\u0cb5\u0cbf\u0c95\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd \u0cb0\u0ccb\u0ca3",
+  "release_date": "2022-07-28",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "kn",
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

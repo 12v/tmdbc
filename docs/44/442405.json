@@ -1,0 +1,37 @@
+{
+  "id": 442405,
+  "title": "The Ghazi Attack",
+  "original_title": "\u0c18\u0c3e\u0c1c\u0c40",
+  "release_date": "2017-02-17",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

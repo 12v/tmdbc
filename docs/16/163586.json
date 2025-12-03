@@ -1,0 +1,29 @@
+{
+  "id": 163586,
+  "title": "Cyber Ninja",
+  "original_title": "\u672a\u6765\u5fcd\u8005 \u6176\u96f2\u6a5f\u5fcd\u5916\u4f1d",
+  "release_date": "1988-10-01",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

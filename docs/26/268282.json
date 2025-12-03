@@ -1,0 +1,29 @@
+{
+  "id": 268282,
+  "title": "Bete Balan\u00e7o",
+  "original_title": "Bete Balan\u00e7o",
+  "release_date": "1984-07-30",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

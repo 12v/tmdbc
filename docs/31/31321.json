@@ -1,0 +1,34 @@
+{
+  "id": 31321,
+  "title": "Loners",
+  "original_title": "Samot\u00e1\u0159i",
+  "release_date": "2000-04-13",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    },
+    {
+      "english_name": "Macedonian",
+      "iso_639_1": "mk",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

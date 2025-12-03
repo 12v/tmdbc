@@ -1,0 +1,27 @@
+{
+  "id": 820705,
+  "title": "The Hill Where Lionesses Roar",
+  "original_title": "La Colline o\u00f9 rugissent les lionnes",
+  "release_date": "2022-03-18",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "sq",
+  "spoken_languages": [
+    {
+      "english_name": "Albanian",
+      "iso_639_1": "sq",
+      "name": "shqip"
+    }
+  ],
+  "origin_country": [
+    "AL",
+    "FR",
+    "XK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
