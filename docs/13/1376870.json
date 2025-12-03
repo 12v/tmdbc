@@ -1,0 +1,25 @@
+{
+  "id": 1376870,
+  "title": "Humans in the Loop",
+  "original_title": "Humans in the Loop",
+  "release_date": "2025-09-05",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

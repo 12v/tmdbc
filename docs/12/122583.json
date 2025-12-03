@@ -1,0 +1,33 @@
+{
+  "id": 122583,
+  "title": "Detective Conan: The Eleventh Striker",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \uff11\uff11\u4eba\u76ee\u306e\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc",
+  "release_date": "2012-04-14",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

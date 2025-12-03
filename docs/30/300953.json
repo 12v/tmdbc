@@ -1,0 +1,41 @@
+{
+  "id": 300953,
+  "title": "The Yellow Mercedes",
+  "original_title": "Sar\u0131 Mercedes",
+  "release_date": "1993-03-01",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "FR",
+    "CH",
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

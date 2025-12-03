@@ -1,0 +1,25 @@
+{
+  "id": 191598,
+  "title": "Washerwomen on the River",
+  "original_title": "Laveuses sur la rivi\u00e8re",
+  "release_date": "1897-10-26",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

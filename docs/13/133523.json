@@ -1,0 +1,37 @@
+{
+  "id": 133523,
+  "title": "See You in Hell, My Darling",
+  "original_title": "\u0398\u03b1 \u03c3\u03b5 \u03b4\u03c9 \u03c3\u03c4\u03b7\u03bd \u03ba\u03cc\u03bb\u03b1\u03c3\u03b7 \u03b1\u03b3\u03ac\u03c0\u03b7 \u03bc\u03bf\u03c5",
+  "release_date": "1999-11-20",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

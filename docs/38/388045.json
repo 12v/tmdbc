@@ -1,0 +1,41 @@
+{
+  "id": 388045,
+  "title": "The Legend of the Chupacabras",
+  "original_title": "La Leyenda del Chupacabras",
+  "release_date": "2016-10-21",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

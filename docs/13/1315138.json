@@ -1,0 +1,26 @@
+{
+  "id": 1315138,
+  "title": "Drowning Dry",
+  "original_title": "Ses\u0117s",
+  "release_date": "2024-09-20",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "lt",
+  "spoken_languages": [
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvi\u0173"
+    }
+  ],
+  "origin_country": [
+    "LT",
+    "LV"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

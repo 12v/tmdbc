@@ -1,0 +1,29 @@
+{
+  "id": 35166,
+  "title": "Reconstruction",
+  "original_title": "Reconstituirea",
+  "release_date": "1968-01-01",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

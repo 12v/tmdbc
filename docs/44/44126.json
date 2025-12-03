@@ -1,0 +1,29 @@
+{
+  "id": 44126,
+  "title": "Sinbad of the Seven Seas",
+  "original_title": "Sinbad of the Seven Seas",
+  "release_date": "1989-04-01",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 284324,
+  "title": "Lustmord",
+  "original_title": "\u66b4\u884c\u672c\u756a",
+  "release_date": "1987-10-01",
+  "status": "Released",
+  "runtime": 57,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

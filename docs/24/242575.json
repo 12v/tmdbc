@@ -1,0 +1,31 @@
+{
+  "id": 242575,
+  "title": "Good Day, Ramon",
+  "original_title": "Guten Tag, Ram\u00f3n",
+  "release_date": "2013-10-21",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

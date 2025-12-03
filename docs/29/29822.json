@@ -1,0 +1,25 @@
+{
+  "id": 29822,
+  "title": "In Bed with Santa",
+  "original_title": "Tomten \u00e4r far till alla barnen",
+  "release_date": "1999-11-26",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

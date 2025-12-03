@@ -1,0 +1,29 @@
+{
+  "id": 66091,
+  "title": "A Cruel Romance",
+  "original_title": "\u0416\u0435\u0441\u0442\u043e\u043a\u0438\u0439 \u0440\u043e\u043c\u0430\u043d\u0441",
+  "release_date": "1984-06-06",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

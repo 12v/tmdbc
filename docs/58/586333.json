@@ -1,0 +1,29 @@
+{
+  "id": 586333,
+  "title": "Who Would You Take to a Deserted Island?",
+  "original_title": "\u00bfA qui\u00e9n te llevar\u00edas a una isla desierta?",
+  "release_date": "2019-03-22",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

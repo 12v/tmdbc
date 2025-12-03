@@ -1,0 +1,29 @@
+{
+  "id": 68797,
+  "title": "The Quack",
+  "original_title": "Znachor",
+  "release_date": "1982-04-12",
+  "status": "Released",
+  "runtime": 128,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

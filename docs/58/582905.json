@@ -1,0 +1,35 @@
+{
+  "id": 582905,
+  "title": "Heroes Don't Die",
+  "original_title": "Les H\u00e9ros ne meurent jamais",
+  "release_date": "2020-09-30",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

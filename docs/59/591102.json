@@ -1,0 +1,29 @@
+{
+  "id": 591102,
+  "title": "Comali",
+  "original_title": "\u0b95\u0bcb\u0bae\u0bbe\u0bb3\u0bbf",
+  "release_date": "2019-08-14",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

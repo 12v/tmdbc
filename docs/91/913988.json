@@ -1,0 +1,31 @@
+{
+  "id": 913988,
+  "title": "The Final Game",
+  "original_title": "42 segundos",
+  "release_date": "2022-09-02",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

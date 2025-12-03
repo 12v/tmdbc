@@ -1,0 +1,33 @@
+{
+  "id": 838609,
+  "title": "Cold Case",
+  "original_title": "\u0d15\u0d4b\u0d7e\u0d21\u0d4d \u0d15\u0d47\u0d38\u0d4d",
+  "release_date": "2021-06-30",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

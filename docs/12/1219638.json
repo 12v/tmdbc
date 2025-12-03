@@ -1,0 +1,25 @@
+{
+  "id": 1219638,
+  "title": "78 Days",
+  "original_title": "78 \u0434\u0430\u043d\u0430",
+  "release_date": "2024-08-29",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "RS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

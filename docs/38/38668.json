@@ -1,0 +1,25 @@
+{
+  "id": 38668,
+  "title": "The Eternal Jew",
+  "original_title": "Der ewige Jude",
+  "release_date": "1940-11-28",
+  "status": "Released",
+  "runtime": 62,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

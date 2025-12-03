@@ -1,0 +1,33 @@
+{
+  "id": 561147,
+  "title": "La Noria",
+  "original_title": "La Noria",
+  "release_date": "2018-09-04",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

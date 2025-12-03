@@ -1,0 +1,33 @@
+{
+  "id": 99686,
+  "title": "Boris Godounov",
+  "original_title": "Boris Godounov",
+  "release_date": "1989-12-20",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

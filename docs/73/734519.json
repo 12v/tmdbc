@@ -1,0 +1,33 @@
+{
+  "id": 734519,
+  "title": "THE FABLE: The Killer Who Doesn't Kill",
+  "original_title": "\u30b6\u30fb\u30d5\u30a1\u30d6\u30eb \u6bba\u3055\u306a\u3044\u6bba\u3057\u5c4b",
+  "release_date": "2021-02-05",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

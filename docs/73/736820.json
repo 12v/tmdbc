@@ -1,0 +1,34 @@
+{
+  "id": 736820,
+  "title": "Confidential Assignment 2: International",
+  "original_title": "\uacf5\uc870 2: \uc778\ud130\ub0b4\uc154\ub0a0",
+  "release_date": "2022-09-07",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

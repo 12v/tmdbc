@@ -1,0 +1,33 @@
+{
+  "id": 108074,
+  "title": "Dagger Eyes",
+  "original_title": "Myst\u00e8re",
+  "release_date": "1983-11-28",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

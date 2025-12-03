@@ -1,0 +1,25 @@
+{
+  "id": 557606,
+  "title": "John Leguizamo's Latin History for Morons",
+  "original_title": "John Leguizamo's Latin History for Morons",
+  "release_date": "2018-11-02",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

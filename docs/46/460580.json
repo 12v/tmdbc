@@ -1,0 +1,33 @@
+{
+  "id": 460580,
+  "title": "Sweet 20",
+  "original_title": "Sweet 20",
+  "release_date": "2017-06-25",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

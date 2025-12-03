@@ -1,0 +1,29 @@
+{
+  "id": 1906,
+  "title": "Solo Sunny",
+  "original_title": "Solo Sunny",
+  "release_date": "1980-01-08",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "XG"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

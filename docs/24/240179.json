@@ -1,0 +1,29 @@
+{
+  "id": 240179,
+  "title": "Spadikam",
+  "original_title": "\u0d38\u0d4d\u0d2b\u0d1f\u0d3f\u0d15\u0d02",
+  "release_date": "1995-03-30",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

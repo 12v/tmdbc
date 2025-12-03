@@ -1,0 +1,25 @@
+{
+  "id": 452772,
+  "title": "The Poet and Singer",
+  "original_title": "\u91d1\u521a\u7ecf",
+  "release_date": "2012-08-21",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

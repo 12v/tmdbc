@@ -1,0 +1,29 @@
+{
+  "id": 38831,
+  "title": "Lady with the Dog",
+  "original_title": "\u0414\u0430\u043c\u0430 \u0441 \u0441\u043e\u0431\u0430\u0447\u043a\u043e\u0439",
+  "release_date": "1960-01-28",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

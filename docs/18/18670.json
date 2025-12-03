@@ -1,0 +1,33 @@
+{
+  "id": 18670,
+  "title": "Legend of the Red Dragon",
+  "original_title": "\u6d2a\u7199\u5b98\u4e4b\u5c11\u6797\u4e94\u7956",
+  "release_date": "1994-02-05",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

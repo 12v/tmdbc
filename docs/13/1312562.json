@@ -1,0 +1,29 @@
+{
+  "id": 1312562,
+  "title": "Edward Scissorhands: Matthew Bourne\u2019s Dance Version",
+  "original_title": "Edward Scissorhands: Matthew Bourne\u2019s Dance Version",
+  "release_date": "2024-09-25",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 81722,
+  "title": "An Extremely Nutty Teacher",
+  "original_title": "Uma Professora Muito Maluquinha",
+  "release_date": "2011-10-07",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

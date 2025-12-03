@@ -1,0 +1,33 @@
+{
+  "id": 478650,
+  "title": "All the Reasons to Forget",
+  "original_title": "Todas As Raz\u00f5es Para Esquecer",
+  "release_date": "2017-10-25",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

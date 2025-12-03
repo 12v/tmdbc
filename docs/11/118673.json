@@ -1,0 +1,33 @@
+{
+  "id": 118673,
+  "title": "La torre de los siete jorobados",
+  "original_title": "La torre de los siete jorobados",
+  "release_date": "1944-11-23",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

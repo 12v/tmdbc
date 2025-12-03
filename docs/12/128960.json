@@ -1,0 +1,33 @@
+{
+  "id": 128960,
+  "title": "The Substitute",
+  "original_title": "Surogat",
+  "release_date": "1961-12-31",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

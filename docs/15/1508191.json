@@ -1,0 +1,26 @@
+{
+  "id": 1508191,
+  "title": "Ozzy: No Escape from Now",
+  "original_title": "Ozzy: No Escape from Now",
+  "release_date": "2025-10-07",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

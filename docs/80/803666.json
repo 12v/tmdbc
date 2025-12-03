@@ -1,0 +1,33 @@
+{
+  "id": 803666,
+  "title": "Salute",
+  "original_title": "\u0d38\u0d32\u0d4d\u0d2f\u0d42\u0d1f\u0d4d\u0d1f\u0d4d",
+  "release_date": "2022-01-14",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

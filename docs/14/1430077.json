@@ -1,0 +1,27 @@
+{
+  "id": 1430077,
+  "title": "Hokum",
+  "original_title": "Hokum",
+  "release_date": "2026-05-01",
+  "status": "Post Production",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AE",
+    "US",
+    "IE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

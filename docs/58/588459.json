@@ -1,0 +1,38 @@
+{
+  "id": 588459,
+  "title": "Turkish Ice Cream",
+  "original_title": "T\u00fcrk \u0130\u015fi Dondurma",
+  "release_date": "2019-03-15",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

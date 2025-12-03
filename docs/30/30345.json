@@ -1,0 +1,29 @@
+{
+  "id": 30345,
+  "title": "The Black Castle",
+  "original_title": "The Black Castle",
+  "release_date": "1952-11-20",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

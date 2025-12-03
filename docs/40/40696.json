@@ -1,0 +1,30 @@
+{
+  "id": 40696,
+  "title": "Pippi Goes on Board",
+  "original_title": "H\u00e4r kommer Pippi L\u00e5ngstrump",
+  "release_date": "1969-10-31",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

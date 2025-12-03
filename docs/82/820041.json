@@ -1,0 +1,29 @@
+{
+  "id": 820041,
+  "title": "Hideaki Anno: The Final Challenge of Evangelion",
+  "original_title": "\u3055\u3088\u3046\u306a\u3089\u5168\u3066\u306e\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u3000\uff5e\u5eb5\u91ce\u79c0\u660e\u306e1214\u65e5\uff5e",
+  "release_date": "2021-03-22",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

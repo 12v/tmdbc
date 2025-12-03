@@ -1,0 +1,29 @@
+{
+  "id": 1440718,
+  "title": "Bono: Stories of Surrender",
+  "original_title": "Bono: Stories of Surrender",
+  "release_date": "2025-05-16",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

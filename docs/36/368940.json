@@ -1,0 +1,38 @@
+{
+  "id": 368940,
+  "title": "Robinson Crusoe",
+  "original_title": "Robinson Crusoe",
+  "release_date": "2016-02-04",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1138405,
+  "title": "Summer 96",
+  "original_title": "\u00c9t\u00e9 96",
+  "release_date": "2023-05-21",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

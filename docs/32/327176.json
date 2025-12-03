@@ -1,0 +1,38 @@
+{
+  "id": 327176,
+  "title": "The Manor of Araucaima",
+  "original_title": "La mansi\u00f3n de Araucaima",
+  "release_date": "1986-02-24",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "CO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

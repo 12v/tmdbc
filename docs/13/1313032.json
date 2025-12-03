@@ -1,0 +1,31 @@
+{
+  "id": 1313032,
+  "title": "Sleepless City",
+  "original_title": "Ciudad sin sue\u00f1o",
+  "release_date": "2025-09-03",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
