@@ -1,10 +1,10 @@
 {
-  "id": 1170608,
-  "title": "Dune: Part Three",
-  "original_title": "Dune: Part Three",
-  "release_date": "2026-12-18",
-  "status": "Post Production",
-  "runtime": 0,
+  "id": 246594,
+  "title": "Mega Shark vs. Mecha Shark",
+  "original_title": "Mega Shark vs. Mecha Shark",
+  "release_date": "2014-01-28",
+  "status": "Released",
+  "runtime": 86,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,12 +18,16 @@
   ],
   "genres": [
     {
-      "id": 12,
-      "name": "Adventure"
+      "id": 28,
+      "name": "Action"
     },
     {
       "id": 878,
       "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }

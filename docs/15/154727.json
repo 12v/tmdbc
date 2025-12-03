@@ -1,0 +1,33 @@
+{
+  "id": 154727,
+  "title": "Legend of the Galactic Heroes: Overture to a New War",
+  "original_title": "\u9280\u6cb3\u82f1\u96c4\u4f1d\u8aac\u5916\u4f1d\uff0f\u65b0\u305f\u306a\u308b\u6226\u3044\u306e\u5e8f\u66f2\uff08\u30aa\u30fc\u30f4\u30a1\u30c1\u30e5\u30a2\uff09",
+  "release_date": "1993-12-18",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

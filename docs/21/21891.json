@@ -1,0 +1,33 @@
+{
+  "id": 21891,
+  "title": "Confessions of a Sociopathic Social Climber",
+  "original_title": "Confessions of a Sociopathic Social Climber",
+  "release_date": "2005-03-12",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 574437,
+  "title": "The Awakening of the Ants",
+  "original_title": "El despertar de las hormigas",
+  "release_date": "2019-08-01",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CR",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 533992,
+  "title": "When the Angels Sleep",
+  "original_title": "Cuando los \u00e1ngeles duermen",
+  "release_date": "2018-09-07",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 194963,
+  "title": "The Masked Gang: Cyprus",
+  "original_title": "Maskeli Be\u015fler: K\u0131br\u0131s",
+  "release_date": "2008-02-17",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

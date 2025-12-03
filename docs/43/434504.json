@@ -1,0 +1,25 @@
+{
+  "id": 434504,
+  "title": "Seventeen",
+  "original_title": "Siebzehn",
+  "release_date": "2017-04-27",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

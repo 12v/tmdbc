@@ -1,0 +1,30 @@
+{
+  "id": 1400756,
+  "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
+  "original_title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
+  "release_date": "2025-01-26",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

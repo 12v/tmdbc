@@ -1,0 +1,29 @@
+{
+  "id": 36883,
+  "title": "Midnight Movies: From the Margin to the Mainstream",
+  "original_title": "Midnight Movies: From the Margin to the Mainstream",
+  "release_date": "2006-06-20",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

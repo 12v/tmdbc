@@ -1,9 +1,9 @@
 {
-  "id": 1170608,
-  "title": "Dune: Part Three",
-  "original_title": "Dune: Part Three",
-  "release_date": "2026-12-18",
-  "status": "Post Production",
+  "id": 1324923,
+  "title": "A Quiet Place Part III",
+  "original_title": "A Quiet Place Part III",
+  "release_date": "2027-07-29",
+  "status": "Planned",
   "runtime": 0,
   "original_language": "en",
   "spoken_languages": [
@@ -18,12 +18,16 @@
   ],
   "genres": [
     {
-      "id": 12,
-      "name": "Adventure"
+      "id": 27,
+      "name": "Horror"
     },
     {
       "id": 878,
       "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "id": 159862,
+  "title": "Cute Girl",
+  "original_title": "\u5c31\u662f\u6e9c\u6e9c\u7684\u5979",
+  "release_date": "1980-01-01",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
