@@ -1,10 +1,10 @@
 {
-  "id": 936075,
-  "title": "Michael",
-  "original_title": "Michael",
-  "release_date": "2026-04-22",
-  "status": "Post Production",
-  "runtime": 132,
+  "id": 32533,
+  "title": "Genre",
+  "original_title": "Genre",
+  "release_date": "1996-10-10",
+  "status": "Released",
+  "runtime": 5,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,12 +18,12 @@
   ],
   "genres": [
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 16,
+      "name": "Animation"
     },
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

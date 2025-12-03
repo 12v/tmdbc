@@ -1,10 +1,10 @@
 {
-  "id": 936075,
-  "title": "Michael",
-  "original_title": "Michael",
-  "release_date": "2026-04-22",
-  "status": "Post Production",
-  "runtime": 132,
+  "id": 28495,
+  "title": "Vice Academy",
+  "original_title": "Vice Academy",
+  "release_date": "1989-06-08",
+  "status": "Released",
+  "runtime": 90,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,12 +18,12 @@
   ],
   "genres": [
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 28,
+      "name": "Action"
     },
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

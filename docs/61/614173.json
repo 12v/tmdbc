@@ -1,0 +1,25 @@
+{
+  "id": 614173,
+  "title": "Ladies On Top",
+  "original_title": "Tilik",
+  "release_date": "2018-12-01",
+  "status": "Released",
+  "runtime": 30,
+  "original_language": "jv",
+  "spoken_languages": [
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

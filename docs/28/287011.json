@@ -1,0 +1,43 @@
+{
+  "id": 287011,
+  "title": "The Bus",
+  "original_title": "Otob\u00fcs",
+  "release_date": "1974-01-10",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "CH",
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 90299,
+  "title": "Bushido: The Cruel Code of the Samurai",
+  "original_title": "\u6b66\u58eb\u9053\u6b8b\u9177\u7269\u8a9e",
+  "release_date": "1963-04-28",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

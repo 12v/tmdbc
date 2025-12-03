@@ -1,25 +1,25 @@
 {
-  "id": 327007,
-  "title": "Compasso de Espera",
-  "original_title": "Compasso de Espera",
-  "release_date": "1969-01-01",
+  "id": 381070,
+  "title": "Loev",
+  "original_title": "Loev",
+  "release_date": "2016-05-12",
   "status": "Released",
-  "runtime": 94,
-  "original_language": "pt",
+  "runtime": 90,
+  "original_language": "hi",
   "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Portuguese",
-      "iso_639_1": "pt",
-      "name": "Portugu\u00eas"
     }
   ],
   "origin_country": [
-    "BR"
+    "IN"
   ],
   "genres": [
     {

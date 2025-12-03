@@ -1,0 +1,25 @@
+{
+  "id": 175716,
+  "title": "Crime and Punishment",
+  "original_title": "Raskolnikow",
+  "release_date": "1923-10-26",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

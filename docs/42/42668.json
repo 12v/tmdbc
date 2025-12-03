@@ -1,0 +1,37 @@
+{
+  "id": 42668,
+  "title": "Alexander the Great",
+  "original_title": "Alexander the Great",
+  "release_date": "1956-03-28",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

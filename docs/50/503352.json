@@ -1,0 +1,33 @@
+{
+  "id": 503352,
+  "title": "#FriendButMarried",
+  "original_title": "#TemanTapiMenikah",
+  "release_date": "2018-03-28",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 14816,
+  "title": "Dog Bite Dog",
+  "original_title": "\u72d7\u54ac\u72d7",
+  "release_date": "2006-08-17",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Khmer",
+      "iso_639_1": "km",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

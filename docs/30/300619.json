@@ -1,0 +1,29 @@
+{
+  "id": 300619,
+  "title": "Ada",
+  "original_title": "Ada",
+  "release_date": "1988-04-18",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

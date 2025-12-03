@@ -1,0 +1,38 @@
+{
+  "id": 76482,
+  "title": "Let Joy Reign Supreme",
+  "original_title": "Que la f\u00eate commence !",
+  "release_date": "1975-03-23",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Breton",
+      "iso_639_1": "br",
+      "name": "Brezhoneg"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

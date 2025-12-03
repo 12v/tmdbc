@@ -1,0 +1,25 @@
+{
+  "id": 759216,
+  "title": "Andhaghaaram",
+  "original_title": "\u0b85\u0ba8\u0bcd\u0ba4\u0b95\u0bbe\u0bb0\u0bae\u0bcd",
+  "release_date": "2020-11-24",
+  "status": "Released",
+  "runtime": 171,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

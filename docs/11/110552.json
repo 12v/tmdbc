@@ -1,0 +1,25 @@
+{
+  "id": 110552,
+  "title": "The Protector 2",
+  "original_title": "\u0e15\u0e49\u0e21\u0e22\u0e33\u0e01\u0e38\u0e49\u0e07 2",
+  "release_date": "2013-10-23",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

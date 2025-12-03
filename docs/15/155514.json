@@ -1,0 +1,33 @@
+{
+  "id": 155514,
+  "title": "Orochi, the Eight-Headed Dragon",
+  "original_title": "\u30e4\u30de\u30c8\u30bf\u30b1\u30eb",
+  "release_date": "1994-07-09",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

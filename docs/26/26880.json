@@ -1,0 +1,29 @@
+{
+  "id": 26880,
+  "title": "Children of Nature",
+  "original_title": "B\u00f6rn n\u00e1tt\u00farunnar",
+  "release_date": "1991-08-01",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "is",
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    }
+  ],
+  "origin_country": [
+    "IS"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

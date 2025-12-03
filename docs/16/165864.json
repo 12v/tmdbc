@@ -1,0 +1,29 @@
+{
+  "id": 165864,
+  "title": "Hansel and Gretel Get Baked",
+  "original_title": "Hansel and Gretel Get Baked",
+  "release_date": "2013-02-19",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

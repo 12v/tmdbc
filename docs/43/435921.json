@@ -1,0 +1,25 @@
+{
+  "id": 435921,
+  "title": "It\u2019s the Law",
+  "original_title": "L'ora legale",
+  "release_date": "2017-01-19",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

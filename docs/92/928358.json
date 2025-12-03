@@ -1,0 +1,25 @@
+{
+  "id": 928358,
+  "title": "Grand Jete",
+  "original_title": "Grand Jet\u00e9",
+  "release_date": "2022-09-20",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

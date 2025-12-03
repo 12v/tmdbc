@@ -1,17 +1,12 @@
 {
-  "id": 327007,
-  "title": "Compasso de Espera",
-  "original_title": "Compasso de Espera",
-  "release_date": "1969-01-01",
+  "id": 1041390,
+  "title": "A Vil\u00e3 das Nove",
+  "original_title": "A Vil\u00e3 das Nove",
+  "release_date": "2024-10-31",
   "status": "Released",
-  "runtime": 94,
+  "runtime": 103,
   "original_language": "pt",
   "spoken_languages": [
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
     {
       "english_name": "Portuguese",
       "iso_639_1": "pt",
@@ -27,8 +22,8 @@
       "name": "Drama"
     },
     {
-      "id": 10749,
-      "name": "Romance"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

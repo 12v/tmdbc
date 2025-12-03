@@ -1,0 +1,39 @@
+{
+  "id": 38301,
+  "title": "The Japanese Wife",
+  "original_title": "The Japanese Wife",
+  "release_date": "2010-04-09",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

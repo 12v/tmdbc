@@ -1,0 +1,26 @@
+{
+  "id": 25471,
+  "title": "The King of Masks",
+  "original_title": "\u53d8\u8138",
+  "release_date": "1995-06-09",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

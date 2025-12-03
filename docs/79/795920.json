@@ -1,0 +1,26 @@
+{
+  "id": 795920,
+  "title": "Ste. Anne",
+  "original_title": "Ste. Anne",
+  "release_date": "2021-03-05",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

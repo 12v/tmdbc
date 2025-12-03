@@ -1,0 +1,25 @@
+{
+  "id": 107937,
+  "title": "Bhoot",
+  "original_title": "\u092d\u0942\u0924",
+  "release_date": "2003-05-30",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 372752,
+  "title": "Digimon Adventure tri. Part 2: Determination",
+  "original_title": "\u30c7\u30b8\u30e2\u30f3\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc tri. \u7b2c2\u7ae0\u300c\u6c7a\u610f\u300d",
+  "release_date": "2016-03-12",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

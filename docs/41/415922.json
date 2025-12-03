@@ -1,0 +1,25 @@
+{
+  "id": 415922,
+  "title": "The Beloved Child, or I Play at Being a Married Woman",
+  "original_title": "L'Enfant aim\u00e9 ou Je joue \u00e0 \u00eatre une femme mari\u00e9e",
+  "release_date": "1971-01-01",
+  "status": "Released",
+  "runtime": 35,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

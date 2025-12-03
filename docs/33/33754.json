@@ -1,10 +1,10 @@
 {
-  "id": 936075,
-  "title": "Michael",
-  "original_title": "Michael",
-  "release_date": "2026-04-22",
-  "status": "Post Production",
-  "runtime": 132,
+  "id": 33754,
+  "title": "Scared Stiff",
+  "original_title": "Scared Stiff",
+  "release_date": "1953-04-27",
+  "status": "Released",
+  "runtime": 108,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -22,8 +22,12 @@
       "name": "Music"
     },
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "id": 675009,
+  "title": "Firma Aqu\u00ed",
+  "original_title": "Firma Aqu\u00ed",
+  "release_date": "2024-05-09",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

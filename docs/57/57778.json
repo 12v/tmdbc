@@ -1,0 +1,34 @@
+{
+  "id": 57778,
+  "title": "Unbelievable Adventures of Italians in Russia",
+  "original_title": "\u041d\u0435\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u044b\u0435 \u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0446\u0435\u0432 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438",
+  "release_date": "1974-01-31",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

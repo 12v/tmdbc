@@ -1,0 +1,38 @@
+{
+  "id": 1282280,
+  "title": "Dog of God",
+  "original_title": "Dieva suns",
+  "release_date": "2025-10-17",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "lv",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Latvian",
+      "iso_639_1": "lv",
+      "name": "Latvie\u0161u"
+    }
+  ],
+  "origin_country": [
+    "LV"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

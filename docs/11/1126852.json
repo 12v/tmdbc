@@ -1,17 +1,12 @@
 {
-  "id": 327007,
-  "title": "Compasso de Espera",
-  "original_title": "Compasso de Espera",
-  "release_date": "1969-01-01",
+  "id": 1126852,
+  "title": "Rich in Love 2",
+  "original_title": "Ricos de Amor 2",
+  "release_date": "2023-06-02",
   "status": "Released",
-  "runtime": 94,
+  "runtime": 89,
   "original_language": "pt",
   "spoken_languages": [
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
     {
       "english_name": "Portuguese",
       "iso_639_1": "pt",
@@ -23,12 +18,12 @@
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
       "id": 10749,
       "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "id": 657997,
+  "title": "Kaduva",
+  "original_title": "\u0d15\u0d1f\u0d41\u0d35",
+  "release_date": "2022-07-07",
+  "status": "Released",
+  "runtime": 154,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

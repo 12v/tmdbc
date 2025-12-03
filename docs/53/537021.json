@@ -1,0 +1,28 @@
+{
+  "id": 537021,
+  "title": "Yuli",
+  "original_title": "Yuli",
+  "release_date": "2018-12-14",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "CU",
+    "ES",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

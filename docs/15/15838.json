@@ -1,0 +1,38 @@
+{
+  "id": 15838,
+  "title": "Sunshine Barry & the Disco Worms",
+  "original_title": "Disco ormene",
+  "release_date": "2008-09-07",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

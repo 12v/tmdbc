@@ -1,0 +1,29 @@
+{
+  "id": 18503,
+  "title": "Caterina in the Big City",
+  "original_title": "Caterina va in citt\u00e0",
+  "release_date": "2003-10-24",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

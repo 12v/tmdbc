@@ -1,0 +1,25 @@
+{
+  "id": 382200,
+  "title": "Seto and Utsumi",
+  "original_title": "\u30bb\u30c8\u30a6\u30c4\u30df",
+  "release_date": "2016-07-02",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

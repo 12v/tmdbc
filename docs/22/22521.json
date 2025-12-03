@@ -1,0 +1,40 @@
+{
+  "id": 22521,
+  "title": "Terror's Advocate",
+  "original_title": "L'avocat de la terreur",
+  "release_date": "2007-06-06",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Khmer",
+      "iso_639_1": "km",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

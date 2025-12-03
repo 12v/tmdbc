@@ -1,0 +1,33 @@
+{
+  "id": 254902,
+  "title": "A Story of the Forest: Mavka",
+  "original_title": "\u041b\u0456\u0441\u043e\u0432\u0430 \u043f\u0456\u0441\u043d\u044f. \u041c\u0430\u0432\u043a\u0430",
+  "release_date": "1980-07-23",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "uk",
+  "spoken_languages": [
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

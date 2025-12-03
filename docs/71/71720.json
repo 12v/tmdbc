@@ -1,0 +1,38 @@
+{
+  "id": 71720,
+  "title": "Rusty Knife",
+  "original_title": "\u9306\u3073\u305f\u30ca\u30a4\u30d5",
+  "release_date": "1958-03-11",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

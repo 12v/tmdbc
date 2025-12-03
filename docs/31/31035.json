@@ -1,0 +1,38 @@
+{
+  "id": 31035,
+  "title": "A Somewhat Gentle Man",
+  "original_title": "En ganske snill mann",
+  "release_date": "2010-03-19",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 652754,
+  "title": "Dragon Ball Z Side Story: Plan to Eradicate the Saiyans",
+  "original_title": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebZ\u5916\u4f1d \u30b5\u30a4\u30e4\u4eba\u7d76\u6ec5\u8a08\u753b",
+  "release_date": "1993-09-23",
+  "status": "Released",
+  "runtime": 59,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

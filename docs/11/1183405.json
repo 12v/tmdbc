@@ -1,0 +1,41 @@
+{
+  "id": 1183405,
+  "title": "The Rare Blue Apes of Cannibal Isle",
+  "original_title": "The Rare Blue Apes of Cannibal Isle",
+  "release_date": "1974-12-13",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

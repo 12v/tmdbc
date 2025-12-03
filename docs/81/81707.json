@@ -1,10 +1,10 @@
 {
-  "id": 936075,
-  "title": "Michael",
-  "original_title": "Michael",
-  "release_date": "2026-04-22",
-  "status": "Post Production",
-  "runtime": 132,
+  "id": 81707,
+  "title": "The Wise Kids",
+  "original_title": "The Wise Kids",
+  "release_date": "2011-07-09",
+  "status": "Released",
+  "runtime": 91,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -17,10 +17,6 @@
     "US"
   ],
   "genres": [
-    {
-      "id": 10402,
-      "name": "Music"
-    },
     {
       "id": 18,
       "name": "Drama"

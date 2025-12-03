@@ -1,0 +1,33 @@
+{
+  "id": 169934,
+  "title": "Iron Man: Rise of Technovore",
+  "original_title": "\u30a2\u30a4\u30a2\u30f3\u30de\u30f3\uff1a\u30e9\u30a4\u30ba\u30fb\u30aa\u30d6\u30fb\u30c6\u30af\u30ce\u30f4\u30a9\u30a2",
+  "release_date": "2013-04-24",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

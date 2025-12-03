@@ -1,0 +1,29 @@
+{
+  "id": 978415,
+  "title": "Horseplay",
+  "original_title": "Los agitadores",
+  "release_date": "2023-06-01",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

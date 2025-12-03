@@ -1,11 +1,11 @@
 {
-  "id": 936075,
-  "title": "Michael",
-  "original_title": "Michael",
-  "release_date": "2026-04-22",
-  "status": "Post Production",
-  "runtime": 132,
-  "original_language": "en",
+  "id": 42200,
+  "title": "Bye Bye Monkey",
+  "original_title": "Ciao maschio",
+  "release_date": "1978-02-24",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "it",
   "spoken_languages": [
     {
       "english_name": "English",
@@ -14,12 +14,12 @@
     }
   ],
   "origin_country": [
-    "US"
+    "IT"
   ],
   "genres": [
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 35,
+      "name": "Comedy"
     },
     {
       "id": 18,

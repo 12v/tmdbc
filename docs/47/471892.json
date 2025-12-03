@@ -1,0 +1,29 @@
+{
+  "id": 471892,
+  "title": "Shubh Mangal Saavdhan",
+  "original_title": "\u0936\u0941\u092d \u092e\u0902\u0917\u0932 \u0938\u093e\u0935\u0927\u093e\u0928",
+  "release_date": "2017-08-31",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

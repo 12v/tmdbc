@@ -1,11 +1,11 @@
 {
-  "id": 327007,
-  "title": "Compasso de Espera",
-  "original_title": "Compasso de Espera",
-  "release_date": "1969-01-01",
+  "id": 50512,
+  "title": "Anna Karenina",
+  "original_title": "Anna Karenina",
+  "release_date": "1997-04-04",
   "status": "Released",
-  "runtime": 94,
-  "original_language": "pt",
+  "runtime": 108,
+  "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "English",
@@ -13,13 +13,15 @@
       "name": "English"
     },
     {
-      "english_name": "Portuguese",
-      "iso_639_1": "pt",
-      "name": "Portugu\u00eas"
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
     }
   ],
   "origin_country": [
-    "BR"
+    "RU",
+    "GB",
+    "US"
   ],
   "genres": [
     {

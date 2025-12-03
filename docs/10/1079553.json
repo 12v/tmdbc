@@ -1,0 +1,29 @@
+{
+  "id": 1079553,
+  "title": "Pretty Little Liars: A-List Wrap Party",
+  "original_title": "Pretty Little Liars: A-List Wrap Party",
+  "release_date": "2017-06-27",
+  "status": "Released",
+  "runtime": 43,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

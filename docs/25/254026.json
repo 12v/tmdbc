@@ -1,0 +1,33 @@
+{
+  "id": 254026,
+  "title": "Rapine",
+  "original_title": "Rapi\u00f1a",
+  "release_date": "1975-05-14",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1067298,
+  "title": "Ice Cream Fever",
+  "original_title": "\u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0\u30d5\u30a3\u30fc\u30d0\u30fc",
+  "release_date": "2023-07-14",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

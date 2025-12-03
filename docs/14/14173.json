@@ -1,0 +1,37 @@
+{
+  "id": 14173,
+  "title": "Princess",
+  "original_title": "Princess",
+  "release_date": "2006-06-16",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

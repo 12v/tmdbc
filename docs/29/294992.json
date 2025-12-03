@@ -1,0 +1,34 @@
+{
+  "id": 294992,
+  "title": "The Taking of Tiger Mountain",
+  "original_title": "\u667a\u53d6\u5a01\u864e\u5c71",
+  "release_date": "2014-12-24",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

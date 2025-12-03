@@ -1,0 +1,30 @@
+{
+  "id": 68347,
+  "title": "Food of the Gods II",
+  "original_title": "Food of the Gods II",
+  "release_date": "1989-05-18",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

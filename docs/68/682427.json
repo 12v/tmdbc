@@ -1,0 +1,29 @@
+{
+  "id": 682427,
+  "title": "Love Me, Love Me Not",
+  "original_title": "\u601d\u3044\u3001\u601d\u308f\u308c\u3001\u3075\u308a\u3001\u3075\u3089\u308c",
+  "release_date": "2020-08-14",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

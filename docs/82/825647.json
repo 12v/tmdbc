@@ -1,0 +1,29 @@
+{
+  "id": 825647,
+  "title": "Star Wars Biomes",
+  "original_title": "Star Wars Biomes",
+  "release_date": "2021-05-03",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

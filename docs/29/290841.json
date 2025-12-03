@@ -1,0 +1,48 @@
+{
+  "id": 290841,
+  "title": "Winx Club: The Mystery of the Abyss",
+  "original_title": "Winx Club - Il mistero degli abissi",
+  "release_date": "2014-09-04",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

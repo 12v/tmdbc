@@ -1,0 +1,38 @@
+{
+  "id": 45233,
+  "title": "Women's Prison Massacre",
+  "original_title": "Blade Violent - I violenti",
+  "release_date": "1983-05-06",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 958335,
+  "title": "Two Tickets to Greece",
+  "original_title": "Les Cyclades",
+  "release_date": "2023-01-11",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "FR",
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 176032,
+  "title": "Escape from the Liberty Cinema",
+  "original_title": "Ucieczka z kina \u201eWolno\u015b\u0107\u201d",
+  "release_date": "1990-10-14",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

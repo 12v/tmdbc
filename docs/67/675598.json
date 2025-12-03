@@ -1,0 +1,30 @@
+{
+  "id": 675598,
+  "title": "A Life of Speed: The Juan Manuel Fangio Story",
+  "original_title": "Fangio, el hombre que domaba las m\u00e1quinas",
+  "release_date": "2020-03-20",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

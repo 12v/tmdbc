@@ -1,0 +1,33 @@
+{
+  "id": 27873,
+  "title": "Battletruck",
+  "original_title": "Battletruck",
+  "release_date": "1982-01-01",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "NZ"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

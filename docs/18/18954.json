@@ -1,0 +1,25 @@
+{
+  "id": 18954,
+  "title": "Punch and Judy",
+  "original_title": "Rakvi\u010dk\u00e1rna",
+  "release_date": "1966-09-01",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

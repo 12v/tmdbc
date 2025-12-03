@@ -1,17 +1,12 @@
 {
-  "id": 327007,
-  "title": "Compasso de Espera",
-  "original_title": "Compasso de Espera",
-  "release_date": "1969-01-01",
+  "id": 440844,
+  "title": "Mercy",
+  "original_title": "Piedade",
+  "release_date": "2019-11-23",
   "status": "Released",
-  "runtime": 94,
+  "runtime": 98,
   "original_language": "pt",
   "spoken_languages": [
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
     {
       "english_name": "Portuguese",
       "iso_639_1": "pt",
@@ -25,10 +20,6 @@
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
     }
   ]
 }

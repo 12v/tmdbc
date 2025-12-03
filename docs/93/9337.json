@@ -1,0 +1,25 @@
+{
+  "id": 9337,
+  "title": "Girls on Top",
+  "original_title": "M\u00e4dchen M\u00e4dchen!",
+  "release_date": "2001-03-29",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 63293,
+  "title": "Three Poplars on Plyuschikha Street",
+  "original_title": "\u0422\u0440\u0438 \u0442\u043e\u043f\u043e\u043b\u044f \u043d\u0430 \u041f\u043b\u044e\u0449\u0438\u0445\u0435",
+  "release_date": "1968-04-29",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Uzbek",
+      "iso_639_1": "uz",
+      "name": "ozbek"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

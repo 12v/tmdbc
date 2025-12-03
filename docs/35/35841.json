@@ -1,25 +1,20 @@
 {
-  "id": 327007,
-  "title": "Compasso de Espera",
-  "original_title": "Compasso de Espera",
-  "release_date": "1969-01-01",
+  "id": 35841,
+  "title": "The Lonely Passion of Judith Hearne",
+  "original_title": "The Lonely Passion of Judith Hearne",
+  "release_date": "1987-12-23",
   "status": "Released",
-  "runtime": 94,
-  "original_language": "pt",
+  "runtime": 116,
+  "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Portuguese",
-      "iso_639_1": "pt",
-      "name": "Portugu\u00eas"
     }
   ],
   "origin_country": [
-    "BR"
+    "GB"
   ],
   "genres": [
     {

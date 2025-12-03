@@ -1,0 +1,29 @@
+{
+  "id": 42322,
+  "title": "Tarek's Situation",
+  "original_title": "\u0638\u0631\u0641 \u0637\u0627\u0631\u0642",
+  "release_date": "2006-01-03",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

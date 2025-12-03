@@ -1,0 +1,25 @@
+{
+  "id": 31607,
+  "title": "Davaro",
+  "original_title": "Davaro",
+  "release_date": "1981-11-09",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

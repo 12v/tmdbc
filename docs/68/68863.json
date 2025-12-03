@@ -1,0 +1,33 @@
+{
+  "id": 68863,
+  "title": "The Heroin Busters",
+  "original_title": "La via della droga",
+  "release_date": "1977-08-13",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

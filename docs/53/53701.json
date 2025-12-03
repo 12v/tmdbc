@@ -1,0 +1,29 @@
+{
+  "id": 53701,
+  "title": "Who's Camus Anyway?",
+  "original_title": "\u30ab\u30df\u30e5\u306a\u3093\u3066\u77e5\u3089\u306a\u3044",
+  "release_date": "2005-10-03",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

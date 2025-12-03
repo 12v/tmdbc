@@ -1,0 +1,40 @@
+{
+  "id": 30231,
+  "title": "Oxford Blues",
+  "original_title": "Oxford Blues",
+  "release_date": "1984-08-24",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

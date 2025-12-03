@@ -1,0 +1,29 @@
+{
+  "id": 1558981,
+  "title": "The Delivery Rider",
+  "original_title": "The Delivery Rider",
+  "release_date": "2025-10-23",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 309302,
+  "title": "Wolf Totem",
+  "original_title": "\u72fc\u56fe\u817e",
+  "release_date": "2015-02-19",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Mongolian",
+      "iso_639_1": "mn",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

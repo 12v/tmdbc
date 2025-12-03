@@ -1,0 +1,35 @@
+{
+  "id": 84070,
+  "title": "Zenne Dancer",
+  "original_title": "Zenne",
+  "release_date": "2012-01-13",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
