@@ -1,0 +1,33 @@
+{
+  "id": 995045,
+  "title": "The Ghost",
+  "original_title": "An Taibhse",
+  "release_date": "2025-03-28",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ga",
+  "spoken_languages": [
+    {
+      "english_name": "Irish",
+      "iso_639_1": "ga",
+      "name": "Gaeilge"
+    }
+  ],
+  "origin_country": [
+    "IE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

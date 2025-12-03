@@ -1,0 +1,34 @@
+{
+  "id": 1418965,
+  "title": "Red Velvet Happiness Diary : My Dear, ReVe1uv in Cinemas",
+  "original_title": "\ub808\ub4dc\ubca8\ubcb3 \ud574\ud53c\ub2c8\uc2a4 \ub2e4\uc774\uc5b4\ub9ac : \ub9c8\uc774 \ub514\uc5b4, \ub808\ubca0\ub7fd \uc778 \uc2dc\ub124\ub9c8",
+  "release_date": "2025-02-05",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

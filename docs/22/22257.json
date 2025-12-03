@@ -1,0 +1,29 @@
+{
+  "id": 22257,
+  "title": "Vabank",
+  "original_title": "Vabank",
+  "release_date": "1981-10-01",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

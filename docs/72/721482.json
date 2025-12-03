@@ -1,0 +1,25 @@
+{
+  "id": 721482,
+  "title": "Dear Tenant",
+  "original_title": "\u89aa\u611b\u7684\u623f\u5ba2",
+  "release_date": "2020-10-23",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

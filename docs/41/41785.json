@@ -1,0 +1,39 @@
+{
+  "id": 41785,
+  "title": "Cabeza de Vaca",
+  "original_title": "Cabeza de Vaca",
+  "release_date": "1991-10-11",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

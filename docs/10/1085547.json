@@ -1,0 +1,29 @@
+{
+  "id": 1085547,
+  "title": "Vash",
+  "original_title": "\u0ab5\u0ab6",
+  "release_date": "2023-02-10",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "gu",
+  "spoken_languages": [
+    {
+      "english_name": "Gujarati",
+      "iso_639_1": "gu",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "id": 1286185,
-  "title": "The Carpenter's Son",
-  "original_title": "The Carpenter's Son",
-  "release_date": "2025-11-13",
+  "id": 88107,
+  "title": "Double Trouble",
+  "original_title": "Double Trouble",
+  "release_date": "1992-02-14",
   "status": "Released",
-  "runtime": 94,
+  "runtime": 86,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,13 +14,16 @@
     }
   ],
   "origin_country": [
-    "FR",
-    "GB"
+    "US"
   ],
   "genres": [
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

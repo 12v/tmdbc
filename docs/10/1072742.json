@@ -1,0 +1,25 @@
+{
+  "id": 1072742,
+  "title": "When Morning Comes, I Feel Empty",
+  "original_title": "\u671d\u304c\u304f\u308b\u3068\u3080\u306a\u3057\u304f\u306a\u308b",
+  "release_date": "2023-12-01",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

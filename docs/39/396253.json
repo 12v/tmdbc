@@ -1,0 +1,25 @@
+{
+  "id": 396253,
+  "title": "Diamond Island",
+  "original_title": "Diamond Island",
+  "release_date": "2016-12-28",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Khmer",
+      "iso_639_1": "km",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

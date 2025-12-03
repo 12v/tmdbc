@@ -1,0 +1,29 @@
+{
+  "id": 174178,
+  "title": "The Madness of Dr. Tube",
+  "original_title": "La folie du Docteur Tube",
+  "release_date": "1915-01-01",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

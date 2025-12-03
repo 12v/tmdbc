@@ -1,0 +1,33 @@
+{
+  "id": 450647,
+  "title": "Danur: I Can See Ghosts",
+  "original_title": "Danur",
+  "release_date": "2017-03-27",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

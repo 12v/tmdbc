@@ -1,0 +1,37 @@
+{
+  "id": 438058,
+  "title": "Case Closed: The Crimson Love Letter",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u304b\u3089\u7d05\u306e\u604b\u6b4c",
+  "release_date": "2017-04-15",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

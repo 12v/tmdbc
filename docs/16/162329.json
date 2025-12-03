@@ -1,0 +1,29 @@
+{
+  "id": 162329,
+  "title": "She Spent So Many Hours Under the Sun Lamps",
+  "original_title": "Elle a pass\u00e9 tant d'heures sous les sunlights...",
+  "release_date": "1985-10-09",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

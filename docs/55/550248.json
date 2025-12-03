@@ -1,10 +1,10 @@
 {
-  "id": 1286185,
-  "title": "The Carpenter's Son",
-  "original_title": "The Carpenter's Son",
-  "release_date": "2025-11-13",
+  "id": 550248,
+  "title": "Joe Rogan: Strange Times",
+  "original_title": "Joe Rogan: Strange Times",
+  "release_date": "2018-10-02",
   "status": "Released",
-  "runtime": 94,
+  "runtime": 63,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,13 +14,12 @@
     }
   ],
   "origin_country": [
-    "FR",
-    "GB"
+    "US"
   ],
   "genres": [
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

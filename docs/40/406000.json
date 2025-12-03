@@ -1,0 +1,35 @@
+{
+  "id": 406000,
+  "title": "The Teacher",
+  "original_title": "U\u010dite\u013eka",
+  "release_date": "2016-07-21",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "sk",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Sloven\u010dina"
+    }
+  ],
+  "origin_country": [
+    "CZ",
+    "SK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

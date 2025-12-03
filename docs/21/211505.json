@@ -1,0 +1,33 @@
+{
+  "id": 211505,
+  "title": "D@bbe: Demon Possession",
+  "original_title": "D@bbe: Bir Cin Vakas\u0131",
+  "release_date": "2012-08-03",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

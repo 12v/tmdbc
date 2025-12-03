@@ -1,0 +1,25 @@
+{
+  "id": 377276,
+  "title": "Struggle for Life",
+  "original_title": "La Loi de la jungle",
+  "release_date": "2016-06-15",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

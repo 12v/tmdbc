@@ -1,0 +1,29 @@
+{
+  "id": 590869,
+  "title": "Hammamet",
+  "original_title": "Hammamet",
+  "release_date": "2020-01-09",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

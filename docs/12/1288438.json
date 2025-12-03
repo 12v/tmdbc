@@ -1,0 +1,35 @@
+{
+  "id": 1288438,
+  "title": "Godzilla x Kong: Supernova",
+  "original_title": "Godzilla x Kong: Supernova",
+  "release_date": "2027-03-26",
+  "status": "In Production",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "CN",
+    "US",
+    "IN",
+    "JP",
+    "MX",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

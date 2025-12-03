@@ -1,0 +1,31 @@
+{
+  "id": 12124,
+  "title": "The Journey",
+  "original_title": "El viaje",
+  "release_date": "1992-04-30",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

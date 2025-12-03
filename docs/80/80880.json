@@ -1,0 +1,33 @@
+{
+  "id": 80880,
+  "title": "Aarya",
+  "original_title": "\u0c06\u0c30\u0c4d\u0c2f",
+  "release_date": "2004-05-07",
+  "status": "Released",
+  "runtime": 151,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

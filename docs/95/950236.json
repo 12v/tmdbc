@@ -1,0 +1,29 @@
+{
+  "id": 950236,
+  "title": "Broken Wings",
+  "original_title": "Sayap Sayap Patah",
+  "release_date": "2022-08-18",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

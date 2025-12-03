@@ -1,8 +1,8 @@
 {
-  "id": 1286185,
-  "title": "The Carpenter's Son",
-  "original_title": "The Carpenter's Son",
-  "release_date": "2025-11-13",
+  "id": 3004,
+  "title": "Twelve Plus One",
+  "original_title": "12 + 1",
+  "release_date": "1969-10-07",
   "status": "Released",
   "runtime": 94,
   "original_language": "en",
@@ -15,12 +15,12 @@
   ],
   "origin_country": [
     "FR",
-    "GB"
+    "IT"
   ],
   "genres": [
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

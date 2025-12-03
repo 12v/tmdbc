@@ -1,0 +1,29 @@
+{
+  "id": 29043,
+  "title": "The White Hell of Pitz Palu",
+  "original_title": "Die wei\u00dfe H\u00f6lle vom Piz Pal\u00fc",
+  "release_date": "1929-10-10",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

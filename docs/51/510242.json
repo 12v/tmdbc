@@ -1,0 +1,33 @@
+{
+  "id": 510242,
+  "title": "Psycho-Pass: Sinners of the System - Case.1 Crime and Punishment",
+  "original_title": "PSYCHO-PASS \u30b5\u30a4\u30b3\u30d1\u30b9 Sinners of the System Case.1\u300c\u7f6a\u3068\u7f70\u300d",
+  "release_date": "2019-01-25",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

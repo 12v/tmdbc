@@ -1,0 +1,30 @@
+{
+  "id": 576393,
+  "title": "Fall in Love at First Kiss",
+  "original_title": "\u4e00\u543b\u5b9a\u60c5",
+  "release_date": "2019-02-14",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW",
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

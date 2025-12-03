@@ -1,0 +1,38 @@
+{
+  "id": 332179,
+  "title": "April 9th",
+  "original_title": "9. april",
+  "release_date": "2015-03-12",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

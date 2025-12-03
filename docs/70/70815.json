@@ -1,0 +1,33 @@
+{
+  "id": 70815,
+  "title": "Caramuru: Brazil Reinvented",
+  "original_title": "Caramuru: A inven\u00e7\u00e3o do Brasil",
+  "release_date": "2001-11-09",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

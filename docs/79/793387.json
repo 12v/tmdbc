@@ -1,0 +1,37 @@
+{
+  "id": 793387,
+  "title": "Holy Night: Demon Hunters",
+  "original_title": "\uac70\ub8e9\ud55c \ubc24: \ub370\ubaac \ud5cc\ud130\uc2a4",
+  "release_date": "2025-04-30",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}
