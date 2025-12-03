@@ -2,7 +2,7 @@
   "id": 1102883,
   "title": "Mother Mary",
   "original_title": "Mother Mary",
-  "release_date": "",
+  "release_date": "2026-04-26",
   "status": "Post Production",
   "runtime": 0,
   "original_language": "en",
@@ -24,6 +24,10 @@
     {
       "id": 10402,
       "name": "Music"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }
