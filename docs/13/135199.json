@@ -1,0 +1,33 @@
+{
+  "id": 135199,
+  "title": "Ek Hasina Thi",
+  "original_title": "\u090f\u0915 \u0939\u0938\u0940\u0928\u093e \u0925\u0940",
+  "release_date": "2004-01-16",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

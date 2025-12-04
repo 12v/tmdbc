@@ -1,0 +1,38 @@
+{
+  "id": 162954,
+  "title": "Walk Cheerfully",
+  "original_title": "\u6717\u304b\u306b\u6b69\u3081",
+  "release_date": "1930-03-01",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

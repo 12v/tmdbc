@@ -1,0 +1,29 @@
+{
+  "id": 887645,
+  "title": "Just Short of Perfect",
+  "original_title": "Amor Sem Medida",
+  "release_date": "2021-11-18",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 64538,
+  "title": "Flavia the Heretic",
+  "original_title": "Flavia, la monaca musulmana",
+  "release_date": "1974-06-14",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

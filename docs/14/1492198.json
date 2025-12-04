@@ -1,0 +1,31 @@
+{
+  "id": 1492198,
+  "title": "Artificial",
+  "original_title": "Artificial",
+  "release_date": "",
+  "status": "Post Production",
+  "runtime": 0,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 15303,
+  "title": "Frozen Stiff",
+  "original_title": "Mrtav 'ladan",
+  "release_date": "2002-03-15",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "RS"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

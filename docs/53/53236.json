@@ -1,0 +1,34 @@
+{
+  "id": 53236,
+  "title": "My Amnesia Girl",
+  "original_title": "My Amnesia Girl",
+  "release_date": "2010-11-24",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

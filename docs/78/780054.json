@@ -1,0 +1,25 @@
+{
+  "id": 780054,
+  "title": "Loop",
+  "original_title": "Loop",
+  "release_date": "2021-06-24",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

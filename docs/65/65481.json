@@ -1,0 +1,25 @@
+{
+  "id": 65481,
+  "title": "Germany Pale Mother",
+  "original_title": "Deutschland bleiche Mutter",
+  "release_date": "1980-09-26",
+  "status": "Released",
+  "runtime": 151,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

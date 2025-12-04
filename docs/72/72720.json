@@ -1,0 +1,38 @@
+{
+  "id": 72720,
+  "title": "Hot Wheels AcceleRacers: Ignition",
+  "original_title": "Hot Wheels AcceleRacers: Ignition",
+  "release_date": "2005-01-08",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

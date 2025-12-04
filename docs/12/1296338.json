@@ -1,0 +1,33 @@
+{
+  "id": 1296338,
+  "title": "Sumathi Valavu",
+  "original_title": "\u0d38\u0d41\u0d2e\u0d24\u0d3f \u0d35\u0d33\u0d35\u0d4d",
+  "release_date": "2025-08-01",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

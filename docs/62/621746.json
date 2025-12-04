@@ -1,0 +1,29 @@
+{
+  "id": 621746,
+  "title": "Zana",
+  "original_title": "Zana",
+  "release_date": "2019-09-21",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "sq",
+  "spoken_languages": [
+    {
+      "english_name": "Albanian",
+      "iso_639_1": "sq",
+      "name": "shqip"
+    }
+  ],
+  "origin_country": [
+    "XK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

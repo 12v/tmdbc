@@ -1,0 +1,33 @@
+{
+  "id": 1367125,
+  "title": "Gaua (The Night)",
+  "original_title": "Gaua",
+  "release_date": "2025-11-14",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "eu",
+  "spoken_languages": [
+    {
+      "english_name": "Basque",
+      "iso_639_1": "eu",
+      "name": "euskera"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

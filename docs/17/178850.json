@@ -1,0 +1,25 @@
+{
+  "id": 178850,
+  "title": "Beyonc\u00e9: Life Is But a Dream",
+  "original_title": "Beyonc\u00e9: Life Is But a Dream",
+  "release_date": "2013-06-10",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

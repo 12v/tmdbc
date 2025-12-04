@@ -1,0 +1,25 @@
+{
+  "id": 496748,
+  "title": "Deliha 2",
+  "original_title": "Deliha 2",
+  "release_date": "2018-01-12",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

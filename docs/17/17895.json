@@ -1,0 +1,34 @@
+{
+  "id": 17895,
+  "title": "Antarctica",
+  "original_title": "\u5357\u6975\u7269\u8a9e",
+  "release_date": "1983-07-23",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

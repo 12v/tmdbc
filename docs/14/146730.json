@@ -1,0 +1,25 @@
+{
+  "id": 146730,
+  "title": "Alice's Wonderland",
+  "original_title": "Alice's Wonderland",
+  "release_date": "1923-01-01",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

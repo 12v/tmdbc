@@ -1,0 +1,25 @@
+{
+  "id": 24457,
+  "title": "Dudes!",
+  "original_title": "\u041c\u0443\u045a\u0435!",
+  "release_date": "2001-03-21",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

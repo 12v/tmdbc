@@ -1,0 +1,30 @@
+{
+  "id": 38750,
+  "title": "The Manster",
+  "original_title": "The Manster",
+  "release_date": "1959-07-01",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

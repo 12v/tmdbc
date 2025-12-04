@@ -1,0 +1,25 @@
+{
+  "id": 84995,
+  "title": "Satan's Blade",
+  "original_title": "Satan's Blade",
+  "release_date": "1984-01-01",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

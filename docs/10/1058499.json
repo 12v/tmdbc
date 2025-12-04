@@ -1,0 +1,25 @@
+{
+  "id": 1058499,
+  "title": "The Major Tones",
+  "original_title": "Los tonos mayores",
+  "release_date": "2024-07-12",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

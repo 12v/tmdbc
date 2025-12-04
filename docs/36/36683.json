@@ -1,0 +1,33 @@
+{
+  "id": 36683,
+  "title": "20th Century Boys: Beginning of the End",
+  "original_title": "20\u4e16\u7d00\u5c11\u5e74 \uff0d\u7b2c1\u7ae0\uff0d \u7d42\u308f\u308a\u306e\u59cb\u307e\u308a",
+  "release_date": "2008-08-19",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

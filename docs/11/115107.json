@@ -1,0 +1,25 @@
+{
+  "id": 115107,
+  "title": "A Family Like Many Others",
+  "original_title": "Una familia de tantas",
+  "release_date": "1949-03-11",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

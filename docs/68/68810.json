@@ -1,0 +1,37 @@
+{
+  "id": 68810,
+  "title": "Dragon Ball The Magic Begins",
+  "original_title": "\u65b0\u4e03\u9f8d\u73e0 \u795e\u9f8d\u7684\u50b3\u8aaa",
+  "release_date": "1991-11-30",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

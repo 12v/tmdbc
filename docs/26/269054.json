@@ -1,0 +1,29 @@
+{
+  "id": 269054,
+  "title": "Pajarito G\u00f3mez (una vida feliz)",
+  "original_title": "Pajarito G\u00f3mez (una vida feliz)",
+  "release_date": "1965-08-04",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

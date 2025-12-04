@@ -1,0 +1,33 @@
+{
+  "id": 608085,
+  "title": "Seven Days War",
+  "original_title": "\u307c\u304f\u3089\u306e7\u65e5\u9593\u6226\u4e89",
+  "release_date": "2019-12-13",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

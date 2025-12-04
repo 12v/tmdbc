@@ -1,0 +1,35 @@
+{
+  "id": 836489,
+  "title": "Freda",
+  "original_title": "Freda",
+  "release_date": "2021-10-13",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Haitian; Haitian Creole",
+      "iso_639_1": "ht",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

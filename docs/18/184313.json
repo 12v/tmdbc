@@ -1,0 +1,42 @@
+{
+  "id": 184313,
+  "title": "Goat Story With Cheese",
+  "original_title": "Koz\u00ed p\u0159\u00edb\u011bh se s\u00fdrem",
+  "release_date": "2012-10-25",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

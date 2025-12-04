@@ -1,0 +1,29 @@
+{
+  "id": 1127087,
+  "title": "Sijjin",
+  "original_title": "Sijjin",
+  "release_date": "2023-11-09",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

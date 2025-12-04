@@ -1,0 +1,25 @@
+{
+  "id": 58007,
+  "title": "Poverty and Nobility",
+  "original_title": "Miseria e nobilt\u00e0",
+  "release_date": "1954-04-17",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 330420,
+  "title": "Puli",
+  "original_title": "\u0baa\u0bc1\u0bb2\u0bbf",
+  "release_date": "2015-10-01",
+  "status": "Released",
+  "runtime": 155,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

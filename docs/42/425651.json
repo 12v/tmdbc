@@ -1,0 +1,25 @@
+{
+  "id": 425651,
+  "title": "La Traviata",
+  "original_title": "La Traviata",
+  "release_date": "2017-03-19",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

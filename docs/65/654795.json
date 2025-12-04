@@ -1,0 +1,33 @@
+{
+  "id": 654795,
+  "title": "Portrait of a Beauty",
+  "original_title": "G\u00fczelli\u011fin Portresi",
+  "release_date": "2019-12-13",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

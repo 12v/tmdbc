@@ -1,0 +1,33 @@
+{
+  "id": 49573,
+  "title": "Flower & Snake",
+  "original_title": "\u82b1\u3068\u86c7",
+  "release_date": "1974-06-22",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

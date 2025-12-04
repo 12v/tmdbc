@@ -1,0 +1,25 @@
+{
+  "id": 652994,
+  "title": "Hello My Dear",
+  "original_title": "Merhaba Can\u0131m",
+  "release_date": "2021-05-01",
+  "status": "Released",
+  "runtime": 58,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

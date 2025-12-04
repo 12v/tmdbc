@@ -1,0 +1,27 @@
+{
+  "id": 712071,
+  "title": "Kapaemahu",
+  "original_title": "Kapaemahu",
+  "release_date": "2020-04-18",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}
