@@ -1,0 +1,37 @@
+{
+  "id": 454161,
+  "title": "The Shadow Play",
+  "original_title": "\u98ce\u4e2d\u6709\u6735\u96e8\u505a\u7684\u4e91",
+  "release_date": "2019-04-04",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

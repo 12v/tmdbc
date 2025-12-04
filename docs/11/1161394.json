@@ -1,0 +1,25 @@
+{
+  "id": 1161394,
+  "title": "Nothing Like Before \u2013 The Music of Clube da Esquina",
+  "original_title": "Nada Ser\u00e1 Como Antes - A M\u00fasica do Clube da Esquina",
+  "release_date": "2024-03-28",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

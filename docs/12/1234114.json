@@ -1,0 +1,29 @@
+{
+  "id": 1234114,
+  "title": "The Time of Fever",
+  "original_title": "\ub0b4 \uc190\ub05d\uc5d0 \ub108\uc758 \uc628\ub3c4\uac00 \ub2ff\uc744 \ub54c",
+  "release_date": "2024-05-15",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

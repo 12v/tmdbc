@@ -1,0 +1,29 @@
+{
+  "id": 11144,
+  "title": "They Called Him Bulldozer",
+  "original_title": "Lo chiamavano Bulldozer",
+  "release_date": "1978-09-15",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

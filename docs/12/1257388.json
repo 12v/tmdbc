@@ -1,0 +1,33 @@
+{
+  "id": 1257388,
+  "title": "My Boo",
+  "original_title": "\u0e2d\u0e19\u0e07\u0e04\u0e4c",
+  "release_date": "2024-05-01",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 443635,
+  "title": "DJ: Duvvada Jagannadham",
+  "original_title": "\u0c21\u0c40\u0c1c\u0c47: \u0c26\u0c41\u0c35\u0c4d\u0c35\u0c3e\u0c21 \u0c1c\u0c17\u0c28\u0c4d\u0c28\u0c3e\u0c25\u0c02",
+  "release_date": "2017-06-23",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

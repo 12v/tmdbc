@@ -1,0 +1,30 @@
+{
+  "id": 259463,
+  "title": "wkw/tk/1996@7'55''hk.net",
+  "original_title": "wkw/tk/1996@7'55''hk.net",
+  "release_date": "1996-11-15",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

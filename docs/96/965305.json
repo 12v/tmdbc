@@ -1,0 +1,34 @@
+{
+  "id": 965305,
+  "title": "Project Iceman",
+  "original_title": "Project Iceman",
+  "release_date": "2022-10-01",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

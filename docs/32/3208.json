@@ -1,10 +1,10 @@
 {
-  "id": 1101383,
-  "title": "Flowervale Street",
-  "original_title": "Flowervale Street",
-  "release_date": "2026-08-12",
-  "status": "Post Production",
-  "runtime": 99,
+  "id": 3208,
+  "title": "I Was a Teenage Frankenstein",
+  "original_title": "I Was a Teenage Frankenstein",
+  "release_date": "1957-11-23",
+  "status": "Released",
+  "runtime": 74,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,16 +18,12 @@
   ],
   "genres": [
     {
-      "id": 12,
-      "name": "Adventure"
+      "id": 27,
+      "name": "Horror"
     },
     {
       "id": 878,
       "name": "Science Fiction"
-    },
-    {
-      "id": 53,
-      "name": "Thriller"
     }
   ]
 }

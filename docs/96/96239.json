@@ -1,0 +1,29 @@
+{
+  "id": 96239,
+  "title": "Zombadings 1: Patayin sa Shokot si Remington",
+  "original_title": "Zombadings 1: Patayin sa Shokot si Remington",
+  "release_date": "2011-08-31",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

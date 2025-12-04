@@ -1,0 +1,26 @@
+{
+  "id": 442943,
+  "title": "Bobbi Jene",
+  "original_title": "Bobbi Jene",
+  "release_date": "2017-09-22",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

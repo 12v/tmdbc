@@ -1,0 +1,39 @@
+{
+  "id": 543774,
+  "title": "Lionheart",
+  "original_title": "Lionheart",
+  "release_date": "2018-09-08",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Igbo",
+      "iso_639_1": "ig",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hausa",
+      "iso_639_1": "ha",
+      "name": "Hausa"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

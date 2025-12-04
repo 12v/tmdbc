@@ -1,0 +1,25 @@
+{
+  "id": 850467,
+  "title": "Horse in the House",
+  "original_title": "L\u00f3 a h\u00e1zban",
+  "release_date": "1976-03-04",
+  "status": "Released",
+  "runtime": 6,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

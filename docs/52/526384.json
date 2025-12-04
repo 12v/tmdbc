@@ -1,0 +1,29 @@
+{
+  "id": 526384,
+  "title": "Cafe Funiculi Funicula",
+  "original_title": "\u30b3\u30fc\u30d2\u30fc\u304c\u51b7\u3081\u306a\u3044\u3046\u3061\u306b",
+  "release_date": "2018-09-21",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

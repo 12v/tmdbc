@@ -1,0 +1,29 @@
+{
+  "id": 1005279,
+  "title": "Vera",
+  "original_title": "Vera",
+  "release_date": "2022-08-31",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

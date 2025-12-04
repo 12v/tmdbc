@@ -1,0 +1,29 @@
+{
+  "id": 60049,
+  "title": "Come tu mi vuoi",
+  "original_title": "Come tu mi vuoi",
+  "release_date": "2007-10-09",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

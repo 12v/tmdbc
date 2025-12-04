@@ -1,0 +1,37 @@
+{
+  "id": 312152,
+  "title": "Chuck Norris vs Communism",
+  "original_title": "Chuck Norris vs Comunism",
+  "release_date": "2015-11-12",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "RO",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

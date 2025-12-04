@@ -1,0 +1,29 @@
+{
+  "id": 31353,
+  "title": "Those Who Love Me Can Take the Train",
+  "original_title": "Ceux qui m'aiment prendront le train",
+  "release_date": "1998-05-15",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

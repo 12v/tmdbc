@@ -1,0 +1,33 @@
+{
+  "id": 30298,
+  "title": "The Secret of Santa Vittoria",
+  "original_title": "The Secret of Santa Vittoria",
+  "release_date": "1970-01-02",
+  "status": "Released",
+  "runtime": 139,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 300687,
+  "title": "Same Kind of Different as Me",
+  "original_title": "Same Kind of Different as Me",
+  "release_date": "2017-10-20",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

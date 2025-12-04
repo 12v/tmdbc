@@ -1,0 +1,26 @@
+{
+  "id": 127293,
+  "title": "Lumumba: Death of a Prophet",
+  "original_title": "Lumumba : La Mort du proph\u00e8te",
+  "release_date": "1991-11-01",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

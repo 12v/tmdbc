@@ -1,0 +1,33 @@
+{
+  "id": 94965,
+  "title": "Okkadu",
+  "original_title": "\u0c12\u0c15\u0c4d\u0c15\u0c21\u0c41",
+  "release_date": "2003-01-15",
+  "status": "Released",
+  "runtime": 170,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

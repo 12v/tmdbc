@@ -1,0 +1,37 @@
+{
+  "id": 64719,
+  "title": "Stray Cat Rock: Machine Animal",
+  "original_title": "\u91ce\u826f\u732b\u30ed\u30c3\u30af\u3000\u30de\u30b7\u30f3\u30fb\u30a2\u30cb\u30de\u30eb",
+  "release_date": "1970-11-22",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

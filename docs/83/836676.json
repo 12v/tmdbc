@@ -1,0 +1,26 @@
+{
+  "id": 836676,
+  "title": "Blue Weekend",
+  "original_title": "Blue Weekend",
+  "release_date": "2021-06-10",
+  "status": "Released",
+  "runtime": 41,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

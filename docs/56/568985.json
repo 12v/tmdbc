@@ -1,0 +1,29 @@
+{
+  "id": 568985,
+  "title": "Hebe",
+  "original_title": "Hebe: A Estrela do Brasil",
+  "release_date": "2019-09-26",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

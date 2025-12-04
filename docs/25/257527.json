@@ -1,0 +1,25 @@
+{
+  "id": 257527,
+  "title": "Sadako 3D 2",
+  "original_title": "\u8c9e\u5b503D2",
+  "release_date": "2013-08-30",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

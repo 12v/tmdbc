@@ -1,0 +1,29 @@
+{
+  "id": 185357,
+  "title": "Chokher Bali",
+  "original_title": "\u099a\u09cb\u0996\u09c7\u09b0 \u09ac\u09be\u09b2\u09bf",
+  "release_date": "2003-08-09",
+  "status": "Released",
+  "runtime": 167,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 884434,
+  "title": "Shehzada",
+  "original_title": "\u0936\u0939\u091c\u093c\u093e\u0926\u093e",
+  "release_date": "2023-02-17",
+  "status": "Released",
+  "runtime": 142,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 26813,
+  "title": "Himalaya",
+  "original_title": "Himalaya - l'enfance d'un chef",
+  "release_date": "1999-09-13",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Tibetan",
+      "iso_639_1": "bo",
+      "name": "\u0f56\u0f7c\u0f51\u0f0b\u0f66\u0f90\u0f51\u0f0b\u0f0d"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "NP",
+    "GB",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

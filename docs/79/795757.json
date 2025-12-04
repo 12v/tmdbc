@@ -1,0 +1,32 @@
+{
+  "id": 795757,
+  "title": "Taste",
+  "original_title": "V\u1ecb",
+  "release_date": "2021-04-22",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Yoruba",
+      "iso_639_1": "yo",
+      "name": "\u00c8d\u00e8 Yor\u00f9b\u00e1"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "SG",
+    "TW",
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

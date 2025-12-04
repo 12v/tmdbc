@@ -1,0 +1,29 @@
+{
+  "id": 103199,
+  "title": "Tizoc",
+  "original_title": "Tizoc",
+  "release_date": "1957-10-23",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}
