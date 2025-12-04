@@ -1,0 +1,25 @@
+{
+  "id": 27401,
+  "title": "Horror Rises from the Tomb",
+  "original_title": "El espanto surge de la tumba",
+  "release_date": "1973-04-27",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

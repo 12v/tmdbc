@@ -1,0 +1,33 @@
+{
+  "id": 1219555,
+  "title": "More Beautiful",
+  "original_title": "Wundersch\u00f6ner",
+  "release_date": "2025-02-13",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

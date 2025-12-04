@@ -1,0 +1,25 @@
+{
+  "id": 438972,
+  "title": "The Sound of the Shaking Earth",
+  "original_title": "O Som da Terra a Tremer",
+  "release_date": "1990-10-22",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

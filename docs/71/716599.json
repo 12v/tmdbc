@@ -1,0 +1,29 @@
+{
+  "id": 716599,
+  "title": "Amiga do Inimigo",
+  "original_title": "Amiga do Inimigo",
+  "release_date": "2020-06-18",
+  "status": "Released",
+  "runtime": 70,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

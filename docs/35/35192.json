@@ -1,0 +1,25 @@
+{
+  "id": 35192,
+  "title": "Black Past",
+  "original_title": "Black Past",
+  "release_date": "1989-01-01",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

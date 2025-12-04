@@ -1,0 +1,37 @@
+{
+  "id": 1073486,
+  "title": "Vaalvi",
+  "original_title": "\u0935\u093e\u0933\u0935\u0940",
+  "release_date": "2023-01-13",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "mr",
+  "spoken_languages": [
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

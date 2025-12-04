@@ -1,0 +1,29 @@
+{
+  "id": 36329,
+  "title": "Paju",
+  "original_title": "\ud30c\uc8fc",
+  "release_date": "2009-10-28",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

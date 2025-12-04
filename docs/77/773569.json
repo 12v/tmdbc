@@ -1,0 +1,33 @@
+{
+  "id": 773569,
+  "title": "The Soul",
+  "original_title": "\u7ddd\u9b42",
+  "release_date": "2021-01-08",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

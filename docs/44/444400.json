@@ -1,0 +1,29 @@
+{
+  "id": 444400,
+  "title": "Mug",
+  "original_title": "Twarz",
+  "release_date": "2018-03-15",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

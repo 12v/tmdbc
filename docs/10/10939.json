@@ -1,0 +1,25 @@
+{
+  "id": 10939,
+  "title": "The Return of the Tall Blond Man with One Black Shoe",
+  "original_title": "Le Retour du Grand Blond",
+  "release_date": "1974-11-12",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

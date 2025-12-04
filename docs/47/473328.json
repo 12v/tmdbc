@@ -1,0 +1,29 @@
+{
+  "id": 473328,
+  "title": "Wrath of Silence",
+  "original_title": "\u66b4\u88c2\u65e0\u58f0",
+  "release_date": "2018-04-04",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

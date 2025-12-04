@@ -1,0 +1,29 @@
+{
+  "id": 37034,
+  "title": "True Legend",
+  "original_title": "\u82cf\u4e5e\u513f",
+  "release_date": "2010-02-09",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

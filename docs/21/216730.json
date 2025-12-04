@@ -1,0 +1,29 @@
+{
+  "id": 216730,
+  "title": "Sapovnela",
+  "original_title": "\u10e1\u10d0\u10de\u10dd\u10d5\u10dc\u10d4\u10da\u10d0",
+  "release_date": "1959-02-07",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

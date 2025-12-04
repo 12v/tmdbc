@@ -1,0 +1,25 @@
+{
+  "id": 608776,
+  "title": "About Love",
+  "original_title": "\u0905\u092c\u093e\u0909\u091f \u0932\u0935",
+  "release_date": "2020-06-20",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "mr",
+  "spoken_languages": [
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

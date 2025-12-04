@@ -1,0 +1,23 @@
+{
+  "id": 52355,
+  "title": "Hot Saturday",
+  "original_title": "Hot Saturday",
+  "release_date": "1932-10-28",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

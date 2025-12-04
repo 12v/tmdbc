@@ -1,10 +1,10 @@
 {
-  "id": 1063549,
-  "title": "Gaga Chromatica Ball",
-  "original_title": "Gaga Chromatica Ball",
-  "release_date": "2024-07-19",
+  "id": 85184,
+  "title": "Nightmares",
+  "original_title": "Nightmares",
+  "release_date": "1980-10-30",
   "status": "Released",
-  "runtime": 113,
+  "runtime": 83,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,12 +14,16 @@
     }
   ],
   "origin_country": [
-    "US"
+    "AU"
   ],
   "genres": [
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }

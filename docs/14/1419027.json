@@ -1,0 +1,29 @@
+{
+  "id": 1419027,
+  "title": "Attack 13",
+  "original_title": "\u0e27\u0e34\u0e0d\u0e0d\u0e32\u0e13\u0e40\u0e25\u0e02\u0e17\u0e35\u0e48 13",
+  "release_date": "2025-06-13",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 36085,
+  "title": "The Crocodiles Strike Back",
+  "original_title": "Vorstadtkrokodile 2",
+  "release_date": "2010-01-21",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

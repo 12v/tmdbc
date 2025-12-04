@@ -1,0 +1,25 @@
+{
+  "id": 56937,
+  "title": "Cold Prey III",
+  "original_title": "Fritt vilt III",
+  "release_date": "2010-10-15",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

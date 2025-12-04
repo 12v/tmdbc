@@ -1,0 +1,29 @@
+{
+  "id": 602291,
+  "title": "Intruder",
+  "original_title": "\uce68\uc785\uc790",
+  "release_date": "2020-06-04",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

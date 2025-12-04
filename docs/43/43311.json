@@ -1,10 +1,10 @@
 {
-  "id": 1063549,
-  "title": "Gaga Chromatica Ball",
-  "original_title": "Gaga Chromatica Ball",
-  "release_date": "2024-07-19",
+  "id": 43311,
+  "title": "The Opposite Sex",
+  "original_title": "The Opposite Sex",
+  "release_date": "1956-11-15",
   "status": "Released",
-  "runtime": 113,
+  "runtime": 116,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,16 @@
   ],
   "genres": [
     {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
       "id": 10402,
       "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
     }
   ]
 }

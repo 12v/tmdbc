@@ -1,10 +1,10 @@
 {
-  "id": 1063549,
-  "title": "Gaga Chromatica Ball",
-  "original_title": "Gaga Chromatica Ball",
-  "release_date": "2024-07-19",
+  "id": 82144,
+  "title": "Sun Ra: A Joyful Noise",
+  "original_title": "Sun Ra: A Joyful Noise",
+  "release_date": "1980-10-01",
   "status": "Released",
-  "runtime": 113,
+  "runtime": 59,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -17,6 +17,10 @@
     "US"
   ],
   "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
     {
       "id": 10402,
       "name": "Music"

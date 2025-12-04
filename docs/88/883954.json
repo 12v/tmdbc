@@ -1,10 +1,10 @@
 {
-  "id": 1063549,
-  "title": "Gaga Chromatica Ball",
-  "original_title": "Gaga Chromatica Ball",
-  "release_date": "2024-07-19",
+  "id": 883954,
+  "title": "Broke",
+  "original_title": "Broke",
+  "release_date": "2025-06-10",
   "status": "Released",
-  "runtime": 113,
+  "runtime": 104,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,12 @@
   ],
   "genres": [
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

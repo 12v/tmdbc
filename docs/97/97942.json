@@ -1,10 +1,10 @@
 {
-  "id": 1063549,
-  "title": "Gaga Chromatica Ball",
-  "original_title": "Gaga Chromatica Ball",
-  "release_date": "2024-07-19",
+  "id": 97942,
+  "title": "Scared to Death",
+  "original_title": "Scared to Death",
+  "release_date": "1980-03-01",
   "status": "Released",
-  "runtime": 113,
+  "runtime": 93,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,12 @@
   ],
   "genres": [
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
     }
   ]
 }

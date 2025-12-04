@@ -1,10 +1,10 @@
 {
-  "id": 1063549,
-  "title": "Gaga Chromatica Ball",
-  "original_title": "Gaga Chromatica Ball",
-  "release_date": "2024-07-19",
+  "id": 66588,
+  "title": "A Thousand Acres",
+  "original_title": "A Thousand Acres",
+  "release_date": "1997-09-19",
   "status": "Released",
-  "runtime": 113,
+  "runtime": 105,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,12 @@
   ],
   "genres": [
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
     }
   ]
 }

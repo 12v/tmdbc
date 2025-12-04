@@ -1,0 +1,33 @@
+{
+  "id": 88176,
+  "title": "The Lost One",
+  "original_title": "Der Verlorene",
+  "release_date": "1951-09-07",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

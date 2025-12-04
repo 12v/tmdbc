@@ -1,0 +1,29 @@
+{
+  "id": 62877,
+  "title": "Z\u00ebiram 2",
+  "original_title": "\u30bc\u30a4\u30e9\u30e0 2",
+  "release_date": "1994-12-17",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

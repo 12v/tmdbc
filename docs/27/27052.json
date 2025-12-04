@@ -1,0 +1,35 @@
+{
+  "id": 27052,
+  "title": "For a Lost Soldier",
+  "original_title": "Voor een verloren soldaat",
+  "release_date": "1992-09-18",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

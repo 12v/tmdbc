@@ -1,0 +1,38 @@
+{
+  "id": 607091,
+  "title": "Oh! Baby",
+  "original_title": "\u0c13! \u0c2c\u0c47\u0c2c\u0c40",
+  "release_date": "2019-07-04",
+  "status": "Released",
+  "runtime": 157,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "KR",
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 67104,
+  "title": "Cybernetic Grandma",
+  "original_title": "Kybernetick\u00e1 babi\u010dka",
+  "release_date": "1963-02-15",
+  "status": "Released",
+  "runtime": 29,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

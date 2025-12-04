@@ -1,0 +1,29 @@
+{
+  "id": 277261,
+  "title": "The Fossil",
+  "original_title": "\u5316\u77f3",
+  "release_date": "1975-10-04",
+  "status": "Released",
+  "runtime": 201,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

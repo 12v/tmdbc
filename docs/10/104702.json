@@ -1,0 +1,25 @@
+{
+  "id": 104702,
+  "title": "The Temptation of St. Anthony",
+  "original_title": "La tentation de Saint-Antoine",
+  "release_date": "1898-01-01",
+  "status": "Released",
+  "runtime": 2,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

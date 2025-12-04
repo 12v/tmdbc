@@ -1,0 +1,30 @@
+{
+  "id": 399504,
+  "title": "S Is for Stanley",
+  "original_title": "S is for Stanley",
+  "release_date": "2016-05-30",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

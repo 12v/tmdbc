@@ -1,0 +1,33 @@
+{
+  "id": 1153366,
+  "title": "Head to Head",
+  "original_title": "\u0631\u0627\u0633 \u0628\u0631\u0627\u0633",
+  "release_date": "2023-08-03",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "SA"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

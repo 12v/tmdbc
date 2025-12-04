@@ -1,10 +1,10 @@
 {
-  "id": 1063549,
-  "title": "Gaga Chromatica Ball",
-  "original_title": "Gaga Chromatica Ball",
-  "release_date": "2024-07-19",
+  "id": 862360,
+  "title": "Pirates",
+  "original_title": "Pirates",
+  "release_date": "2021-11-26",
   "status": "Released",
-  "runtime": 113,
+  "runtime": 80,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,9 +14,18 @@
     }
   ],
   "origin_country": [
+    "GB",
     "US"
   ],
   "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
     {
       "id": 10402,
       "name": "Music"

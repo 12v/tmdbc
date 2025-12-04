@@ -1,0 +1,33 @@
+{
+  "id": 1180831,
+  "title": "Troll 2",
+  "original_title": "Troll 2",
+  "release_date": "2025-11-30",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

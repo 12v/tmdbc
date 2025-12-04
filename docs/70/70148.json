@@ -1,0 +1,29 @@
+{
+  "id": 70148,
+  "title": "Two Summers",
+  "original_title": "Houve uma Vez Dois Ver\u00f5es",
+  "release_date": "2002-12-28",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

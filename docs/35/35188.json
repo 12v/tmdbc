@@ -1,10 +1,10 @@
 {
-  "id": 1063549,
-  "title": "Gaga Chromatica Ball",
-  "original_title": "Gaga Chromatica Ball",
-  "release_date": "2024-07-19",
+  "id": 35188,
+  "title": "The Disorderly Orderly",
+  "original_title": "The Disorderly Orderly",
+  "release_date": "1964-12-16",
   "status": "Released",
-  "runtime": 113,
+  "runtime": 89,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,12 @@
   ],
   "genres": [
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
     }
   ]
 }

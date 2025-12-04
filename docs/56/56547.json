@@ -1,0 +1,29 @@
+{
+  "id": 56547,
+  "title": "The Garage",
+  "original_title": "\u0413\u0430\u0440\u0430\u0436",
+  "release_date": "1979-11-23",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
