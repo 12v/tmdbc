@@ -1,10 +1,10 @@
 {
-  "id": 32048,
-  "title": "Still of the Night",
-  "original_title": "Still of the Night",
-  "release_date": "1982-11-19",
+  "id": 483096,
+  "title": "Gags the Clown",
+  "original_title": "Gags the Clown",
+  "release_date": "2019-03-02",
   "status": "Released",
-  "runtime": 91,
+  "runtime": 89,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,16 +18,12 @@
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
       "id": 27,
       "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

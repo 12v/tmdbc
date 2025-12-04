@@ -1,0 +1,29 @@
+{
+  "id": 342898,
+  "title": "The Beauty",
+  "original_title": "Gra\u017euol\u0117",
+  "release_date": "1969-12-27",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "lt",
+  "spoken_languages": [
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvi\u0173"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

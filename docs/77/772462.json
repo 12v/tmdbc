@@ -1,0 +1,25 @@
+{
+  "id": 772462,
+  "title": "Don't Follow Me",
+  "original_title": "No Me Sigas",
+  "release_date": "2025-10-30",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

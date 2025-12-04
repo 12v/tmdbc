@@ -1,0 +1,47 @@
+{
+  "id": 124091,
+  "title": "The Legend of Kaspar Hauser",
+  "original_title": "La leggenda di Kaspar Hauser",
+  "release_date": "2013-06-13",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

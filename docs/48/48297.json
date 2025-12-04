@@ -1,0 +1,34 @@
+{
+  "id": 48297,
+  "title": "Invincible Shaolin",
+  "original_title": "\u5357\u5c11\u6797\u8207\u5317\u5c11\u6797",
+  "release_date": "1978-11-19",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
-  "id": 32048,
-  "title": "Still of the Night",
-  "original_title": "Still of the Night",
-  "release_date": "1982-11-19",
+  "id": 154266,
+  "title": "Good Times",
+  "original_title": "Good Times",
+  "release_date": "1967-04-11",
   "status": "Released",
   "runtime": 91,
   "original_language": "en",
@@ -18,16 +18,12 @@
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
+      "id": 35,
+      "name": "Comedy"
     },
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
+      "id": 10402,
+      "name": "Music"
     }
   ]
 }

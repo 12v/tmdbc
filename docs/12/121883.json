@@ -1,0 +1,31 @@
+{
+  "id": 121883,
+  "title": "Lovely Rita",
+  "original_title": "Lovely Rita",
+  "release_date": "2001-11-02",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

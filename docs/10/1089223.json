@@ -1,0 +1,29 @@
+{
+  "id": 1089223,
+  "title": "Revolver",
+  "original_title": "\ub9ac\ubcfc\ubc84",
+  "release_date": "2024-08-07",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

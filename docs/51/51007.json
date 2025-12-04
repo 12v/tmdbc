@@ -1,0 +1,41 @@
+{
+  "id": 51007,
+  "title": "Black Sun: The Nanking Massacre",
+  "original_title": "\u9ed1\u592a\u967d\uff1a\u5357\u4eac\u5927\u5c60\u6bba",
+  "release_date": "1995-07-07",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 795775,
+  "title": "The World After Us",
+  "original_title": "Le monde apr\u00e8s nous",
+  "release_date": "2021-03-01",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

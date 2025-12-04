@@ -1,0 +1,30 @@
+{
+  "id": 1282448,
+  "title": "Kemah Terlarang: Kesurupan Massal",
+  "original_title": "Kemah Terlarang: Kesurupan Massal",
+  "release_date": "2024-10-10",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 288151,
+  "title": "The Act in Question",
+  "original_title": "El acto en cuesti\u00f3n",
+  "release_date": "1994-01-30",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

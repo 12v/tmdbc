@@ -1,10 +1,10 @@
 {
-  "id": 32048,
-  "title": "Still of the Night",
-  "original_title": "Still of the Night",
-  "release_date": "1982-11-19",
+  "id": 33725,
+  "title": "A Hole in the Head",
+  "original_title": "A Hole in the Head",
+  "release_date": "1959-09-15",
   "status": "Released",
-  "runtime": 91,
+  "runtime": 120,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,16 +18,12 @@
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
+      "id": 35,
+      "name": "Comedy"
     },
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
     }
   ]
 }

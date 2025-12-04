@@ -1,0 +1,29 @@
+{
+  "id": 653910,
+  "title": "Nightlife",
+  "original_title": "Nightlife",
+  "release_date": "2020-02-13",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

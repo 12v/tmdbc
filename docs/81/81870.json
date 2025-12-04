@@ -1,0 +1,34 @@
+{
+  "id": 81870,
+  "title": "Flying Swords of Dragon Gate",
+  "original_title": "\u9f8d\u9580\u98db\u7532",
+  "release_date": "2011-12-15",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

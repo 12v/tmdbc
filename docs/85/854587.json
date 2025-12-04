@@ -1,0 +1,33 @@
+{
+  "id": 854587,
+  "title": "Thinkalazhcha Nishchayam",
+  "original_title": "\u0d24\u0d3f\u0d19\u0d4d\u0d15\u0d33\u0d3e\u0d34\u0d4d\u0d1a \u0d28\u0d3f\u0d36\u0d4d\u0d1a\u0d2f\u0d02",
+  "release_date": "2021-10-29",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

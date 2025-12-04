@@ -1,0 +1,30 @@
+{
+  "id": 218117,
+  "title": "Those Whom Death Refused",
+  "original_title": "Mortu Nega",
+  "release_date": "1988-08-29",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "GW",
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

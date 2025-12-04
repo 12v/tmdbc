@@ -1,0 +1,29 @@
+{
+  "id": 36439,
+  "title": "The Unknown Soldier",
+  "original_title": "Tuntematon sotilas",
+  "release_date": "1955-12-23",
+  "status": "Released",
+  "runtime": 181,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

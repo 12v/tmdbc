@@ -1,10 +1,10 @@
 {
-  "id": 32048,
-  "title": "Still of the Night",
-  "original_title": "Still of the Night",
-  "release_date": "1982-11-19",
+  "id": 305966,
+  "title": "Night Swim",
+  "original_title": "Night Swim",
+  "release_date": "2014-10-12",
   "status": "Released",
-  "runtime": 91,
+  "runtime": 4,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -17,14 +17,6 @@
     "US"
   ],
   "genres": [
-    {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
-    },
     {
       "id": 27,
       "name": "Horror"

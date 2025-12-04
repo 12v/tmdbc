@@ -1,0 +1,30 @@
+{
+  "id": 49901,
+  "title": "Rammbock: Berlin Undead",
+  "original_title": "Rammbock",
+  "release_date": "2010-09-09",
+  "status": "Released",
+  "runtime": 63,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

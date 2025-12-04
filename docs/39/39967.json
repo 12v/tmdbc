@@ -1,0 +1,29 @@
+{
+  "id": 39967,
+  "title": "L.627",
+  "original_title": "L.627",
+  "release_date": "1992-09-09",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

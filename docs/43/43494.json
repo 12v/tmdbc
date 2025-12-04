@@ -1,8 +1,8 @@
 {
-  "id": 32048,
-  "title": "Still of the Night",
-  "original_title": "Still of the Night",
-  "release_date": "1982-11-19",
+  "id": 43494,
+  "title": "The Enchanted Cottage",
+  "original_title": "The Enchanted Cottage",
+  "release_date": "1945-04-28",
   "status": "Released",
   "runtime": 91,
   "original_language": "en",
@@ -18,16 +18,16 @@
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
       "id": 18,
       "name": "Drama"
     },
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
     }
   ]
 }

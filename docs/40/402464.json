@@ -1,10 +1,10 @@
 {
-  "id": 32048,
-  "title": "Still of the Night",
-  "original_title": "Still of the Night",
-  "release_date": "1982-11-19",
+  "id": 402464,
+  "title": "Some Freaks",
+  "original_title": "Some Freaks",
+  "release_date": "2016-07-24",
   "status": "Released",
-  "runtime": 91,
+  "runtime": 97,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,20 +14,21 @@
     }
   ],
   "origin_country": [
-    "US"
+    "US",
+    "MX"
   ],
   "genres": [
-    {
-      "id": 53,
-      "name": "Thriller"
-    },
     {
       "id": 18,
       "name": "Drama"
     },
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
     }
   ]
 }

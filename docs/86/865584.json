@@ -1,0 +1,32 @@
+{
+  "id": 865584,
+  "title": "Dos Estaciones",
+  "original_title": "Dos Estaciones",
+  "release_date": "2022-05-01",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "MX",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 65722,
+  "title": "Destroy, She Said",
+  "original_title": "D\u00e9truire, dit-elle",
+  "release_date": "1969-09-25",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

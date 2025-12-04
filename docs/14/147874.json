@@ -1,0 +1,25 @@
+{
+  "id": 147874,
+  "title": "The Alienist",
+  "original_title": "Azyllo Muito Louco",
+  "release_date": "1970-09-21",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

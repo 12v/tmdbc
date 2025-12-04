@@ -1,0 +1,33 @@
+{
+  "id": 103396,
+  "title": "The Devil Strikes at Night",
+  "original_title": "Nachts, wenn der Teufel kam",
+  "release_date": "1957-09-19",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

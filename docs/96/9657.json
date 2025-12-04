@@ -1,0 +1,25 @@
+{
+  "id": 9657,
+  "title": "Otto - The Movie",
+  "original_title": "Otto - Der Film",
+  "release_date": "1985-07-19",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

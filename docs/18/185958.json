@@ -1,0 +1,33 @@
+{
+  "id": 185958,
+  "title": "Kamen Rider J",
+  "original_title": "\u4eee\u9762\u30e9\u30a4\u30c0\u30fcJ",
+  "release_date": "1994-04-16",
+  "status": "Released",
+  "runtime": 46,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

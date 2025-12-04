@@ -1,0 +1,29 @@
+{
+  "id": 39863,
+  "title": "Star of David: Beauty Hunting",
+  "original_title": "\u5815\u9761\u6ce5\u306e\u661f\u3000\u7f8e\u5c11\u5973\u72e9\u308a",
+  "release_date": "1979-10-27",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 380592,
+  "title": "Ten Meter Tower",
+  "original_title": "Hopptornet",
+  "release_date": "2016-01-29",
+  "status": "Released",
+  "runtime": 17,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 88093,
+  "title": "Elippathayam",
+  "original_title": "\u0d0e\u0d32\u0d3f\u0d2a\u0d4d\u0d2a\u0d24\u0d4d\u0d24\u0d3e\u0d2f\u0d02",
+  "release_date": "1982-04-30",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

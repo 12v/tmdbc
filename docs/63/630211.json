@@ -1,0 +1,34 @@
+{
+  "id": 630211,
+  "title": "Samjin Company English Class",
+  "original_title": "\uc0bc\uc9c4\uadf8\ub8f9 \uc601\uc5b4\ud1a0\uc775\ubc18",
+  "release_date": "2020-10-21",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

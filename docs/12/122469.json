@@ -1,0 +1,30 @@
+{
+  "id": 122469,
+  "title": "Invisible Adversaries",
+  "original_title": "Unsichtbare Gegner",
+  "release_date": "1977-02-04",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

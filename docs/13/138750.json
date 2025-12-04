@@ -1,0 +1,25 @@
+{
+  "id": 138750,
+  "title": "The Mysteries of the Chateau of Dice",
+  "original_title": "Les Myst\u00e8res du ch\u00e2teau du d\u00e9",
+  "release_date": "1929-06-06",
+  "status": "Released",
+  "runtime": 27,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

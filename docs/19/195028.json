@@ -1,0 +1,25 @@
+{
+  "id": 195028,
+  "title": "Ballad of Orin",
+  "original_title": "\u306f\u306a\u308c\u77bd\u5973\u304a\u308a\u3093",
+  "release_date": "1977-11-19",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "id": 32048,
-  "title": "Still of the Night",
-  "original_title": "Still of the Night",
-  "release_date": "1982-11-19",
+  "id": 123295,
+  "title": "My Reputation",
+  "original_title": "My Reputation",
+  "release_date": "1946-01-25",
   "status": "Released",
-  "runtime": 91,
+  "runtime": 94,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,16 +18,12 @@
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
       "id": 18,
       "name": "Drama"
     },
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 10749,
+      "name": "Romance"
     }
   ]
 }

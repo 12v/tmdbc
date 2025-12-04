@@ -1,0 +1,33 @@
+{
+  "id": 57186,
+  "title": "Skinning",
+  "original_title": "\u0160i\u0161anje",
+  "release_date": "2010-10-06",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "sr",
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "origin_country": [
+    "RS"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

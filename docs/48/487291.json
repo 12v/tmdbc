@@ -1,10 +1,10 @@
 {
-  "id": 32048,
-  "title": "Still of the Night",
-  "original_title": "Still of the Night",
-  "release_date": "1982-11-19",
+  "id": 487291,
+  "title": "Ride Like a Girl",
+  "original_title": "Ride Like a Girl",
+  "release_date": "2019-09-26",
   "status": "Released",
-  "runtime": 91,
+  "runtime": 98,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,20 +14,13 @@
     }
   ],
   "origin_country": [
+    "AU",
     "US"
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "id": 32048,
-  "title": "Still of the Night",
-  "original_title": "Still of the Night",
-  "release_date": "1982-11-19",
+  "id": 257245,
+  "title": "East Side Sushi",
+  "original_title": "East Side Sushi",
+  "release_date": "2014-03-08",
   "status": "Released",
-  "runtime": 91,
+  "runtime": 100,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,16 +18,8 @@
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
     }
   ]
 }

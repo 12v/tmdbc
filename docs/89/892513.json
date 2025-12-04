@@ -1,0 +1,25 @@
+{
+  "id": 892513,
+  "title": "The Asembly Line",
+  "original_title": "L'\u00c9tabli",
+  "release_date": "2023-04-05",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

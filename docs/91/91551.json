@@ -1,10 +1,10 @@
 {
-  "id": 32048,
-  "title": "Still of the Night",
-  "original_title": "Still of the Night",
-  "release_date": "1982-11-19",
+  "id": 91551,
+  "title": "Death of a Superhero",
+  "original_title": "Death of a Superhero",
+  "release_date": "2011-05-04",
   "status": "Released",
-  "runtime": 91,
+  "runtime": 97,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,20 +14,13 @@
     }
   ],
   "origin_country": [
-    "US"
+    "DE",
+    "IE"
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
     }
   ]
 }

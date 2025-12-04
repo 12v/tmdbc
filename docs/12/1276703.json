@@ -1,0 +1,39 @@
+{
+  "id": 1276703,
+  "title": "Love Unlike in K-Dramas",
+  "original_title": "Cinta Tak Seindah Drama Korea",
+  "release_date": "2024-12-05",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

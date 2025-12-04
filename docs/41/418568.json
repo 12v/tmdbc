@@ -1,0 +1,29 @@
+{
+  "id": 418568,
+  "title": "Still Life (Betamale)",
+  "original_title": "Still Life (Betamale)",
+  "release_date": "2013-09-23",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

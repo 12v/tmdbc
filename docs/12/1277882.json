@@ -1,0 +1,25 @@
+{
+  "id": 1277882,
+  "title": "Out of Love",
+  "original_title": "Les enfants vont bien",
+  "release_date": "2025-12-03",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

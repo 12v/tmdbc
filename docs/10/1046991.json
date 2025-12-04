@@ -1,0 +1,29 @@
+{
+  "id": 1046991,
+  "title": "Vadh",
+  "original_title": "\u0935\u0927",
+  "release_date": "2022-12-09",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 116315,
+  "title": "One Piece: Defeat the Pirate Ganzack!",
+  "original_title": "\u30ef\u30f3\u30d4\u30fc\u30b9 \u5012\u305b\uff01\u6d77\u8cca\u30ae\u30e3\u30f3\u30b6\u30c3\u30af",
+  "release_date": "1998-07-26",
+  "status": "Released",
+  "runtime": 29,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

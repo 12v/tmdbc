@@ -1,0 +1,29 @@
+{
+  "id": 26576,
+  "title": "The Betrayal",
+  "original_title": "\u5927\u6bba\u9663 \u96c4\u5442\u8840",
+  "release_date": "1966-07-02",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

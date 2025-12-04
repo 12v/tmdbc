@@ -1,10 +1,10 @@
 {
-  "id": 32048,
-  "title": "Still of the Night",
-  "original_title": "Still of the Night",
-  "release_date": "1982-11-19",
+  "id": 37942,
+  "title": "City of Fear",
+  "original_title": "City of Fear",
+  "release_date": "1959-02-01",
   "status": "Released",
-  "runtime": 91,
+  "runtime": 81,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -20,14 +20,6 @@
     {
       "id": 53,
       "name": "Thriller"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
     }
   ]
 }
