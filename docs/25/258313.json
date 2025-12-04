@@ -1,0 +1,29 @@
+{
+  "id": 258313,
+  "title": "Man in Love",
+  "original_title": "\ub0a8\uc790\uac00 \uc0ac\ub791\ud560 \ub54c",
+  "release_date": "2014-01-22",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

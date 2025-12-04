@@ -1,0 +1,25 @@
+{
+  "id": 75198,
+  "title": "Welcome Aboard",
+  "original_title": "Bienvenue \u00e0 bord",
+  "release_date": "2011-10-05",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

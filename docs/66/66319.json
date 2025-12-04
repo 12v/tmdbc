@@ -1,0 +1,25 @@
+{
+  "id": 66319,
+  "title": "Mullum Malarum",
+  "original_title": "\u0bae\u0bc1\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u0bae\u0bb2\u0bb0\u0bc1\u0bae\u0bcd",
+  "release_date": "1978-08-15",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

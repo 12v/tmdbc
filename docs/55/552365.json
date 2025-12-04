@@ -1,0 +1,41 @@
+{
+  "id": 552365,
+  "title": "Lina from Lima",
+  "original_title": "Lina de Lima",
+  "release_date": "2022-03-24",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Haitian; Haitian Creole",
+      "iso_639_1": "ht",
+      "name": ""
+    },
+    {
+      "english_name": "Quechua",
+      "iso_639_1": "qu",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "CL",
+    "PE",
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

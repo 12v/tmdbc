@@ -1,0 +1,25 @@
+{
+  "id": 139533,
+  "title": "Ayalum Njanum Thammil",
+  "original_title": "\u0d05\u0d2f\u0d3e\u0d33\u0d41\u0d02 \u0d1e\u0d3e\u0d28\u0d41\u0d02 \u0d24\u0d2e\u0d4d\u0d2e\u0d3f\u0d32\u0d4d\u200d",
+  "release_date": "2012-10-19",
+  "status": "Released",
+  "runtime": 133,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

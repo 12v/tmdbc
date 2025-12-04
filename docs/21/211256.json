@@ -1,0 +1,25 @@
+{
+  "id": 211256,
+  "title": "Children in the Wind",
+  "original_title": "\u98a8\u306e\u4e2d\u306e\u5b50\u4f9b",
+  "release_date": "1937-11-11",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

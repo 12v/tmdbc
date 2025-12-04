@@ -1,0 +1,29 @@
+{
+  "id": 3685,
+  "title": "Apache Gold",
+  "original_title": "Winnetou 1. Teil",
+  "release_date": "1963-12-11",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

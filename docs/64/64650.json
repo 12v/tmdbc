@@ -1,0 +1,29 @@
+{
+  "id": 64650,
+  "title": "I Am Sartana Your Angel of Death",
+  "original_title": "Sono Sartana, il vostro becchino",
+  "release_date": "1969-11-20",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

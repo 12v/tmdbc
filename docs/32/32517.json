@@ -1,0 +1,33 @@
+{
+  "id": 32517,
+  "title": "Justice, My Foot!",
+  "original_title": "\u5be9\u6b7b\u5b98",
+  "release_date": "1992-07-02",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "id": 83533,
-  "title": "Avatar: Fire and Ash",
-  "original_title": "Avatar: Fire and Ash",
-  "release_date": "2025-12-17",
+  "id": 14597,
+  "title": "Lassie",
+  "original_title": "Lassie",
+  "release_date": "2005-12-16",
   "status": "Released",
-  "runtime": 195,
+  "runtime": 100,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,20 +14,22 @@
     }
   ],
   "origin_country": [
-    "US"
+    "IE",
+    "US",
+    "GB"
   ],
   "genres": [
-    {
-      "id": 878,
-      "name": "Science Fiction"
-    },
     {
       "id": 12,
       "name": "Adventure"
     },
     {
-      "id": 14,
-      "name": "Fantasy"
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
     }
   ]
 }

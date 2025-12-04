@@ -1,0 +1,37 @@
+{
+  "id": 462030,
+  "title": "The Originals",
+  "original_title": "\u0627\u0644\u0623\u0635\u0644\u064a\u064a\u0646",
+  "release_date": "2017-06-25",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

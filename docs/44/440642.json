@@ -1,0 +1,37 @@
+{
+  "id": 440642,
+  "title": "The Spacewalker",
+  "original_title": "\u0412\u0440\u0435\u043c\u044f \u043f\u0435\u0440\u0432\u044b\u0445",
+  "release_date": "2017-04-06",
+  "status": "Released",
+  "runtime": 140,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

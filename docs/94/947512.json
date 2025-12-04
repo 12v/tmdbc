@@ -1,0 +1,38 @@
+{
+  "id": 947512,
+  "title": "Living Large",
+  "original_title": "\u017divot k se\u017er\u00e1n\u00ed",
+  "release_date": "2024-10-17",
+  "status": "Released",
+  "runtime": 80,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

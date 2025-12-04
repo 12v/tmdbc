@@ -1,0 +1,37 @@
+{
+  "id": 851731,
+  "title": "Kumari",
+  "original_title": "\u0d15\u0d41\u0d2e\u0d3e\u0d30\u0d3f",
+  "release_date": "2022-10-28",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

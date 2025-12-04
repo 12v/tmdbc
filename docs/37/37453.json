@@ -1,0 +1,28 @@
+{
+  "id": 37453,
+  "title": "Molly: An American Girl on the Home Front",
+  "original_title": "Molly: An American Girl on the Home Front",
+  "release_date": "2006-11-26",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

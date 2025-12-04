@@ -1,10 +1,10 @@
 {
-  "id": 1102883,
-  "title": "Mother Mary",
-  "original_title": "Mother Mary",
-  "release_date": "2026-04-26",
-  "status": "Post Production",
-  "runtime": 0,
+  "id": 1073109,
+  "title": "Push",
+  "original_title": "Push",
+  "release_date": "2025-08-21",
+  "status": "Released",
+  "runtime": 89,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,16 +18,12 @@
   ],
   "genres": [
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 27,
+      "name": "Horror"
     },
     {
       "id": 53,
       "name": "Thriller"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "id": 23076,
+  "title": "Texas, Adios",
+  "original_title": "Texas, Addio",
+  "release_date": "1966-08-28",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 100984,
+  "title": "Good Riddance",
+  "original_title": "Les bons d\u00e9barras",
+  "release_date": "1980-02-28",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

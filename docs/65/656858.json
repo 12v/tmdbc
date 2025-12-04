@@ -1,0 +1,33 @@
+{
+  "id": 656858,
+  "title": "Driving Licence",
+  "original_title": "\u0d21\u0d4d\u0d30\u0d48\u0d35\u0d3f\u0d02\u0d17\u0d4d \u0d32\u0d48\u0d38\u0d7b\u0d38\u0d4d",
+  "release_date": "2019-12-20",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
