@@ -1,0 +1,35 @@
+{
+  "id": 273879,
+  "title": "Black Angel",
+  "original_title": "Black Angel",
+  "release_date": "1980-05-21",
+  "status": "Released",
+  "runtime": 25,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

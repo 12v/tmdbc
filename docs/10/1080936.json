@@ -1,0 +1,38 @@
+{
+  "id": 1080936,
+  "title": "The Last Time We Were Children",
+  "original_title": "L'ultima volta che siamo stati bambini",
+  "release_date": "2023-10-12",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

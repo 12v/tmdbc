@@ -1,0 +1,25 @@
+{
+  "id": 195286,
+  "title": "The Little Girl and Her Cat",
+  "original_title": "La petite fille et son chat",
+  "release_date": "1899-05-20",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

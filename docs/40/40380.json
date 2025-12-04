@@ -1,0 +1,25 @@
+{
+  "id": 40380,
+  "title": "The City and the Dogs",
+  "original_title": "La ciudad y los perros",
+  "release_date": "1985-07-18",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "PE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

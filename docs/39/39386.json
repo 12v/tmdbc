@@ -1,0 +1,30 @@
+{
+  "id": 39386,
+  "title": "The Corsican File",
+  "original_title": "L'Enqu\u00eate corse",
+  "release_date": "2004-10-06",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Corsican",
+      "iso_639_1": "co",
+      "name": ""
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

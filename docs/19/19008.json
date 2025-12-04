@@ -1,0 +1,29 @@
+{
+  "id": 19008,
+  "title": "The Garden",
+  "original_title": "Z\u00e1hrada",
+  "release_date": "1995-06-09",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "sk",
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Sloven\u010dina"
+    }
+  ],
+  "origin_country": [
+    "SK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

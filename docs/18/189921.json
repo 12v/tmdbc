@@ -1,0 +1,25 @@
+{
+  "id": 189921,
+  "title": "The Peasant Women of Ryazan",
+  "original_title": "\u0411\u0430\u0431\u044b \u0440\u044f\u0437\u0430\u043d\u0441\u043a\u0438\u0435",
+  "release_date": "1927-12-13",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

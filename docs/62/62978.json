@@ -1,0 +1,30 @@
+{
+  "id": 62978,
+  "title": "The Salamander",
+  "original_title": "La Salamandre",
+  "release_date": "1971-10-27",
+  "status": "Released",
+  "runtime": 125,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

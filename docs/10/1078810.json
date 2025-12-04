@@ -1,0 +1,29 @@
+{
+  "id": 1078810,
+  "title": "Veni Vidi Vici",
+  "original_title": "Veni Vidi Vici",
+  "release_date": "2024-09-13",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

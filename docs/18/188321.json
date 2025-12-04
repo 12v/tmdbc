@@ -1,0 +1,26 @@
+{
+  "id": 188321,
+  "title": "Sc\u00e9nario du film Passion",
+  "original_title": "Sc\u00e9nario du film Passion",
+  "release_date": "1982-01-28",
+  "status": "Released",
+  "runtime": 54,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

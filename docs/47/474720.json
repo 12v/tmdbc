@@ -1,0 +1,33 @@
+{
+  "id": 474720,
+  "title": "Hot Sweet Sour",
+  "original_title": "Ac\u0131 Tatl\u0131 Ek\u015fi",
+  "release_date": "2017-12-22",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

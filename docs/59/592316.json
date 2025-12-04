@@ -1,0 +1,37 @@
+{
+  "id": 592316,
+  "title": "My Little Pony: Equestria Girls - Spring Breakdown",
+  "original_title": "My Little Pony: Equestria Girls - Spring Breakdown",
+  "release_date": "2019-03-30",
+  "status": "Released",
+  "runtime": 44,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 280391,
+  "title": "Animal Kingdom: Let's Go Ape",
+  "original_title": "Pourquoi j'ai pas mang\u00e9 mon p\u00e8re",
+  "release_date": "2015-04-08",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

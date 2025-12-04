@@ -1,0 +1,30 @@
+{
+  "id": 593720,
+  "title": "Swans: Where Does a Body End?",
+  "original_title": "Swans: Where Does a Body End?",
+  "release_date": "2019-09-19",
+  "status": "Released",
+  "runtime": 161,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

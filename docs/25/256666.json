@@ -1,0 +1,38 @@
+{
+  "id": 256666,
+  "title": "The Wandering Princess",
+  "original_title": "\u6d41\u8ee2\u306e\u738b\u5983",
+  "release_date": "1960-01-27",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

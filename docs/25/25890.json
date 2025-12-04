@@ -1,0 +1,25 @@
+{
+  "id": 25890,
+  "title": "Looking for Comedy in the Muslim World",
+  "original_title": "Looking for Comedy in the Muslim World",
+  "release_date": "2006-01-20",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

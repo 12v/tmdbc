@@ -1,0 +1,29 @@
+{
+  "id": 589985,
+  "title": "I'll Go Where You Go",
+  "original_title": "J'irai o\u00f9 tu iras",
+  "release_date": "2019-10-02",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 746349,
+  "title": "Killing Romance",
+  "original_title": "\ud0ac\ub9c1 \ub85c\ub9e8\uc2a4",
+  "release_date": "2023-04-14",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

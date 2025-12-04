@@ -1,0 +1,30 @@
+{
+  "id": 264535,
+  "title": "Far from Home",
+  "original_title": "\u062f\u0631 \u063a\u0631\u0628\u062a",
+  "release_date": "1975-01-02",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "fa",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "IR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

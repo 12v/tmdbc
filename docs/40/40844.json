@@ -1,0 +1,26 @@
+{
+  "id": 40844,
+  "title": "Comic Book Confidential",
+  "original_title": "Comic Book Confidential",
+  "release_date": "1989-06-14",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

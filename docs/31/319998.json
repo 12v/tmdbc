@@ -1,0 +1,31 @@
+{
+  "id": 319998,
+  "title": "Sworn Virgin",
+  "original_title": "Vergine giurata",
+  "release_date": "2015-03-19",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Albanian",
+      "iso_639_1": "sq",
+      "name": "shqip"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 785,
+  "title": "Kuhle Wampe or Who Owns the World?",
+  "original_title": "Kuhle Wampe oder: Wem geh\u00f6rt die Welt?",
+  "release_date": "1932-05-14",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

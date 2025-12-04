@@ -1,0 +1,34 @@
+{
+  "id": 429732,
+  "title": "Ana, My Love",
+  "original_title": "Ana, mon amour",
+  "release_date": "2017-03-03",
+  "status": "Released",
+  "runtime": 127,
+  "original_language": "ro",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

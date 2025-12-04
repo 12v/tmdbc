@@ -1,0 +1,25 @@
+{
+  "id": 1090144,
+  "title": "Yoko",
+  "original_title": "658km\u3001\u967d\u5b50\u306e\u65c5",
+  "release_date": "2023-07-28",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1154215,
+  "title": "Elyas",
+  "original_title": "Elyas",
+  "release_date": "2024-07-03",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "fr",
+  "spoken_languages": [],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

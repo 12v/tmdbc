@@ -1,0 +1,31 @@
+{
+  "id": 1151173,
+  "title": "My Summer With Ir\u00e8ne",
+  "original_title": "Quell\u2019estate con Ir\u00e8ne",
+  "release_date": "2024-05-30",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

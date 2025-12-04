@@ -1,0 +1,29 @@
+{
+  "id": 1147875,
+  "title": "Lonely Water",
+  "original_title": "Lonely Water",
+  "release_date": "1973-07-04",
+  "status": "Released",
+  "runtime": 2,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

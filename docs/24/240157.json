@@ -1,0 +1,37 @@
+{
+  "id": 240157,
+  "title": "Devadoothan",
+  "original_title": "\u0d26\u0d47\u0d35\u0d26\u0d42\u0d24\u0d7b",
+  "release_date": "2000-12-25",
+  "status": "Released",
+  "runtime": 158,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

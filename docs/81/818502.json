@@ -1,0 +1,25 @@
+{
+  "id": 818502,
+  "title": "Fenced In",
+  "original_title": "Vizinhos",
+  "release_date": "2022-09-01",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

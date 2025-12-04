@@ -1,0 +1,29 @@
+{
+  "id": 56655,
+  "title": "Everything About Mustafa",
+  "original_title": "Mustafa Hakk\u0131nda Her \u015eey",
+  "release_date": "2004-03-19",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

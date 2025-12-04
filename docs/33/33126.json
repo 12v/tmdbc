@@ -1,0 +1,30 @@
+{
+  "id": 33126,
+  "title": "Chung Kuo: China",
+  "original_title": "Chung Kuo - Cina",
+  "release_date": "1972-12-26",
+  "status": "Released",
+  "runtime": 208,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

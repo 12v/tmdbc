@@ -1,0 +1,33 @@
+{
+  "id": 155992,
+  "title": "When I Am Dead and White",
+  "original_title": "\u041a\u0430\u0434 \u0431\u0443\u0434\u0435\u043c \u043c\u0440\u0442\u0430\u0432 \u0438 \u0431\u0435\u043e",
+  "release_date": "1967-12-27",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "sh",
+  "spoken_languages": [
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "YU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

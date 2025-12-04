@@ -1,0 +1,25 @@
+{
+  "id": 1183002,
+  "title": "The Image of You",
+  "original_title": "The Image of You",
+  "release_date": "2024-05-10",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

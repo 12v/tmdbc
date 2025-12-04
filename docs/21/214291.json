@@ -1,0 +1,33 @@
+{
+  "id": 214291,
+  "title": "Broken Mirrors",
+  "original_title": "Gebroken spiegels",
+  "release_date": "1984-09-27",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

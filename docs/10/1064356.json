@@ -1,0 +1,29 @@
+{
+  "id": 1064356,
+  "title": "All India Rank",
+  "original_title": "\u0905\u0916\u093f\u0932 \u092d\u093e\u0930\u0924\u0940\u092f \u0930\u0948\u0902\u0915",
+  "release_date": "2024-02-23",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

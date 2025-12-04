@@ -1,0 +1,29 @@
+{
+  "id": 842052,
+  "title": "Echoes",
+  "original_title": "Ecos de un crimen",
+  "release_date": "2022-01-27",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

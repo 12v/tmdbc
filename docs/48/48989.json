@@ -1,0 +1,29 @@
+{
+  "id": 48989,
+  "title": "None Shall Escape",
+  "original_title": "None Shall Escape",
+  "release_date": "1944-02-03",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

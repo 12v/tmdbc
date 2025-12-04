@@ -1,0 +1,29 @@
+{
+  "id": 1073264,
+  "title": "PT Sir",
+  "original_title": "\u0baa\u0bbf.\u0b9f\u0bbf \u0b9a\u0bbe\u0bb0\u0bcd",
+  "release_date": "2024-05-24",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

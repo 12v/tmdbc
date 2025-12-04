@@ -1,0 +1,33 @@
+{
+  "id": 593580,
+  "title": "One Cut of the Dead Spin-Off: In Hollywood",
+  "original_title": "\u30ab\u30e1\u30e9\u3092\u6b62\u3081\u308b\u306a\uff01\u30b9\u30d4\u30f3\u30aa\u30d5\u300e\u30cf\u30ea\u30a6\u30c3\u30c9\u5927\u4f5c\u6226\uff01\u300f",
+  "release_date": "2019-11-14",
+  "status": "Released",
+  "runtime": 57,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

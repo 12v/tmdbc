@@ -1,0 +1,25 @@
+{
+  "id": 47941,
+  "title": "Under the Rainbow",
+  "original_title": "Under the Rainbow",
+  "release_date": "1981-07-31",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

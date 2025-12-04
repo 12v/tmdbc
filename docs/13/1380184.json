@@ -1,0 +1,33 @@
+{
+  "id": 1380184,
+  "title": "Slaps & Kisses: The Great Reunion",
+  "original_title": "Tapas E Beijos: O Grande Encontro",
+  "release_date": "2020-10-31",
+  "status": "Released",
+  "runtime": 47,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

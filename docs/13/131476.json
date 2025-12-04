@@ -1,0 +1,33 @@
+{
+  "id": 131476,
+  "title": "Sweet Bunch",
+  "original_title": "\u0393\u03bb\u03c5\u03ba\u03b9\u03ac \u03a3\u03c5\u03bc\u03bc\u03bf\u03c1\u03af\u03b1",
+  "release_date": "1983-10-08",
+  "status": "Released",
+  "runtime": 152,
+  "original_language": "el",
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    }
+  ],
+  "origin_country": [
+    "GR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

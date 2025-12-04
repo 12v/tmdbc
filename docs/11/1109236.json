@@ -1,0 +1,25 @@
+{
+  "id": 1109236,
+  "title": "Touch of Crude",
+  "original_title": "Touch of Crude",
+  "release_date": "2022-10-20",
+  "status": "Released",
+  "runtime": 28,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

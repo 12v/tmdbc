@@ -1,0 +1,31 @@
+{
+  "id": 568789,
+  "title": "The Ground Beneath My Feet",
+  "original_title": "Der Boden unter den F\u00fc\u00dfen",
+  "release_date": "2019-03-21",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

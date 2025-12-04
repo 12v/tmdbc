@@ -1,0 +1,33 @@
+{
+  "id": 71655,
+  "title": "School for Tramps",
+  "original_title": "Escuela de vagabundos",
+  "release_date": "1955-01-27",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

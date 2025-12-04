@@ -1,0 +1,29 @@
+{
+  "id": 1546933,
+  "title": "Rockstar: DUKI from the End of the World",
+  "original_title": "Rockstar: DUKI desde el fin del mundo",
+  "release_date": "2025-10-01",
+  "status": "Released",
+  "runtime": 0,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

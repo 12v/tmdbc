@@ -1,0 +1,38 @@
+{
+  "id": 48955,
+  "title": "Everybody Go Home!",
+  "original_title": "Tutti a casa",
+  "release_date": "1960-10-27",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

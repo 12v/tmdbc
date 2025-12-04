@@ -1,0 +1,33 @@
+{
+  "id": 547024,
+  "title": "Ura Horror",
+  "original_title": "\u88cf\u30db\u30e9\u30fc",
+  "release_date": "2008-11-21",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

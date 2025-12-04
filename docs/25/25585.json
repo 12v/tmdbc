@@ -1,0 +1,25 @@
+{
+  "id": 25585,
+  "title": "Falkenberg Farewell",
+  "original_title": "Farv\u00e4l Falkenberg",
+  "release_date": "2006-09-22",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 74831,
+  "title": "The Devil's Wedding Night",
+  "original_title": "Il plenilunio delle vergini",
+  "release_date": "1973-03-14",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

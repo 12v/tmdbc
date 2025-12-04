@@ -1,0 +1,33 @@
+{
+  "id": 1321769,
+  "title": "The Gesuidouz",
+  "original_title": "\u30b6\u30fb\u30b2\u30b9\u30a4\u30c9\u30a6\u30ba",
+  "release_date": "2024-09-05",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

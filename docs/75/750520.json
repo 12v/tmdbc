@@ -1,0 +1,25 @@
+{
+  "id": 750520,
+  "title": "N\u00e3o Vamos Pagar Nada",
+  "original_title": "N\u00e3o Vamos Pagar Nada",
+  "release_date": "2020-10-08",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

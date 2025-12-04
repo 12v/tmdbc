@@ -1,0 +1,33 @@
+{
+  "id": 64649,
+  "title": "The Watcher in the Attic",
+  "original_title": "\u6c5f\u6238\u5ddd\u4e71\u6b69\u731f\u5947\u9928\u3000\u5c4b\u6839\u88cf\u306e\u6563\u6b69\u8005",
+  "release_date": "1976-06-12",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

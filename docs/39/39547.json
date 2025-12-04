@@ -1,0 +1,25 @@
+{
+  "id": 39547,
+  "title": "Centipede Horror",
+  "original_title": "\u8708\u86a3\u5492",
+  "release_date": "1982-10-29",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

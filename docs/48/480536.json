@@ -1,0 +1,25 @@
+{
+  "id": 480536,
+  "title": "A Horrible Woman",
+  "original_title": "En frygtelig kvinde",
+  "release_date": "2017-12-25",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

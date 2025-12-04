@@ -1,0 +1,25 @@
+{
+  "id": 375533,
+  "title": "Wolf Girl and Black Prince",
+  "original_title": "\u30aa\u30aa\u30ab\u30df\u5c11\u5973\u3068\u9ed2\u738b\u5b50",
+  "release_date": "2016-05-28",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

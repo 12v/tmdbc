@@ -1,0 +1,45 @@
+{
+  "id": 285812,
+  "title": "Doraemon: New Nobita's Great Demon - Peko and the Exploration Party of Five",
+  "original_title": "\u6620\u753b\u30c9\u30e9\u3048\u3082\u3093 \u65b0\u30fb\u306e\u3073\u592a\u306e\u5927\u9b54\u5883 \uff5e\u30da\u30b3\u30685\u4eba\u306e\u63a2\u691c\u968a\uff5e",
+  "release_date": "2014-03-08",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}
