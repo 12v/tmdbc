@@ -1,0 +1,29 @@
+{
+  "id": 320873,
+  "title": "Dhanak",
+  "original_title": "\u0927\u0928\u0915",
+  "release_date": "2015-02-02",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

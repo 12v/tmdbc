@@ -1,0 +1,33 @@
+{
+  "id": 38404,
+  "title": "Bela Lugosi Meets a Brooklyn Gorilla",
+  "original_title": "Bela Lugosi Meets a Brooklyn Gorilla",
+  "release_date": "1952-09-04",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

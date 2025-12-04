@@ -1,0 +1,29 @@
+{
+  "id": 803626,
+  "title": "Puzhu",
+  "original_title": "\u0d2a\u0d41\u0d34\u0d41",
+  "release_date": "2022-05-13",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

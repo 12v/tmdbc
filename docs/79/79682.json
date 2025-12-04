@@ -1,0 +1,35 @@
+{
+  "id": 79682,
+  "title": "Future Lasts Forever",
+  "original_title": "Gelecek Uzun S\u00fcrer",
+  "release_date": "2011-11-11",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Armenian",
+      "iso_639_1": "hy",
+      "name": ""
+    },
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

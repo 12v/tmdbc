@@ -1,0 +1,25 @@
+{
+  "id": 535092,
+  "title": "The Goldfish",
+  "original_title": "Die Goldfische",
+  "release_date": "2019-02-28",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

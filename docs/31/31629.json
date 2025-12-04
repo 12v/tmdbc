@@ -1,0 +1,33 @@
+{
+  "id": 31629,
+  "title": "Arundhati",
+  "original_title": "\u0c05\u0c30\u0c41\u0c02\u0c27\u0c24\u0c3f",
+  "release_date": "2009-01-16",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

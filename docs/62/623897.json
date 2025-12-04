@@ -1,0 +1,29 @@
+{
+  "id": 623897,
+  "title": "Goodbye Mother",
+  "original_title": "Th\u01b0a M\u1eb9 Con \u0110i",
+  "release_date": "2019-08-16",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "vi",
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Ti\u1ebfng Vi\u1ec7t"
+    }
+  ],
+  "origin_country": [
+    "VN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

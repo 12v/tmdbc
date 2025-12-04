@@ -1,0 +1,25 @@
+{
+  "id": 1459725,
+  "title": "Meat Kills",
+  "original_title": "Vleesdag",
+  "release_date": "2025-09-24",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 136921,
+  "title": "Pixels",
+  "original_title": "Pixels",
+  "release_date": "2010-04-01",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

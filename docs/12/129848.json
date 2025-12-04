@@ -1,0 +1,29 @@
+{
+  "id": 129848,
+  "title": "Attakathi",
+  "original_title": "\u0b85\u0b9f\u0bcd\u0b9f\u0b95\u0ba4\u0bcd\u0ba4\u0bbf",
+  "release_date": "2012-08-15",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

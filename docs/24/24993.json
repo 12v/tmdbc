@@ -1,0 +1,29 @@
+{
+  "id": 24993,
+  "title": "Kickboxer 2: The Road Back",
+  "original_title": "Kickboxer 2: The Road Back",
+  "release_date": "1991-01-30",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

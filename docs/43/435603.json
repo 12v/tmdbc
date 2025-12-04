@@ -1,0 +1,25 @@
+{
+  "id": 435603,
+  "title": "A Single Rider",
+  "original_title": "\uc2f1\uae00\ub77c\uc774\ub354",
+  "release_date": "2017-02-22",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

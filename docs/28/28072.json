@@ -1,0 +1,25 @@
+{
+  "id": 28072,
+  "title": "Demon Witch Child",
+  "original_title": "La endemoniada",
+  "release_date": "1975-03-03",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

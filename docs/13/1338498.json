@@ -1,0 +1,25 @@
+{
+  "id": 1338498,
+  "title": "No Dogs Allowed",
+  "original_title": "No Dogs Allowed",
+  "release_date": "2024-11-17",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

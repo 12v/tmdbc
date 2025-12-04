@@ -1,0 +1,31 @@
+{
+  "id": 1364953,
+  "title": "M\u0101rama",
+  "original_title": "M\u0101rama",
+  "release_date": "2025-09-08",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Maori",
+      "iso_639_1": "mi",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "NZ",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 993293,
+  "title": "The Uncle",
+  "original_title": "Stric",
+  "release_date": "2022-07-19",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "hr",
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    }
+  ],
+  "origin_country": [
+    "HR",
+    "RS"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 443486,
+  "title": "Red Istanbul",
+  "original_title": "\u0130stanbul K\u0131rm\u0131z\u0131s\u0131",
+  "release_date": "2017-03-02",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

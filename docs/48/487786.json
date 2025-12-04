@@ -1,0 +1,33 @@
+{
+  "id": 487786,
+  "title": "The Looming Storm",
+  "original_title": "\u66b4\u96ea\u5c06\u81f3",
+  "release_date": "2017-11-17",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

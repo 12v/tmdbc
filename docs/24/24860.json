@@ -1,0 +1,33 @@
+{
+  "id": 24860,
+  "title": "The Memory of a Killer",
+  "original_title": "De zaak Alzheimer",
+  "release_date": "2003-10-15",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

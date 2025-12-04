@@ -1,0 +1,35 @@
+{
+  "id": 36880,
+  "title": "Wodaabe: Herdsmen of the Sun",
+  "original_title": "Wodaabe \u2013 Die Hirten der Sonne",
+  "release_date": "1989-06-12",
+  "status": "Released",
+  "runtime": 52,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Fulah",
+      "iso_639_1": "ff",
+      "name": "Fulfulde"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

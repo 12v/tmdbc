@@ -1,0 +1,29 @@
+{
+  "id": 1097175,
+  "title": "Great Sert\u00e3o",
+  "original_title": "Grande Sert\u00e3o",
+  "release_date": "2024-06-06",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

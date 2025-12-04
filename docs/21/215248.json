@@ -1,0 +1,29 @@
+{
+  "id": 215248,
+  "title": "Yevadu",
+  "original_title": "\u0c0e\u0c35\u0c21\u0c41",
+  "release_date": "2014-01-12",
+  "status": "Released",
+  "runtime": 166,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

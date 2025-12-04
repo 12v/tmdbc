@@ -1,0 +1,34 @@
+{
+  "id": 929633,
+  "title": "Ordinary Men: The \"Forgotten Holocaust\"",
+  "original_title": "Ganz normale M\u00e4nner - Der \u201evergessene Holocaust\u201c",
+  "release_date": "2022-01-25",
+  "status": "Released",
+  "runtime": 58,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

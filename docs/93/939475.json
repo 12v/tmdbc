@@ -1,0 +1,29 @@
+{
+  "id": 939475,
+  "title": "Too Old for Fairy Tales",
+  "original_title": "Za du\u017cy na bajki",
+  "release_date": "2022-03-18",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

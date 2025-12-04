@@ -1,0 +1,25 @@
+{
+  "id": 252293,
+  "title": "Intermissions",
+  "original_title": "Entreatos",
+  "release_date": "2004-11-19",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 362150,
+  "title": "Vedalam",
+  "original_title": "\u0bb5\u0bc7\u0ba4\u0bbe\u0bb3\u0bae\u0bcd",
+  "release_date": "2015-11-10",
+  "status": "Released",
+  "runtime": 156,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

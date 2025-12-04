@@ -1,0 +1,29 @@
+{
+  "id": 9579,
+  "title": "The Wild Chicks and Life",
+  "original_title": "Die Wilden H\u00fchner und das Leben",
+  "release_date": "2009-01-29",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

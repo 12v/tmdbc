@@ -1,0 +1,30 @@
+{
+  "id": 35837,
+  "title": "Boogie",
+  "original_title": "Boogie, el Aceitoso",
+  "release_date": "2009-10-22",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

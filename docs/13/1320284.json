@@ -1,0 +1,35 @@
+{
+  "id": 1320284,
+  "title": "The Miu Miu Affaire",
+  "original_title": "El Affaire Miu Miu",
+  "release_date": "2024-08-31",
+  "status": "Released",
+  "runtime": 30,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

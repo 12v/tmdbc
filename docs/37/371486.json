@@ -1,0 +1,34 @@
+{
+  "id": 371486,
+  "title": "The Eccentrics",
+  "original_title": "\u10e8\u10d4\u10e0\u10d4\u10d9\u10d8\u10da\u10d4\u10d1\u10d8",
+  "release_date": "1974-01-20",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}
