@@ -1,10 +1,10 @@
 {
-  "id": 12481,
-  "title": "The Big Boss",
-  "original_title": "\u5510\u5c71\u5927\u5144",
-  "release_date": "1971-10-23",
+  "id": 40829,
+  "title": "Shaolin Wooden Men",
+  "original_title": "\u5c11\u6797\u6728\u4eba\u5df7",
+  "release_date": "1976-10-10",
   "status": "Released",
-  "runtime": 99,
+  "runtime": 97,
   "original_language": "zh",
   "spoken_languages": [
     {
@@ -16,11 +16,6 @@
       "english_name": "Mandarin",
       "iso_639_1": "zh",
       "name": "\u666e\u901a\u8bdd"
-    },
-    {
-      "english_name": "Vietnamese",
-      "iso_639_1": "vi",
-      "name": "Ti\u1ebfng Vi\u1ec7t"
     }
   ],
   "origin_country": [

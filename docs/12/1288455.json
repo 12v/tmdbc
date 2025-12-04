@@ -1,0 +1,29 @@
+{
+  "id": 1288455,
+  "title": "Bride Squad",
+  "original_title": "Gelin Tak\u0131m\u0131",
+  "release_date": "2024-10-17",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

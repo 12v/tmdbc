@@ -1,0 +1,29 @@
+{
+  "id": 79210,
+  "title": "Chatrapathi",
+  "original_title": "\u0c1b\u0c24\u0c4d\u0c30\u0c2a\u0c24\u0c3f",
+  "release_date": "2005-09-30",
+  "status": "Released",
+  "runtime": 158,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

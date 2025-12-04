@@ -1,0 +1,25 @@
+{
+  "id": 117500,
+  "title": "Pastoral Symphony",
+  "original_title": "La Symphonie pastorale",
+  "release_date": "1946-09-26",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

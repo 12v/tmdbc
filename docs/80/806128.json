@@ -1,0 +1,29 @@
+{
+  "id": 806128,
+  "title": "The Night Owl",
+  "original_title": "\uc62c\ube7c\ubbf8",
+  "release_date": "2022-11-23",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

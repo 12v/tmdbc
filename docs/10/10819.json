@@ -1,0 +1,29 @@
+{
+  "id": 10819,
+  "title": "The Wedding",
+  "original_title": "Wesele",
+  "release_date": "2004-10-13",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

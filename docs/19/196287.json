@@ -1,0 +1,25 @@
+{
+  "id": 196287,
+  "title": "A Funny Shave",
+  "original_title": "Ah! La barbe!",
+  "release_date": "1905-09-20",
+  "status": "Released",
+  "runtime": 2,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

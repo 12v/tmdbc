@@ -1,10 +1,10 @@
 {
-  "id": 889675,
-  "title": "The Pod Generation",
-  "original_title": "The Pod Generation",
-  "release_date": "2023-08-11",
+  "id": 227430,
+  "title": "Split",
+  "original_title": "Split",
+  "release_date": "1989-03-24",
   "status": "Released",
-  "runtime": 110,
+  "runtime": 105,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "origin_country": [
-    "BE"
+    "US"
   ],
   "genres": [
     {
@@ -22,12 +22,8 @@
       "name": "Science Fiction"
     },
     {
-      "id": 35,
-      "name": "Comedy"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

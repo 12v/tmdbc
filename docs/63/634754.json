@@ -1,0 +1,25 @@
+{
+  "id": 634754,
+  "title": "Fire in Paradise",
+  "original_title": "Fire in Paradise",
+  "release_date": "2019-09-01",
+  "status": "Released",
+  "runtime": 39,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

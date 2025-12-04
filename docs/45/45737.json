@@ -1,0 +1,33 @@
+{
+  "id": 45737,
+  "title": "Sick Nurses",
+  "original_title": "\u0e2a\u0e27\u0e22\u0e25\u0e32\u0e01\u0e44\u0e2a\u0e49",
+  "release_date": "2007-07-14",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "th",
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    }
+  ],
+  "origin_country": [
+    "TH"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

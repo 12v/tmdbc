@@ -1,0 +1,37 @@
+{
+  "id": 22537,
+  "title": "Inuyasha the Movie 2: The Castle Beyond the Looking Glass",
+  "original_title": "\u72ac\u591c\u53c9 \u93e1\u306e\u4e2d\u306e\u5922\u5e7b\u57ce",
+  "release_date": "2002-12-22",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

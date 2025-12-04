@@ -1,0 +1,29 @@
+{
+  "id": 118566,
+  "title": "Good Bye, Till Tomorrow",
+  "original_title": "Do widzenia, do jutra...",
+  "release_date": "1960-05-25",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

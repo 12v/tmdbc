@@ -1,0 +1,33 @@
+{
+  "id": 49214,
+  "title": "Once Upon a Time in High School",
+  "original_title": "\ub9d0\uc8fd\uac70\ub9ac \uc794\ud639\uc0ac",
+  "release_date": "2004-01-15",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

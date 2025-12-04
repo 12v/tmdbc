@@ -1,0 +1,33 @@
+{
+  "id": 145766,
+  "title": "Hakuchi: The Innocent",
+  "original_title": "\u767d\u75f4",
+  "release_date": "1999-11-13",
+  "status": "Released",
+  "runtime": 146,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

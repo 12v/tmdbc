@@ -1,0 +1,25 @@
+{
+  "id": 149983,
+  "title": "The President",
+  "original_title": "Pr\u00e6sidenten",
+  "release_date": "1919-02-01",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

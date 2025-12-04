@@ -1,0 +1,29 @@
+{
+  "id": 248113,
+  "title": "Four White Shirts",
+  "original_title": "\u010cetri balti krekli",
+  "release_date": "1967-01-04",
+  "status": "Released",
+  "runtime": 77,
+  "original_language": "lv",
+  "spoken_languages": [
+    {
+      "english_name": "Latvian",
+      "iso_639_1": "lv",
+      "name": "Latvie\u0161u"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

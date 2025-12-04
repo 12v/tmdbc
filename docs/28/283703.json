@@ -1,0 +1,25 @@
+{
+  "id": 283703,
+  "title": "The Postman's White Nights",
+  "original_title": "\u0411\u0435\u043b\u044b\u0435 \u043d\u043e\u0447\u0438 \u043f\u043e\u0447\u0442\u0430\u043b\u044c\u043e\u043d\u0430 \u0410\u043b\u0435\u043a\u0441\u0435\u044f \u0422\u0440\u044f\u043f\u0438\u0446\u044b\u043d\u0430",
+  "release_date": "2014-10-14",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

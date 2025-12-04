@@ -1,0 +1,29 @@
+{
+  "id": 46769,
+  "title": "24 Hours in the Life of a Clown",
+  "original_title": "Vingt-quatre heures de la vie d'un clown",
+  "release_date": "1946-01-01",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

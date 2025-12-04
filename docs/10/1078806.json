@@ -1,0 +1,25 @@
+{
+  "id": 1078806,
+  "title": "In Camera",
+  "original_title": "In Camera",
+  "release_date": "2024-09-13",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

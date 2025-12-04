@@ -1,0 +1,25 @@
+{
+  "id": 157964,
+  "title": "The Confrontation",
+  "original_title": "F\u00e9nyes szelek",
+  "release_date": "1969-02-06",
+  "status": "Released",
+  "runtime": 82,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

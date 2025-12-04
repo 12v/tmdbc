@@ -1,0 +1,29 @@
+{
+  "id": 284729,
+  "title": "Killa",
+  "original_title": "\u0915\u093f\u0932\u094d\u0932\u093e",
+  "release_date": "2014-10-26",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "mr",
+  "spoken_languages": [
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

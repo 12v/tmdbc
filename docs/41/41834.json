@@ -1,0 +1,40 @@
+{
+  "id": 41834,
+  "title": "Journey of Hope",
+  "original_title": "Reise der Hoffnung",
+  "release_date": "1990-09-28",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "TR",
+    "DE",
+    "IT",
+    "FR",
+    "CH",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

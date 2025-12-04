@@ -1,0 +1,30 @@
+{
+  "id": 54148,
+  "title": "Soccer Days",
+  "original_title": "D\u00edas de f\u00fatbol",
+  "release_date": "2003-09-19",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

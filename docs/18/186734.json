@@ -1,0 +1,25 @@
+{
+  "id": 186734,
+  "title": "Document\u00e1rio",
+  "original_title": "Document\u00e1rio",
+  "release_date": "1966-01-01",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

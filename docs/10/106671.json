@@ -1,0 +1,29 @@
+{
+  "id": 106671,
+  "title": "Russian Symphony",
+  "original_title": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u0441\u0438\u043c\u0444\u043e\u043d\u0438\u044f",
+  "release_date": "1994-08-25",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

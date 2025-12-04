@@ -1,0 +1,25 @@
+{
+  "id": 1406390,
+  "title": "Evil Within",
+  "original_title": "Pr\u00e9dio Vazio",
+  "release_date": "2025-06-12",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}
