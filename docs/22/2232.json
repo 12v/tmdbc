@@ -1,0 +1,29 @@
+{
+  "id": 2232,
+  "title": "The Legend of Paul and Paula",
+  "original_title": "Die Legende von Paul und Paula",
+  "release_date": "1973-03-14",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "XG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

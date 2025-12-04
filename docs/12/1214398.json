@@ -1,0 +1,25 @@
+{
+  "id": 1214398,
+  "title": "Despu\u00e9s de un buen d\u00eda",
+  "original_title": "Despu\u00e9s de un buen d\u00eda",
+  "release_date": "2024-05-09",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

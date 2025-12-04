@@ -1,0 +1,29 @@
+{
+  "id": 264576,
+  "title": "Nos Embalos de Ipanema",
+  "original_title": "Nos Embalos de Ipanema",
+  "release_date": "1978-01-01",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

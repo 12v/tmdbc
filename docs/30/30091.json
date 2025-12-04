@@ -1,0 +1,25 @@
+{
+  "id": 30091,
+  "title": "Chosen",
+  "original_title": "The Hire: Chosen",
+  "release_date": "2001-01-01",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

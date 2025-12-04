@@ -1,0 +1,25 @@
+{
+  "id": 326474,
+  "title": "Hadi Insallah",
+  "original_title": "Hadi \u0130n\u015fallah",
+  "release_date": "2014-11-28",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

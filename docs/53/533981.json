@@ -1,0 +1,30 @@
+{
+  "id": 533981,
+  "title": "Some Time Later",
+  "original_title": "Tiempo despu\u00e9s",
+  "release_date": "2018-12-28",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "PT",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

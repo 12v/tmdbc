@@ -1,0 +1,31 @@
+{
+  "id": 874106,
+  "title": "Bring Me the Head of Charlie Brown",
+  "original_title": "Bring Me the Head of Charlie Brown",
+  "release_date": "1986-06-27",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

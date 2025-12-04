@@ -1,0 +1,29 @@
+{
+  "id": 99272,
+  "title": "Red Meadows",
+  "original_title": "De r\u00f8de enge",
+  "release_date": "1945-12-26",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

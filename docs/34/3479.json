@@ -1,0 +1,33 @@
+{
+  "id": 3479,
+  "title": "Innocents with Dirty Hands",
+  "original_title": "Les innocents aux mains sales",
+  "release_date": "1975-03-26",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

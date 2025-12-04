@@ -1,0 +1,25 @@
+{
+  "id": 125276,
+  "title": "Secret Chronicle: She Beast Market",
+  "original_title": "\u3299\u8272\u60c5\u3081\u3059\u5e02\u5834",
+  "release_date": "1974-09-11",
+  "status": "Released",
+  "runtime": 83,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

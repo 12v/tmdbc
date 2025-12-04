@@ -1,0 +1,25 @@
+{
+  "id": 105579,
+  "title": "Hokusai",
+  "original_title": "\u5317\u658e",
+  "release_date": "1953-01-01",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

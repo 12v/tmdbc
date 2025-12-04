@@ -1,0 +1,29 @@
+{
+  "id": 30325,
+  "title": "Los tres huastecos",
+  "original_title": "Los tres huastecos",
+  "release_date": "1948-08-05",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 977155,
+  "title": "Marui Video",
+  "original_title": "\ub9c8\ub8e8\uc774 \ube44\ub514\uc624",
+  "release_date": "2023-02-01",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

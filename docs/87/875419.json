@@ -1,0 +1,35 @@
+{
+  "id": 875419,
+  "title": "Love Gets a Room",
+  "original_title": "Love Gets a Room",
+  "release_date": "2021-11-26",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

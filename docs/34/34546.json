@@ -1,0 +1,33 @@
+{
+  "id": 34546,
+  "title": "Shogun's Samurai",
+  "original_title": "\u67f3\u751f\u4e00\u65cf\u306e\u9670\u8b00",
+  "release_date": "1978-01-21",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 936370,
+  "title": "Opponent",
+  "original_title": "Motst\u00e5ndaren",
+  "release_date": "2023-10-26",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "NO",
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

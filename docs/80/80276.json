@@ -1,0 +1,33 @@
+{
+  "id": 80276,
+  "title": "Dookudu",
+  "original_title": "\u0c26\u0c42\u0c15\u0c41\u0c21\u0c41",
+  "release_date": "2011-09-23",
+  "status": "Released",
+  "runtime": 174,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

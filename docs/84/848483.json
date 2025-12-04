@@ -1,0 +1,35 @@
+{
+  "id": 848483,
+  "title": "Flowing",
+  "original_title": "Piove",
+  "release_date": "2022-10-21",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "BE"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

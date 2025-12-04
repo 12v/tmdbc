@@ -1,0 +1,33 @@
+{
+  "id": 3066,
+  "title": "The Monster Of Frankenstein",
+  "original_title": "\u6050\u6016\u4f1d\u8aac\u3000\u602a\u5947\uff01\u30d5\u30e9\u30f3\u30b1\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3",
+  "release_date": "1981-07-27",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

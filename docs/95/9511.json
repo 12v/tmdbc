@@ -1,0 +1,29 @@
+{
+  "id": 9511,
+  "title": "Rabbit Without Ears 2",
+  "original_title": "Zweiohrk\u00fcken",
+  "release_date": "2009-11-24",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

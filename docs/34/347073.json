@@ -1,0 +1,37 @@
+{
+  "id": 347073,
+  "title": "Ar\u0131m Bal\u0131m Pete\u011fim",
+  "original_title": "Ar\u0131m Bal\u0131m Pete\u011fim",
+  "release_date": "1970-03-01",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

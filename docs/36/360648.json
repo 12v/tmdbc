@@ -1,0 +1,29 @@
+{
+  "id": 360648,
+  "title": "Ennu Ninte Moideen",
+  "original_title": "\u0d0e\u0d28\u0d4d\u0d28\u0d4d \u0d28\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d2e\u0d4a\u0d2f\u0d4d\u0d24\u0d40\u0d7b",
+  "release_date": "2015-09-18",
+  "status": "Released",
+  "runtime": 167,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

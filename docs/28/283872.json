@@ -1,0 +1,29 @@
+{
+  "id": 283872,
+  "title": "Devil's Circuit",
+  "original_title": "\u60aa\u9b54\u306e\u56de\u8def\u56f3",
+  "release_date": "1988-07-26",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

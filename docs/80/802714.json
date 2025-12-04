@@ -1,0 +1,29 @@
+{
+  "id": 802714,
+  "title": "Animals",
+  "original_title": "Animals",
+  "release_date": "2022-06-23",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "BE"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1200753,
+  "title": "You Burn Me",
+  "original_title": "T\u00fa me abrasas",
+  "release_date": "2025-03-07",
+  "status": "Released",
+  "runtime": 64,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES",
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

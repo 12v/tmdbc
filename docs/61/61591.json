@@ -1,0 +1,29 @@
+{
+  "id": 61591,
+  "title": "Welcome to the Space Show",
+  "original_title": "\u5b87\u5b99\u30b7\u30e7\u30fc\u3078\u3088\u3046\u3053\u305d",
+  "release_date": "2010-02-18",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

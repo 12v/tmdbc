@@ -1,0 +1,33 @@
+{
+  "id": 375462,
+  "title": "Robot on the Road",
+  "original_title": "\u65c5\u306e\u30ed\u30dc\u304b\u3089",
+  "release_date": "2015-10-02",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

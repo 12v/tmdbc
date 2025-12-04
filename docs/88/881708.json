@@ -1,0 +1,26 @@
+{
+  "id": 881708,
+  "title": "The Girl from Uruguay",
+  "original_title": "La uruguaya",
+  "release_date": "2023-08-17",
+  "status": "Released",
+  "runtime": 78,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "UY"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 79221,
+  "title": "Letters to Santa",
+  "original_title": "Listy do M.",
+  "release_date": "2011-11-11",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 304878,
+  "title": "From Caligari to Hitler",
+  "original_title": "Von Caligari zu Hitler",
+  "release_date": "2015-05-28",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

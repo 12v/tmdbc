@@ -1,0 +1,33 @@
+{
+  "id": 41782,
+  "title": "Lovers: A True Story",
+  "original_title": "Amantes",
+  "release_date": "1991-02-23",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

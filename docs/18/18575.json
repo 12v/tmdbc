@@ -1,0 +1,33 @@
+{
+  "id": 18575,
+  "title": "Pigs",
+  "original_title": "Psy",
+  "release_date": "1992-11-20",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

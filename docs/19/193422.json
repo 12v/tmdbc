@@ -1,0 +1,29 @@
+{
+  "id": 193422,
+  "title": "I Love Cinema",
+  "original_title": "\u0628\u062d\u0628 \u0627\u0644\u0633\u064a\u0645\u0627",
+  "release_date": "2004-06-09",
+  "status": "Released",
+  "runtime": 124,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "SA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

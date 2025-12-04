@@ -1,0 +1,33 @@
+{
+  "id": 255593,
+  "title": "Yumeno Kyusaku's Girl Hell",
+  "original_title": "\u5922\u91ce\u4e45\u4f5c\u306e\u5c11\u5973\u5730\u7344",
+  "release_date": "1977-08-20",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

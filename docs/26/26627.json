@@ -1,0 +1,30 @@
+{
+  "id": 26627,
+  "title": "Green Day: Bullet in a Bible",
+  "original_title": "Green Day: Bullet in a Bible",
+  "release_date": "2005-11-15",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

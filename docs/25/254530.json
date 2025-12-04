@@ -1,0 +1,29 @@
+{
+  "id": 254530,
+  "title": "Mystery in the Colony",
+  "original_title": "Mist\u00e9rio na Col\u00f4nia",
+  "release_date": "2003-09-27",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

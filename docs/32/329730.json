@@ -1,0 +1,25 @@
+{
+  "id": 329730,
+  "title": "Vermilion Souls",
+  "original_title": "\u6731\u970a\u305f\u3061",
+  "release_date": "2007-01-15",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

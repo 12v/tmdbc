@@ -1,0 +1,26 @@
+{
+  "id": 361571,
+  "title": "The Demons",
+  "original_title": "Les d\u00e9mons",
+  "release_date": "2015-10-30",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

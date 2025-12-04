@@ -1,0 +1,29 @@
+{
+  "id": 179038,
+  "title": "Fire!",
+  "original_title": "Fire!",
+  "release_date": "1901-10-15",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

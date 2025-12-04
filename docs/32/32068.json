@@ -1,0 +1,29 @@
+{
+  "id": 32068,
+  "title": "The Scalphunters",
+  "original_title": "The Scalphunters",
+  "release_date": "1968-02-29",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

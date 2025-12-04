@@ -1,0 +1,25 @@
+{
+  "id": 118943,
+  "title": "Those Awful Hats",
+  "original_title": "Those Awful Hats",
+  "release_date": "1909-01-25",
+  "status": "Released",
+  "runtime": 3,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

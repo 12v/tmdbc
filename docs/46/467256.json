@@ -1,0 +1,27 @@
+{
+  "id": 467256,
+  "title": "Mrs. Fang",
+  "original_title": "\u65b9\u7ee3\u82f1",
+  "release_date": "2018-06-13",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "CN",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 306963,
+  "title": "Wanderers",
+  "original_title": "Wanderers",
+  "release_date": "2014-10-11",
+  "status": "Released",
+  "runtime": 4,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 43645,
+  "title": "The Little Devil",
+  "original_title": "Il piccolo diavolo",
+  "release_date": "1988-07-01",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

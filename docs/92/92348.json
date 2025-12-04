@@ -1,0 +1,32 @@
+{
+  "id": 92348,
+  "title": "In the Mirror of Maya Deren",
+  "original_title": "Im Spiegel der Maya Deren",
+  "release_date": "2002-03-15",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AT",
+    "DE",
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

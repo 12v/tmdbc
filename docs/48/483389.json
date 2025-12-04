@@ -1,0 +1,33 @@
+{
+  "id": 483389,
+  "title": "Photocopy",
+  "original_title": "\u0641\u0648\u062a\u0648\u0643\u0648\u0628\u064a",
+  "release_date": "2017-12-20",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

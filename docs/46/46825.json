@@ -1,0 +1,34 @@
+{
+  "id": 46825,
+  "title": "Lila Says",
+  "original_title": "Lila dit \u00e7a",
+  "release_date": "2005-01-26",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 658751,
+  "title": "Rising High",
+  "original_title": "Betonrausch",
+  "release_date": "2020-04-17",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

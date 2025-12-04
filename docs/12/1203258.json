@@ -1,0 +1,34 @@
+{
+  "id": 1203258,
+  "title": "The Horned Frog",
+  "original_title": "El escuerzo",
+  "release_date": "2023-11-11",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Quechua",
+      "iso_639_1": "qu",
+      "name": ""
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

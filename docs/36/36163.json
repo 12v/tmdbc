@@ -1,0 +1,29 @@
+{
+  "id": 36163,
+  "title": "Winnie-the-Pooh Goes Visiting",
+  "original_title": "\u0412\u0438\u043d\u043d\u0438-\u041f\u0443\u0445 \u0438\u0434\u0451\u0442 \u0432 \u0433\u043e\u0441\u0442\u0438",
+  "release_date": "1971-07-10",
+  "status": "Released",
+  "runtime": 10,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

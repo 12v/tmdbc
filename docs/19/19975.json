@@ -1,0 +1,33 @@
+{
+  "id": 19975,
+  "title": "Care Bears Movie II: A New Generation",
+  "original_title": "Care Bears Movie II: A New Generation",
+  "release_date": "1986-03-21",
+  "status": "Released",
+  "runtime": 76,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}
