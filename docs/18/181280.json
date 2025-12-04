@@ -1,0 +1,26 @@
+{
+  "id": 181280,
+  "title": "Hookers on Davie",
+  "original_title": "Hookers on Davie",
+  "release_date": "1984-04-04",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

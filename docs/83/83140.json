@@ -1,0 +1,30 @@
+{
+  "id": 83140,
+  "title": "Sartana's Here... Trade Your Pistol for a Coffin",
+  "original_title": "C'\u00e8 Sartana... vendi la pistola e comprati la bara",
+  "release_date": "1970-08-07",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1029963,
+  "title": "Death and Ramen",
+  "original_title": "Death and Ramen",
+  "release_date": "2022-07-06",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

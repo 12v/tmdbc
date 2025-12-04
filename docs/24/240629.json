@@ -1,0 +1,26 @@
+{
+  "id": 240629,
+  "title": "The Class of \u201892",
+  "original_title": "The Class of \u201892",
+  "release_date": "2013-12-01",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

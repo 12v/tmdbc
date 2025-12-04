@@ -1,0 +1,29 @@
+{
+  "id": 76848,
+  "title": "A Woman's Face",
+  "original_title": "En kvinnas ansikte",
+  "release_date": "1938-10-31",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

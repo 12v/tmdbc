@@ -1,0 +1,33 @@
+{
+  "id": 33045,
+  "title": "Parasite Eve",
+  "original_title": "\u30d1\u30e9\u30b5\u30a4\u30c8\u30fb\u30a4\u30f4",
+  "release_date": "1997-02-01",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

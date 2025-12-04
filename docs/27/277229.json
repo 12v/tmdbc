@@ -1,0 +1,29 @@
+{
+  "id": 277229,
+  "title": "Taarzan: The Wonder Car",
+  "original_title": "Taarzan: The Wonder Car",
+  "release_date": "2004-08-06",
+  "status": "Released",
+  "runtime": 163,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

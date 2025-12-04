@@ -1,0 +1,25 @@
+{
+  "id": 847981,
+  "title": "Black Island",
+  "original_title": "Schwarze Insel",
+  "release_date": "2021-08-17",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

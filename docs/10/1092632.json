@@ -1,0 +1,29 @@
+{
+  "id": 1092632,
+  "title": "Balagam",
+  "original_title": "\u0c2c\u0c32\u0c17\u0c02",
+  "release_date": "2023-03-03",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

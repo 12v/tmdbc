@@ -1,0 +1,37 @@
+{
+  "id": 791343,
+  "title": "DC Showcase: Kamandi: The Last Boy on Earth!",
+  "original_title": "DC Showcase: Kamandi: The Last Boy on Earth!",
+  "release_date": "2021-04-27",
+  "status": "Released",
+  "runtime": 18,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1264247,
+  "title": "Dosen Ghaib: It's Nighttime or You Already Know",
+  "original_title": "Dosen Ghaib: Sudah Malam atau Sudah Tahu",
+  "release_date": "2024-08-15",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

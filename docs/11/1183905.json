@@ -1,0 +1,27 @@
+{
+  "id": 1183905,
+  "title": "Trunk - Locked In",
+  "original_title": "Trunk - Locked In",
+  "release_date": "2023-11-24",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "de",
+  "spoken_languages": [],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

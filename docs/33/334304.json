@@ -1,0 +1,29 @@
+{
+  "id": 334304,
+  "title": "Belle and Sebastian: The Adventure Continues",
+  "original_title": "Belle et S\u00e9bastien, l'aventure continue",
+  "release_date": "2015-12-08",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1001072,
+  "title": "The Dog Thief",
+  "original_title": "El Ladr\u00f3n de Perros",
+  "release_date": "2024-08-29",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "BO",
+    "CL",
+    "EC",
+    "FR",
+    "IT",
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

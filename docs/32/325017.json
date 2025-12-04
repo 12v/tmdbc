@@ -1,0 +1,32 @@
+{
+  "id": 325017,
+  "title": "Measures of Distance",
+  "original_title": "Measures of Distance",
+  "release_date": "1988-01-01",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

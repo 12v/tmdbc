@@ -1,0 +1,29 @@
+{
+  "id": 69911,
+  "title": "Mrs. Lupe",
+  "original_title": "Do\u00f1a Lupe",
+  "release_date": "1986-03-01",
+  "status": "Released",
+  "runtime": 33,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

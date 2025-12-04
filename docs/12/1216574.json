@@ -1,0 +1,19 @@
+{
+  "id": 1216574,
+  "title": "Daniel",
+  "original_title": "Daniel",
+  "release_date": "2023-12-20",
+  "status": "Released",
+  "runtime": 75,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

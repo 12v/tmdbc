@@ -1,0 +1,25 @@
+{
+  "id": 6393,
+  "title": "Taking Care of Business",
+  "original_title": "Taking Care of Business",
+  "release_date": "1990-08-16",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

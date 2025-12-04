@@ -1,0 +1,25 @@
+{
+  "id": 337844,
+  "title": "In Dubious Battle",
+  "original_title": "In Dubious Battle",
+  "release_date": "2016-10-08",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

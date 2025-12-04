@@ -1,0 +1,29 @@
+{
+  "id": 60378,
+  "title": "Hitler: A Career",
+  "original_title": "Hitler - Eine Karriere",
+  "release_date": "1977-07-08",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

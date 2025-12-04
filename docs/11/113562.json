@@ -1,0 +1,29 @@
+{
+  "id": 113562,
+  "title": "Hallucinations of a Deranged Mind",
+  "original_title": "Del\u00edrios de um anormal",
+  "release_date": "1978-08-02",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

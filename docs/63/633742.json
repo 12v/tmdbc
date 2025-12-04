@@ -1,0 +1,26 @@
+{
+  "id": 633742,
+  "title": "Goddess of the Fireflies",
+  "original_title": "La d\u00e9esse des mouches \u00e0 feu",
+  "release_date": "2020-09-25",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1397053,
+  "title": "L'amore, in teoria",
+  "original_title": "L'amore, in teoria",
+  "release_date": "2025-04-24",
+  "status": "Released",
+  "runtime": 0,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

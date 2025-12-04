@@ -1,0 +1,25 @@
+{
+  "id": 52194,
+  "title": "Ali's Eight Days",
+  "original_title": "Ali'nin Sekiz G\u00fcn\u00fc",
+  "release_date": "2009-05-08",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

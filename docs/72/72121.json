@@ -1,0 +1,25 @@
+{
+  "id": 72121,
+  "title": "Bastard Swordsman",
+  "original_title": "\u5929\u8836\u8b8a",
+  "release_date": "1983-09-14",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

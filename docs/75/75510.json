@@ -1,0 +1,29 @@
+{
+  "id": 75510,
+  "title": "The Purchase Price",
+  "original_title": "The Purchase Price",
+  "release_date": "1932-07-23",
+  "status": "Released",
+  "runtime": 68,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

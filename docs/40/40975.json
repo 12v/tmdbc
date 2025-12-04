@@ -1,0 +1,37 @@
+{
+  "id": 40975,
+  "title": "Bibi Blocksberg and the Secret of Blue Owls",
+  "original_title": "Bibi Blocksberg und das Geheimnis der blauen Eulen",
+  "release_date": "2004-09-29",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

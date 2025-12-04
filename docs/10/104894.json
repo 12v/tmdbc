@@ -1,0 +1,25 @@
+{
+  "id": 104894,
+  "title": "A Garden Without Birds",
+  "original_title": "\u5c0f\u9ce5\u305f\u3061\u306e\u3044\u306a\u3044\u82b1\u5712",
+  "release_date": "1992-12-01",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

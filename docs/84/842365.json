@@ -1,0 +1,29 @@
+{
+  "id": 842365,
+  "title": "Sideral",
+  "original_title": "Sideral",
+  "release_date": "2021-07-06",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

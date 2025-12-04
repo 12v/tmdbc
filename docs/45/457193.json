@@ -1,0 +1,34 @@
+{
+  "id": 457193,
+  "title": "The Nothing Factory",
+  "original_title": "A F\u00e1brica de Nada",
+  "release_date": "2017-09-21",
+  "status": "Released",
+  "runtime": 177,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "PT"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 23637,
+  "title": "Ciao, Professore!",
+  "original_title": "Io speriamo che me la cavo",
+  "release_date": "1992-10-09",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

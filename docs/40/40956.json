@@ -1,0 +1,29 @@
+{
+  "id": 40956,
+  "title": "The Wolves",
+  "original_title": "\u51fa\u6240\u795d\u3044",
+  "release_date": "1971-10-30",
+  "status": "Released",
+  "runtime": 131,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

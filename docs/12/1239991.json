@@ -1,0 +1,29 @@
+{
+  "id": 1239991,
+  "title": "Hello Mummy",
+  "original_title": "\u0d39\u0d32\u0d4b \u0d2e\u0d2e\u0d4d\u0d2e\u0d3f",
+  "release_date": "2024-11-21",
+  "status": "Released",
+  "runtime": 136,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

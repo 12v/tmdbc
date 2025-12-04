@@ -1,0 +1,29 @@
+{
+  "id": 1122824,
+  "title": "100 Yards",
+  "original_title": "\u95e8\u524d\u5b9d\u5730",
+  "release_date": "2024-09-20",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

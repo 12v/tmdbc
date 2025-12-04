@@ -1,0 +1,25 @@
+{
+  "id": 43804,
+  "title": "Western Union",
+  "original_title": "Western Union",
+  "release_date": "1941-02-21",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

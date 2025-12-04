@@ -1,0 +1,29 @@
+{
+  "id": 165402,
+  "title": "Main Prem Ki Diwani Hoon",
+  "original_title": "Main Prem Ki Diwani Hoon",
+  "release_date": "2003-06-26",
+  "status": "Released",
+  "runtime": 197,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

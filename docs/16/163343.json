@@ -1,0 +1,27 @@
+{
+  "id": 163343,
+  "title": "The Tender Game",
+  "original_title": "The Tender Game",
+  "release_date": "1958-01-01",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

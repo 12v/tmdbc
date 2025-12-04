@@ -1,0 +1,38 @@
+{
+  "id": 1186391,
+  "title": "Anchakkallakokkan",
+  "original_title": "\u0d05\u0d1e\u0d4d\u0d1a\u0d15\u0d4d\u0d15\u0d33\u0d4d\u0d33\u0d15\u0d4d\u0d15\u0d4b\u0d15\u0d4d\u0d15\u0d3e\u0d7b",
+  "release_date": "2024-03-15",
+  "status": "Released",
+  "runtime": 126,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

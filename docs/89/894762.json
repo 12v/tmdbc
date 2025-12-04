@@ -1,0 +1,42 @@
+{
+  "id": 894762,
+  "title": "Karthikeya 2",
+  "original_title": "\u0c15\u0c3e\u0c30\u0c4d\u0c24\u0c3f\u0c15\u0c47\u0c2f 2",
+  "release_date": "2022-08-13",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Sanskrit",
+      "iso_639_1": "sa",
+      "name": ""
+    },
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

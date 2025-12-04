@@ -1,0 +1,33 @@
+{
+  "id": 104275,
+  "title": "The Pit, the Pendulum and Hope",
+  "original_title": "Kyvadlo, j\u00e1ma a nad\u011bje",
+  "release_date": "1983-07-28",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}
