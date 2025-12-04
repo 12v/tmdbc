@@ -1,8 +1,8 @@
 {
-  "id": 48781,
-  "title": "Never Talk to Strangers",
-  "original_title": "Never Talk to Strangers",
-  "release_date": "1995-10-20",
+  "id": 166201,
+  "title": "Bog",
+  "original_title": "Bog",
+  "release_date": "1979-05-01",
   "status": "Released",
   "runtime": 86,
   "original_language": "en",
@@ -14,17 +14,12 @@
     }
   ],
   "origin_country": [
-    "US",
-    "CA"
+    "US"
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
+      "id": 27,
+      "name": "Horror"
     }
   ]
 }

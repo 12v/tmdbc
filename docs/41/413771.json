@@ -1,0 +1,29 @@
+{
+  "id": 413771,
+  "title": "You Are My Sunday",
+  "original_title": "Tu Hai Mera Sunday",
+  "release_date": "2017-10-06",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

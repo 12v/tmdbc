@@ -1,0 +1,33 @@
+{
+  "id": 42576,
+  "title": "Hercules and the Captive Women",
+  "original_title": "Ercole alla conquista di Atlantide",
+  "release_date": "1961-08-19",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

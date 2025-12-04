@@ -1,0 +1,36 @@
+{
+  "id": 336664,
+  "title": "Paulina",
+  "original_title": "La patota",
+  "release_date": "2015-06-18",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Guarani",
+      "iso_639_1": "gn",
+      "name": ""
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR",
+    "BR",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

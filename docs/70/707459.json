@@ -1,0 +1,30 @@
+{
+  "id": 707459,
+  "title": "100,000 Acres of Pine",
+  "original_title": "Hvor tr\u00e6erne blokerer for lyset",
+  "release_date": "2020-02-18",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

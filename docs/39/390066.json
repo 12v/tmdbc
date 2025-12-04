@@ -1,0 +1,33 @@
+{
+  "id": 390066,
+  "title": "Insect",
+  "original_title": "Hmyz",
+  "release_date": "2018-02-19",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 394315,
+  "title": "Midori: The Camellia Girl",
+  "original_title": "\u5c11\u5973\u693f",
+  "release_date": "2016-05-21",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

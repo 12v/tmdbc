@@ -1,0 +1,28 @@
+{
+  "id": 258107,
+  "title": "Mossane",
+  "original_title": "Mossane",
+  "release_date": "1996-05-18",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "wo",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Wolof",
+      "iso_639_1": "wo",
+      "name": "Wolof"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

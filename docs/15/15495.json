@@ -1,8 +1,8 @@
 {
-  "id": 48781,
-  "title": "Never Talk to Strangers",
-  "original_title": "Never Talk to Strangers",
-  "release_date": "1995-10-20",
+  "id": 15495,
+  "title": "The Hamiltons",
+  "original_title": "The Hamiltons",
+  "release_date": "2006-11-19",
   "status": "Released",
   "runtime": 86,
   "original_language": "en",
@@ -14,17 +14,20 @@
     }
   ],
   "origin_country": [
-    "US",
-    "CA"
+    "US"
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
+      "id": 18,
+      "name": "Drama"
     },
     {
-      "id": 10749,
-      "name": "Romance"
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }

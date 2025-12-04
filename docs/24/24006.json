@@ -1,0 +1,29 @@
+{
+  "id": 24006,
+  "title": "O. Henry's Full House",
+  "original_title": "O. Henry's Full House",
+  "release_date": "1952-08-07",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

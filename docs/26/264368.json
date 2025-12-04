@@ -1,0 +1,30 @@
+{
+  "id": 264368,
+  "title": "The Journey",
+  "original_title": "Resan",
+  "release_date": "1987-02-24",
+  "status": "Released",
+  "runtime": 873,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "CA",
+    "DK",
+    "NZ",
+    "SE",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

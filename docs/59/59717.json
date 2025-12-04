@@ -1,0 +1,29 @@
+{
+  "id": 59717,
+  "title": "Adieu Galaxy Express 999",
+  "original_title": "\u3055\u3088\u306a\u3089\u9280\u6cb3\u9244\u9053999 -\u30a2\u30f3\u30c9\u30ed\u30e1\u30c0\u7d42\u7740\u99c5-",
+  "release_date": "1981-08-01",
+  "status": "Released",
+  "runtime": 135,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

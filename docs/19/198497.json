@@ -1,0 +1,29 @@
+{
+  "id": 198497,
+  "title": "Snow",
+  "original_title": "Neige",
+  "release_date": "1981-05-20",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

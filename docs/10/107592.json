@@ -1,10 +1,10 @@
 {
-  "id": 48781,
-  "title": "Never Talk to Strangers",
-  "original_title": "Never Talk to Strangers",
-  "release_date": "1995-10-20",
+  "id": 107592,
+  "title": "The Catered Affair",
+  "original_title": "The Catered Affair",
+  "release_date": "1956-06-14",
   "status": "Released",
-  "runtime": 86,
+  "runtime": 94,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,13 +14,16 @@
     }
   ],
   "origin_country": [
-    "US",
-    "CA"
+    "US"
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     },
     {
       "id": 10749,

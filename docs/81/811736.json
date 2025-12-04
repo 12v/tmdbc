@@ -1,0 +1,29 @@
+{
+  "id": 811736,
+  "title": "Gara-Gara Warisan",
+  "original_title": "Gara-Gara Warisan",
+  "release_date": "2022-04-30",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
-  "id": 48781,
-  "title": "Never Talk to Strangers",
-  "original_title": "Never Talk to Strangers",
-  "release_date": "1995-10-20",
+  "id": 33788,
+  "title": "Possession",
+  "original_title": "Possession",
+  "release_date": "2009-07-16",
   "status": "Released",
   "runtime": 86,
   "original_language": "en",
@@ -14,17 +14,16 @@
     }
   ],
   "origin_country": [
-    "US",
-    "CA"
+    "US"
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
+      "id": 9648,
+      "name": "Mystery"
     },
     {
-      "id": 10749,
-      "name": "Romance"
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }

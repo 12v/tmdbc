@@ -1,0 +1,25 @@
+{
+  "id": 793153,
+  "title": "Girlfriends",
+  "original_title": "Chavalas",
+  "release_date": "2021-09-03",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

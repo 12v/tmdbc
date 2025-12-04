@@ -1,0 +1,25 @@
+{
+  "id": 428081,
+  "title": "High Society",
+  "original_title": "High Society",
+  "release_date": "2017-09-14",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

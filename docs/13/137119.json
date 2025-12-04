@@ -1,0 +1,29 @@
+{
+  "id": 137119,
+  "title": "A Straightforward Boy",
+  "original_title": "\u7a81\u8cab\u5c0f\u50e7",
+  "release_date": "1929-11-24",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

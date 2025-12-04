@@ -1,0 +1,29 @@
+{
+  "id": 1063314,
+  "title": "Outsider Girls",
+  "original_title": "Las Dem\u00e1s",
+  "release_date": "2024-01-11",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "CL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

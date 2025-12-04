@@ -1,0 +1,29 @@
+{
+  "id": 115794,
+  "title": "Lost Chapter of Snow: Passion",
+  "original_title": "\u96ea\u306e\u65ad\u7ae0\uff0d\u60c5\u71b1\uff0d",
+  "release_date": "1985-12-21",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

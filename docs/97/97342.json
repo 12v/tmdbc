@@ -1,0 +1,29 @@
+{
+  "id": 97342,
+  "title": "Vedam",
+  "original_title": "\u0c35\u0c47\u0c26\u0c02",
+  "release_date": "2010-06-04",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

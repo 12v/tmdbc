@@ -1,0 +1,37 @@
+{
+  "id": 1219606,
+  "title": "Portrait of a Certain Orient",
+  "original_title": "Retrato de um Certo Oriente",
+  "release_date": "2024-11-21",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR",
+    "IT",
+    "LB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

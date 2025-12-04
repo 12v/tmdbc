@@ -1,0 +1,26 @@
+{
+  "id": 83124,
+  "title": "Light the Fuse\u2026 Sartana Is Coming",
+  "original_title": "Una nuvola di polvere\u2026 un grido di morte\u2026 arriva Sartana",
+  "release_date": "1970-12-24",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 65904,
+  "title": "Who Wants to Kill Jessie?",
+  "original_title": "Kdo chce zab\u00edt Jessii?",
+  "release_date": "1966-08-26",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

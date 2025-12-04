@@ -1,10 +1,10 @@
 {
-  "id": 48781,
-  "title": "Never Talk to Strangers",
-  "original_title": "Never Talk to Strangers",
-  "release_date": "1995-10-20",
+  "id": 724585,
+  "title": "Birdemic 3: Sea Eagle",
+  "original_title": "Birdemic 3: Sea Eagle",
+  "release_date": "2022-09-25",
   "status": "Released",
-  "runtime": 86,
+  "runtime": 83,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,10 +14,13 @@
     }
   ],
   "origin_country": [
-    "US",
-    "CA"
+    "US"
   ],
   "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
     {
       "id": 53,
       "name": "Thriller"

@@ -1,10 +1,10 @@
 {
-  "id": 48781,
-  "title": "Never Talk to Strangers",
-  "original_title": "Never Talk to Strangers",
-  "release_date": "1995-10-20",
+  "id": 518115,
+  "title": "Empty Metal",
+  "original_title": "Empty Metal",
+  "release_date": "2018-05-06",
   "status": "Released",
-  "runtime": 86,
+  "runtime": 83,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,17 +14,12 @@
     }
   ],
   "origin_country": [
-    "US",
-    "CA"
+    "US"
   ],
   "genres": [
     {
       "id": 53,
       "name": "Thriller"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
     }
   ]
 }

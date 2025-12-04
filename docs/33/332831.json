@@ -1,0 +1,33 @@
+{
+  "id": 332831,
+  "title": "Yevade Subramanyam",
+  "original_title": "\u0c0e\u0c35\u0c21\u0c47 \u0c38\u0c41\u0c2c\u0c4d\u0c30\u0c2e\u0c23\u0c4d\u0c2f\u0c02",
+  "release_date": "2015-03-21",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

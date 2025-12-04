@@ -1,0 +1,29 @@
+{
+  "id": 96186,
+  "title": "The Magician",
+  "original_title": "Le Magicien",
+  "release_date": "1898-01-01",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

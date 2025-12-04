@@ -1,0 +1,31 @@
+{
+  "id": 1266809,
+  "title": "The Safe House",
+  "original_title": "La Cache",
+  "release_date": "2025-03-19",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "CH",
+    "LU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

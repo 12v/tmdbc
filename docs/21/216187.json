@@ -1,0 +1,25 @@
+{
+  "id": 216187,
+  "title": "Suffer, Little Children",
+  "original_title": "Suffer, Little Children",
+  "release_date": "1983-08-21",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

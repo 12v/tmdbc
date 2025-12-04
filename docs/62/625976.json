@@ -1,0 +1,29 @@
+{
+  "id": 625976,
+  "title": "It Feels So Good",
+  "original_title": "\u706b\u53e3\u306e\u3075\u305f\u308a",
+  "release_date": "2019-08-23",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

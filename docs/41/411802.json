@@ -1,0 +1,33 @@
+{
+  "id": 411802,
+  "title": "Batman Unlimited: Mechs vs. Mutants",
+  "original_title": "Batman Unlimited: Mechs vs. Mutants",
+  "release_date": "2016-07-24",
+  "status": "Released",
+  "runtime": 72,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

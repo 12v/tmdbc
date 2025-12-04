@@ -1,0 +1,25 @@
+{
+  "id": 56804,
+  "title": "Honeymoon Trips",
+  "original_title": "Viaggi di nozze",
+  "release_date": "1995-12-15",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 898271,
+  "title": "Something Old, Something New, Something Borrowed",
+  "original_title": "Algo viejo, algo nuevo, algo prestado",
+  "release_date": "2025-03-19",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 85689,
+  "title": "The Son of the Sheik",
+  "original_title": "The Son of the Sheik",
+  "release_date": "1926-09-05",
+  "status": "Released",
+  "runtime": 69,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

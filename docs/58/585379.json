@@ -1,10 +1,10 @@
 {
-  "id": 48781,
-  "title": "Never Talk to Strangers",
-  "original_title": "Never Talk to Strangers",
-  "release_date": "1995-10-20",
+  "id": 585379,
+  "title": "Mr. Malcolm's List",
+  "original_title": "Mr. Malcolm's List",
+  "release_date": "2019-02-23",
   "status": "Released",
-  "runtime": 86,
+  "runtime": 12,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,13 +14,12 @@
     }
   ],
   "origin_country": [
-    "US",
-    "CA"
+    "US"
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
+      "id": 35,
+      "name": "Comedy"
     },
     {
       "id": 10749,

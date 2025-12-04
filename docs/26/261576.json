@@ -1,0 +1,25 @@
+{
+  "id": 261576,
+  "title": "Calcutta 71",
+  "original_title": "\u0995\u09b2\u0995\u09be\u09a4\u09be \u09ed\u09e7",
+  "release_date": "1972-10-12",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
