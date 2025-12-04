@@ -1,10 +1,10 @@
 {
-  "id": 773655,
-  "title": "Death to 2020",
-  "original_title": "Death to 2020",
-  "release_date": "2020-12-27",
+  "id": 1182544,
+  "title": "Cool Cat Fights Coronavirus",
+  "original_title": "Cool Cat Fights Coronavirus",
+  "release_date": "2021-04-01",
   "status": "Released",
-  "runtime": 71,
+  "runtime": 20,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,10 +14,13 @@
     }
   ],
   "origin_country": [
-    "GB",
     "US"
   ],
   "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
     {
       "id": 35,
       "name": "Comedy"

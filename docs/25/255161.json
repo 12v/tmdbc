@@ -1,0 +1,33 @@
+{
+  "id": 255161,
+  "title": "Behzat \u00c7.: Ankara Is on Fire",
+  "original_title": "Behzat \u00c7.: Ankara Yan\u0131yor",
+  "release_date": "2013-11-01",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

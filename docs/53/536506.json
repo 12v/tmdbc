@@ -1,0 +1,25 @@
+{
+  "id": 536506,
+  "title": "My Dog Stupid",
+  "original_title": "Mon chien stupide",
+  "release_date": "2019-10-30",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

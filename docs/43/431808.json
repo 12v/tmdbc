@@ -1,0 +1,37 @@
+{
+  "id": 431808,
+  "title": "Assassination Classroom the Movie: 365 Days' Time",
+  "original_title": "\u5287\u5834\u7248\u300c\u6697\u6bba\u6559\u5ba4\u300d365\u65e5\u306e\u6642\u9593",
+  "release_date": "2016-11-19",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 103604,
+  "title": "Intr\u00e9pidos Punks",
+  "original_title": "Intr\u00e9pidos Punks",
+  "release_date": "1988-02-25",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

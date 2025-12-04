@@ -1,0 +1,29 @@
+{
+  "id": 1228693,
+  "title": "Mura",
+  "original_title": "\u0d2e\u0d41\u0d31",
+  "release_date": "2024-11-08",
+  "status": "Released",
+  "runtime": 129,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

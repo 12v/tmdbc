@@ -1,0 +1,33 @@
+{
+  "id": 148514,
+  "title": "The Sand Castle",
+  "original_title": "Le ch\u00e2teau de sable",
+  "release_date": "1977-12-31",
+  "status": "Released",
+  "runtime": 13,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

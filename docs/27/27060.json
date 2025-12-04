@@ -1,0 +1,29 @@
+{
+  "id": 27060,
+  "title": "Bishonen",
+  "original_title": "\u7f8e\u5c11\u5e74\u4e4b\u6200",
+  "release_date": "1998-08-14",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

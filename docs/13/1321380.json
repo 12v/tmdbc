@@ -1,0 +1,29 @@
+{
+  "id": 1321380,
+  "title": "My Love Will Make You Disappear",
+  "original_title": "My Love Will Make You Disappear",
+  "release_date": "2025-03-26",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

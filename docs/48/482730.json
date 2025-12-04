@@ -1,0 +1,29 @@
+{
+  "id": 482730,
+  "title": "Downside Up",
+  "original_title": "Downside Up",
+  "release_date": "2016-12-15",
+  "status": "Released",
+  "runtime": 14,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

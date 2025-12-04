@@ -1,0 +1,29 @@
+{
+  "id": 253687,
+  "title": "Smart Ass",
+  "original_title": "La Cr\u00e8me de la cr\u00e8me",
+  "release_date": "2014-04-02",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

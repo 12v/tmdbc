@@ -1,0 +1,29 @@
+{
+  "id": 114544,
+  "title": "Cem Y\u0131lmaz: One Taste One Texture",
+  "original_title": "Cem Y\u0131lmaz: Bir Tat Bir Doku",
+  "release_date": "1999-09-07",
+  "status": "Released",
+  "runtime": 235,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

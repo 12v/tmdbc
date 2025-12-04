@@ -1,10 +1,10 @@
 {
-  "id": 773655,
-  "title": "Death to 2020",
-  "original_title": "Death to 2020",
-  "release_date": "2020-12-27",
+  "id": 625884,
+  "title": "Lynn + Lucy",
+  "original_title": "Lynn + Lucy",
+  "release_date": "2019-09-22",
   "status": "Released",
-  "runtime": 71,
+  "runtime": 81,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,13 +14,12 @@
     }
   ],
   "origin_country": [
-    "GB",
-    "US"
+    "GB"
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

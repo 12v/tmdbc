@@ -1,8 +1,8 @@
 {
-  "id": 773655,
-  "title": "Death to 2020",
-  "original_title": "Death to 2020",
-  "release_date": "2020-12-27",
+  "id": 45242,
+  "title": "Dennis the Menace Strikes Again!",
+  "original_title": "Dennis the Menace Strikes Again!",
+  "release_date": "1998-07-14",
   "status": "Released",
   "runtime": 71,
   "original_language": "en",
@@ -14,10 +14,13 @@
     }
   ],
   "origin_country": [
-    "GB",
     "US"
   ],
   "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
     {
       "id": 35,
       "name": "Comedy"

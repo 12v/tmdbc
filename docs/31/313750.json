@@ -1,0 +1,29 @@
+{
+  "id": 313750,
+  "title": "Queen of the Lake",
+  "original_title": "Jezern\u00ed kr\u00e1lovna",
+  "release_date": "1998-02-26",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "CZ"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 877217,
+  "title": "Lust",
+  "original_title": "La luxure",
+  "release_date": "1962-03-07",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

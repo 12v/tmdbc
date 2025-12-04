@@ -1,10 +1,10 @@
 {
-  "id": 773655,
-  "title": "Death to 2020",
-  "original_title": "Death to 2020",
-  "release_date": "2020-12-27",
+  "id": 639771,
+  "title": "Cosmos",
+  "original_title": "Cosmos",
+  "release_date": "2019-11-08",
   "status": "Released",
-  "runtime": 71,
+  "runtime": 128,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -19,8 +19,12 @@
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
     }
   ]
 }

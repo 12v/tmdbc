@@ -1,0 +1,35 @@
+{
+  "id": 26866,
+  "title": "Cartouche",
+  "original_title": "Cartouche",
+  "release_date": "1962-03-07",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

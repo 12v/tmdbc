@@ -1,0 +1,39 @@
+{
+  "id": 1078092,
+  "title": "La Luna",
+  "original_title": "La Luna",
+  "release_date": "2023-11-09",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "ms",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malay",
+      "iso_639_1": "ms",
+      "name": "Bahasa melayu"
+    }
+  ],
+  "origin_country": [
+    "MY",
+    "SG"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

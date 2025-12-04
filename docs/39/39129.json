@@ -1,10 +1,10 @@
 {
-  "id": 773655,
-  "title": "Death to 2020",
-  "original_title": "Death to 2020",
-  "release_date": "2020-12-27",
+  "id": 39129,
+  "title": "Slam Dunk Ernest",
+  "original_title": "Slam Dunk Ernest",
+  "release_date": "1995-06-20",
   "status": "Released",
-  "runtime": 71,
+  "runtime": 93,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,13 +14,21 @@
     }
   ],
   "origin_country": [
-    "GB",
-    "US"
+    "US",
+    "CA"
   ],
   "genres": [
     {
       "id": 35,
       "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
     }
   ]
 }

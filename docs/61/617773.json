@@ -1,10 +1,10 @@
 {
-  "id": 773655,
-  "title": "Death to 2020",
-  "original_title": "Death to 2020",
-  "release_date": "2020-12-27",
+  "id": 617773,
+  "title": "Western Stars",
+  "original_title": "Western Stars",
+  "release_date": "2019-10-25",
   "status": "Released",
-  "runtime": 71,
+  "runtime": 83,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,13 +14,16 @@
     }
   ],
   "origin_country": [
-    "GB",
     "US"
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
     }
   ]
 }

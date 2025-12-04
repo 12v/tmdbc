@@ -1,0 +1,31 @@
+{
+  "id": 951321,
+  "title": "Aphotic Zone",
+  "original_title": "Aphotic Zone",
+  "release_date": "2022-04-15",
+  "status": "Released",
+  "runtime": 16,
+  "original_language": "lt",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "IT",
+    "LT"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

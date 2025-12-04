@@ -1,10 +1,10 @@
 {
-  "id": 773655,
-  "title": "Death to 2020",
-  "original_title": "Death to 2020",
-  "release_date": "2020-12-27",
+  "id": 109962,
+  "title": "Rich and Famous",
+  "original_title": "Rich and Famous",
+  "release_date": "1981-09-23",
   "status": "Released",
-  "runtime": 71,
+  "runtime": 115,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,13 +14,12 @@
     }
   ],
   "origin_country": [
-    "GB",
     "US"
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

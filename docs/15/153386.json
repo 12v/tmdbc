@@ -1,0 +1,31 @@
+{
+  "id": 153386,
+  "title": "Sonny and Jed",
+  "original_title": "La banda J. & S. Cronaca criminale del Far West",
+  "release_date": "1972-08-11",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "IT",
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 824744,
+  "title": "Shiddat",
+  "original_title": "\u0936\u093f\u0926\u094d\u0926\u0924",
+  "release_date": "2021-10-01",
+  "status": "Released",
+  "runtime": 146,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

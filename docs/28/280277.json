@@ -1,0 +1,25 @@
+{
+  "id": 280277,
+  "title": "Sadayam",
+  "original_title": "\u0d38\u0d26\u0d2f\u0d02",
+  "release_date": "1992-07-04",
+  "status": "Released",
+  "runtime": 148,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

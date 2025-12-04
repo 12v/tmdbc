@@ -1,0 +1,29 @@
+{
+  "id": 38414,
+  "title": "Fresh Bait",
+  "original_title": "L'App\u00e2t",
+  "release_date": "1995-03-08",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1435139,
+  "title": "Aan Paavam Pollathathu",
+  "original_title": "\u0b86\u0ba3\u0bcd \u0baa\u0bbe\u0bb5\u0bae\u0bcd \u0baa\u0bca\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0ba4\u0bc1",
+  "release_date": "2025-10-31",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ta",
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

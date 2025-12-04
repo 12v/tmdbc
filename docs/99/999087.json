@@ -1,0 +1,29 @@
+{
+  "id": 999087,
+  "title": "The Bridge Curse: Ritual",
+  "original_title": "\u5973\u9b3c\u6a4b2\uff1a\u6028\u9b3c\u6a13",
+  "release_date": "2023-10-13",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

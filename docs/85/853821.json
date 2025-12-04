@@ -1,0 +1,33 @@
+{
+  "id": 853821,
+  "title": "Honey Lemon Soda",
+  "original_title": "\u30cf\u30cb\u30fc\u30ec\u30e2\u30f3\u30bd\u30fc\u30c0",
+  "release_date": "2021-07-09",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

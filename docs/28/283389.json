@@ -1,0 +1,38 @@
+{
+  "id": 283389,
+  "title": "Stones for the Rampart",
+  "original_title": "Kamienie na szaniec",
+  "release_date": "2014-03-07",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1076141,
+  "title": "Aatmapamphlet",
+  "original_title": "\u0906\u0924\u094d\u092e\u092a\u0945\u092e\u094d\u092b\u094d\u0932\u0947\u091f",
+  "release_date": "2023-10-06",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "mr",
+  "spoken_languages": [
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

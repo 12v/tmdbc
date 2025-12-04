@@ -1,0 +1,29 @@
+{
+  "id": 1106052,
+  "title": "(Un)lucky Sisters",
+  "original_title": "Las hermanas fant\u00e1sticas",
+  "release_date": "2024-08-30",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

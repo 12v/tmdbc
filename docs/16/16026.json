@@ -1,0 +1,40 @@
+{
+  "id": 16026,
+  "title": "Package Tour",
+  "original_title": "S\u00e4llskapsresan eller Finns det svenskt kaffe p\u00e5 grisfesten",
+  "release_date": "1980-08-22",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

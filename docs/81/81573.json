@@ -1,10 +1,10 @@
 {
-  "id": 773655,
-  "title": "Death to 2020",
-  "original_title": "Death to 2020",
-  "release_date": "2020-12-27",
+  "id": 81573,
+  "title": "Cyclone",
+  "original_title": "Cyclone",
+  "release_date": "1987-06-05",
   "status": "Released",
-  "runtime": 71,
+  "runtime": 89,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,13 +14,16 @@
     }
   ],
   "origin_country": [
-    "GB",
     "US"
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }

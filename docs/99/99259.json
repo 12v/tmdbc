@@ -1,0 +1,25 @@
+{
+  "id": 99259,
+  "title": "Eight Deadly Shots",
+  "original_title": "Kahdeksan surmanluotia",
+  "release_date": "1972-09-15",
+  "status": "Released",
+  "runtime": 145,
+  "original_language": "fi",
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
