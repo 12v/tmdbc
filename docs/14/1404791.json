@@ -1,0 +1,29 @@
+{
+  "id": 1404791,
+  "title": "Dollhouse",
+  "original_title": "\u30c9\u30fc\u30eb\u30cf\u30a6\u30b9",
+  "release_date": "2025-06-13",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

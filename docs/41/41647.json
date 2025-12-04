@@ -1,0 +1,31 @@
+{
+  "id": 41647,
+  "title": "The Wonderful Horrible Life of Leni Riefenstahl",
+  "original_title": "Die Macht der Bilder: Leni Riefenstahl",
+  "release_date": "1993-09-11",
+  "status": "Released",
+  "runtime": 188,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 989496,
+  "title": "Holly",
+  "original_title": "Holly",
+  "release_date": "2023-11-22",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "LU",
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

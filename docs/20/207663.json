@@ -1,0 +1,25 @@
+{
+  "id": 207663,
+  "title": "Goryeojang",
+  "original_title": "\uace0\ub824\uc7a5",
+  "release_date": "1963-03-15",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

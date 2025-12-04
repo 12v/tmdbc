@@ -1,10 +1,10 @@
 {
-  "id": 567609,
-  "title": "Ready or Not",
-  "original_title": "Ready or Not",
-  "release_date": "2019-08-21",
+  "id": 106258,
+  "title": "Vibrations",
+  "original_title": "Vibrations",
+  "release_date": "1996-07-02",
   "status": "Released",
-  "runtime": 95,
+  "runtime": 104,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,17 +14,12 @@
     }
   ],
   "origin_country": [
-    "CA",
     "US"
   ],
   "genres": [
     {
-      "id": 27,
-      "name": "Horror"
-    },
-    {
-      "id": 35,
-      "name": "Comedy"
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

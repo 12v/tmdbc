@@ -1,0 +1,33 @@
+{
+  "id": 61385,
+  "title": "The Tuner",
+  "original_title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u0449\u0438\u043a",
+  "release_date": "2004-09-06",
+  "status": "Released",
+  "runtime": 154,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "RU"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

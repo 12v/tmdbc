@@ -1,0 +1,37 @@
+{
+  "id": 28302,
+  "title": "The Swan Princess: The Mystery of the Enchanted Kingdom",
+  "original_title": "The Swan Princess: The Mystery of the Enchanted Kingdom",
+  "release_date": "1998-08-04",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 124083,
+  "title": "Guelwaar",
+  "original_title": "Guelwaar",
+  "release_date": "1993-07-28",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "wo",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Wolof",
+      "iso_639_1": "wo",
+      "name": "Wolof"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

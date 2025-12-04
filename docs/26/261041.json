@@ -1,0 +1,26 @@
+{
+  "id": 261041,
+  "title": "The Search for General Tso",
+  "original_title": "The Search for General Tso",
+  "release_date": "2014-04-20",
+  "status": "Released",
+  "runtime": 71,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

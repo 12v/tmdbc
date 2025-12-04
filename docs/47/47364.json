@@ -1,10 +1,10 @@
 {
-  "id": 1170608,
-  "title": "Dune: Part Three",
-  "original_title": "Dune: Part Three",
-  "release_date": "2026-12-17",
-  "status": "Post Production",
-  "runtime": 0,
+  "id": 47364,
+  "title": "Metalstorm: The Destruction of Jared-Syn",
+  "original_title": "Metalstorm: The Destruction of Jared-Syn",
+  "release_date": "1983-08-19",
+  "status": "Released",
+  "runtime": 84,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,8 +18,8 @@
   ],
   "genres": [
     {
-      "id": 12,
-      "name": "Adventure"
+      "id": 14,
+      "name": "Fantasy"
     },
     {
       "id": 878,

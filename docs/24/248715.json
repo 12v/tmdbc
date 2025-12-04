@@ -1,10 +1,10 @@
 {
-  "id": 567609,
-  "title": "Ready or Not",
-  "original_title": "Ready or Not",
-  "release_date": "2019-08-21",
+  "id": 248715,
+  "title": "Experimental Animation",
+  "original_title": "Experimental Animation",
+  "release_date": "1933-01-01",
   "status": "Released",
-  "runtime": 95,
+  "runtime": 3,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,17 +14,16 @@
     }
   ],
   "origin_country": [
-    "CA",
-    "US"
+    "GB"
   ],
   "genres": [
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 10402,
+      "name": "Music"
     },
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 16,
+      "name": "Animation"
     }
   ]
 }

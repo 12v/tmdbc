@@ -1,0 +1,25 @@
+{
+  "id": 457917,
+  "title": "Bomb Scared",
+  "original_title": "Fe de etarras",
+  "release_date": "2017-12-08",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

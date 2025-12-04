@@ -1,0 +1,29 @@
+{
+  "id": 798143,
+  "title": "My Journey Through French Cinema",
+  "original_title": "Voyage \u00e0 travers le cin\u00e9ma fran\u00e7ais",
+  "release_date": "2016-10-12",
+  "status": "Released",
+  "runtime": 192,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

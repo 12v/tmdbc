@@ -1,0 +1,25 @@
+{
+  "id": 493862,
+  "title": "The Calming",
+  "original_title": "\u5e73\u9759",
+  "release_date": "2020-02-21",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

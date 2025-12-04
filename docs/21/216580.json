@@ -1,10 +1,10 @@
 {
-  "id": 567609,
-  "title": "Ready or Not",
-  "original_title": "Ready or Not",
-  "release_date": "2019-08-21",
+  "id": 216580,
+  "title": "Savaged",
+  "original_title": "Savaged",
+  "release_date": "2014-08-06",
   "status": "Released",
-  "runtime": 95,
+  "runtime": 91,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,17 +14,24 @@
     }
   ],
   "origin_country": [
-    "CA",
     "US"
   ],
   "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
     {
       "id": 27,
       "name": "Horror"
     },
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }

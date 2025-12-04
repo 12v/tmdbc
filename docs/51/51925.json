@@ -1,0 +1,25 @@
+{
+  "id": 51925,
+  "title": "The Under-Gifted In Vacation",
+  "original_title": "Les Sous-Dou\u00e9s En Vacances",
+  "release_date": "1982-03-10",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

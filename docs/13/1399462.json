@@ -1,0 +1,34 @@
+{
+  "id": 1399462,
+  "title": "Calle M\u00e1laga",
+  "original_title": "Calle M\u00e1laga",
+  "release_date": "2026-03-18",
+  "status": "Released",
+  "runtime": 116,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "ES",
+    "FR",
+    "DE",
+    "MA"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
