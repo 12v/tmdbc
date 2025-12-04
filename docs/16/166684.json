@@ -1,0 +1,33 @@
+{
+  "id": 166684,
+  "title": "California Crisis: Gun Salvo",
+  "original_title": "\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2\u30fb\u30af\u30e9\u30a4\u30b7\u30b9 \u8ffd\u6483\u306e\u9283\u706b\uff08\u3072\u3070\u306a\uff09",
+  "release_date": "1986-07-21",
+  "status": "Released",
+  "runtime": 45,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 109376,
+  "title": "Stranger on Horseback",
+  "original_title": "Stranger on Horseback",
+  "release_date": "1955-03-22",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 245687,
+  "title": "Sky, Wind, Fire, Water, Earth",
+  "original_title": "\u304d\u3083\u304b\u3089\u3070\u3042",
+  "release_date": "2001-08-09",
+  "status": "Released",
+  "runtime": 49,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1169803,
+  "title": "Dear Jinri",
+  "original_title": "\uc9c4\ub9ac\uc5d0\uac8c",
+  "release_date": "2023-10-07",
+  "status": "Released",
+  "runtime": 101,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

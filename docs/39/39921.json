@@ -1,0 +1,33 @@
+{
+  "id": 39921,
+  "title": "Dr. Jekyll and Mr. Mouse",
+  "original_title": "Dr. Jekyll and Mr. Mouse",
+  "release_date": "1947-06-14",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

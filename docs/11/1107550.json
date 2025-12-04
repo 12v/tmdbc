@@ -1,0 +1,29 @@
+{
+  "id": 1107550,
+  "title": "1984",
+  "original_title": "1984",
+  "release_date": "2023-11-15",
+  "status": "Released",
+  "runtime": 132,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "FI"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

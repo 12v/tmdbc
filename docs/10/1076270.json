@@ -1,0 +1,33 @@
+{
+  "id": 1076270,
+  "title": "Alhamour H.A.",
+  "original_title": "\u0627\u0644\u0647\u0627\u0645\u0648\u0631 \u062d. \u0639",
+  "release_date": "2023-01-19",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "SA"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

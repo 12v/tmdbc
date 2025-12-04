@@ -1,0 +1,32 @@
+{
+  "id": 1457705,
+  "title": "Our Girls",
+  "original_title": "Voor de Meisjes",
+  "release_date": "2025-10-02",
+  "status": "Released",
+  "runtime": 103,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "BE",
+    "NL",
+    "AT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

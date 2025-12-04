@@ -1,12 +1,17 @@
 {
-  "id": 20719,
-  "title": "Day of the Wacko",
-  "original_title": "Dzie\u0144 \u015bwira",
-  "release_date": "2002-06-07",
+  "id": 314371,
+  "title": "11 Minutes",
+  "original_title": "11 minut",
+  "release_date": "2015-09-02",
   "status": "Released",
-  "runtime": 93,
+  "runtime": 81,
   "original_language": "pl",
   "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
     {
       "english_name": "Polish",
       "iso_639_1": "pl",
@@ -14,16 +19,17 @@
     }
   ],
   "origin_country": [
+    "IE",
     "PL"
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
-    },
-    {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }

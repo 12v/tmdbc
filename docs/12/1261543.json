@@ -1,0 +1,29 @@
+{
+  "id": 1261543,
+  "title": "The Demon's Bride",
+  "original_title": "Pengantin Iblis",
+  "release_date": "2025-01-29",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

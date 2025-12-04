@@ -1,0 +1,30 @@
+{
+  "id": 455657,
+  "title": "The Great Fava Beans of China",
+  "original_title": "\u0641\u0648\u0644 \u0627\u0644\u0635\u064a\u0646 \u0627\u0644\u0639\u0638\u064a\u0645",
+  "release_date": "2004-08-08",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "EG"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

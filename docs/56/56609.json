@@ -1,0 +1,37 @@
+{
+  "id": 56609,
+  "title": "Battle Royale High School",
+  "original_title": "\u771f\u9b54\u795e\u4f1d \u30d0\u30c8\u30eb\u30ed\u30a4\u30e4\u30eb\u30cf\u30a4\u30b9\u30af\u30fc\u30eb",
+  "release_date": "1987-12-10",
+  "status": "Released",
+  "runtime": 60,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

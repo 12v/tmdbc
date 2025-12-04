@@ -1,8 +1,8 @@
 {
-  "id": 522478,
-  "title": "Peter Rabbit 2: The Runaway",
-  "original_title": "Peter Rabbit 2: The Runaway",
-  "release_date": "2021-03-25",
+  "id": 673737,
+  "title": "A Christmas Gift from Bob",
+  "original_title": "A Christmas Gift from Bob",
+  "release_date": "2020-11-27",
   "status": "Released",
   "runtime": 93,
   "original_language": "en",
@@ -15,7 +15,7 @@
   ],
   "origin_country": [
     "US",
-    "AU"
+    "GB"
   ],
   "genres": [
     {
@@ -23,16 +23,8 @@
       "name": "Family"
     },
     {
-      "id": 35,
-      "name": "Comedy"
-    },
-    {
-      "id": 12,
-      "name": "Adventure"
-    },
-    {
-      "id": 16,
-      "name": "Animation"
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

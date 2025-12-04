@@ -1,0 +1,29 @@
+{
+  "id": 1221388,
+  "title": "From the Ashes",
+  "original_title": "\u062c\u0631\u0633 \u0625\u0646\u0630\u0627\u0631",
+  "release_date": "2024-01-18",
+  "status": "Released",
+  "runtime": 92,
+  "original_language": "ar",
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    }
+  ],
+  "origin_country": [
+    "SA"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

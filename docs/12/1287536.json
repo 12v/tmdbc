@@ -1,21 +1,25 @@
 {
-  "id": 522478,
-  "title": "Peter Rabbit 2: The Runaway",
-  "original_title": "Peter Rabbit 2: The Runaway",
-  "release_date": "2021-03-25",
+  "id": 1287536,
+  "title": "Dora and the Search for Sol Dorado",
+  "original_title": "Dora and the Search for Sol Dorado",
+  "release_date": "2025-07-02",
   "status": "Released",
-  "runtime": 93,
+  "runtime": 96,
   "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
-    "US",
-    "AU"
+    "US"
   ],
   "genres": [
     {
@@ -29,10 +33,6 @@
     {
       "id": 12,
       "name": "Adventure"
-    },
-    {
-      "id": 16,
-      "name": "Animation"
     }
   ]
 }

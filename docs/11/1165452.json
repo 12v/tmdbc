@@ -1,0 +1,23 @@
+{
+  "id": 1165452,
+  "title": "The Last Video Store",
+  "original_title": "The Last Video Store",
+  "release_date": "2023-09-22",
+  "status": "Released",
+  "runtime": 79,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

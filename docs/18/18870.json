@@ -1,12 +1,17 @@
 {
-  "id": 522478,
-  "title": "Peter Rabbit 2: The Runaway",
-  "original_title": "Peter Rabbit 2: The Runaway",
-  "release_date": "2021-03-25",
+  "id": 18870,
+  "title": "Minotaur",
+  "original_title": "Minotaur",
+  "release_date": "2006-03-11",
   "status": "Released",
   "runtime": 93,
   "original_language": "en",
   "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
     {
       "english_name": "English",
       "iso_639_1": "en",
@@ -15,24 +20,20 @@
   ],
   "origin_country": [
     "US",
-    "AU"
+    "GB"
   ],
   "genres": [
     {
-      "id": 10751,
-      "name": "Family"
-    },
-    {
-      "id": 35,
-      "name": "Comedy"
+      "id": 27,
+      "name": "Horror"
     },
     {
       "id": 12,
       "name": "Adventure"
     },
     {
-      "id": 16,
-      "name": "Animation"
+      "id": 14,
+      "name": "Fantasy"
     }
   ]
 }

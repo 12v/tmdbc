@@ -1,0 +1,37 @@
+{
+  "id": 39207,
+  "title": "Detective Conan: Full Score of Fear",
+  "original_title": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u6226\u6144\u306e\u697d\u8b5c\uff08\u30d5\u30eb\u30b9\u30b3\u30a2\uff09",
+  "release_date": "2008-04-19",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 166798,
+  "title": "Ajantrik",
+  "original_title": "\u0985\u09af\u09be\u09a8\u09cd\u09a4\u09cd\u09b0\u09bf\u0995",
+  "release_date": "1958-05-23",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "bn",
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "origin_country": [],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

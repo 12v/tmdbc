@@ -1,0 +1,30 @@
+{
+  "id": 823836,
+  "title": "Meet Doug",
+  "original_title": "Le Boug Doug",
+  "release_date": "2021-06-02",
+  "status": "Released",
+  "runtime": 26,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": []
+}

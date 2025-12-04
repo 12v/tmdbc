@@ -1,0 +1,33 @@
+{
+  "id": 59593,
+  "title": "Hans Christian Andersen's The Little Mermaid",
+  "original_title": "\u30a2\u30f3\u30c7\u30eb\u30bb\u30f3\u7ae5\u8a71 \u306b\u3093\u304e\u3087\u59eb",
+  "release_date": "1975-03-21",
+  "status": "Released",
+  "runtime": 68,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

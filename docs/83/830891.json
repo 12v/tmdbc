@@ -1,0 +1,30 @@
+{
+  "id": 830891,
+  "title": "Sherni",
+  "original_title": "\u0936\u0947\u0930\u0928\u0940",
+  "release_date": "2021-06-18",
+  "status": "Released",
+  "runtime": 130,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

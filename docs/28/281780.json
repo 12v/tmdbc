@@ -1,0 +1,29 @@
+{
+  "id": 281780,
+  "title": "Kundo: Age of the Rampant",
+  "original_title": "\uad70\ub3c4: \ubbfc\ub780\uc758 \uc2dc\ub300",
+  "release_date": "2014-07-23",
+  "status": "Released",
+  "runtime": 137,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

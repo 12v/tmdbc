@@ -1,0 +1,34 @@
+{
+  "id": 70147,
+  "title": "The Lady from the Shanghai Cinema",
+  "original_title": "A Dama do Cine Shanghai",
+  "release_date": "1987-07-19",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

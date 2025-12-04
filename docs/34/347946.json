@@ -1,0 +1,25 @@
+{
+  "id": 347946,
+  "title": "Ju-on: The Final Curse",
+  "original_title": "\u546a\u6028 \u30b6\u30fb\u30d5\u30a1\u30a4\u30ca\u30eb",
+  "release_date": "2015-06-20",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

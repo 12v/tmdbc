@@ -1,0 +1,41 @@
+{
+  "id": 526426,
+  "title": "Made in Abyss: Journey's Dawn",
+  "original_title": "\u5287\u5834\u7248\u7dcf\u96c6\u7de8\u3010\u524d\u7de8\u3011\u30e1\u30a4\u30c9\u30a4\u30f3\u30a2\u30d3\u30b9 \u65c5\u7acb\u3061\u306e\u591c\u660e\u3051",
+  "release_date": "2019-01-04",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

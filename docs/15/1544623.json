@@ -1,0 +1,30 @@
+{
+  "id": 1544623,
+  "title": "Who Killed the Montreal Expos?",
+  "original_title": "Qui a tu\u00e9 les Expos de Montr\u00e9al?",
+  "release_date": "2025-10-09",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

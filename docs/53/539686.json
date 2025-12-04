@@ -1,0 +1,33 @@
+{
+  "id": 539686,
+  "title": "Shamshera",
+  "original_title": "\u0936\u092e\u0936\u0947\u0930\u093e",
+  "release_date": "2022-07-22",
+  "status": "Released",
+  "runtime": 158,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

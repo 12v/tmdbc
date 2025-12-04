@@ -1,0 +1,29 @@
+{
+  "id": 787163,
+  "title": "Liger",
+  "original_title": "\u0c32\u0c48\u0c17\u0c30\u0c4d",
+  "release_date": "2022-08-25",
+  "status": "Released",
+  "runtime": 138,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

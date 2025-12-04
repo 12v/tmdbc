@@ -1,0 +1,29 @@
+{
+  "id": 10915,
+  "title": "A Genius, Two Friends, and an Idiot",
+  "original_title": "Un genio, due compari, un pollo",
+  "release_date": "1975-12-16",
+  "status": "Released",
+  "runtime": 117,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ]
+}
