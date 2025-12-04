@@ -1,0 +1,25 @@
+{
+  "id": 78708,
+  "title": "When You Read This Letter",
+  "original_title": "Quand tu liras cette lettre",
+  "release_date": "1953-07-26",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

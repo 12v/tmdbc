@@ -1,0 +1,29 @@
+{
+  "id": 64765,
+  "title": "Could One Imagine?",
+  "original_title": "\u0412\u0430\u043c \u0438 \u043d\u0435 \u0441\u043d\u0438\u043b\u043e\u0441\u044c",
+  "release_date": "1981-03-23",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

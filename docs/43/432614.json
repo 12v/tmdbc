@@ -1,0 +1,29 @@
+{
+  "id": 432614,
+  "title": "All That Divides Us",
+  "original_title": "Tout nous s\u00e9pare",
+  "release_date": "2017-11-08",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

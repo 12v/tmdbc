@@ -1,0 +1,25 @@
+{
+  "id": 933255,
+  "title": "And Just Like That... The Documentary",
+  "original_title": "And Just Like That... The Documentary",
+  "release_date": "2022-02-03",
+  "status": "Released",
+  "runtime": 73,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

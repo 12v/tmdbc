@@ -1,0 +1,44 @@
+{
+  "id": 404791,
+  "title": "The 101-Year-Old Man Who Skipped Out on the Bill and Disappeared",
+  "original_title": "Hundraett\u00e5ringen som smet fr\u00e5n notan och f\u00f6rsvann",
+  "release_date": "2016-12-25",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

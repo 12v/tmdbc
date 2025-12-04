@@ -1,0 +1,33 @@
+{
+  "id": 100681,
+  "title": "Shanghai",
+  "original_title": "\u0936\u0902\u0918\u093e\u0908",
+  "release_date": "2012-06-08",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

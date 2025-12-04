@@ -1,0 +1,33 @@
+{
+  "id": 22914,
+  "title": "Gundam Wing: The Endless Waltz",
+  "original_title": "\u65b0\u6a5f\u52d5\u6226\u8a18\u30ac\u30f3\u30c0\u30e0\uff37 Endless Waltz \u7279\u5225\u7bc7",
+  "release_date": "1998-08-01",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

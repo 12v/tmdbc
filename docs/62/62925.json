@@ -1,0 +1,33 @@
+{
+  "id": 62925,
+  "title": "Santo and Blue Demon Against the Monsters",
+  "original_title": "Santo el enmascarado de plata y Blue Demon contra los monstruos",
+  "release_date": "1970-05-14",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

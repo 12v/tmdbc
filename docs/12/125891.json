@@ -1,0 +1,44 @@
+{
+  "id": 125891,
+  "title": "Intermezzo",
+  "original_title": "Intermezzo",
+  "release_date": "1936-11-16",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "sv",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "SE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

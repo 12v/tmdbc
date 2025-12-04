@@ -1,0 +1,33 @@
+{
+  "id": 754067,
+  "title": "Vicky and Her Mystery",
+  "original_title": "Myst\u00e8re",
+  "release_date": "2021-12-15",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

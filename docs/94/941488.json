@@ -1,0 +1,34 @@
+{
+  "id": 941488,
+  "title": "The Three Investigators and The Legacy of the Dragon",
+  "original_title": "Die drei ??? - Erbe des Drachen",
+  "release_date": "2023-01-26",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Rom\u00e2n\u0103"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

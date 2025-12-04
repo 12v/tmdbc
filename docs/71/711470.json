@@ -1,0 +1,29 @@
+{
+  "id": 711470,
+  "title": "I WeirDO",
+  "original_title": "\u602a\u80ce",
+  "release_date": "2020-08-07",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "TW"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

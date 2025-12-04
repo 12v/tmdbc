@@ -1,0 +1,29 @@
+{
+  "id": 60190,
+  "title": "Beyond Darkness",
+  "original_title": "La casa 5",
+  "release_date": "1990-07-31",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 300823,
+  "title": "Close Range Love",
+  "original_title": "\u8fd1\u30ad\u30e7\u30ea\u604b\u611b",
+  "release_date": "2014-10-11",
+  "status": "Released",
+  "runtime": 118,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

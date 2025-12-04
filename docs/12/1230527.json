@@ -1,0 +1,29 @@
+{
+  "id": 1230527,
+  "title": "Tears of Cem Karaca",
+  "original_title": "Cem Karaca'n\u0131n G\u00f6zya\u015flar\u0131",
+  "release_date": "2024-01-26",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ]
+}

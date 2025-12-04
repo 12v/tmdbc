@@ -1,0 +1,25 @@
+{
+  "id": 22449,
+  "title": "I Just Didn't Do It",
+  "original_title": "\u305d\u308c\u3067\u3082\u30dc\u30af\u306f\u3084\u3063\u3066\u306a\u3044",
+  "release_date": "2007-01-20",
+  "status": "Released",
+  "runtime": 143,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

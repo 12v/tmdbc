@@ -1,0 +1,25 @@
+{
+  "id": 501912,
+  "title": "Cristaux",
+  "original_title": "Cristaux",
+  "release_date": "1978-12-22",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

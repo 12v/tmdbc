@@ -1,0 +1,29 @@
+{
+  "id": 288129,
+  "title": "Liz in September",
+  "original_title": "Liz en Septiembre",
+  "release_date": "2014-10-02",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

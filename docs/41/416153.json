@@ -1,0 +1,35 @@
+{
+  "id": 416153,
+  "title": "Arctic Dogs",
+  "original_title": "Arctic Dogs",
+  "release_date": "2019-11-01",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "CA",
+    "GB",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

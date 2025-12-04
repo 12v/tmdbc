@@ -1,0 +1,25 @@
+{
+  "id": 112170,
+  "title": "Satan",
+  "original_title": "\u015eeytan",
+  "release_date": "1974-01-01",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

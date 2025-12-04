@@ -1,0 +1,45 @@
+{
+  "id": 845322,
+  "title": "Duck the Halls: A Mickey Mouse Christmas Special",
+  "original_title": "Duck the Halls: A Mickey Mouse Christmas Special",
+  "release_date": "2016-12-09",
+  "status": "Released",
+  "runtime": 21,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

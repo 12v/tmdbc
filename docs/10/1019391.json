@@ -1,0 +1,38 @@
+{
+  "id": 1019391,
+  "title": "Retrograde",
+  "original_title": "Retrograde",
+  "release_date": "2022-10-17",
+  "status": "Released",
+  "runtime": 94,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

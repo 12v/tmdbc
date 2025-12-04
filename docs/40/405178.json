@@ -1,0 +1,29 @@
+{
+  "id": 405178,
+  "title": "Dawn of the Deaf",
+  "original_title": "Dawn of the Deaf",
+  "release_date": "2016-07-19",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 46852,
+  "title": "The Two Mouseketeers",
+  "original_title": "The Two Mouseketeers",
+  "release_date": "1952-03-15",
+  "status": "Released",
+  "runtime": 8,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

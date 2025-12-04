@@ -1,0 +1,29 @@
+{
+  "id": 1196348,
+  "title": "The Girlfriend",
+  "original_title": "The Girlfriend",
+  "release_date": "2025-11-07",
+  "status": "Released",
+  "runtime": 150,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

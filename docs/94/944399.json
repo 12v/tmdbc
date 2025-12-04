@@ -1,0 +1,41 @@
+{
+  "id": 944399,
+  "title": "The K.E.O.P/S System",
+  "original_title": "El sistema K.E.OP/S",
+  "release_date": "2022-05-12",
+  "status": "Released",
+  "runtime": 119,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

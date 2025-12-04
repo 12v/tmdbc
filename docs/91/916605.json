@@ -1,0 +1,39 @@
+{
+  "id": 916605,
+  "title": "The Infernal Machine",
+  "original_title": "The Infernal Machine",
+  "release_date": "2022-09-23",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ]
+}

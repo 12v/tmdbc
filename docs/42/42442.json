@@ -1,0 +1,25 @@
+{
+  "id": 42442,
+  "title": "Christmas Holidays",
+  "original_title": "Vacanze di Natale",
+  "release_date": "1983-12-22",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

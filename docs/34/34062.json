@@ -1,0 +1,25 @@
+{
+  "id": 34062,
+  "title": "The Calamari Wrestler",
+  "original_title": "\u3044\u304b\u30ec\u30b9\u30e9\u30fc",
+  "release_date": "2004-07-30",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 446132,
+  "title": "Gauguin: Voyage to Tahiti",
+  "original_title": "Gauguin : Voyage de Tahiti",
+  "release_date": "2017-09-20",
+  "status": "Released",
+  "runtime": 97,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Tahitian",
+      "iso_639_1": "ty",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 239529,
+  "title": "Lupin the Third vs. Detective Conan: The Movie",
+  "original_title": "\u30eb\u30d1\u30f3\u4e09\u4e16VS\u540d\u63a2\u5075\u30b3\u30ca\u30f3 THE MOVIE",
+  "release_date": "2013-12-07",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

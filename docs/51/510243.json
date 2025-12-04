@@ -1,0 +1,30 @@
+{
+  "id": 510243,
+  "title": "Rams",
+  "original_title": "Rams",
+  "release_date": "2018-11-28",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

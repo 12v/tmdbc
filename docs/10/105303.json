@@ -1,0 +1,25 @@
+{
+  "id": 105303,
+  "title": "Explosion of a Motor Car",
+  "original_title": "Explosion of a Motor Car",
+  "release_date": "1900-07-01",
+  "status": "Released",
+  "runtime": 2,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

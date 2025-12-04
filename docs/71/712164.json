@@ -1,0 +1,25 @@
+{
+  "id": 712164,
+  "title": "Striding Into the Wind",
+  "original_title": "\u91ce\u9a6c\u5206\u9b03",
+  "release_date": "2021-11-26",
+  "status": "Released",
+  "runtime": 134,
+  "original_language": "zh",
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "CN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

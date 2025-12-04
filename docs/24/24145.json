@@ -1,0 +1,33 @@
+{
+  "id": 24145,
+  "title": "Landspeed presents: CKY",
+  "original_title": "Landspeed presents: CKY",
+  "release_date": "1999-03-01",
+  "status": "Released",
+  "runtime": 66,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

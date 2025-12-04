@@ -1,0 +1,25 @@
+{
+  "id": 56691,
+  "title": "The Wayward Girl",
+  "original_title": "Ung flukt",
+  "release_date": "1959-10-08",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

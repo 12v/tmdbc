@@ -1,0 +1,23 @@
+{
+  "id": 1293286,
+  "title": "Gunslingers",
+  "original_title": "Gunslingers",
+  "release_date": "2025-04-11",
+  "status": "Released",
+  "runtime": 104,
+  "original_language": "en",
+  "spoken_languages": [],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

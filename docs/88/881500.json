@@ -1,0 +1,37 @@
+{
+  "id": 881500,
+  "title": "A Christmas Miracle for Daisy",
+  "original_title": "A Christmas Miracle for Daisy",
+  "release_date": "2021-12-11",
+  "status": "Released",
+  "runtime": 85,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}
