@@ -1,0 +1,37 @@
+{
+  "id": 8886,
+  "title": "Palermo Shooting",
+  "original_title": "Palermo Shooting",
+  "release_date": "2008-11-20",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "DE",
+    "IT",
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

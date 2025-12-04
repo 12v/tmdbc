@@ -1,0 +1,33 @@
+{
+  "id": 6511,
+  "title": "The Consequence",
+  "original_title": "Die Konsequenz",
+  "release_date": "1977-12-02",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

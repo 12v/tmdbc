@@ -1,0 +1,29 @@
+{
+  "id": 67393,
+  "title": "Woods Are Wet",
+  "original_title": "\u5973\u5730\u7344\u3000\u68ee\u306f\u6fe1\u308c\u305f",
+  "release_date": "1973-05-23",
+  "status": "Released",
+  "runtime": 65,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

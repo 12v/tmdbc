@@ -1,0 +1,33 @@
+{
+  "id": 36274,
+  "title": "Deadly Outlaw: Rekka",
+  "original_title": "\u5b9f\u9332\u30fb\u5b89\u85e4\u6607\u4fa0\u9053\uff08\u30a2\u30a6\u30c8\u30ed\u30fc\uff09\u4f1d \u70c8\u706b",
+  "release_date": "2002-09-21",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

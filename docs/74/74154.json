@@ -1,0 +1,33 @@
+{
+  "id": 74154,
+  "title": "Nuvvostanante Nenoddantana",
+  "original_title": "\u0c28\u0c41\u0c35\u0c4d\u0c35\u0c4a\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c02\u0c1f\u0c47 \u0c28\u0c47\u0c28\u0c4a\u0c26\u0c4d\u0c26\u0c02\u0c1f\u0c3e\u0c28\u0c3e",
+  "release_date": "2005-01-14",
+  "status": "Released",
+  "runtime": 165,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

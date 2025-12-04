@@ -1,0 +1,29 @@
+{
+  "id": 51730,
+  "title": "Royal Tramp 1",
+  "original_title": "\u9e7f\u9f0e\u8a18",
+  "release_date": "1992-07-30",
+  "status": "Released",
+  "runtime": 106,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 399256,
+  "title": "The Ghoul",
+  "original_title": "The Ghoul",
+  "release_date": "2017-08-04",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

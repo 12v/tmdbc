@@ -1,0 +1,29 @@
+{
+  "id": 23692,
+  "title": "The Initiation of Sarah",
+  "original_title": "The Initiation of Sarah",
+  "release_date": "1978-02-06",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

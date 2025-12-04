@@ -1,0 +1,26 @@
+{
+  "id": 289174,
+  "title": "The President",
+  "original_title": "The President",
+  "release_date": "2014-08-30",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ka",
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
+    }
+  ],
+  "origin_country": [
+    "GB",
+    "GE"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

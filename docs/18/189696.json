@@ -1,0 +1,33 @@
+{
+  "id": 189696,
+  "title": "Short Subject",
+  "original_title": "Short Subject",
+  "release_date": "1967-01-30",
+  "status": "Released",
+  "runtime": 1,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

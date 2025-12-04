@@ -1,0 +1,29 @@
+{
+  "id": 141897,
+  "title": "The Story of Yanagawa's Canals",
+  "original_title": "\u67f3\u5ddd\u306e\u904b\u6cb3\u306e\u7269\u8a9e",
+  "release_date": "1987-08-15",
+  "status": "Released",
+  "runtime": 167,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

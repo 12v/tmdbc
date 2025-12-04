@@ -1,0 +1,29 @@
+{
+  "id": 63857,
+  "title": "Too Bad She's Bad",
+  "original_title": "Peccato che sia una canaglia",
+  "release_date": "1954-12-28",
+  "status": "Released",
+  "runtime": 91,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

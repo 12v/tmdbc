@@ -1,0 +1,38 @@
+{
+  "id": 664423,
+  "title": "The Windermere Children",
+  "original_title": "The Windermere Children",
+  "release_date": "2020-01-27",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ]
+}

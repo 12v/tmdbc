@@ -1,0 +1,25 @@
+{
+  "id": 62243,
+  "title": "His Days are Numbered",
+  "original_title": "I giorni contati",
+  "release_date": "1962-04-05",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 565156,
+  "title": "Ang Pangarap Kong Holdap",
+  "original_title": "Ang Pangarap Kong Holdap",
+  "release_date": "2018-11-28",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "tl",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "PH"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ]
+}

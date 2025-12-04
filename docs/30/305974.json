@@ -1,0 +1,25 @@
+{
+  "id": 305974,
+  "title": "Nuggets",
+  "original_title": "Nuggets",
+  "release_date": "2014-10-13",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

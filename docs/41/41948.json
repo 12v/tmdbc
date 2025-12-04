@@ -1,0 +1,25 @@
+{
+  "id": 41948,
+  "title": "Freeze, Die, Come to Life",
+  "original_title": "\u0417\u0430\u043c\u0440\u0438-\u0443\u043c\u0440\u0438-\u0432\u043e\u0441\u043a\u0440\u0435\u0441\u043d\u0438!",
+  "release_date": "1990-08-01",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

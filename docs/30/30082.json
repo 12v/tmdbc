@@ -1,0 +1,34 @@
+{
+  "id": 30082,
+  "title": "Forty Shades of Blue",
+  "original_title": "Forty Shades of Blue",
+  "release_date": "2005-12-07",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

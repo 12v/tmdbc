@@ -1,0 +1,30 @@
+{
+  "id": 37573,
+  "title": "My Only Sunshine",
+  "original_title": "Hayat Var",
+  "release_date": "2009-03-05",
+  "status": "Released",
+  "runtime": 121,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

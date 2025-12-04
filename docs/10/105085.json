@@ -1,0 +1,33 @@
+{
+  "id": 105085,
+  "title": "Cold Eyes of Fear",
+  "original_title": "Gli occhi freddi della paura",
+  "release_date": "1971-04-06",
+  "status": "Released",
+  "runtime": 95,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

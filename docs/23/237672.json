@@ -1,0 +1,29 @@
+{
+  "id": 237672,
+  "title": "Devasuram",
+  "original_title": "\u0d26\u0d47\u0d35\u0d3e\u0d38\u0d41\u0d30\u0d02",
+  "release_date": "1993-04-14",
+  "status": "Released",
+  "runtime": 160,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

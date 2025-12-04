@@ -1,0 +1,25 @@
+{
+  "id": 772909,
+  "title": "Easter Eggs",
+  "original_title": "Easter Eggs",
+  "release_date": "2021-11-05",
+  "status": "Released",
+  "runtime": 15,
+  "original_language": "nl",
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "origin_country": [
+    "NL"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

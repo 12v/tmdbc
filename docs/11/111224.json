@@ -1,0 +1,29 @@
+{
+  "id": 111224,
+  "title": "Ghost in the Shell: S.A.C. 2nd GIG - Individual Eleven",
+  "original_title": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX Individual Eleven",
+  "release_date": "2006-01-27",
+  "status": "Released",
+  "runtime": 161,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

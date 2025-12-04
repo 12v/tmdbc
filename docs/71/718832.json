@@ -1,0 +1,31 @@
+{
+  "id": 718832,
+  "title": "Rurangi",
+  "original_title": "R\u016brangi",
+  "release_date": "2020-07-26",
+  "status": "Released",
+  "runtime": 87,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Maori",
+      "iso_639_1": "mi",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "NZ",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 37928,
+  "title": "Cencoroll",
+  "original_title": "\u30bb\u30f3\u30b3\u30ed\u30fc\u30eb",
+  "release_date": "2009-08-22",
+  "status": "Released",
+  "runtime": 27,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}

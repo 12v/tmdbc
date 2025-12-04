@@ -1,0 +1,29 @@
+{
+  "id": 38965,
+  "title": "18 Again!",
+  "original_title": "18 Again!",
+  "release_date": "1988-04-08",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

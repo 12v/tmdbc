@@ -1,0 +1,25 @@
+{
+  "id": 160165,
+  "title": "In the Name of...",
+  "original_title": "W imi\u0119...",
+  "release_date": "2013-09-06",
+  "status": "Released",
+  "runtime": 102,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 582377,
+  "title": "Bori",
+  "original_title": "\ub098\ub294\ubcf4\ub9ac",
+  "release_date": "2020-05-21",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

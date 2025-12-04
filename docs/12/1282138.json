@@ -1,0 +1,29 @@
+{
+  "id": 1282138,
+  "title": "Justice",
+  "original_title": "Napad",
+  "release_date": "2024-10-15",
+  "status": "Released",
+  "runtime": 114,
+  "original_language": "pl",
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "origin_country": [
+    "PL"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

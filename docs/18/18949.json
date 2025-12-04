@@ -1,0 +1,25 @@
+{
+  "id": 18949,
+  "title": "The Last Trick",
+  "original_title": "Posledn\u00ed trik pana Schwarcewalldea a pana Edgara",
+  "release_date": "1964-09-01",
+  "status": "Released",
+  "runtime": 12,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

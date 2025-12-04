@@ -1,0 +1,37 @@
+{
+  "id": 253533,
+  "title": "Manam",
+  "original_title": "\u0c2e\u0c28\u0c02",
+  "release_date": "2014-05-23",
+  "status": "Released",
+  "runtime": 163,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

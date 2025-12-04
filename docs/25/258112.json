@@ -1,0 +1,25 @@
+{
+  "id": 258112,
+  "title": "The Poet of the Castle",
+  "original_title": "O Poeta do Castelo",
+  "release_date": "1959-01-01",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "pt",
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    }
+  ],
+  "origin_country": [
+    "BR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

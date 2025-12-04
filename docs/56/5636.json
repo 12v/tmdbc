@@ -1,0 +1,29 @@
+{
+  "id": 5636,
+  "title": "Treasure of Silver Lake",
+  "original_title": "Der Schatz im Silbersee",
+  "release_date": "1962-12-12",
+  "status": "Released",
+  "runtime": 111,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "DE"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

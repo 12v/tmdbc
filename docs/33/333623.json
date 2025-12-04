@@ -1,0 +1,38 @@
+{
+  "id": 333623,
+  "title": "Love Live! The School Idol Movie",
+  "original_title": "\u30e9\u30d6\u30e9\u30a4\u30d6\uff01The School Idol Movie",
+  "release_date": "2015-06-13",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

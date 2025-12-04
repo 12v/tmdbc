@@ -1,0 +1,33 @@
+{
+  "id": 642271,
+  "title": "The Little Mermaid Live!",
+  "original_title": "The Little Mermaid Live!",
+  "release_date": "2019-11-05",
+  "status": "Released",
+  "runtime": 84,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ]
+}

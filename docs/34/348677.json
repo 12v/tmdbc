@@ -1,0 +1,35 @@
+{
+  "id": 348677,
+  "title": "The Model",
+  "original_title": "The Model",
+  "release_date": "2016-02-11",
+  "status": "Released",
+  "runtime": 105,
+  "original_language": "da",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "origin_country": [
+    "DK"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

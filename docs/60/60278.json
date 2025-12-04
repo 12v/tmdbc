@@ -1,0 +1,34 @@
+{
+  "id": 60278,
+  "title": "Hollywood Hong Kong",
+  "original_title": "\u9999\u6e2f\u6709\u500b\u8377\u91cc\u6d3b",
+  "release_date": "2002-07-11",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "cn",
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    }
+  ],
+  "origin_country": [
+    "HK"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

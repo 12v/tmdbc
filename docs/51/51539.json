@@ -1,0 +1,29 @@
+{
+  "id": 51539,
+  "title": "The Mind Benders",
+  "original_title": "The Mind Benders",
+  "release_date": "1963-02-01",
+  "status": "Released",
+  "runtime": 109,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "GB"
+  ],
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 512603,
+  "title": "Out Stealing Horses",
+  "original_title": "Ut og stj\u00e6le hester",
+  "release_date": "2019-03-08",
+  "status": "Released",
+  "runtime": 122,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "origin_country": [
+    "DK",
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

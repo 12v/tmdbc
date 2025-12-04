@@ -1,0 +1,25 @@
+{
+  "id": 125374,
+  "title": "Minamata: The Victims and Their World",
+  "original_title": "\u6c34\u4fe3 \u60a3\u8005\u3055\u3093\u3068\u305d\u306e\u4e16\u754c",
+  "release_date": "1971-03-12",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}

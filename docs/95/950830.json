@@ -1,0 +1,37 @@
+{
+  "id": 950830,
+  "title": "The Simulators: The Movie",
+  "original_title": "Los Simuladores: La Pel\u00edcula",
+  "release_date": "",
+  "status": "Planned",
+  "runtime": 0,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 71336,
+  "title": "The Commissar",
+  "original_title": "\u041a\u043e\u043c\u0438\u0441\u0441\u0430\u0440",
+  "release_date": "1967-06-06",
+  "status": "Released",
+  "runtime": 110,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

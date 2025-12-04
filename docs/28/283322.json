@@ -1,0 +1,29 @@
+{
+  "id": 283322,
+  "title": "The Dead Lands",
+  "original_title": "The Dead Lands",
+  "release_date": "2014-09-04",
+  "status": "Released",
+  "runtime": 108,
+  "original_language": "mi",
+  "spoken_languages": [
+    {
+      "english_name": "Maori",
+      "iso_639_1": "mi",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "NZ"
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}

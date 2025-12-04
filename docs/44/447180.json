@@ -1,0 +1,29 @@
+{
+  "id": 447180,
+  "title": "My Teacher",
+  "original_title": "\u5148\u751f\uff01\u3000\u3001\u3001\u3001\u597d\u304d\u306b\u306a\u3063\u3066\u3082\u3044\u3044\u3067\u3059\u304b\uff1f",
+  "release_date": "2017-10-28",
+  "status": "Released",
+  "runtime": 113,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

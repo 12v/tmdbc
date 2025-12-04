@@ -1,0 +1,28 @@
+{
+  "id": 584249,
+  "title": "Servants",
+  "original_title": "Slu\u017eobn\u00edci",
+  "release_date": "2020-11-12",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "sk",
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Sloven\u010dina"
+    }
+  ],
+  "origin_country": [
+    "IE",
+    "CZ",
+    "SK",
+    "RO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

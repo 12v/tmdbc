@@ -1,0 +1,29 @@
+{
+  "id": 252696,
+  "title": "Hardly a Criminal",
+  "original_title": "Apenas un delincuente",
+  "release_date": "1949-03-22",
+  "status": "Released",
+  "runtime": 88,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

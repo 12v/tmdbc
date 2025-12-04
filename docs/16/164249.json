@@ -1,0 +1,25 @@
+{
+  "id": 164249,
+  "title": "Santa Claus Is a Stinker",
+  "original_title": "Le p\u00e8re No\u00ebl est une ordure",
+  "release_date": "1985-01-14",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

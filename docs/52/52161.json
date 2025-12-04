@@ -1,0 +1,33 @@
+{
+  "id": 52161,
+  "title": "Kutsal Damacana 2: \u0130tmen",
+  "original_title": "Kutsal Damacana 2: \u0130tmen",
+  "release_date": "2010-02-22",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

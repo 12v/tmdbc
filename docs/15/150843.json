@@ -1,0 +1,29 @@
+{
+  "id": 150843,
+  "title": "Dog's Dialogue",
+  "original_title": "Colloque de chiens",
+  "release_date": "1987-11-13",
+  "status": "Released",
+  "runtime": 22,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

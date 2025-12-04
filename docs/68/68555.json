@@ -1,0 +1,45 @@
+{
+  "id": 68555,
+  "title": "Death Note Relight 2: L's Successors",
+  "original_title": "\u30c7\u30b9\u30ce\u30fc\u30c8\uff1a\u30ea\u30e9\u30a4\u30c82 L\u3092\u7d99\u3050\u8005",
+  "release_date": "2009-10-07",
+  "status": "Released",
+  "runtime": 100,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}

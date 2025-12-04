@@ -1,0 +1,25 @@
+{
+  "id": 334388,
+  "title": "Bask\u0131n",
+  "original_title": "Bask\u0131n",
+  "release_date": "2013-08-26",
+  "status": "Released",
+  "runtime": 11,
+  "original_language": "tr",
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
+    }
+  ],
+  "origin_country": [
+    "TR"
+  ],
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

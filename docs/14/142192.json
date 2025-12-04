@@ -1,0 +1,25 @@
+{
+  "id": 142192,
+  "title": "Samadhi",
+  "original_title": "Samadhi",
+  "release_date": "1967-12-31",
+  "status": "Released",
+  "runtime": 5,
+  "original_language": "xx",
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ]
+}

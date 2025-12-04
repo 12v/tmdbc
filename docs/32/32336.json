@@ -1,0 +1,33 @@
+{
+  "id": 32336,
+  "title": "Station for Two",
+  "original_title": "\u0412\u043e\u043a\u0437\u0430\u043b \u0434\u043b\u044f \u0434\u0432\u043e\u0438\u0445",
+  "release_date": "1982-06-06",
+  "status": "Released",
+  "runtime": 141,
+  "original_language": "ru",
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "SU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 44656,
+  "title": "My Little Bride",
+  "original_title": "\uc5b4\ub9b0 \uc2e0\ubd80",
+  "release_date": "2004-04-02",
+  "status": "Released",
+  "runtime": 115,
+  "original_language": "ko",
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    }
+  ],
+  "origin_country": [
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 108181,
+  "title": "The Beast of Hollow Mountain",
+  "original_title": "The Beast of Hollow Mountain",
+  "release_date": "1956-08-01",
+  "status": "Released",
+  "runtime": 81,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "MX",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}

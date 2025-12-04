@@ -1,0 +1,26 @@
+{
+  "id": 469312,
+  "title": "The Seen and Unseen",
+  "original_title": "Sekala Niskala",
+  "release_date": "2018-03-08",
+  "status": "Released",
+  "runtime": 86,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "origin_country": [
+    "AU",
+    "ID"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1327766,
+  "title": "The Heart Knows",
+  "original_title": "Coraz\u00f3n delator",
+  "release_date": "2025-05-30",
+  "status": "Released",
+  "runtime": 89,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

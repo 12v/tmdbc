@@ -1,0 +1,33 @@
+{
+  "id": 115470,
+  "title": "The Dead Mother",
+  "original_title": "La madre muerta",
+  "release_date": "1993-11-05",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "ES"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 109380,
+  "title": "The Fifth Horseman Is Fear",
+  "original_title": "A p\u00e1t\u00fd jezdec je Strach",
+  "release_date": "1965-02-12",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "cs",
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    }
+  ],
+  "origin_country": [
+    "XC"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

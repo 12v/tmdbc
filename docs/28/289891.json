@@ -1,0 +1,29 @@
+{
+  "id": 289891,
+  "title": "Jackie & Ryan",
+  "original_title": "Jackie & Ryan",
+  "release_date": "2014-09-01",
+  "status": "Released",
+  "runtime": 90,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

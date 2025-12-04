@@ -1,0 +1,25 @@
+{
+  "id": 542038,
+  "title": "Blind Spot",
+  "original_title": "Blindsone",
+  "release_date": "2018-08-24",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "no",
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "origin_country": [
+    "NO"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}

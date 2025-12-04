@@ -1,0 +1,34 @@
+{
+  "id": 94664,
+  "title": "My Way Home",
+  "original_title": "\u00cdgy j\u00f6ttem",
+  "release_date": "1965-01-14",
+  "status": "Released",
+  "runtime": 99,
+  "original_language": "hu",
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+    }
+  ],
+  "origin_country": [
+    "HU"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ]
+}

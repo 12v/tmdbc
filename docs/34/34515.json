@@ -1,0 +1,25 @@
+{
+  "id": 34515,
+  "title": "Katt Williams: The Pimp Chronicles Pt. 1",
+  "original_title": "Katt Williams: The Pimp Chronicles Pt. 1",
+  "release_date": "2006-09-16",
+  "status": "Released",
+  "runtime": 46,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}

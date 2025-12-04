@@ -1,0 +1,30 @@
+{
+  "id": 295317,
+  "title": "Dark Star: H. R. Giger's World",
+  "original_title": "Dark Star: HR Gigers Welt",
+  "release_date": "2014-10-23",
+  "status": "Released",
+  "runtime": 96,
+  "original_language": "de",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "origin_country": [
+    "CH"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}
