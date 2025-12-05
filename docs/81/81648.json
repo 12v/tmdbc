@@ -5,17 +5,17 @@
   "release_date": "2011-04-22",
   "status": "Released",
   "runtime": 80,
-  "original_language": "hi",
+  "original_language": "ks",
   "spoken_languages": [
     {
-      "english_name": "Hindi",
-      "iso_639_1": "hi",
-      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+      "english_name": "Kashmiri",
+      "iso_639_1": "ks",
+      "name": ""
     }
   ],
   "origin_country": [
-    "CH",
-    "IN"
+    "IN",
+    "CH"
   ],
   "genres": [
     {
