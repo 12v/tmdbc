@@ -8,9 +8,9 @@
   "original_language": "de",
   "spoken_languages": [
     {
-      "english_name": "Russian",
-      "iso_639_1": "ru",
-      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     },
     {
       "english_name": "Hebrew",
@@ -23,20 +23,18 @@
       "name": "Deutsch"
     },
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
       "english_name": "Polish",
       "iso_639_1": "pl",
       "name": "Polski"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
     }
   ],
   "origin_country": [
-    "DE",
-    "FR",
-    "PL"
+    "FR"
   ],
   "genres": [
     {
