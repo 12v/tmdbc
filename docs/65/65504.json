@@ -8,19 +8,18 @@
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "No Language",
-      "iso_639_1": "xx",
-      "name": "No Language"
-    },
-    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
     }
   ],
   "origin_country": [
-    "FR",
-    "PL"
+    "FR"
   ],
   "genres": [
     {
