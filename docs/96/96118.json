@@ -4,13 +4,13 @@
   "original_title": "F\u00f6r att inte tala om alla dessa kvinnor",
   "release_date": "1964-06-15",
   "status": "Released",
-  "runtime": 77,
+  "runtime": 80,
   "original_language": "sv",
   "spoken_languages": [
     {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "French",
@@ -18,14 +18,14 @@
       "name": "Fran\u00e7ais"
     },
     {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
       "english_name": "Swedish",
       "iso_639_1": "sv",
       "name": "svenska"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
     }
   ],
   "origin_country": [
