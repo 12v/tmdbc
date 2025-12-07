@@ -1,12 +1,17 @@
 {
   "id": 541458,
-  "title": "Ang Babaeng Allergic sa Wi-Fi",
+  "title": "The Girl Allergic to Wi-Fi",
   "original_title": "Ang Babaeng Allergic sa Wi-Fi",
   "release_date": "2018-08-15",
   "status": "Released",
   "runtime": 104,
   "original_language": "tl",
   "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
     {
       "english_name": "Tagalog",
       "iso_639_1": "tl",

@@ -32,6 +32,14 @@
     {
       "id": 12,
       "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
     }
   ]
 }
