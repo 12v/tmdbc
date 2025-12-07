@@ -8,9 +8,9 @@
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "Tahitian",
-      "iso_639_1": "ty",
-      "name": ""
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "French",
@@ -18,14 +18,14 @@
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Portuguese",
       "iso_639_1": "pt",
       "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Tahitian",
+      "iso_639_1": "ty",
+      "name": ""
     }
   ],
   "origin_country": [
