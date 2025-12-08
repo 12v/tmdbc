@@ -13,19 +13,19 @@
       "name": "Afrikaans"
     },
     {
-      "english_name": "Tswana",
-      "iso_639_1": "tn",
-      "name": ""
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Tswana",
+      "iso_639_1": "tn",
+      "name": ""
     }
   ],
   "origin_country": [
-    "ZA",
-    "BW"
+    "BW",
+    "ZA"
   ],
   "genres": [
     {
