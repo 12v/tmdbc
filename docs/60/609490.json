@@ -19,10 +19,10 @@
     }
   ],
   "origin_country": [
-    "DE",
     "FR",
     "RU",
-    "CH"
+    "CH",
+    "DE"
   ],
   "genres": [
     {
