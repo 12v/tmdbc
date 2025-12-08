@@ -18,7 +18,9 @@
       "name": "Fran\u00e7ais"
     }
   ],
-  "origin_country": [],
+  "origin_country": [
+    "US"
+  ],
   "genres": [
     {
       "id": 27,

@@ -8,16 +8,6 @@
   "original_language": "de",
   "spoken_languages": [
     {
-      "english_name": "Italian",
-      "iso_639_1": "it",
-      "name": "Italiano"
-    },
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
@@ -26,11 +16,11 @@
   "origin_country": [
     "DE",
     "FR",
-    "US",
-    "GB",
     "NL",
+    "US",
     "PT",
-    "ES"
+    "ES",
+    "GB"
   ],
   "genres": [
     {
