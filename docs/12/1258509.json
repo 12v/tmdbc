@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Icelandic",
-      "iso_639_1": "is",
-      "name": "\u00cdslenska"
-    },
-    {
       "english_name": "Swedish",
       "iso_639_1": "sv",
       "name": "svenska"
+    },
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
     }
   ],
   "origin_country": [

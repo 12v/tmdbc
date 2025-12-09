@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Arabic",
-      "iso_639_1": "ar",
-      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
-    },
-    {
       "english_name": "Japanese",
       "iso_639_1": "ja",
       "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
     },
     {
       "english_name": "Persian",
