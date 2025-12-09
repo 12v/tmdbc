@@ -1,0 +1,29 @@
+{
+  "id": 1254590,
+  "title": "Kalamkaval",
+  "original_title": "\u0d15\u0d33\u0d19\u0d4d\u0d15\u0d3e\u0d35\u0d7d",
+  "release_date": "2025-12-05",
+  "status": "Released",
+  "runtime": 144,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
