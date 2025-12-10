@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
       "english_name": "Fulah",
       "iso_639_1": "ff",
       "name": "Fulfulde"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
