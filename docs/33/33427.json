@@ -13,7 +13,9 @@
       "name": "English"
     }
   ],
-  "origin_country": [],
+  "origin_country": [
+    "US"
+  ],
   "genres": [
     {
       "id": 28,
