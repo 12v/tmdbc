@@ -4,7 +4,7 @@
   "original_title": "\u6bba\u7834\u72fc\u00b7\u8caa\u72fc",
   "release_date": "2017-08-25",
   "status": "Released",
-  "runtime": 99,
+  "runtime": 101,
   "original_language": "cn",
   "spoken_languages": [
     {
@@ -42,6 +42,10 @@
     {
       "id": 53,
       "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }
