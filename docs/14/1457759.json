@@ -8,9 +8,19 @@
   "original_language": "en",
   "spoken_languages": [
     {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
@@ -20,6 +30,14 @@
     {
       "id": 28,
       "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
     }
   ]
 }
