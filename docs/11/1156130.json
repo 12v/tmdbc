@@ -6,13 +6,7 @@
   "status": "Released",
   "runtime": 0,
   "original_language": "pl",
-  "spoken_languages": [
-    {
-      "english_name": "Polish",
-      "iso_639_1": "pl",
-      "name": "Polski"
-    }
-  ],
+  "spoken_languages": [],
   "origin_country": [
     "PL"
   ],

@@ -8,6 +8,11 @@
   "original_language": "te",
   "spoken_languages": [
     {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    },
+    {
       "english_name": "Hindi",
       "iso_639_1": "hi",
       "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
@@ -16,11 +21,6 @@
       "english_name": "Japanese",
       "iso_639_1": "ja",
       "name": "\u65e5\u672c\u8a9e"
-    },
-    {
-      "english_name": "Kannada",
-      "iso_639_1": "kn",
-      "name": "?????"
     },
     {
       "english_name": "Malayalam",
