@@ -59,6 +59,18 @@
     {
       "id": 12,
       "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }
