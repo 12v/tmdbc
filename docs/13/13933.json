@@ -4,18 +4,18 @@
   "original_title": "One Man Band",
   "release_date": "2005-06-21",
   "status": "Released",
-  "runtime": 4,
+  "runtime": 5,
   "original_language": "en",
   "spoken_languages": [
-    {
-      "english_name": "No Language",
-      "iso_639_1": "xx",
-      "name": "No Language"
-    },
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
     }
   ],
   "origin_country": [
