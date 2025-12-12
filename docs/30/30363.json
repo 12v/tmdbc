@@ -8,6 +8,11 @@
   "original_language": "de",
   "spoken_languages": [
     {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
