@@ -11,6 +11,11 @@
       "english_name": "Japanese",
       "iso_639_1": "ja",
       "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
     }
   ],
   "origin_country": [
