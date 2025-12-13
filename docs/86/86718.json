@@ -1,17 +1,12 @@
 {
   "id": 86718,
   "title": "7Aum Arivu",
-  "original_title": "7 \u0b86\u0bae\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bc1",
+  "original_title": "7\u0b86\u0bae\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bc1",
   "release_date": "2011-10-26",
   "status": "Released",
   "runtime": 168,
   "original_language": "ta",
   "spoken_languages": [
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
     {
       "english_name": "Tamil",
       "iso_639_1": "ta",
