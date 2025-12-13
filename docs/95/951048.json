@@ -47,6 +47,10 @@
     {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
     }
   ]
 }
