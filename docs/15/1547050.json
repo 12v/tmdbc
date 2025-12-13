@@ -1,0 +1,29 @@
+{
+  "id": 1547050,
+  "title": "Lali: Time To Step Up",
+  "original_title": "Lali: La que le gana al tiempo",
+  "release_date": "2025-12-04",
+  "status": "Released",
+  "runtime": 74,
+  "original_language": "es",
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    }
+  ],
+  "origin_country": [
+    "AR"
+  ],
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}
