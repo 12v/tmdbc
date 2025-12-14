@@ -1,0 +1,29 @@
+{
+  "id": 1112552,
+  "title": "Kennedy",
+  "original_title": "Kennedy",
+  "release_date": "2023-05-24",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "hi",
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ]
+}
