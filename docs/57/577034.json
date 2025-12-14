@@ -5,8 +5,13 @@
   "release_date": "2019-02-10",
   "status": "Released",
   "runtime": 76,
-  "original_language": "st",
+  "original_language": "en",
   "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
     {
       "english_name": "Sotho",
       "iso_639_1": "st",
@@ -14,10 +19,10 @@
     }
   ],
   "origin_country": [
-    "ZA",
     "DE",
+    "LS",
     "QA",
-    "LS"
+    "ZA"
   ],
   "genres": [
     {

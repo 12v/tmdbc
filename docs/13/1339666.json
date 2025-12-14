@@ -1,0 +1,29 @@
+{
+  "id": 1339666,
+  "title": "The Kidnapping of Arabella",
+  "original_title": "Il rapimento di Arabella",
+  "release_date": "2025-08-27",
+  "status": "Released",
+  "runtime": 107,
+  "original_language": "it",
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "origin_country": [
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
