@@ -11,16 +11,15 @@
       "english_name": "Russian",
       "iso_639_1": "ru",
       "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
-    },
-    {
-      "english_name": "Ukrainian",
-      "iso_639_1": "uk",
-      "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
     }
   ],
   "origin_country": [
+    "FR",
     "DE",
-    "UA"
+    "LV",
+    "LT",
+    "NL",
+    "RO"
   ],
   "genres": [
     {
