@@ -4,22 +4,21 @@
   "original_title": "11 minut",
   "release_date": "2015-09-02",
   "status": "Released",
-  "runtime": 81,
+  "runtime": 83,
   "original_language": "pl",
   "spoken_languages": [
-    {
-      "english_name": "Polish",
-      "iso_639_1": "pl",
-      "name": "Polski"
-    },
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
     }
   ],
   "origin_country": [
-    "IE",
     "PL"
   ],
   "genres": [
