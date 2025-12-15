@@ -1,10 +1,10 @@
 {
-  "id": 837548,
-  "title": "Together",
-  "original_title": "Together",
-  "release_date": "2021-08-27",
+  "id": 1392796,
+  "title": "Diary of a Wimpy Kid: The Last Straw",
+  "original_title": "Diary of a Wimpy Kid: The Last Straw",
+  "release_date": "2025-12-04",
   "status": "Released",
-  "runtime": 92,
+  "runtime": 78,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,12 +14,16 @@
     }
   ],
   "origin_country": [
-    "GB"
+    "US"
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
     },
     {
       "id": 35,
