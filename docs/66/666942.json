@@ -4,9 +4,14 @@
   "original_title": "Musik",
   "release_date": "2023-03-08",
   "status": "Released",
-  "runtime": 105,
+  "runtime": 109,
   "original_language": "de",
   "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
     {
       "english_name": "German",
       "iso_639_1": "de",
@@ -16,11 +21,6 @@
       "english_name": "Greek",
       "iso_639_1": "el",
       "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
     }
   ],
   "origin_country": [
