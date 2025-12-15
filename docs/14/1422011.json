@@ -22,12 +22,12 @@
       "name": "Mystery"
     },
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
       "id": 27,
       "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }
