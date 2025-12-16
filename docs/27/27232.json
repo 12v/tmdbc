@@ -8,14 +8,14 @@
   "original_language": "it",
   "spoken_languages": [
     {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
-    },
-    {
       "english_name": "Italian",
       "iso_639_1": "it",
       "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
