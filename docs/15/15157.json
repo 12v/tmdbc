@@ -19,12 +19,20 @@
   ],
   "genres": [
     {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
       "id": 35,
       "name": "Comedy"
     },
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
     }
   ]
 }
