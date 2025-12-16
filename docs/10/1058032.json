@@ -8,6 +8,16 @@
   "original_language": "fr",
   "spoken_languages": [
     {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
       "english_name": "Dutch",
       "iso_639_1": "nl",
       "name": "Nederlands"
@@ -16,16 +26,6 @@
       "english_name": "Romanian",
       "iso_639_1": "ro",
       "name": "Rom\u00e2n\u0103"
-    },
-    {
-      "english_name": "Mandarin",
-      "iso_639_1": "zh",
-      "name": "\u666e\u901a\u8bdd"
-    },
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
