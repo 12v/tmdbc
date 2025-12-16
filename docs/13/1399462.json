@@ -2,7 +2,7 @@
   "id": 1399462,
   "title": "Calle M\u00e1laga",
   "original_title": "Calle M\u00e1laga",
-  "release_date": "2026-03-18",
+  "release_date": "2025-10-31",
   "status": "Released",
   "runtime": 116,
   "original_language": "es",
@@ -21,9 +21,9 @@
   "origin_country": [
     "BE",
     "FR",
+    "DE",
     "MA",
-    "ES",
-    "DE"
+    "ES"
   ],
   "genres": [
     {
