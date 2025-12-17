@@ -24,12 +24,17 @@
     }
   ],
   "origin_country": [
-    "FR"
+    "FR",
+    "PL"
   ],
   "genres": [
     {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
     }
   ]
 }
