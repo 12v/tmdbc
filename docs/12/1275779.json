@@ -1,7 +1,7 @@
 {
   "id": 1275779,
-  "title": "The Dish",
-  "original_title": "The Dish",
+  "title": "Disclosure Day",
+  "original_title": "Disclosure Day",
   "release_date": "2026-06-10",
   "status": "Post Production",
   "runtime": 0,
@@ -20,6 +20,10 @@
     {
       "id": 878,
       "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }
