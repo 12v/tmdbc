@@ -8,9 +8,19 @@
   "original_language": "pt",
   "spoken_languages": [
     {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
       "english_name": "Portuguese",
       "iso_639_1": "pt",
       "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
