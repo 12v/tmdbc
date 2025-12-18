@@ -13,6 +13,11 @@
       "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
     },
     {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
       "english_name": "Turkish",
       "iso_639_1": "tr",
       "name": "T\u00fcrk\u00e7e"
@@ -21,11 +26,6 @@
       "english_name": "Italian",
       "iso_639_1": "it",
       "name": "Italiano"
-    },
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [

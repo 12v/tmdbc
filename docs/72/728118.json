@@ -8,6 +8,11 @@
   "original_language": "sr",
   "spoken_languages": [
     {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
       "english_name": "Bosnian",
       "iso_639_1": "bs",
       "name": "Bosanski"
@@ -18,19 +23,14 @@
       "name": "Nederlands"
     },
     {
-      "english_name": "Serbian",
-      "iso_639_1": "sr",
-      "name": "Srpski"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Serbo-Croatian",
       "iso_639_1": "sh",
       "name": ""
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
     }
   ],
   "origin_country": [
