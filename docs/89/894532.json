@@ -2,7 +2,7 @@
   "id": 894532,
   "title": "Actors",
   "original_title": "Actors",
-  "release_date": "2021-11-05",
+  "release_date": "2022-02-18",
   "status": "Released",
   "runtime": 80,
   "original_language": "en",
@@ -20,6 +20,10 @@
     {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }
