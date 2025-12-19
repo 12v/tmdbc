@@ -13,14 +13,14 @@
       "name": "\u0641\u0627\u0631\u0633\u06cc"
     },
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
       "english_name": "German",
       "iso_639_1": "de",
       "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
