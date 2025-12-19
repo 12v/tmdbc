@@ -5,7 +5,7 @@
   "release_date": "1997-05-09",
   "status": "Released",
   "runtime": 94,
-  "original_language": "tr",
+  "original_language": "it",
   "spoken_languages": [
     {
       "english_name": "French",
@@ -24,6 +24,8 @@
     }
   ],
   "origin_country": [
+    "IT",
+    "ES",
     "TR"
   ],
   "genres": [
