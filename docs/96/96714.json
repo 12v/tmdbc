@@ -13,11 +13,6 @@
       "name": "Deutsch"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Spanish",
       "iso_639_1": "es",
       "name": "Espa\u00f1ol"
@@ -28,6 +23,11 @@
       "name": "Fran\u00e7ais"
     },
     {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
       "english_name": "Italian",
       "iso_639_1": "it",
       "name": "Italiano"
@@ -35,8 +35,8 @@
   ],
   "origin_country": [
     "FR",
-    "RE",
     "IT",
+    "RE",
     "RO"
   ],
   "genres": [
