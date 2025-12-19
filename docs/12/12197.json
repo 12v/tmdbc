@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Norwegian",
-      "iso_639_1": "no",
-      "name": "Norsk"
-    },
-    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
     }
   ],
   "origin_country": [
