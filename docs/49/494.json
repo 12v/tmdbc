@@ -2,15 +2,50 @@
   "id": 494,
   "title": "Shaft in Africa",
   "original_title": "Shaft in Africa",
-  "release_date": "1973-06-14",
+  "release_date": "1973-06-20",
   "status": "Released",
   "runtime": 112,
   "original_language": "en",
   "spoken_languages": [
     {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "english_name": "Amharic",
+      "iso_639_1": "am",
+      "name": ""
+    },
+    {
+      "english_name": "Corsican",
+      "iso_639_1": "co",
+      "name": ""
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Sardinian",
+      "iso_639_1": "sc",
+      "name": ""
     }
   ],
   "origin_country": [
@@ -22,20 +57,16 @@
       "name": "Action"
     },
     {
-      "id": 80,
-      "name": "Crime"
-    },
-    {
       "id": 12,
       "name": "Adventure"
     },
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 80,
+      "name": "Crime"
     },
     {
-      "id": 53,
-      "name": "Thriller"
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }

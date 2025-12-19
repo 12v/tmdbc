@@ -13,11 +13,6 @@
       "name": "\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
@@ -26,6 +21,11 @@
       "english_name": "Latin",
       "iso_639_1": "la",
       "name": "Latin"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
