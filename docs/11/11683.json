@@ -8,9 +8,9 @@
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "Italian",
-      "iso_639_1": "it",
-      "name": "Italiano"
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "French",
@@ -18,19 +18,19 @@
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "Polish",
-      "iso_639_1": "pl",
-      "name": "Polski"
-    },
-    {
       "english_name": "Haitian; Haitian Creole",
       "iso_639_1": "ht",
       "name": ""
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
     },
     {
       "english_name": "Spanish",
@@ -39,8 +39,8 @@
     }
   ],
   "origin_country": [
-    "CA",
     "FR",
+    "CA",
     "US"
   ],
   "genres": [

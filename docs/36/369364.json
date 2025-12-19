@@ -5,21 +5,21 @@
   "release_date": "2015-10-28",
   "status": "Released",
   "runtime": 40,
-  "original_language": "pa",
+  "original_language": "en",
   "spoken_languages": [
-    {
-      "english_name": "Punjabi",
-      "iso_639_1": "pa",
-      "name": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40"
-    },
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Punjabi",
+      "iso_639_1": "pa",
+      "name": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40"
     }
   ],
   "origin_country": [
-    "PK"
+    "US"
   ],
   "genres": [
     {
