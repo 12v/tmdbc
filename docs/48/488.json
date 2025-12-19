@@ -13,14 +13,14 @@
       "name": "Deutsch"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Swahili",
       "iso_639_1": "sw",
       "name": "Kiswahili"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
