@@ -13,11 +13,6 @@
       "name": "English"
     },
     {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
-    },
-    {
       "english_name": "Portuguese",
       "iso_639_1": "pt",
       "name": "Portugu\u00eas"
@@ -26,10 +21,15 @@
       "english_name": "Romanian",
       "iso_639_1": "ro",
       "name": "Rom\u00e2n\u0103"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
-    "US"
+    "GB"
   ],
   "genres": [
     {
