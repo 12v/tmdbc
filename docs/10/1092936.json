@@ -23,16 +23,12 @@
       "name": "Horror"
     },
     {
-      "id": 14,
-      "name": "Fantasy"
-    },
-    {
-      "id": 9648,
-      "name": "Mystery"
-    },
-    {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }
