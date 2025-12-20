@@ -11,11 +11,6 @@
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Polish",
-      "iso_639_1": "pl",
-      "name": "Polski"
     }
   ],
   "origin_country": [
@@ -33,10 +28,6 @@
     {
       "id": 878,
       "name": "Science Fiction"
-    },
-    {
-      "id": 28,
-      "name": "Action"
     },
     {
       "id": 10770,
