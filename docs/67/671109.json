@@ -8,11 +8,6 @@
   "original_language": "rw",
   "spoken_languages": [
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
@@ -31,14 +26,19 @@
       "english_name": "Swahili",
       "iso_639_1": "sw",
       "name": "Kiswahili"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
-    "CA",
-    "FR",
     "GB",
+    "CA",
     "RW",
-    "US"
+    "US",
+    "FR"
   ],
   "genres": [
     {
