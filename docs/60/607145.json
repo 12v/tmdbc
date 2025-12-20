@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Hindi",
-      "iso_639_1": "hi",
-      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
-    },
-    {
       "english_name": "Tamil",
       "iso_639_1": "ta",
       "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
     }
   ],
   "origin_country": [
