@@ -8,6 +8,26 @@
   "original_language": "en",
   "spoken_languages": [
     {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
+    },
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    },
+    {
       "english_name": "Armenian",
       "iso_639_1": "hy",
       "name": ""
@@ -16,33 +36,10 @@
       "english_name": "Turkish",
       "iso_639_1": "tr",
       "name": "T\u00fcrk\u00e7e"
-    },
-    {
-      "english_name": "Kurdish",
-      "iso_639_1": "ku",
-      "name": ""
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
-    },
-    {
-      "english_name": "Arabic",
-      "iso_639_1": "ar",
-      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
     }
   ],
   "origin_country": [
-    "RU",
-    "CA",
-    "DE",
-    "US"
+    "DE"
   ],
   "genres": [
     {
