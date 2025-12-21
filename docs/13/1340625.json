@@ -1,0 +1,34 @@
+{
+  "id": 1340625,
+  "title": "Two People Exchanging Saliva",
+  "original_title": "Deux personnes \u00e9changeant de la salive",
+  "release_date": "2025-11-27",
+  "status": "Released",
+  "runtime": 36,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR",
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ]
+}
