@@ -8,14 +8,14 @@
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "Lingala",
-      "iso_639_1": "ln",
-      "name": ""
-    },
-    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Lingala",
+      "iso_639_1": "ln",
+      "name": ""
     }
   ],
   "origin_country": [
