@@ -19,8 +19,12 @@
   ],
   "genres": [
     {
-      "id": 99,
-      "name": "Documentary"
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
     }
   ]
 }
