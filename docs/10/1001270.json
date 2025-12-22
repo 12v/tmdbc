@@ -8,14 +8,14 @@
   "original_language": "tr",
   "spoken_languages": [
     {
-      "english_name": "Turkish",
-      "iso_639_1": "tr",
-      "name": "T\u00fcrk\u00e7e"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
     }
   ],
   "origin_country": [
