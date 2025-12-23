@@ -8,9 +8,9 @@
   "original_language": "mk",
   "spoken_languages": [
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
+      "english_name": "Albanian",
+      "iso_639_1": "sq",
+      "name": "shqip"
     },
     {
       "english_name": "English",
@@ -18,20 +18,20 @@
       "name": "English"
     },
     {
-      "english_name": "Albanian",
-      "iso_639_1": "sq",
-      "name": "shqip"
-    },
-    {
       "english_name": "Macedonian",
       "iso_639_1": "mk",
       "name": ""
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
-    "FR",
     "GB",
-    "MK"
+    "MK",
+    "FR"
   ],
   "genres": [
     {
