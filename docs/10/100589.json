@@ -8,14 +8,14 @@
   "original_language": "cs",
   "spoken_languages": [
     {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
-    },
-    {
       "english_name": "Czech",
       "iso_639_1": "cs",
       "name": "\u010cesk\u00fd"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
     }
   ],
   "origin_country": [
