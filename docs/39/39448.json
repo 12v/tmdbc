@@ -4,18 +4,18 @@
   "original_title": "\u7687\u5bb6\u5e2b\u59d0",
   "release_date": "1985-11-30",
   "status": "Released",
-  "runtime": 92,
+  "runtime": 93,
   "original_language": "cn",
   "spoken_languages": [
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
     {
       "english_name": "Cantonese",
       "iso_639_1": "cn",
       "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
