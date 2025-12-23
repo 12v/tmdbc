@@ -27,20 +27,12 @@
       "name": "Action"
     },
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
       "id": 80,
       "name": "Crime"
     },
     {
-      "id": 35,
-      "name": "Comedy"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }
