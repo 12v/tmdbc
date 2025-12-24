@@ -18,12 +18,12 @@
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 35,
+      "name": "Comedy"
     },
     {
-      "id": 10749,
-      "name": "Romance"
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }
