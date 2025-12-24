@@ -22,12 +22,12 @@
       "name": "Romance"
     },
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
       "id": 35,
       "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }
