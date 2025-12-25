@@ -11,13 +11,18 @@
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
     }
   ],
   "origin_country": [
     "DK",
-    "US",
     "IE",
-    "GB"
+    "GB",
+    "US"
   ],
   "genres": [
     {
