@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Gaelic",
-      "iso_639_1": "gd",
-      "name": ""
-    },
-    {
       "english_name": "Portuguese",
       "iso_639_1": "pt",
       "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Gaelic",
+      "iso_639_1": "gd",
+      "name": ""
     }
   ],
   "origin_country": [
