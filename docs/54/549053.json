@@ -4,19 +4,9 @@
   "original_title": "Last Christmas",
   "release_date": "2019-11-07",
   "status": "Released",
-  "runtime": 102,
+  "runtime": 103,
   "original_language": "en",
   "spoken_languages": [
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
     {
       "english_name": "Mandarin",
       "iso_639_1": "zh",
@@ -26,6 +16,16 @@
       "english_name": "Croatian",
       "iso_639_1": "hr",
       "name": "Hrvatski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
