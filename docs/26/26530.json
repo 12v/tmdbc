@@ -2,7 +2,7 @@
   "id": 26530,
   "title": "Christmas Holiday",
   "original_title": "Christmas Holiday",
-  "release_date": "1944-07-31",
+  "release_date": "1944-06-17",
   "status": "Released",
   "runtime": 93,
   "original_language": "en",
@@ -18,16 +18,12 @@
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
-    },
-    {
       "id": 80,
       "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }
