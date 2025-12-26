@@ -22,20 +22,12 @@
       "name": "Mystery"
     },
     {
-      "id": 35,
-      "name": "Comedy"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
-      "id": 10751,
-      "name": "Family"
-    },
-    {
       "id": 80,
       "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }
