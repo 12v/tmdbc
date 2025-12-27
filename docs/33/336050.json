@@ -8,14 +8,29 @@
   "original_language": "hu",
   "spoken_languages": [
     {
-      "english_name": "Polish",
-      "iso_639_1": "pl",
-      "name": "Polski"
-    },
-    {
       "english_name": "German",
       "iso_639_1": "de",
       "name": "Deutsch"
+    },
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
     },
     {
       "english_name": "Russian",
@@ -26,21 +41,6 @@
       "english_name": "Slovak",
       "iso_639_1": "sk",
       "name": "Sloven\u010dina"
-    },
-    {
-      "english_name": "Hebrew",
-      "iso_639_1": "he",
-      "name": "\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea"
-    },
-    {
-      "english_name": "Greek",
-      "iso_639_1": "el",
-      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
-    },
-    {
-      "english_name": "Hungarian",
-      "iso_639_1": "hu",
-      "name": "Magyar"
     },
     {
       "english_name": "Yiddish",
