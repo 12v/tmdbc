@@ -2,7 +2,7 @@
   "id": 1080434,
   "title": "A Kind of Testament",
   "original_title": "A Kind of Testament",
-  "release_date": "2024-02-02",
+  "release_date": "2023-10-22",
   "status": "Released",
   "runtime": 16,
   "original_language": "fr",
@@ -20,6 +20,14 @@
     {
       "id": 16,
       "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }
