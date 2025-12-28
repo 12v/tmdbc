@@ -26,16 +26,16 @@
       "name": "Comedy"
     },
     {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
       "id": 12,
       "name": "Adventure"
     },
     {
       "id": 878,
       "name": "Science Fiction"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
     }
   ]
 }
