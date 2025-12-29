@@ -2,7 +2,7 @@
   "id": 3766,
   "title": "The Lady from Shanghai",
   "original_title": "The Lady from Shanghai",
-  "release_date": "1947-12-24",
+  "release_date": "1948-04-14",
   "status": "Released",
   "runtime": 87,
   "original_language": "en",
@@ -33,6 +33,10 @@
     {
       "id": 53,
       "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }
