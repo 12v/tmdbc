@@ -1,0 +1,39 @@
+{
+  "id": 1448256,
+  "title": "Call Me Dad",
+  "original_title": "Panggil Aku Ayah",
+  "release_date": "2025-08-07",
+  "status": "Released",
+  "runtime": 120,
+  "original_language": "id",
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Sundanese",
+      "iso_639_1": "su",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "ID",
+    "KR"
+  ],
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}

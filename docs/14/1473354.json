@@ -1,0 +1,29 @@
+{
+  "id": 1473354,
+  "title": "Sarvam Maya",
+  "original_title": "\u0d38\u0d7c\u0d35\u0d02 \u0d2e\u0d3e\u0d2f",
+  "release_date": "2025-12-25",
+  "status": "Released",
+  "runtime": 147,
+  "original_language": "ml",
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}
