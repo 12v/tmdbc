@@ -22,8 +22,12 @@
       "name": "Animation"
     },
     {
-      "id": 27,
-      "name": "Horror"
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }
