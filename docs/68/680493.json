@@ -18,14 +18,14 @@
       "name": ""
     },
     {
-      "english_name": "Punjabi",
-      "iso_639_1": "pa",
-      "name": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40"
-    },
-    {
       "english_name": "Polish",
       "iso_639_1": "pl",
       "name": "Polski"
+    },
+    {
+      "english_name": "Punjabi",
+      "iso_639_1": "pa",
+      "name": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40"
     }
   ],
   "origin_country": [
