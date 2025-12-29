@@ -8,16 +8,6 @@
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
-    },
-    {
-      "english_name": "Hungarian",
-      "iso_639_1": "hu",
-      "name": "Magyar"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
@@ -26,6 +16,16 @@
       "english_name": "Italian",
       "iso_639_1": "it",
       "name": "Italiano"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
     }
   ],
   "origin_country": [
