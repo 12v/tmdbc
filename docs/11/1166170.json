@@ -1,0 +1,33 @@
+{
+  "id": 1166170,
+  "title": "You Found Me",
+  "original_title": "L\u2019\u00c2me Id\u00e9ale",
+  "release_date": "2025-12-17",
+  "status": "Released",
+  "runtime": 98,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ]
+}
