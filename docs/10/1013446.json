@@ -8,9 +8,9 @@
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "French",
@@ -23,14 +23,14 @@
       "name": "Espa\u00f1ol"
     },
     {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
       "english_name": "Italian",
       "iso_639_1": "it",
       "name": "Italiano"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
     }
   ],
   "origin_country": [
