@@ -18,8 +18,8 @@
   ],
   "genres": [
     {
-      "id": 28,
-      "name": "Action"
+      "id": 80,
+      "name": "Crime"
     },
     {
       "id": 35,
@@ -28,10 +28,6 @@
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 80,
-      "name": "Crime"
     }
   ]
 }
