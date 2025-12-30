@@ -8,11 +8,6 @@
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
-    },
-    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
@@ -26,11 +21,16 @@
       "english_name": "Latin",
       "iso_639_1": "la",
       "name": "Latin"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
-    "DE",
     "FR",
+    "DE",
     "IT"
   ],
   "genres": [

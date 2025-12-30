@@ -8,14 +8,14 @@
   "original_language": "id",
   "spoken_languages": [
     {
-      "english_name": "Croatian",
-      "iso_639_1": "hr",
-      "name": "Hrvatski"
-    },
-    {
       "english_name": "Indonesian",
       "iso_639_1": "id",
       "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
     },
     {
       "english_name": "English",
