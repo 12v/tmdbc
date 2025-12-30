@@ -18,16 +18,16 @@
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
-    },
-    {
       "id": 878,
       "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }
