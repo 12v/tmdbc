@@ -4,7 +4,7 @@
   "original_title": "Buen Camino",
   "release_date": "2025-12-25",
   "status": "Released",
-  "runtime": 90,
+  "runtime": 0,
   "original_language": "it",
   "spoken_languages": [
     {
@@ -24,10 +24,7 @@
     }
   ],
   "origin_country": [
-    "FR",
-    "IT",
-    "PT",
-    "ES"
+    "IT"
   ],
   "genres": [
     {
