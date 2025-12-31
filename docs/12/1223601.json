@@ -8,14 +8,14 @@
   "original_language": "fi",
   "spoken_languages": [
     {
-      "english_name": "Finnish",
-      "iso_639_1": "fi",
-      "name": "suomi"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
     }
   ],
   "origin_country": [
