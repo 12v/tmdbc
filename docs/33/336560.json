@@ -22,12 +22,16 @@
       "name": "Action"
     },
     {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
       "id": 27,
       "name": "Horror"
     },
     {
-      "id": 878,
-      "name": "Science Fiction"
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }
