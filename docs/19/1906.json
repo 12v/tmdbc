@@ -2,7 +2,7 @@
   "id": 1906,
   "title": "Solo Sunny",
   "original_title": "Solo Sunny",
-  "release_date": "1980-01-08",
+  "release_date": "1980-01-18",
   "status": "Released",
   "runtime": 100,
   "original_language": "de",
@@ -18,12 +18,12 @@
   ],
   "genres": [
     {
-      "id": 10402,
-      "name": "Music"
-    },
-    {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
     }
   ]
 }
