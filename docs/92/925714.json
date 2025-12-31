@@ -39,6 +39,14 @@
     {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
     }
   ]
 }
