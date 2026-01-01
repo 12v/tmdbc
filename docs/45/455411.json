@@ -1,7 +1,7 @@
 {
   "id": 455411,
-  "title": "Tom and Jerry: Willy Wonka and the Chocolate Factory",
-  "original_title": "Tom and Jerry: Willy Wonka and the Chocolate Factory",
+  "title": "Tom and Jerry: Willy Wonka & the Chocolate Factory",
+  "original_title": "Tom and Jerry: Willy Wonka & the Chocolate Factory",
   "release_date": "2017-06-28",
   "status": "Released",
   "runtime": 79,
@@ -38,6 +38,10 @@
     {
       "id": 10751,
       "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
     }
   ]
 }
