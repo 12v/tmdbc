@@ -11,6 +11,11 @@
       "english_name": "Croatian",
       "iso_639_1": "hr",
       "name": "Hrvatski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
