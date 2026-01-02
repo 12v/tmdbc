@@ -8,9 +8,9 @@
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "Latin",
-      "iso_639_1": "la",
-      "name": "Latin"
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "French",
@@ -18,9 +18,9 @@
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
     }
   ],
   "origin_country": [
