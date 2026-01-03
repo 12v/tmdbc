@@ -13,14 +13,14 @@
       "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
     },
     {
-      "english_name": "Mandarin",
-      "iso_639_1": "zh",
-      "name": "\u666e\u901a\u8bdd"
-    },
-    {
       "english_name": "Thai",
       "iso_639_1": "th",
       "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
     }
   ],
   "origin_country": [
