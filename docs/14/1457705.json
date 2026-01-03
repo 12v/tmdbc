@@ -13,20 +13,20 @@
       "name": "English"
     },
     {
-      "english_name": "Dutch",
-      "iso_639_1": "nl",
-      "name": "Nederlands"
-    },
-    {
       "english_name": "German",
       "iso_639_1": "de",
       "name": "Deutsch"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
     }
   ],
   "origin_country": [
-    "AT",
     "BE",
-    "NL"
+    "NL",
+    "AT"
   ],
   "genres": [
     {
