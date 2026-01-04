@@ -1,0 +1,33 @@
+{
+  "id": 1497017,
+  "title": "Adult Swim's The Elephant",
+  "original_title": "Adult Swim's The Elephant",
+  "release_date": "2025-12-19",
+  "status": "Released",
+  "runtime": 23,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ]
+}
