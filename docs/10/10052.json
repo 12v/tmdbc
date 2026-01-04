@@ -23,28 +23,16 @@
   ],
   "genres": [
     {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
       "id": 53,
       "name": "Thriller"
     },
     {
       "id": 14,
       "name": "Fantasy"
-    },
-    {
-      "id": 9648,
-      "name": "Mystery"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
     }
   ]
 }
