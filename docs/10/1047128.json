@@ -8,11 +8,6 @@
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Danish",
       "iso_639_1": "da",
       "name": "Dansk"
@@ -26,6 +21,11 @@
       "english_name": "Polish",
       "iso_639_1": "pl",
       "name": "Polski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
