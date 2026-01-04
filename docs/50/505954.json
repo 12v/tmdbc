@@ -1,6 +1,6 @@
 {
   "id": 505954,
-  "title": "T-34",
+  "title": "\u0422-34",
   "original_title": "\u0422-34",
   "release_date": "2018-12-27",
   "status": "Released",
@@ -18,7 +18,9 @@
       "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
     }
   ],
-  "origin_country": [],
+  "origin_country": [
+    "RU"
+  ],
   "genres": [
     {
       "id": 28,
