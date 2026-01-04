@@ -1,0 +1,37 @@
+{
+  "id": 1407437,
+  "title": "Andhra King Taluka",
+  "original_title": "\u0c06\u0c02\u0c27\u0c4d\u0c30 \u0c15\u0c3f\u0c02\u0c17\u0c4d \u0c24\u0c3e\u0c32\u0c42\u0c15\u0c3e",
+  "release_date": "2025-11-27",
+  "status": "Released",
+  "runtime": 166,
+  "original_language": "te",
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    }
+  ],
+  "origin_country": [
+    "IN"
+  ],
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ]
+}
