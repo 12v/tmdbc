@@ -1,0 +1,25 @@
+{
+  "id": 1309373,
+  "title": "Whispers in the Woods",
+  "original_title": "Le chant des for\u00eats",
+  "release_date": "2025-12-17",
+  "status": "Released",
+  "runtime": 93,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}
