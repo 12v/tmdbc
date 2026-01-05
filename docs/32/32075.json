@@ -13,14 +13,14 @@
       "name": "Afrikaans"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Zulu",
       "iso_639_1": "zu",
       "name": "isiZulu"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [

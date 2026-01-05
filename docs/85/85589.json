@@ -11,6 +11,11 @@
       "english_name": "Norwegian",
       "iso_639_1": "no",
       "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
     }
   ],
   "origin_country": [
