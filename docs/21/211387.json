@@ -26,16 +26,8 @@
       "name": "Action"
     },
     {
-      "id": 14,
-      "name": "Fantasy"
-    },
-    {
       "id": 878,
       "name": "Science Fiction"
-    },
-    {
-      "id": 36,
-      "name": "History"
     }
   ]
 }

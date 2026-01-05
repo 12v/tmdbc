@@ -4,7 +4,7 @@
   "original_title": "L.A. Takedown",
   "release_date": "1989-08-27",
   "status": "Released",
-  "runtime": 97,
+  "runtime": 94,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,20 +18,16 @@
   ],
   "genres": [
     {
-      "id": 28,
-      "name": "Action"
-    },
-    {
       "id": 80,
       "name": "Crime"
     },
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
       "id": 53,
       "name": "Thriller"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
     }
   ]
 }
