@@ -8,6 +8,11 @@
   "original_language": "te",
   "spoken_languages": [
     {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Portugu\u00eas"
+    },
+    {
       "english_name": "Telugu",
       "iso_639_1": "te",
       "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
