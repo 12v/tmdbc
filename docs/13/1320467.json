@@ -1,0 +1,28 @@
+{
+  "id": 1320467,
+  "title": "Playing God",
+  "original_title": "Playing God",
+  "release_date": "2024-08-28",
+  "status": "Released",
+  "runtime": 9,
+  "original_language": "it",
+  "spoken_languages": [],
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ]
+}
