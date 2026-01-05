@@ -28,10 +28,6 @@
   ],
   "genres": [
     {
-      "id": 10402,
-      "name": "Music"
-    },
-    {
       "id": 10749,
       "name": "Romance"
     },
