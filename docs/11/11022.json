@@ -1,7 +1,7 @@
 {
   "id": 11022,
-  "title": "Narc",
-  "original_title": "Narc",
+  "title": "NARC",
+  "original_title": "NARC",
   "release_date": "2002-01-14",
   "status": "Released",
   "runtime": 105,
@@ -20,6 +20,7 @@
   ],
   "origin_country": [
     "CA",
+    "DE",
     "US"
   ],
   "genres": [
