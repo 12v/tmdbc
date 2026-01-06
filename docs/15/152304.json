@@ -16,10 +16,5 @@
   "origin_country": [
     "US"
   ],
-  "genres": [
-    {
-      "id": 99,
-      "name": "Documentary"
-    }
-  ]
+  "genres": []
 }
