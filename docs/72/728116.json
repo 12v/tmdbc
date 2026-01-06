@@ -8,14 +8,19 @@
   "original_language": "mr",
   "spoken_languages": [
     {
-      "english_name": "Bengali",
-      "iso_639_1": "bn",
-      "name": "\u09ac\u09be\u0982\u09b2\u09be"
-    },
-    {
       "english_name": "Gujarati",
       "iso_639_1": "gu",
       "name": ""
+    },
+    {
+      "english_name": "Marathi",
+      "iso_639_1": "mr",
+      "name": ""
+    },
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
     },
     {
       "english_name": "Hindi",
@@ -26,11 +31,6 @@
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Marathi",
-      "iso_639_1": "mr",
-      "name": ""
     }
   ],
   "origin_country": [
