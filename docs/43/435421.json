@@ -16,14 +16,5 @@
   "origin_country": [
     "US"
   ],
-  "genres": [
-    {
-      "id": 10752,
-      "name": "War"
-    },
-    {
-      "id": 99,
-      "name": "Documentary"
-    }
-  ]
+  "genres": []
 }
