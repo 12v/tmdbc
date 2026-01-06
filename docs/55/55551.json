@@ -2,15 +2,15 @@
   "id": 55551,
   "title": "Lumumba",
   "original_title": "Lumumba",
-  "release_date": "2000-05-13",
+  "release_date": "2000-09-27",
   "status": "Released",
   "runtime": 115,
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "Lingala",
-      "iso_639_1": "ln",
-      "name": ""
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "French",
@@ -18,16 +18,13 @@
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Lingala",
+      "iso_639_1": "ln",
+      "name": ""
     }
   ],
   "origin_country": [
-    "DE",
-    "BE",
-    "FR",
-    "HT"
+    "BE"
   ],
   "genres": [
     {
