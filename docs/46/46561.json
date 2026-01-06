@@ -19,12 +19,8 @@
   ],
   "genres": [
     {
-      "id": 28,
-      "name": "Action"
-    },
-    {
-      "id": 12,
-      "name": "Adventure"
+      "id": 9648,
+      "name": "Mystery"
     },
     {
       "id": 80,
@@ -33,14 +29,6 @@
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 9648,
-      "name": "Mystery"
-    },
-    {
-      "id": 53,
-      "name": "Thriller"
     },
     {
       "id": 10770,
