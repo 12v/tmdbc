@@ -27,20 +27,8 @@
       "name": "Action"
     },
     {
-      "id": 12,
-      "name": "Adventure"
-    },
-    {
       "id": 53,
       "name": "Thriller"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
     }
   ]
 }
