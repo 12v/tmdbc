@@ -2,16 +2,11 @@
   "id": 1510688,
   "title": "Call Me Mother",
   "original_title": "Call Me Mother",
-  "release_date": "2025-12-25",
+  "release_date": "2026-01-09",
   "status": "Released",
   "runtime": 120,
   "original_language": "tl",
   "spoken_languages": [
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
     {
       "english_name": "Tagalog",
       "iso_639_1": "tl",
