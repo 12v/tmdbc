@@ -19,7 +19,11 @@
     }
   ],
   "origin_country": [
-    "US"
+    "US",
+    "FR",
+    "IE",
+    "IT",
+    "JP"
   ],
   "genres": [
     {
