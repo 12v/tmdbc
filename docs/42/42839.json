@@ -2,7 +2,7 @@
   "id": 42839,
   "title": "The Girl Can't Help It",
   "original_title": "The Girl Can't Help It",
-  "release_date": "1956-12-01",
+  "release_date": "1956-12-22",
   "status": "Released",
   "runtime": 98,
   "original_language": "en",
@@ -24,10 +24,6 @@
     {
       "id": 10402,
       "name": "Music"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
     }
   ]
 }
