@@ -4,18 +4,18 @@
   "original_title": "Maine Oc\u00e9an",
   "release_date": "1986-04-16",
   "status": "Released",
-  "runtime": 130,
+  "runtime": 136,
   "original_language": "fr",
   "spoken_languages": [
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     },
     {
       "english_name": "Portuguese",
