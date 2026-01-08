@@ -3,19 +3,19 @@
   "title": "The Hunger Games: Sunrise on the Reaping",
   "original_title": "The Hunger Games: Sunrise on the Reaping",
   "release_date": "2026-11-18",
-  "status": "In Production",
+  "status": "Post Production",
   "runtime": 0,
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "Hungarian",
-      "iso_639_1": "hu",
-      "name": "Magyar"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
     }
   ],
   "origin_country": [
