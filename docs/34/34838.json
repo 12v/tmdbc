@@ -13,14 +13,14 @@
       "name": "Deutsch"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "Spanish",
@@ -29,8 +29,8 @@
     }
   ],
   "origin_country": [
-    "GB",
-    "US"
+    "US",
+    "GB"
   ],
   "genres": [
     {
