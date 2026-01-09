@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Japanese",
-      "iso_639_1": "ja",
-      "name": "\u65e5\u672c\u8a9e"
-    },
-    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
     }
   ],
   "origin_country": [
@@ -30,14 +30,6 @@
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 35,
-      "name": "Comedy"
-    },
-    {
-      "id": 80,
-      "name": "Crime"
     }
   ]
 }
