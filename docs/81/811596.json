@@ -24,6 +24,10 @@
     {
       "id": 53,
       "name": "Thriller"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
     }
   ]
 }
