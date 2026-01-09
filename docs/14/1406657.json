@@ -22,12 +22,24 @@
       "name": "Animation"
     },
     {
-      "id": 14,
-      "name": "Fantasy"
+      "id": 28,
+      "name": "Action"
     },
     {
       "id": 12,
       "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
     }
   ]
 }
