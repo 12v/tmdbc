@@ -8,14 +8,14 @@
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "Sinhalese",
-      "iso_639_1": "si",
-      "name": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Sinhalese",
+      "iso_639_1": "si",
+      "name": "\u0dc3\u0dd2\u0d82\u0dc4\u0dbd"
     },
     {
       "english_name": "Tamil",
