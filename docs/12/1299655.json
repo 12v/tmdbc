@@ -18,6 +18,10 @@
   ],
   "genres": [
     {
+      "id": 36,
+      "name": "History"
+    },
+    {
       "id": 18,
       "name": "Drama"
     }
