@@ -13,9 +13,9 @@
       "name": "Dansk"
     },
     {
-      "english_name": "Latin",
-      "iso_639_1": "la",
-      "name": "Latin"
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     },
     {
       "english_name": "French",
@@ -23,9 +23,9 @@
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
     }
   ],
   "origin_country": [
