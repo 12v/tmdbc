@@ -18,8 +18,8 @@
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 878,
+      "name": "Science Fiction"
     },
     {
       "id": 10749,
@@ -30,12 +30,8 @@
       "name": "Fantasy"
     },
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
-      "id": 878,
-      "name": "Science Fiction"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }
