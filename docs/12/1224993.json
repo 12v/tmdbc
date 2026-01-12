@@ -8,14 +8,14 @@
   "original_language": "ko",
   "spoken_languages": [
     {
-      "english_name": "Korean",
-      "iso_639_1": "ko",
-      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
-    },
-    {
       "english_name": "Italian",
       "iso_639_1": "it",
       "name": "Italiano"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
     },
     {
       "english_name": "Latin",

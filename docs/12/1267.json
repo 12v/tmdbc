@@ -28,6 +28,14 @@
     {
       "id": 10751,
       "name": "Family"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
     }
   ]
 }
