@@ -8,6 +8,11 @@
   "original_language": "de",
   "spoken_languages": [
     {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    },
+    {
       "english_name": "German",
       "iso_639_1": "de",
       "name": "Deutsch"
@@ -16,11 +21,6 @@
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "Yiddish",
-      "iso_639_1": "yi",
-      "name": ""
     }
   ],
   "origin_country": [

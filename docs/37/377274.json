@@ -8,16 +8,6 @@
   "original_language": "pt",
   "spoken_languages": [
     {
-      "english_name": "Galician",
-      "iso_639_1": "gl",
-      "name": "Galego"
-    },
-    {
-      "english_name": "Latin",
-      "iso_639_1": "la",
-      "name": "Latin"
-    },
-    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
@@ -28,14 +18,24 @@
       "name": "\u666e\u901a\u8bdd"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Galician",
+      "iso_639_1": "gl",
+      "name": "Galego"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
     },
     {
       "english_name": "Portuguese",
       "iso_639_1": "pt",
       "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
