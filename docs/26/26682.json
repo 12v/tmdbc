@@ -22,24 +22,16 @@
       "name": "Action"
     },
     {
-      "id": 10770,
-      "name": "TV Movie"
-    },
-    {
-      "id": 14,
-      "name": "Fantasy"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
+      "id": 80,
+      "name": "Crime"
     },
     {
       "id": 18,
       "name": "Drama"
     },
     {
-      "id": 80,
-      "name": "Crime"
+      "id": 10770,
+      "name": "TV Movie"
     }
   ]
 }

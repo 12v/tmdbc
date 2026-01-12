@@ -4,13 +4,28 @@
   "original_title": "Le retour",
   "release_date": "2023-07-12",
   "status": "Released",
-  "runtime": 110,
+  "runtime": 108,
   "original_language": "fr",
   "spoken_languages": [
+    {
+      "english_name": "Corsican",
+      "iso_639_1": "co",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
     {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Wolof",
+      "iso_639_1": "wo",
+      "name": "Wolof"
     }
   ],
   "origin_country": [
