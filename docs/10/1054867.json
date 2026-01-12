@@ -13,19 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
-    },
-    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "Telugu",
-      "iso_639_1": "te",
-      "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
