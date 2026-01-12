@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
-    },
-    {
       "english_name": "Romanian",
       "iso_639_1": "ro",
       "name": "Rom\u00e2n\u0103"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
     }
   ],
   "origin_country": [
