@@ -5,17 +5,17 @@
   "release_date": "2016-01-14",
   "status": "Released",
   "runtime": 122,
-  "original_language": "it",
+  "original_language": "en",
   "spoken_languages": [
-    {
-      "english_name": "Italian",
-      "iso_639_1": "it",
-      "name": "Italiano"
-    },
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
     }
   ],
   "origin_country": [
