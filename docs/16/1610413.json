@@ -1,0 +1,30 @@
+{
+  "id": 1610413,
+  "title": "One Last Adventure: The Making of Stranger Things 5",
+  "original_title": "One Last Adventure: The Making of Stranger Things 5",
+  "release_date": "2026-01-11",
+  "status": "Released",
+  "runtime": 123,
+  "original_language": "en",
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "origin_country": [
+    "US"
+  ],
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ]
+}
