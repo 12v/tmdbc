@@ -4,7 +4,7 @@
   "original_title": "Sotto le nuvole",
   "release_date": "2025-09-18",
   "status": "Released",
-  "runtime": 115,
+  "runtime": 114,
   "original_language": "it",
   "spoken_languages": [
     {
@@ -13,9 +13,9 @@
       "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
     },
     {
-      "english_name": "Japanese",
-      "iso_639_1": "ja",
-      "name": "\u65e5\u672c\u8a9e"
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "Italian",
@@ -23,9 +23,9 @@
       "name": "Italiano"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
     }
   ],
   "origin_country": [
