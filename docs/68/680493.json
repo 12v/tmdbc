@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Polish",
-      "iso_639_1": "pl",
-      "name": "Polski"
-    },
-    {
       "english_name": "Pali",
       "iso_639_1": "pi",
       "name": ""
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
     },
     {
       "english_name": "Punjabi",
