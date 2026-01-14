@@ -5,7 +5,7 @@
   "release_date": "2025-09-19",
   "status": "Released",
   "runtime": 129,
-  "original_language": "sv",
+  "original_language": "ar",
   "spoken_languages": [
     {
       "english_name": "Arabic",
@@ -20,8 +20,8 @@
   ],
   "origin_country": [
     "DK",
-    "FR",
     "FI",
+    "FR",
     "SE"
   ],
   "genres": [
