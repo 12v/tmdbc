@@ -13,9 +13,14 @@
       "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
     },
     {
-      "english_name": "Japanese",
-      "iso_639_1": "ja",
-      "name": "\u65e5\u672c\u8a9e"
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
     },
     {
       "english_name": "French",
@@ -23,19 +28,14 @@
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "Mandarin",
-      "iso_639_1": "zh",
-      "name": "\u666e\u901a\u8bdd"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
     },
     {
-      "english_name": "Korean",
-      "iso_639_1": "ko",
-      "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
     }
   ],
   "origin_country": [
