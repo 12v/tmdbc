@@ -4,7 +4,7 @@
   "original_title": "Alpha",
   "release_date": "2025-08-20",
   "status": "Released",
-  "runtime": 123,
+  "runtime": 128,
   "original_language": "fr",
   "spoken_languages": [
     {
@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Persian",
-      "iso_639_1": "fa",
-      "name": "\u0641\u0627\u0631\u0633\u06cc"
-    },
-    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "\u0641\u0627\u0631\u0633\u06cc"
     }
   ],
   "origin_country": [
