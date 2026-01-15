@@ -1,7 +1,7 @@
 {
   "id": 1234603,
   "title": "The Fable",
-  "original_title": "The Fable",
+  "original_title": "\u091c\u0941\u0917\u0928\u0941\u092e\u093e",
   "release_date": "2025-09-12",
   "status": "Released",
   "runtime": 119,
@@ -20,6 +20,14 @@
     {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
     }
   ]
 }
