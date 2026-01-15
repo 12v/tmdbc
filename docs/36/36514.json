@@ -13,14 +13,14 @@
       "name": "\u5e7f\u5dde\u8bdd / \u5ee3\u5dde\u8a71"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Italian",
       "iso_639_1": "it",
       "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
