@@ -4,7 +4,7 @@
   "original_title": "Pillion",
   "release_date": "2025-10-31",
   "status": "Released",
-  "runtime": 106,
+  "runtime": 107,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -24,6 +24,10 @@
     {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }
