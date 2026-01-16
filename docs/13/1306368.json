@@ -2,7 +2,7 @@
   "id": 1306368,
   "title": "The Rip",
   "original_title": "The Rip",
-  "release_date": "2026-01-15",
+  "release_date": "2026-01-13",
   "status": "Released",
   "runtime": 112,
   "original_language": "en",
@@ -18,16 +18,16 @@
   ],
   "genres": [
     {
-      "id": 80,
-      "name": "Crime"
+      "id": 28,
+      "name": "Action"
     },
     {
       "id": 53,
       "name": "Thriller"
     },
     {
-      "id": 28,
-      "name": "Action"
+      "id": 80,
+      "name": "Crime"
     }
   ]
 }
