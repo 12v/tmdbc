@@ -1,0 +1,25 @@
+{
+  "id": 1290436,
+  "title": "Summer Beats",
+  "original_title": "Ma fr\u00e8re",
+  "release_date": "2026-01-07",
+  "status": "Released",
+  "runtime": 112,
+  "original_language": "fr",
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    }
+  ],
+  "origin_country": [
+    "FR"
+  ],
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ]
+}
