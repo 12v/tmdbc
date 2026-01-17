@@ -19,6 +19,7 @@
     }
   ],
   "origin_country": [
+    "CN",
     "US"
   ],
   "genres": [
@@ -37,14 +38,6 @@
     {
       "id": 14,
       "name": "Fantasy"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
-    },
-    {
-      "id": 12,
-      "name": "Adventure"
     }
   ]
 }
