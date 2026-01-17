@@ -1,12 +1,27 @@
 {
   "id": 925263,
   "title": "A Brighter Tomorrow",
-  "original_title": "Il sol dell'avvenire",
+  "original_title": "Il Sol Dell'Avvenire",
   "release_date": "2023-04-20",
   "status": "Released",
   "runtime": 96,
   "original_language": "it",
   "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+    },
     {
       "english_name": "Hungarian",
       "iso_639_1": "hu",
@@ -18,22 +33,18 @@
       "name": "Italiano"
     },
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Korean",
       "iso_639_1": "ko",
       "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
     }
   ],
   "origin_country": [
+    "FR",
     "IT"
   ],
   "genres": [

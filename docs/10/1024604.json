@@ -3,7 +3,7 @@
   "title": "Frozen III",
   "original_title": "Frozen III",
   "release_date": "2027-11-24",
-  "status": "Planned",
+  "status": "In Production",
   "runtime": 0,
   "original_language": "en",
   "spoken_languages": [
@@ -28,10 +28,6 @@
     {
       "id": 14,
       "name": "Fantasy"
-    },
-    {
-      "id": 35,
-      "name": "Comedy"
     },
     {
       "id": 12,

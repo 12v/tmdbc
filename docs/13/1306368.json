@@ -8,9 +8,14 @@
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Abkhazian",
+      "iso_639_1": "ab",
+      "name": ""
+    },
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
     }
   ],
   "origin_country": [
@@ -28,6 +33,14 @@
     {
       "id": 80,
       "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
     }
   ]
 }
