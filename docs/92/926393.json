@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Italian",
-      "iso_639_1": "it",
-      "name": "Italiano"
-    },
-    {
       "english_name": "Portuguese",
       "iso_639_1": "pt",
       "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
     }
   ],
   "origin_country": [
