@@ -8,9 +8,9 @@
   "original_language": "es",
   "spoken_languages": [
     {
-      "english_name": "Catalan",
-      "iso_639_1": "ca",
-      "name": "Catal\u00e0"
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "French",
@@ -18,9 +18,9 @@
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
     }
   ],
   "origin_country": [
