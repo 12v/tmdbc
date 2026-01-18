@@ -1,0 +1,33 @@
+{
+  "id": 1381071,
+  "title": "Godzilla Minus Zero",
+  "original_title": "\u30b4\u30b8\u30e9-0.0",
+  "release_date": "2026-11-03",
+  "status": "In Production",
+  "runtime": 0,
+  "original_language": "ja",
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
+    }
+  ],
+  "origin_country": [
+    "JP"
+  ],
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ]
+}
