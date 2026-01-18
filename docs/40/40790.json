@@ -8,14 +8,9 @@
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Quechua",
+      "iso_639_1": "qu",
+      "name": ""
     },
     {
       "english_name": "Italian",
@@ -23,9 +18,14 @@
       "name": "Italiano"
     },
     {
-      "english_name": "Quechua",
-      "iso_639_1": "qu",
-      "name": ""
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
