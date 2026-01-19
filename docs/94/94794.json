@@ -16,10 +16,5 @@
   "origin_country": [
     "GB"
   ],
-  "genres": [
-    {
-      "id": 18,
-      "name": "Drama"
-    }
-  ]
+  "genres": []
 }
