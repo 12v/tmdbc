@@ -8,11 +8,6 @@
   "original_language": "de",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
@@ -21,16 +16,21 @@
       "english_name": "Portuguese",
       "iso_639_1": "pt",
       "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
-    "FR",
-    "DE",
-    "NL",
-    "PT",
-    "ES",
+    "US",
     "GB",
-    "US"
+    "NL",
+    "ES",
+    "DE",
+    "FR",
+    "PT"
   ],
   "genres": [
     {
