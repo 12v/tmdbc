@@ -23,20 +23,12 @@
   ],
   "genres": [
     {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
       "id": 28,
       "name": "Action"
     },
     {
-      "id": 12,
-      "name": "Adventure"
-    },
-    {
-      "id": 80,
-      "name": "Crime"
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }
