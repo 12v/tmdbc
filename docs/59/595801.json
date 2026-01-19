@@ -5,7 +5,7 @@
   "release_date": "2018-10-31",
   "status": "Released",
   "runtime": 15,
-  "original_language": "hi",
+  "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "Hindi",
@@ -14,7 +14,7 @@
     }
   ],
   "origin_country": [
-    "IN"
+    "US"
   ],
   "genres": [
     {
