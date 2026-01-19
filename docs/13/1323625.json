@@ -1,10 +1,10 @@
 {
-  "id": 1113278,
-  "title": "It's a Wonderful Knife",
-  "original_title": "It's a Wonderful Knife",
-  "release_date": "2023-11-10",
+  "id": 1323625,
+  "title": "Night Patrol",
+  "original_title": "Night Patrol",
+  "release_date": "2026-01-16",
   "status": "Released",
-  "runtime": 87,
+  "runtime": 104,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,8 +14,6 @@
     }
   ],
   "origin_country": [
-    "CA",
-    "GB",
     "US"
   ],
   "genres": [
@@ -24,8 +22,8 @@
       "name": "Horror"
     },
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 9648,
+      "name": "Mystery"
     }
   ]
 }
