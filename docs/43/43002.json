@@ -2,7 +2,7 @@
   "id": 43002,
   "title": "Lonely are the Brave",
   "original_title": "Lonely are the Brave",
-  "release_date": "1962-05-24",
+  "release_date": "1962-04-26",
   "status": "Released",
   "runtime": 107,
   "original_language": "en",
@@ -23,12 +23,12 @@
   ],
   "genres": [
     {
-      "id": 37,
-      "name": "Western"
-    },
-    {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
     }
   ]
 }
