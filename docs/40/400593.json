@@ -16,6 +16,11 @@
       "english_name": "Finnish",
       "iso_639_1": "fi",
       "name": "suomi"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
     }
   ],
   "origin_country": [

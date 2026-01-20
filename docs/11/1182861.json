@@ -8,9 +8,9 @@
   "original_language": "es",
   "spoken_languages": [
     {
-      "english_name": "Catalan",
-      "iso_639_1": "ca",
-      "name": "Catal\u00e0"
+      "english_name": "Galician",
+      "iso_639_1": "gl",
+      "name": "Galego"
     },
     {
       "english_name": "Spanish",
@@ -18,14 +18,14 @@
       "name": "Espa\u00f1ol"
     },
     {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Catal\u00e0"
+    },
+    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
-    },
-    {
-      "english_name": "Galician",
-      "iso_639_1": "gl",
-      "name": "Galego"
     }
   ],
   "origin_country": [
