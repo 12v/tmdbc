@@ -24,12 +24,17 @@
     }
   ],
   "origin_country": [
-    "FR"
+    "FR",
+    "PL"
   ],
   "genres": [
     {
       "id": 99,
       "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
     }
   ]
 }
