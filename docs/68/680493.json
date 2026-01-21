@@ -37,20 +37,12 @@
       "name": "Horror"
     },
     {
-      "id": 14,
-      "name": "Fantasy"
-    },
-    {
-      "id": 10749,
-      "name": "Romance"
+      "id": 18,
+      "name": "Drama"
     },
     {
       "id": 9648,
       "name": "Mystery"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
     }
   ]
 }
