@@ -8,20 +8,20 @@
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
       "english_name": "Japanese",
       "iso_639_1": "ja",
       "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
-    "FR",
     "BE",
-    "JP"
+    "JP",
+    "FR"
   ],
   "genres": [
     {

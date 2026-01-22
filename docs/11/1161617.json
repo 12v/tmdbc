@@ -18,12 +18,12 @@
   ],
   "genres": [
     {
-      "id": 28,
-      "name": "Action"
-    },
-    {
       "id": 35,
       "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
     }
   ]
 }
