@@ -13,14 +13,14 @@
       "name": "\u666e\u901a\u8bdd"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Indonesian",
       "iso_639_1": "id",
       "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "Japanese",
