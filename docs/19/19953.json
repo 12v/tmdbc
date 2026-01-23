@@ -8,14 +8,14 @@
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
-    },
-    {
       "english_name": "Galician",
       "iso_639_1": "gl",
       "name": "Galego"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
     },
     {
       "english_name": "English",
