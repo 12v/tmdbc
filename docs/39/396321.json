@@ -24,16 +24,16 @@
   ],
   "genres": [
     {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
       "id": 27,
       "name": "Horror"
     },
     {
       "id": 35,
       "name": "Comedy"
-    },
-    {
-      "id": 14,
-      "name": "Fantasy"
     }
   ]
 }
