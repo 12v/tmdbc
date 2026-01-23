@@ -4,7 +4,7 @@
   "original_title": "Sanatorium Under the Sign of the Hourglass",
   "release_date": "2025-04-11",
   "status": "Released",
-  "runtime": 76,
+  "runtime": 73,
   "original_language": "pl",
   "spoken_languages": [
     {
@@ -14,9 +14,9 @@
     }
   ],
   "origin_country": [
-    "GB",
     "DE",
-    "PL"
+    "PL",
+    "GB"
   ],
   "genres": [
     {
@@ -30,6 +30,10 @@
     {
       "id": 27,
       "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }
