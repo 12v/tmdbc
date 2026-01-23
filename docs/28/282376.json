@@ -8,9 +8,9 @@
   "original_language": "ka",
   "spoken_languages": [
     {
-      "english_name": "Abkhazian",
-      "iso_639_1": "ab",
-      "name": ""
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
     },
     {
       "english_name": "Georgian",
@@ -18,9 +18,9 @@
       "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
     },
     {
-      "english_name": "Russian",
-      "iso_639_1": "ru",
-      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+      "english_name": "Abkhazian",
+      "iso_639_1": "ab",
+      "name": ""
     }
   ],
   "origin_country": [
