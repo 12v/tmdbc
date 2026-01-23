@@ -8,21 +8,21 @@
   "original_language": "sr",
   "spoken_languages": [
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
       "english_name": "Serbian",
       "iso_639_1": "sr",
       "name": "Srpski"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
+    "RS",
     "SI",
     "MK",
-    "ME",
-    "RS"
+    "ME"
   ],
   "genres": [
     {
