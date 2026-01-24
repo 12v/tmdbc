@@ -14,13 +14,12 @@
     }
   ],
   "origin_country": [
-    "US",
     "GB"
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }
