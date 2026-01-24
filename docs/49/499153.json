@@ -8,9 +8,9 @@
   "original_language": "fa",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
     },
     {
       "english_name": "Persian",
@@ -18,9 +18,9 @@
       "name": "\u0641\u0627\u0631\u0633\u06cc"
     },
     {
-      "english_name": "Turkish",
-      "iso_639_1": "tr",
-      "name": "T\u00fcrk\u00e7e"
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
