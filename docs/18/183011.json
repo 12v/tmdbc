@@ -26,16 +26,8 @@
       "name": "Science Fiction"
     },
     {
-      "id": 12,
-      "name": "Adventure"
-    },
-    {
       "id": 28,
       "name": "Action"
-    },
-    {
-      "id": 14,
-      "name": "Fantasy"
     }
   ]
 }

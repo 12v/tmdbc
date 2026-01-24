@@ -8,9 +8,9 @@
   "original_language": "nl",
   "spoken_languages": [
     {
-      "english_name": "Dutch",
-      "iso_639_1": "nl",
-      "name": "Nederlands"
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
     },
     {
       "english_name": "English",
@@ -18,14 +18,14 @@
       "name": "English"
     },
     {
-      "english_name": "Indonesian",
-      "iso_639_1": "id",
-      "name": "Bahasa indonesia"
-    },
-    {
       "english_name": "Japanese",
       "iso_639_1": "ja",
       "name": "\u65e5\u672c\u8a9e"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
     }
   ],
   "origin_country": [

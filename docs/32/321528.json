@@ -18,8 +18,8 @@
   ],
   "genres": [
     {
-      "id": 878,
-      "name": "Science Fiction"
+      "id": 80,
+      "name": "Crime"
     },
     {
       "id": 28,
@@ -32,22 +32,6 @@
     {
       "id": 16,
       "name": "Animation"
-    },
-    {
-      "id": 80,
-      "name": "Crime"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
-      "id": 14,
-      "name": "Fantasy"
-    },
-    {
-      "id": 53,
-      "name": "Thriller"
     }
   ]
 }
