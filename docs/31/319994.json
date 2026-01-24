@@ -14,10 +14,10 @@
     }
   ],
   "origin_country": [
-    "CL",
-    "ES",
     "FR",
-    "CH"
+    "ES",
+    "CH",
+    "CL"
   ],
   "genres": [
     {

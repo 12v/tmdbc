@@ -8,6 +8,16 @@
   "original_language": "mk",
   "spoken_languages": [
     {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Macedonian",
+      "iso_639_1": "mk",
+      "name": ""
+    },
+    {
       "english_name": "Turkish",
       "iso_639_1": "tr",
       "name": "T\u00fcrk\u00e7e"
