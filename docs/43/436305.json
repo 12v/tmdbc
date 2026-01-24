@@ -18,6 +18,21 @@
       "name": "\u666e\u901a\u8bdd"
     },
     {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
       "english_name": "Nepali",
       "iso_639_1": "ne",
       "name": ""
@@ -31,21 +46,6 @@
       "english_name": "Greek",
       "iso_639_1": "el",
       "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
-    },
-    {
-      "english_name": "Hungarian",
-      "iso_639_1": "hu",
-      "name": "Magyar"
-    },
-    {
-      "english_name": "Hindi",
-      "iso_639_1": "hi",
-      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
     }
   ],
   "origin_country": [
