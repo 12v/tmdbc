@@ -24,11 +24,11 @@
     }
   ],
   "origin_country": [
-    "DE",
     "BR",
-    "ES",
+    "DE",
     "FR",
-    "PT"
+    "PT",
+    "ES"
   ],
   "genres": [
     {
