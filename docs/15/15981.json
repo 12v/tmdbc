@@ -18,6 +18,10 @@
   ],
   "genres": [
     {
+      "id": 28,
+      "name": "Action"
+    },
+    {
       "id": 16,
       "name": "Animation"
     },

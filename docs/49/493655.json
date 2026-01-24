@@ -8,9 +8,9 @@
   "original_language": "ru",
   "spoken_languages": [
     {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
     },
     {
       "english_name": "Finnish",
@@ -18,9 +18,9 @@
       "name": "suomi"
     },
     {
-      "english_name": "Russian",
-      "iso_639_1": "ru",
-      "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [

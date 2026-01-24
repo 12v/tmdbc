@@ -22,8 +22,12 @@
       "name": "Science Fiction"
     },
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
     }
   ]
 }
