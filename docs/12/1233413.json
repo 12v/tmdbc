@@ -13,14 +13,14 @@
       "name": "English"
     },
     {
-      "english_name": "Mandarin",
-      "iso_639_1": "zh",
-      "name": "\u666e\u901a\u8bdd"
-    },
-    {
       "english_name": "Yoruba",
       "iso_639_1": "yo",
       "name": "\u00c8d\u00e8 Yor\u00f9b\u00e1"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
     }
   ],
   "origin_country": [
