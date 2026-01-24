@@ -8,14 +8,14 @@
   "original_language": "tr",
   "spoken_languages": [
     {
-      "english_name": "Kurdish",
-      "iso_639_1": "ku",
-      "name": ""
-    },
-    {
       "english_name": "Turkish",
       "iso_639_1": "tr",
       "name": "T\u00fcrk\u00e7e"
+    },
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
     }
   ],
   "origin_country": [
