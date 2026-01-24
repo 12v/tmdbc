@@ -3,7 +3,7 @@
   "title": "Return to Silent Hill",
   "original_title": "Return to Silent Hill",
   "release_date": "2026-01-21",
-  "status": "Post Production",
+  "status": "Released",
   "runtime": 106,
   "original_language": "en",
   "spoken_languages": [
@@ -19,16 +19,13 @@
     }
   ],
   "origin_country": [
+    "GB",
     "US"
   ],
   "genres": [
     {
       "id": 27,
       "name": "Horror"
-    },
-    {
-      "id": 18,
-      "name": "Drama"
     },
     {
       "id": 9648,
