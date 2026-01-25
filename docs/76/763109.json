@@ -8,24 +8,9 @@
   "original_language": "sv",
   "spoken_languages": [
     {
-      "english_name": "Bosnian",
-      "iso_639_1": "bs",
-      "name": "Bosanski"
-    },
-    {
       "english_name": "Croatian",
       "iso_639_1": "hr",
       "name": "Hrvatski"
-    },
-    {
-      "english_name": "Dutch",
-      "iso_639_1": "nl",
-      "name": "Nederlands"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
     },
     {
       "english_name": "Italian",
@@ -33,15 +18,30 @@
       "name": "Italiano"
     },
     {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    },
+    {
       "english_name": "Swedish",
       "iso_639_1": "sv",
       "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
     }
   ],
   "origin_country": [
     "DK",
-    "NL",
-    "SE"
+    "SE",
+    "NL"
   ],
   "genres": [
     {
