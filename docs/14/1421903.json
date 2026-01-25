@@ -3,16 +3,10 @@
   "title": "Werwulf",
   "original_title": "Werwulf",
   "release_date": "2026-12-25",
-  "status": "In Production",
+  "status": "Post Production",
   "runtime": 0,
   "original_language": "en",
-  "spoken_languages": [
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    }
-  ],
+  "spoken_languages": [],
   "origin_country": [
     "US"
   ],
@@ -24,6 +18,10 @@
     {
       "id": 9648,
       "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
     }
   ]
 }
