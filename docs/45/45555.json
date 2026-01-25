@@ -2,7 +2,7 @@
   "id": 45555,
   "title": "God's Angry Man",
   "original_title": "Glaube und W\u00e4hrung: Dr. Gene Scott, Fernsehprediger",
-  "release_date": "1981-05-17",
+  "release_date": "1983-07-20",
   "status": "Released",
   "runtime": 44,
   "original_language": "de",
@@ -25,6 +25,10 @@
     {
       "id": 99,
       "name": "Documentary"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
     }
   ]
 }
