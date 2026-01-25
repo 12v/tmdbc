@@ -5,7 +5,7 @@
   "release_date": "1992-01-01",
   "status": "Released",
   "runtime": 92,
-  "original_language": "en",
+  "original_language": "es",
   "spoken_languages": [
     {
       "english_name": "English",
@@ -19,8 +19,7 @@
     }
   ],
   "origin_country": [
-    "ES",
-    "GB"
+    "ES"
   ],
   "genres": [
     {
