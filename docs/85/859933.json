@@ -8,14 +8,14 @@
   "original_language": "su",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Sundanese",
       "iso_639_1": "su",
       "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
