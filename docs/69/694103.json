@@ -8,14 +8,14 @@
   "original_language": "hi",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Hindi",
       "iso_639_1": "hi",
       "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [

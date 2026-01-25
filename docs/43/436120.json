@@ -22,24 +22,20 @@
       "name": "Animation"
     },
     {
-      "id": 10751,
-      "name": "Family"
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
     },
     {
       "id": 14,
       "name": "Fantasy"
     },
     {
-      "id": 12,
-      "name": "Adventure"
-    },
-    {
-      "id": 35,
-      "name": "Comedy"
-    },
-    {
-      "id": 10402,
-      "name": "Music"
+      "id": 10751,
+      "name": "Family"
     }
   ]
 }
