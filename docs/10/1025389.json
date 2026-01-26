@@ -1,7 +1,7 @@
 {
   "id": 1025389,
   "title": "Strange River",
-  "original_title": "Estrany Riu",
+  "original_title": "Estrany riu",
   "release_date": "2025-10-03",
   "status": "Released",
   "runtime": 106,
@@ -14,7 +14,6 @@
     }
   ],
   "origin_country": [
-    "DE",
     "ES"
   ],
   "genres": [

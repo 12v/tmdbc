@@ -1,7 +1,7 @@
 {
   "id": 1393151,
   "title": "Mr. Nobody Against Putin",
-  "original_title": "Mr. Nobody mod Putin",
+  "original_title": "Mr. Nobody against Putin",
   "release_date": "2025-06-06",
   "status": "Released",
   "runtime": 90,
@@ -14,8 +14,8 @@
     }
   ],
   "origin_country": [
-    "CZ",
-    "DK"
+    "DK",
+    "CZ"
   ],
   "genres": [
     {
@@ -23,8 +23,8 @@
       "name": "Documentary"
     },
     {
-      "id": 18,
-      "name": "Drama"
+      "id": 36,
+      "name": "History"
     }
   ]
 }
