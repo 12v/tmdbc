@@ -22,20 +22,12 @@
       "name": "Science Fiction"
     },
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
       "id": 9648,
       "name": "Mystery"
     },
     {
       "id": 53,
       "name": "Thriller"
-    },
-    {
-      "id": 14,
-      "name": "Fantasy"
     }
   ]
 }
