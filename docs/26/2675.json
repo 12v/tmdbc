@@ -23,10 +23,6 @@
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
       "id": 53,
       "name": "Thriller"
     },
@@ -35,8 +31,8 @@
       "name": "Science Fiction"
     },
     {
-      "id": 9648,
-      "name": "Mystery"
+      "id": 27,
+      "name": "Horror"
     }
   ]
 }
