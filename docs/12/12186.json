@@ -11,6 +11,11 @@
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
     }
   ],
   "origin_country": [
@@ -18,16 +23,16 @@
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 10749,
+      "name": "Romance"
     },
     {
       "id": 14,
       "name": "Fantasy"
     },
     {
-      "id": 10749,
-      "name": "Romance"
+      "id": 35,
+      "name": "Comedy"
     },
     {
       "id": 18,
