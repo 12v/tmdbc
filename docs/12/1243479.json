@@ -2,9 +2,9 @@
   "id": 1243479,
   "title": "Castration Movie Anthology i. Traps",
   "original_title": "Castration Movie Anthology i. Traps",
-  "release_date": "2024-10-24",
+  "release_date": "2025-06-15",
   "status": "Released",
-  "runtime": 276,
+  "runtime": 274,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -18,12 +18,12 @@
   ],
   "genres": [
     {
-      "id": 18,
-      "name": "Drama"
-    },
-    {
       "id": 35,
       "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }
