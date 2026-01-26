@@ -13,6 +13,11 @@
       "name": "Dansk"
     },
     {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
       "english_name": "French",
       "iso_639_1": "fr",
       "name": "Fran\u00e7ais"
@@ -21,11 +26,6 @@
       "english_name": "Polish",
       "iso_639_1": "pl",
       "name": "Polski"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
     }
   ],
   "origin_country": [
