@@ -4,7 +4,7 @@
   "original_title": "Chaplin",
   "release_date": "1992-12-17",
   "status": "Released",
-  "runtime": 143,
+  "runtime": 145,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,11 +14,11 @@
     }
   ],
   "origin_country": [
-    "US",
     "FR",
     "IT",
     "JP",
-    "GB"
+    "GB",
+    "US"
   ],
   "genres": [
     {
