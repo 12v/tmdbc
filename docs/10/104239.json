@@ -24,6 +24,14 @@
     {
       "id": 9648,
       "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }
