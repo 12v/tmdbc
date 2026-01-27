@@ -13,6 +13,11 @@
       "name": "English"
     },
     {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
       "english_name": "Portuguese",
       "iso_639_1": "pt",
       "name": "Portugu\u00eas"
@@ -21,15 +26,9 @@
       "english_name": "Turkish",
       "iso_639_1": "tr",
       "name": "T\u00fcrk\u00e7e"
-    },
-    {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
     }
   ],
   "origin_country": [
-    "FR",
     "DE"
   ],
   "genres": [
