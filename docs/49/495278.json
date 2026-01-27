@@ -13,9 +13,9 @@
       "name": "English"
     },
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     },
     {
       "english_name": "Russian",
@@ -23,9 +23,9 @@
       "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
     },
     {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
