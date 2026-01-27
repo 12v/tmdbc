@@ -4,18 +4,18 @@
   "original_title": "\u4eba\u9593\u306e\u689d\u4ef6\u3000\u7b2c\uff11\u90e8\u7d14\u611b\u7bc7\uff0f\u7b2c\uff12\u90e8\u6fc0\u6012\u7bc7",
   "release_date": "1959-01-15",
   "status": "Released",
-  "runtime": 206,
+  "runtime": 207,
   "original_language": "ja",
   "spoken_languages": [
-    {
-      "english_name": "Japanese",
-      "iso_639_1": "ja",
-      "name": "\u65e5\u672c\u8a9e"
-    },
     {
       "english_name": "Mandarin",
       "iso_639_1": "zh",
       "name": "\u666e\u901a\u8bdd"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "\u65e5\u672c\u8a9e"
     }
   ],
   "origin_country": [
