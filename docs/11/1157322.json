@@ -18,14 +18,14 @@
       "name": "\u010cesk\u00fd"
     },
     {
-      "english_name": "Polish",
-      "iso_639_1": "pl",
-      "name": "Polski"
-    },
-    {
       "english_name": "German",
       "iso_639_1": "de",
       "name": "Deutsch"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
     }
   ],
   "origin_country": [
