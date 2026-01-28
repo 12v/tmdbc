@@ -11,16 +11,9 @@
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
-    },
-    {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
     }
   ],
   "origin_country": [
-    "IN",
-    "GB",
     "US"
   ],
   "genres": [
