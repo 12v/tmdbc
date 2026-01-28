@@ -2,7 +2,7 @@
   "id": 1295035,
   "title": "Super Happy Forever",
   "original_title": "Super Happy Forever",
-  "release_date": "2025-01-27",
+  "release_date": "2024-09-27",
   "status": "Released",
   "runtime": 94,
   "original_language": "ja",
@@ -19,8 +19,16 @@
   ],
   "genres": [
     {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
     }
   ]
 }
