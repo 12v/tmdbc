@@ -1,11 +1,11 @@
 {
   "id": 1069193,
   "title": "Four Daughters",
-  "original_title": "\u0628\u0646\u0627\u062a \u0623\u0644\u0641\u0629",
+  "original_title": "Les Filles d'Olfa",
   "release_date": "2023-07-05",
   "status": "Released",
   "runtime": 108,
-  "original_language": "ar",
+  "original_language": "fr",
   "spoken_languages": [
     {
       "english_name": "Arabic",
@@ -13,20 +13,18 @@
       "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
     },
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     }
   ],
   "origin_country": [
-    "DE",
-    "FR",
-    "TN"
+    "FR"
   ],
   "genres": [
     {
