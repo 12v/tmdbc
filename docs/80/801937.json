@@ -8,14 +8,14 @@
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "Akan",
-      "iso_639_1": "ak",
-      "name": "\u00c1k\u00e1n"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Akan",
+      "iso_639_1": "ak",
+      "name": "\u00c1k\u00e1n"
     }
   ],
   "origin_country": [
