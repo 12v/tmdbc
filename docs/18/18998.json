@@ -14,8 +14,8 @@
     }
   ],
   "origin_country": [
-    "US",
-    "CA"
+    "CA",
+    "US"
   ],
   "genres": [
     {
@@ -23,8 +23,8 @@
       "name": "Action"
     },
     {
-      "id": 12,
-      "name": "Adventure"
+      "id": 27,
+      "name": "Horror"
     },
     {
       "id": 878,
@@ -33,14 +33,6 @@
     {
       "id": 53,
       "name": "Thriller"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
-    },
-    {
-      "id": 14,
-      "name": "Fantasy"
     }
   ]
 }
