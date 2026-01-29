@@ -5,17 +5,17 @@
   "release_date": "2021-08-26",
   "status": "Released",
   "runtime": 104,
-  "original_language": "en",
+  "original_language": "de",
   "spoken_languages": [
-    {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
-    },
     {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
     }
   ],
   "origin_country": [
