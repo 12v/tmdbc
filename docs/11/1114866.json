@@ -1,11 +1,11 @@
 {
   "id": 1114866,
   "title": "Blackbird Blackbird Blackberry",
-  "original_title": "\u10e8\u10d0\u10e8\u10d5\u10d8 \u10e8\u10d0\u10e8\u10d5\u10d8 \u10db\u10d0\u10e7\u10d5\u10d0\u10da\u10d8",
+  "original_title": "Blackbird Blackbird Blackberry",
   "release_date": "2023-10-26",
   "status": "Released",
   "runtime": 112,
-  "original_language": "ka",
+  "original_language": "de",
   "spoken_languages": [
     {
       "english_name": "Georgian",
@@ -14,8 +14,6 @@
     }
   ],
   "origin_country": [
-    "DE",
-    "GE",
     "CH"
   ],
   "genres": [
