@@ -14,21 +14,25 @@
     }
   ],
   "origin_country": [
-    "US",
-    "GB"
+    "GB",
+    "US"
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
     },
     {
       "id": 878,
       "name": "Science Fiction"
     },
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }
