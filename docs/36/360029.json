@@ -8,11 +8,6 @@
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "Indonesian",
-      "iso_639_1": "id",
-      "name": "Bahasa indonesia"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
@@ -23,15 +18,20 @@
       "name": "Qafar af"
     },
     {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
       "english_name": "Korean",
       "iso_639_1": "ko",
       "name": "\ud55c\uad6d\uc5b4/\uc870\uc120\ub9d0"
     }
   ],
   "origin_country": [
+    "GB",
     "CA",
-    "US",
-    "GB"
+    "US"
   ],
   "genres": [
     {
