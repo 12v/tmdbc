@@ -28,10 +28,6 @@
   ],
   "genres": [
     {
-      "id": 28,
-      "name": "Action"
-    },
-    {
       "id": 18,
       "name": "Drama"
     },
