@@ -8,9 +8,9 @@
   "original_language": "fa",
   "spoken_languages": [
     {
-      "english_name": "Turkish",
-      "iso_639_1": "tr",
-      "name": "T\u00fcrk\u00e7e"
+      "english_name": "Azerbaijani",
+      "iso_639_1": "az",
+      "name": "Az\u0259rbaycan"
     },
     {
       "english_name": "Kurdish",
@@ -28,9 +28,9 @@
       "name": "Portugu\u00eas"
     },
     {
-      "english_name": "Azerbaijani",
-      "iso_639_1": "az",
-      "name": "Az\u0259rbaycan"
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "T\u00fcrk\u00e7e"
     }
   ],
   "origin_country": [
