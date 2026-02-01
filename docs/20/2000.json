@@ -8,6 +8,11 @@
   "original_language": "de",
   "spoken_languages": [
     {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
       "english_name": "Spanish",
       "iso_639_1": "es",
       "name": "Espa\u00f1ol"
@@ -16,16 +21,9 @@
       "english_name": "Quechua",
       "iso_639_1": "qu",
       "name": ""
-    },
-    {
-      "english_name": "German",
-      "iso_639_1": "de",
-      "name": "Deutsch"
     }
   ],
   "origin_country": [
-    "MX",
-    "PE",
     "DE"
   ],
   "genres": [
