@@ -8,19 +8,9 @@
   "original_language": "uk",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Chechen",
       "iso_639_1": "ce",
       "name": ""
-    },
-    {
-      "english_name": "Dutch",
-      "iso_639_1": "nl",
-      "name": "Nederlands"
     },
     {
       "english_name": "Russian",
@@ -28,9 +18,19 @@
       "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
     },
     {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
       "english_name": "Ukrainian",
       "iso_639_1": "uk",
       "name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
