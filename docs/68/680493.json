@@ -13,11 +13,6 @@
       "name": "English"
     },
     {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
-    },
-    {
       "english_name": "Polish",
       "iso_639_1": "pl",
       "name": "Polski"
@@ -26,6 +21,11 @@
       "english_name": "Portuguese",
       "iso_639_1": "pt",
       "name": "Portugu\u00eas"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
