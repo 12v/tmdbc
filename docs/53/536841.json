@@ -5,7 +5,7 @@
   "release_date": "2019-06-14",
   "status": "Released",
   "runtime": 130,
-  "original_language": "es",
+  "original_language": "en",
   "spoken_languages": [
     {
       "english_name": "Catalan",
@@ -13,9 +13,9 @@
       "name": "Catal\u00e0"
     },
     {
-      "english_name": "Italian",
-      "iso_639_1": "it",
-      "name": "Italiano"
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     },
     {
       "english_name": "French",
@@ -23,9 +23,9 @@
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
     },
     {
       "english_name": "Portuguese",
@@ -39,8 +39,7 @@
     }
   ],
   "origin_country": [
-    "GB",
-    "ES"
+    "GB"
   ],
   "genres": [
     {
