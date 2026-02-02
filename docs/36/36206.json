@@ -2,11 +2,16 @@
   "id": 36206,
   "title": "Ride the High Country",
   "original_title": "Ride the High Country",
-  "release_date": "1962-06-20",
+  "release_date": "1962-05-09",
   "status": "Released",
   "runtime": 94,
   "original_language": "en",
   "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "\u666e\u901a\u8bdd"
+    },
     {
       "english_name": "English",
       "iso_639_1": "en",
