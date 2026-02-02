@@ -18,7 +18,9 @@
       "name": "Italiano"
     }
   ],
-  "origin_country": [],
+  "origin_country": [
+    "IT"
+  ],
   "genres": [
     {
       "id": 18,
