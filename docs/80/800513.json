@@ -11,6 +11,11 @@
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
     }
   ],
   "origin_country": [
@@ -20,6 +25,18 @@
     {
       "id": 18,
       "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 36,
+      "name": "History"
     }
   ]
 }
