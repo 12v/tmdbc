@@ -18,16 +18,16 @@
   ],
   "genres": [
     {
-      "id": 12,
-      "name": "Adventure"
-    },
-    {
       "id": 28,
       "name": "Action"
     },
     {
       "id": 14,
       "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
     }
   ]
 }
