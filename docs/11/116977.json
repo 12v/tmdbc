@@ -26,20 +26,12 @@
       "name": "Comedy"
     },
     {
-      "id": 28,
-      "name": "Action"
-    },
-    {
       "id": 16,
       "name": "Animation"
     },
     {
       "id": 10751,
       "name": "Family"
-    },
-    {
-      "id": 10752,
-      "name": "War"
     }
   ]
 }
