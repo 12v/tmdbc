@@ -8,14 +8,14 @@
   "original_language": "ta",
   "spoken_languages": [
     {
-      "english_name": "Tamil",
-      "iso_639_1": "ta",
-      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
-    },
-    {
       "english_name": "Telugu",
       "iso_639_1": "te",
       "name": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
     }
   ],
   "origin_country": [
