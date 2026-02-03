@@ -22,8 +22,12 @@
       "name": "Science Fiction"
     },
     {
-      "id": 10402,
-      "name": "Music"
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }

@@ -5,18 +5,8 @@
   "release_date": "2018-03-01",
   "status": "Released",
   "runtime": 115,
-  "original_language": "en",
+  "original_language": "de",
   "spoken_languages": [
-    {
-      "english_name": "Italian",
-      "iso_639_1": "it",
-      "name": "Italiano"
-    },
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
     {
       "english_name": "English",
       "iso_639_1": "en",
@@ -24,7 +14,8 @@
     }
   ],
   "origin_country": [
-    "US"
+    "BE",
+    "DE"
   ],
   "genres": [
     {
