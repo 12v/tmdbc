@@ -18,16 +18,12 @@
   ],
   "genres": [
     {
-      "id": 99,
-      "name": "Documentary"
-    },
-    {
-      "id": 53,
-      "name": "Thriller"
-    },
-    {
       "id": 80,
       "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
     }
   ]
 }
