@@ -2,7 +2,7 @@
   "id": 1116201,
   "title": "Iron Lung",
   "original_title": "Iron Lung",
-  "release_date": "2026-01-30",
+  "release_date": "2026-01-29",
   "status": "Released",
   "runtime": 125,
   "original_language": "en",
@@ -22,12 +22,12 @@
       "name": "Horror"
     },
     {
-      "id": 878,
-      "name": "Science Fiction"
-    },
-    {
       "id": 9648,
       "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
     }
   ]
 }
