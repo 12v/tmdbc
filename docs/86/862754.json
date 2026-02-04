@@ -8,19 +8,14 @@
   "original_language": "es",
   "spoken_languages": [
     {
-      "english_name": "Hungarian",
-      "iso_639_1": "hu",
-      "name": "Magyar"
-    },
-    {
       "english_name": "Spanish",
       "iso_639_1": "es",
       "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
-    "AR",
-    "ES"
+    "ES",
+    "AR"
   ],
   "genres": [
     {

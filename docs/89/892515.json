@@ -28,7 +28,10 @@
       "name": "Espa\u00f1ol"
     }
   ],
-  "origin_country": [],
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
   "genres": [
     {
       "id": 35,
