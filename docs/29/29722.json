@@ -14,21 +14,12 @@
     }
   ],
   "origin_country": [
-    "US",
     "GB"
   ],
   "genres": [
     {
       "id": 18,
       "name": "Drama"
-    },
-    {
-      "id": 28,
-      "name": "Action"
-    },
-    {
-      "id": 53,
-      "name": "Thriller"
     },
     {
       "id": 10749,
