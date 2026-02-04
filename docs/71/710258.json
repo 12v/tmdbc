@@ -20,6 +20,14 @@
     {
       "id": 37,
       "name": "Western"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
     }
   ]
 }
