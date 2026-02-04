@@ -23,8 +23,16 @@
   ],
   "genres": [
     {
+      "id": 28,
+      "name": "Action"
+    },
+    {
       "id": 27,
       "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
     },
     {
       "id": 878,
@@ -33,14 +41,6 @@
     {
       "id": 53,
       "name": "Thriller"
-    },
-    {
-      "id": 28,
-      "name": "Action"
-    },
-    {
-      "id": 9648,
-      "name": "Mystery"
     }
   ]
 }
