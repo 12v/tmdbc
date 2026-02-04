@@ -1,21 +1,21 @@
 {
   "id": 820697,
   "title": "The Five Devils",
-  "original_title": "Les Cinq diables",
+  "original_title": "Les Cinq Diables",
   "release_date": "2022-08-31",
   "status": "Released",
   "runtime": 96,
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
-    },
-    {
       "english_name": "English",
       "iso_639_1": "en",
       "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
     },
     {
       "english_name": "Spanish",
