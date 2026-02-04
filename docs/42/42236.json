@@ -8,29 +8,14 @@
   "original_language": "it",
   "spoken_languages": [
     {
-      "english_name": "Czech",
-      "iso_639_1": "cs",
-      "name": "\u010cesk\u00fd"
-    },
-    {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
-      "english_name": "French",
-      "iso_639_1": "fr",
-      "name": "Fran\u00e7ais"
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
     },
     {
       "english_name": "German",
       "iso_639_1": "de",
       "name": "Deutsch"
-    },
-    {
-      "english_name": "Hungarian",
-      "iso_639_1": "hu",
-      "name": "Magyar"
     },
     {
       "english_name": "Italian",
@@ -41,6 +26,21 @@
       "english_name": "Latin",
       "iso_639_1": "la",
       "name": "Latin"
+    },
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "\u010cesk\u00fd"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Fran\u00e7ais"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
