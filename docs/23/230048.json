@@ -2,15 +2,15 @@
   "id": 230048,
   "title": "Mur Murs",
   "original_title": "Mur murs",
-  "release_date": "1981-09-13",
+  "release_date": "1982-01-20",
   "status": "Released",
   "runtime": 82,
   "original_language": "fr",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     },
     {
       "english_name": "French",
@@ -18,14 +18,14 @@
       "name": "Fran\u00e7ais"
     },
     {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
       "english_name": "Italian",
       "iso_639_1": "it",
       "name": "Italiano"
-    },
-    {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [

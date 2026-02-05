@@ -23,12 +23,12 @@
       "name": "Fantasy"
     },
     {
-      "id": 10751,
-      "name": "Family"
-    },
-    {
       "id": 27,
       "name": "Horror"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
     }
   ]
 }

@@ -8,11 +8,6 @@
   "original_language": "it",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Hungarian",
       "iso_639_1": "hu",
       "name": "Magyar"
@@ -26,6 +21,11 @@
       "english_name": "Swahili",
       "iso_639_1": "sw",
       "name": "Kiswahili"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
