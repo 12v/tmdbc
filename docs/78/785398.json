@@ -1,11 +1,11 @@
 {
   "id": 785398,
   "title": "EO",
-  "original_title": "EO",
+  "original_title": "IO",
   "release_date": "2022-09-30",
   "status": "Released",
   "runtime": 88,
-  "original_language": "en",
+  "original_language": "pl",
   "spoken_languages": [
     {
       "english_name": "English",
@@ -18,9 +18,9 @@
       "name": "Fran\u00e7ais"
     },
     {
-      "english_name": "Spanish",
-      "iso_639_1": "es",
-      "name": "Espa\u00f1ol"
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
     },
     {
       "english_name": "Polish",
@@ -28,9 +28,9 @@
       "name": "Polski"
     },
     {
-      "english_name": "Italian",
-      "iso_639_1": "it",
-      "name": "Italiano"
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Espa\u00f1ol"
     }
   ],
   "origin_country": [
