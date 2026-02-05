@@ -13,6 +13,11 @@
       "name": "English"
     },
     {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "\u00cdslenska"
+    },
+    {
       "english_name": "Spanish",
       "iso_639_1": "es",
       "name": "Espa\u00f1ol"
