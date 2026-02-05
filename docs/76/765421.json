@@ -8,11 +8,6 @@
   "original_language": "ka",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Georgian",
       "iso_639_1": "ka",
       "name": "\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8"
@@ -21,6 +16,11 @@
       "english_name": "Turkish",
       "iso_639_1": "tr",
       "name": "T\u00fcrk\u00e7e"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [

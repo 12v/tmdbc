@@ -8,11 +8,6 @@
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
-    },
-    {
       "english_name": "Gujarati",
       "iso_639_1": "gu",
       "name": ""
@@ -21,6 +16,11 @@
       "english_name": "Swahili",
       "iso_639_1": "sw",
       "name": "Kiswahili"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
     }
   ],
   "origin_country": [
