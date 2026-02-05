@@ -14,17 +14,17 @@
     }
   ],
   "origin_country": [
-    "US",
-    "CA"
+    "CA",
+    "US"
   ],
   "genres": [
     {
-      "id": 35,
-      "name": "Comedy"
-    },
-    {
       "id": 10749,
       "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
     }
   ]
 }
