@@ -23,16 +23,16 @@
   ],
   "genres": [
     {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
       "id": 14,
       "name": "Fantasy"
     },
     {
       "id": 53,
       "name": "Thriller"
-    },
-    {
-      "id": 27,
-      "name": "Horror"
     }
   ]
 }
