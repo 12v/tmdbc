@@ -8,13 +8,13 @@
   "original_language": "en",
   "spoken_languages": [
     {
-      "english_name": "English",
-      "iso_639_1": "en",
-      "name": "English"
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
     }
   ],
   "origin_country": [
-    "GB"
+    "PL"
   ],
   "genres": [
     {
