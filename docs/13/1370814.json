@@ -4,7 +4,7 @@
   "original_title": "The Plague",
   "release_date": "2025-12-24",
   "status": "Released",
-  "runtime": 99,
+  "runtime": 98,
   "original_language": "en",
   "spoken_languages": [
     {
@@ -14,6 +14,9 @@
     }
   ],
   "origin_country": [
+    "AU",
+    "RO",
+    "AE",
     "US"
   ],
   "genres": [

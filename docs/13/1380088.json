@@ -20,6 +20,14 @@
     {
       "id": 27,
       "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
     }
   ]
 }
